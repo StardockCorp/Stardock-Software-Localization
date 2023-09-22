@@ -1,2 +1,2 @@
-# Start11-Localization
-Public effort to improve Start11 language localizations for the product.
+# Stardock-Software-Localization
+A public effort to improve Stardock language localizations for software product catelog.
