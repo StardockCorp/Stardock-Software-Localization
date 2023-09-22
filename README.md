@@ -1,2 +1,2 @@
 # Stardock-Software-Localization
-A public effort to improve Stardock language localizations for software product catelog.
+A public effort to improve Stardock language localizations for software product catalog.
