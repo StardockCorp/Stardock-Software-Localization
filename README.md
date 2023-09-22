@@ -6,3 +6,5 @@ A public effort to improve Stardock language localizations for software product 
 ## Usage
 
 ## Format
+
+## Process
