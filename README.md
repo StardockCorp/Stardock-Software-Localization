@@ -8,3 +8,5 @@ A public effort to improve Stardock language localizations for software product 
 ## Format
 
 ## Process
+
+## Review
