@@ -17,6 +17,10 @@ In this example, we will:
  - Creating a fork \ branch to edit it under your credentials
  - Creating a 'pull request' to have it reviewed and included in the main repository
 
+Click on the DeskScapes\DeskScapes 11 folder
+![enter image description here](https://cdn.stardock.us/support/uploads/ObjectDesktopManager_2023-09-28_15-20-29sdrohan.png)
+Click the pencil 
+
 
 ## Format
 
