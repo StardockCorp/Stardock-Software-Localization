@@ -83,6 +83,8 @@ Spanish (es) file example:
 
 > "Which theme do you want to use?"="¿Qué tema quieres usar?"
 
+The ; (semi-colon) is used for commenting in the file and anything following it will not be read by the app
+
 ### Testing Language Files
 After you have edited a language file, you should download it from your fork and put it in the app folder so it can seen to fit in the UI.
 
@@ -100,5 +102,4 @@ C:\Program Files (x86)\Stardock\Groupy2\lang
 
  - Fences
  
- TBD
-
+ Coming soon
