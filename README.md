@@ -6,7 +6,7 @@
  - [Editing and Submitting Languages](#editing-and-submitting-languages)
 	 - [Creating a GitHub account](#creating-a-github-account)
 	 - [Editing a language file](#editing-a-language-file)
-- [Language File Format](#language-file-format)
+- [Language File Format and Testing](#Language-File-Format-and-Testing)
 
 ## Mission
 A public effort to improve Stardock language localizations for software product catalog.
