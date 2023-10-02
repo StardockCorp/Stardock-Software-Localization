@@ -62,4 +62,42 @@ Once complete, we are notified here. Once reviewed, we will communicate with you
 
 If accepted, you will be credited in the changelog for any application release. 
 
-## Language File Format
+## Language File Format and Testing
+### App group A
+
+ - Start11
+ - Groupy
+ - DeskScapes
+ - Multiplicity
+
+#### Group A File format
+The only section that should be edited is under the [Strings] block and leaving the 'Exists=1' to start it.
+>[Strings]
+>Exist = 1
+
+English (en) file example:
+
+> "Which theme do you want to use?"="Which theme do you want to use?"
+
+Spanish (es) file example:
+
+> "Which theme do you want to use?"="¿Qué tema quieres usar?"
+
+### Testing Language Files
+After you have edited a language file, you should download it from your fork and put it in the app folder so it can seen to fit in the UI.
+
+For example, this would be an example of a translation that would be rejected as the translated text exceeds the UI's space for it.
+![enter image description here](https://cdn.stardock.us/support/uploads/msedge_2023-10-02_16-04-45.png)
+
+Language files for Group A products are stored in:
+C:\Program Files (x86)\Stardock\[appName]\lang
+
+For example, Groupy's language files are located in:
+C:\Program Files (x86)\Stardock\Groupy2\lang
+
+### App group B
+
+ - Fences
+ 
+ TBD
+
