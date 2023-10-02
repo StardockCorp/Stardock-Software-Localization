@@ -2,6 +2,8 @@
 # Stardock-Software-Localization
 
 [Mission](#Mission)
+[Supported Languages](#Supported Laguages)
+[Editing and Submitting Languages](#Editing and Submitting Languages)
 
 ## Mission
 A public effort to improve Stardock language localizations for software product catalog.
