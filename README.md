@@ -1,10 +1,25 @@
 ![enter image description here](https://www.stardock.com/press/stardock%20branding/images/software/logo_strsof_fullcolor_full.png)
 # Stardock-Software-Localization
 
+[Mission](main/README.md#Mission)
+
 ## Mission
 A public effort to improve Stardock language localizations for software product catalog.
 
-## Usage
+## Supported Languages
+Stardock Software officially supports and maintains the following languages:
+-   German
+-   Spanish
+-   French
+-   Korean
+-   Russian
+-   Portuguese - Brazil
+-   Chinese (Simplified)
+-   Chinese (Traditional)
+- 
+We will accept any other user-created languages, and include them in the products, but we will not officially maintain them.  Any updates for the non-supported languages will have to come from the community via this project.
+
+## Editing and Submitting Languages
 Anyone familiar with how GitHub works knows how to use the common tools for forking a repository, making edits, and submitting pull requests for us to include them in the main. For anyone with this knowledge, they can skip to the [Format](README.md#format) section to see how the language files are structured for each product. 
 
 The following directions are more for the laymen who wants to contribute but does not want the complication of installing related software.
