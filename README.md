@@ -5,7 +5,7 @@
  - [Supported Languages](#supported-languages)
  - [Editing and Submitting Languages](#editing-and-submitting-languages)
 	 - [Creating a GitHub account](#creating-a-github-account)
-	 - [Editing a language file](editing-a-language-file)
+	 - [Editing a language file](#editing-a-language-file)
 - [Language File Format](#language-file-format)
 
 ## Mission
