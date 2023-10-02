@@ -21,7 +21,7 @@ Stardock Software officially supports and maintains the following languages:
 -   Portuguese - Brazil
 -   Chinese (Simplified)
 -   Chinese (Traditional)
-- 
+ 
 We will accept any other user-created languages, and include them in the products, but we will not officially maintain them.  Any updates for the non-supported languages will have to come from the community via this project.
 
 ## Editing and Submitting Languages
