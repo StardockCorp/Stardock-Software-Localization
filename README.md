@@ -86,7 +86,7 @@ Spanish (es) file example:
 ### Testing Language Files
 After you have edited a language file, you should download it from your fork and put it in the app folder so it can seen to fit in the UI.
 
-For example, this would be an example of a translation that would be rejected as the translated text exceeds the UI's space for it.
+For example, this would be a translation that would be rejected as the translated text exceeds the UI's space for it.
 ![enter image description here](https://cdn.stardock.us/support/uploads/msedge_2023-10-02_16-04-45.png)
 
 Language files for Group A products are stored in:
