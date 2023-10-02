@@ -1,7 +1,7 @@
 ![enter image description here](https://www.stardock.com/press/stardock%20branding/images/software/logo_strsof_fullcolor_full.png)
 # Stardock-Software-Localization
 
-[Mission](README.md#Mission)
+[Mission](#Mission)
 
 ## Mission
 A public effort to improve Stardock language localizations for software product catalog.
