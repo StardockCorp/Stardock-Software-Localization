@@ -58,9 +58,7 @@ After you have edited one or more files, create a 'Pull request' (you are asking
 As you did for the individual files, you can write more details about any changes you made
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-36-21sdrohan.png)
 
-Once complete, we are notified here. Once reviewed, we will communicate with you (via GitHub and its email notification system) if we have any questions and either accept or deny the pull. 
-
-If accepted, you will be credited in the changelog for any application release. 
+When complete, we are automatically notified. Once reviewed, we will communicate with you (via GitHub and its email notification system) if we have any questions and either accept or deny the pull. If accepted, you will be credited in the changelog for any application release. 
 
 ## Language File Format and Testing
 ### App group A
