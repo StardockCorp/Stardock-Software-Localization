@@ -1,8 +1,12 @@
 ![enter image description here](https://www.stardock.com/press/stardock%20branding/images/software/logo_strsof_fullcolor_full.png)
 # Stardock-Software-Localization
 
-[Mission](#mission)
-[Supported Languages](#supported-languages)
+ - [Mission](#mission)
+ - [Supported Languages](#supported-languages)
+ - [Editing and Submitting Languages](#editing-and-submitting-languages)
+	 - [Creating a GitHub account](#creating-a-github-account)
+	 - [Editing a language file](editing-a-language-file)
+- [Language File Format](#language-file-format)
 
 ## Mission
 A public effort to improve Stardock language localizations for software product catalog.
@@ -29,7 +33,7 @@ The one thing you will need is a free [GitHub acount](https://github.com/join).
 
 ### Editing a language file
 In this example, we will:
- - Initiate editing an exsiting DeskScapes language file
+ - Initiate editing an existing DeskScapes language file
  - Creating a fork \ branch to edit it under your credentials
  - Creating a 'pull request' to have it reviewed and included in the main repository
 
@@ -39,10 +43,10 @@ Click on the DeskScapes\DeskScapes 11 folder
 Click the pencil 
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-24-45sdrohan.png)
 
-You will be notifed that to edit the file, it needs to be 'forked' to contine.  Forking any file is just an act to create a copy under your own account.
+You will be notified that to edit the file, it needs to be 'forked' to continue.  Forking any file is just an act to create a copy under your own account.
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-28-54sdrohan.png)
 
-You can now freely edit the the file under your own forked copy.  Once done, click the green 'commit changes' button
+You can now freely edit the file under your own forked copy.  Once done, click the green 'commit changes' button
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-30-20sdrohan.png)
 
 In the commit popup, add some details about what you changed and why (poorly phrased, inaccurate word choices, etc). Click 'propose changes' once done:
@@ -51,15 +55,11 @@ In the commit popup, add some details about what you changed and why (poorly phr
 After you have edited one or more files, create a 'Pull request' (you are asking us to 'pull' your changes from your fork with this act)
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-34-18sdrohan.png)
 
-Like you did for the individual files, you can write more details about any changed you made
+As you did for the individual files, you can write more details about any changes you made
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-36-21sdrohan.png)
 
-Once complete, we are notified here. Once reviewed, we will communicate withy you (via GitHub and its email notify system) if we have any questions and either accept or deny the pull. 
+Once complete, we are notified here. Once reviewed, we will communicate with you (via GitHub and its email notification system) if we have any questions and either accept or deny the pull. 
 
 If accepted, you will be credited in the changelog for any application release. 
 
-## Format
-
-## Process
-
-## Review
+## Language File Format
