@@ -2,7 +2,7 @@
 # Stardock-Software-Localization
 
 [Mission](#Mission)
-[Supported Languages](#SupportedLaguages)
+[Supported Languages](#Supported)
 [Editing and Submitting Languages](#EditingandSubmittingLanguages)
 
 ## Mission
