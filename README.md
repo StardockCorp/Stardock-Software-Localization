@@ -25,7 +25,7 @@ Stardock Software officially supports and maintains the following languages:
 We will accept any other user-created languages, and include them in the products, but we will not officially maintain them.  Any updates for the non-supported languages will have to come from the community via this project.
 
 ## Editing and Submitting Languages
-Anyone familiar with how GitHub works knows how to use the common tools for forking a repository, making edits, and submitting pull requests for us to include them in the main. Anyone with this knowledge can skip to the [Editing and Submitting Languages](editing-and-submitting-languages) section to see how the language files are structured for each product. 
+Anyone familiar with how GitHub works knows how to use the common tools for forking a repository, making edits, and submitting pull requests for us to include them in the main. Anyone with this knowledge can skip to the [Editing and Submitting Languages](#editing-and-submitting-languages) section to see how the language files are structured for each product. 
 
 The following directions are more for the laymen who want to contribute but do not want the complication of installing related software.
 ### Creating a GitHub account
