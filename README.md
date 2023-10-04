@@ -49,7 +49,12 @@ You will be notified that to edit the file, it needs to be 'forked' to continue.
 You can now freely edit the file under your own forked copy.  Once done, click the green 'commit changes' button
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-30-20sdrohan.png)
 
-In the commit popup, add some details about what you changed and why (poorly phrased, inaccurate word choices, etc.). Click 'propose changes' once done:
+### Adding a language file
+The en (English) file can be used as a template for all new language files.  Open it, copy all the text, and use the 'Add file' option to create a new file in your fork, pasting in the English text for editing. 
+![Add file](https://cdn.stardock.us/support/uploads/msedge_2023-10-04_11-12-09.png)
+
+### Commiting a new or edited language file
+In the commit popup, add some details about what you added or changed and why (poorly phrased, inaccurate word choices, etc.). Click 'propose changes' once done:
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-32-02sdrohan.png)
 
 After you have edited one or more files, create a 'Pull request' (you are asking us to 'pull' your changes from your fork with this act)
