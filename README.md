@@ -9,7 +9,7 @@
 - [Language File Format and Testing](#Language-File-Format-and-Testing)
 
 ## Mission
-A public effort to improve Stardock language localizations for software product catalog.
+A public effort to improve language localizations for the Stardock software product catalog.
 
 ## Supported Languages
 Stardock Software officially supports and maintains the following languages:
@@ -25,13 +25,13 @@ Stardock Software officially supports and maintains the following languages:
 We will accept any other user-created languages, and include them in the products, but we will not officially maintain them.  Any updates for the non-supported languages will have to come from the community via this project.
 
 ## Editing and Submitting Languages
-Anyone familiar with how GitHub works knows how to use the common tools for forking a repository, making edits, and submitting pull requests for us to include them in the main. Anyone with this knowledge can skip to the [Editing and Submitting Languages](#editing-and-submitting-languages) section to see how the language files are structured for each product. 
+GitHub is the primary tool that Stardock uses to maintain our translations as it allows for streamlined contribution with a platform that is popular with many in our community. If you are familiar with this platform, you can skip to the [Language File Format and Testing](#language-file-format-and-testing) section to see how the language files are structured for each product, otherwise, onboarding directions are below.
 
 The following directions are more for the laymen who want to contribute but do not want the complication of installing related software.
 ### Creating a GitHub account
-The one thing you will need is a free [GitHub acount](https://github.com/join). 
+The one thing you will need is a free [GitHub account](https://github.com/join). 
 
-### Editing a language file
+### Editing a current language file
 In this example, we will:
  - Initiate editing an existing DeskScapes language file
  - Creating a fork \ branch to edit it under your credentials
@@ -49,7 +49,12 @@ You will be notified that to edit the file, it needs to be 'forked' to continue.
 You can now freely edit the file under your own forked copy.  Once done, click the green 'commit changes' button
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-30-20sdrohan.png)
 
-In the commit popup, add some details about what you changed and why (poorly phrased, inaccurate word choices, etc.). Click 'propose changes' once done:
+### Adding a new language file
+The en (English) file can be used as a template for all new language files.  Open it, copy all the text, and use the 'Add file' option to create a new file in your fork, pasting in the English text for editing. 
+![Add file](https://cdn.stardock.us/support/uploads/msedge_2023-10-04_11-12-09.png)
+
+### Commiting a new or edited language file
+In the commit popup, add some details about what you added or changed and why (poorly phrased, inaccurate word choices, etc.). Click 'propose changes' once done:
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-32-02sdrohan.png)
 
 After you have edited one or more files, create a 'Pull request' (you are asking us to 'pull' your changes from your fork with this act)
