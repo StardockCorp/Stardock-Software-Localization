@@ -460,8 +460,6 @@ Exist=1
 "Texture alignment"="Alignement de la texture"
 "Pin to Start (Start11)"="Épingler au menu Démarrer (Start11)"
 "Pin to Start (Start10)"="Épingler au menu Démarrer (Start11)"
-
-;/// 
 "Left"="Gauche"
 "Right"="Droite"
 "Show clock on all taskbars"="Afficher l'horloge sur toutes les barres des tâches"
@@ -531,8 +529,6 @@ Exist=1
 " Type here to search"=" Tapez ici pour effectuer une recherche"
 " Search programs and files"=" Cherchez programmes et fichiers"
 
-
-
 ;"Reset"="Réinitialiser"
 "Reset"="Réinit."
 "Pick texture colour..."="Choisir la couleur de texture..."
@@ -547,9 +543,7 @@ Exist=1
 "Hide search box unless searching"="Masquer la zone de recherche inactive"
 "Recent documents"="Documents rédents"
 
-
 ;----- 1.01
-
 "Do not offset the menu horizontally to ensure it lines up with the start button"="Conserver l'alignement horizontal du menu avec le boutton Démarrer"
 "Load up custom static tile images (Experimental)"="Chargement d'images de mosaïque statiques personnalisées (Expérimental)"
 "Load up custom static tile images"="Chargement d'images de mosaïque statiques personnalisées"
@@ -558,9 +552,7 @@ Exist=1
 "Use a more faded background for tiles"="Utiliser un fond  plus atténué pour les mosaïques"
 "Hide folders from recent documents list"="Masquer les dossiers de la liste des documents récents"
 
-
 ; 1.2 language updates
-
 "Sign-in options"="Options de connexion"
 "Change account settings"="Changer les paramètres du compte"
 "Refresh icons"="Actualiser les icônes"
@@ -580,7 +572,6 @@ Exist=1
 "Delete group"="Supprimer le groupe"
 "Delete page"="Supprimer la page"
 "Lock all taskbars"="Verrouiller tous les barres des tâches"
-
 "Substyle :"="Sous-style :"
 "This menu style has no substyles.  Change options for it using the link below."="Ce style de menu n'a pas de sous-styles. Changer ses options avec le lien ci-dessous."
 "Default to the applications view (sign out / restart)"="Default to the applications view (sign out / restart)"
@@ -677,12 +668,13 @@ Exist=1
 "Be aware this feature requires an explorer restart and enhanced taskbar enabled"="Nécessite un redémarrage de l'explorateur et une barre des tâches améliorée activée."
 
 ;1.42
-"Larger start buttons will be shrunk to fit on this version of Windows"="Les grands boutons de démarrage seront rétrécis pour s'adapter à cette version de Windows."
 "You need to enable Let Start11 enhance the taskbar to enable sizes other than medium on this version of Windows and to not have an autohide taskbar"="Vous devez activer Laissez Start11 améliorer la barre des tâches pour activer des tailles autres que moyennes sur cette version de Windows et pour ne pas avoir une barre des tâches masquée automatiquement"
 "Enhanced taskbar mode must be enabled"="Le mode barre des tâches amélioré doit être activé"
 "You need to disable autohide taskbar on this version of Windows to resize the taskbar"="Vous devez désactiver la barre des tâches masquée automatiquement sur cette version de Windows pour redimensionner la barre des tâches"
 "Autohide not supported"="Masquage automatique non pris en charge"
 "Small with wide icon spacing"="Petit avec un large espacement des icônes"
+"Larger start buttons will be shrunk to fit on this version of Windows"="Les grands boutons de démarrage seront rétrécis pour s'adapter à cette version de Windows."
+"Centre aligned (** Experimental - Maximum of two monitors supported **)"="Aligné au centre (** Expérimental - Prise en charge de deux moniteurs au maximum **)"
 
 ;2.0 Beta 1.02
 "< Access denied >"="< Accès refusé >"
