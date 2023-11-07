@@ -187,8 +187,6 @@ Exist=1
 
 ;"Restart explorer"="Redémarrer l'explorateur"
 "Restart explorer"="Redémarrer Exp."
-
-
 "Tile texture"="Texture des mosaïques"
 "Use automatic colour for the taskbar"="Utiliser la couleur automatique de la barre des tâches"
 "No texture"="Aucune texture"
@@ -541,7 +539,7 @@ Exist=1
 "Hide search box unless searching"="Masquer la zone de recherche inactive"
 "Recent documents"="Documents rédents"
 
-;----- 1.01
+; 1.01
 "Do not offset the menu horizontally to ensure it lines up with the start button"="Conserver l'alignement horizontal du menu avec le boutton Démarrer"
 "Load up custom static tile images (Experimental)"="Chargement d'images de mosaïque statiques personnalisées (Expérimental)"
 "Load up custom static tile images"="Chargement d'images de mosaïque statiques personnalisées"
@@ -933,9 +931,11 @@ Exist=1
 "Force not touch mode device"="Forcer le mode non tactile"
 "Force touch mode device"="Forcer le mode tactile"
 
-;2.0 Beta 1.05
+;2.0 Beta 2.05
+"Do nothing"="Ne rien faire"
+"Menu background transparency level"="Niveau de transparence du fond du menu"
 "Taskbar blur, transparency, colour, and rounded corners"="Flou, transparence, couleur et coins arrondis de la barre des tâches"
-;TRANSLATION DON'T WORK "Rounded corners can be adjusted using the settings below"="L'arrondi des coins peut être ajusté à l'aide des paramètres ci-dessous"
+;TRANSLATION DONT WORK "Rounded corners can be adjusted using the settings below"="L'arrondi des coins peut être ajusté à l'aide des paramètres ci-dessous"
 "Advanced rounded taskbar settings"="Paramètres avancés de l'arrondi de la barre des tâches"
 "These settings require you to enable the option to give the taskbar rounded corners in the section above"="Ces paramètres requièrent l'activation des coins arrondis de la barre des tâches dans la section ci-dessus"
 "Taskbar button vertical alignment :"="Alignement vertical des boutons :"
