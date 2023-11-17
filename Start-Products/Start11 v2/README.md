@@ -17,6 +17,7 @@ It goes without saying that the top half, which has been reviewed many times by 
 
 ## Lauguages
 The Stardock officially supported languages are:
+-   English (en) 
 -   German (de)
 -   Spanish (sp)
 -   French (fr)
