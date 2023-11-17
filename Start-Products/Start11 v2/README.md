@@ -2,7 +2,7 @@
 
 # Start11 v2 Language Localizations
 ## File Format
-For details on how the files are formated, please see:
+For details on how the files are formatted, please see:
 https://github.com/StardockCorp/Stardock-Software-Localization#language-file-format-and-testing
 
 As noted there, the en.lng file is the root of all others.  It is currently formatted where all Start11 v1 strings are at the top half of the file and the version 2 strings below the
