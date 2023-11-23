@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
 "POT-Creation-Date: 2023-11-22 00:10-08:00\n"
-"PO-Revision-Date: 2023-11-22 00:10-08:00\n"
+"PO-Revision-Date: 2023-11-22 22:01-0800\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ja_JP\n"
@@ -39,13 +39,17 @@ msgstr "お薦めです。"
 msgid "About"
 msgstr "について"
 
+#, fuzzy
 msgid ""
 "Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
 "\n"
 msgstr ""
+"携帯電話のように、画面の端をつかんで引っ張ることで、複数のアイコンの画面にアクセスできます。コンピュータ・ライフのさまざまな部分を分けて管理するためにお使いください。\n"
+"\n"
 
+#, fuzzy
 msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
-msgstr ""
+msgstr "完全にカスタマイズ可能なライブビューで、デスクトップから直接フォルダの内容にアクセスできます。"
 
 msgid "Activate"
 msgstr "アクティベート"
@@ -56,8 +60,9 @@ msgstr "企業ライセンスを有効にする"
 msgid "Activation successful."
 msgstr "アクティベーション成功。"
 
+#, fuzzy
 msgid "Add \"Show Fences\" icon to my taskbar"
-msgstr ""
+msgstr "タスクバーに「Fencesを表示」アイコンを追加"
 
 msgid "Add / Remove"
 msgstr "追加/削除"
@@ -98,11 +103,13 @@ msgstr "個々のFenceの透明度を調節してください。"
 msgid "Adjust the transparency of desktop icons"
 msgstr "デスクトップアイコンの透過度を調節してください"
 
+#, fuzzy
 msgid "Adjust title font color"
-msgstr ""
+msgstr "タイトルの文字色を調整する"
 
+#, fuzzy
 msgid "Adjust title text font/color"
-msgstr ""
+msgstr "タイトルテキストのフォント/カラーを調整する"
 
 msgid "after"
 msgstr "後"
@@ -125,8 +132,9 @@ msgstr "アイコンをグリッドに揃える"
 msgid "All Fence groups"
 msgstr "すべてFences"
 
+#, fuzzy
 msgid "All groups"
-msgstr ""
+msgstr "すべてのグループ"
 
 msgid "All new icons"
 msgstr "すべての新しいアイコン"
@@ -210,8 +218,9 @@ msgstr "この規則を削除してもよろしいですか？"
 msgid "Are you sure you want to reset the appearance of all Fence groups?"
 msgstr "Fencesをすべてリセットすることを本当に望みますか？"
 
+#, fuzzy
 msgid "Are you sure you want to reset this group's custom color?"
-msgstr ""
+msgstr "このグループのカスタムカラーをリセットしてもよろしいですか？"
 
 msgid "Are you sure you want to reset this rule back to its default criteria?"
 msgstr "この規則をデフォルトの条件にリセットしてもよろしいですか？"
@@ -254,8 +263,9 @@ msgstr "デスクトップを使用中に自動的にアイコンを表示する
 msgid "Automatically show icons when drag/dropping to the desktop"
 msgstr "デスクトップにドラッグ＆ドロップすると自動的にアイコンを表示する"
 
+#, fuzzy
 msgid "Automatically sort icons into groups based on their name, file type, or other criteria."
-msgstr ""
+msgstr "アイコンの名前、ファイルタイプ、その他の条件に基づいて、アイコンを自動的にグループにソートします。"
 
 msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
 msgstr "自動的に毎日のバックアップスナップショットを取得します（最新3日間は保持されます）。"
@@ -263,17 +273,20 @@ msgstr "自動的に毎日のバックアップスナップショットを取得
 msgid "Available rules:"
 msgstr "利用可能なルール:"
 
+#, fuzzy
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
-msgstr ""
+msgstr "0]でコンフィグファイルのパスが指定されるか、{1}でコンフィグが適用されるのを待つ。"
 
+#, fuzzy
 msgid "Awaiting license file in {0}"
-msgstr ""
+msgstr "0]でライセンスファイルを待機中"
 
 msgid "Background Color"
 msgstr "背景色"
 
+#, fuzzy
 msgid "Background Style"
-msgstr ""
+msgstr "背景のスタイル"
 
 msgid "Basic options"
 msgstr "基本オプション"
@@ -291,35 +304,45 @@ msgstr ""
 msgid "between"
 msgstr "間"
 
+#, fuzzy
 msgid "Blend"
-msgstr ""
+msgstr "ブレンド"
 
+#, fuzzy
 msgid "Blend background into wallpaper with Chameleon"
-msgstr ""
+msgstr "Chameleon を使用して背景を壁紙にブレンドします"
 
+#, fuzzy
 msgid "Blend icons into wallpaper"
-msgstr ""
+msgstr "アイコンを壁紙に溶け込ませる"
 
+#, fuzzy
 msgid "Blend icons into wallpaper with Chameleon"
-msgstr ""
+msgstr "Chameleon™ を使用してアイコンを壁紙にブレンドします"
 
+#, fuzzy
 msgid "Blend into wallpaper with Chameleon"
-msgstr ""
+msgstr "Chameleon で壁紙に溶け込む"
 
+#, fuzzy
 msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
-msgstr ""
+msgstr "アイコンを壁紙に溶け込ませて、新しい安心感をお楽しみください。"
 
+#, fuzzy
 msgid "Blue Fence area backgrounds"
-msgstr ""
+msgstr "ブルー・Fences・エリアの背景"
 
+#, fuzzy
 msgid "Blur background"
-msgstr ""
+msgstr "背景をぼかす"
 
+#, fuzzy
 msgid "Blur group area background"
-msgstr ""
+msgstr "グループエリアの背景をぼかす"
 
+#, fuzzy
 msgid "Brightness:"
-msgstr ""
+msgstr "明るさ"
 
 msgid "By creating program..."
 msgstr "プログラムを作成することによって..."
@@ -443,8 +466,9 @@ msgstr "Fence の edge または titlebar をクリックしてドラッグす�
 msgid "Close"
 msgstr "閉じる"
 
+#, fuzzy
 msgid "Color customization is unavailable with Chameleon"
-msgstr ""
+msgstr "Chameleon では色のカスタマイズは利用できません"
 
 msgid "Color intensity:"
 msgstr "色の濃度："
@@ -458,14 +482,16 @@ msgstr "互換性の問題が見つかりました..."
 msgid "Compressed file"
 msgstr "圧縮ファイル"
 
+#, fuzzy
 msgid "Config Import / Export"
-msgstr ""
+msgstr "設定のインポート/エクスポート"
 
 msgid "Configure Fences"
 msgstr "Fencesを設定する"
 
+#, fuzzy
 msgid "Configure Fences..."
-msgstr ""
+msgstr "Fences の構成"
 
 msgid "contains"
 msgstr "含む"
@@ -476,11 +502,13 @@ msgstr "コントロール"
 msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
 msgstr "Fenceから任意のフォルダに簡単にアクセスできます。表示スタイルは自由に選択できます。"
 
+#, fuzzy
 msgid "Copy color"
-msgstr ""
+msgstr "コピーカラー"
 
+#, fuzzy
 msgid "Copy Fence color"
-msgstr ""
+msgstr "コピーFences・カラー"
 
 msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "コピーライト© {0}-{1} {2} のすべての権利は保護されています。"
@@ -538,14 +566,16 @@ msgstr "カスタマイズエクストラ"
 msgid "Customize"
 msgstr "カスタマイズ"
 
+#, fuzzy
 msgid "Customize icon"
-msgstr ""
+msgstr "アイコンのカスタマイズ"
 
 msgid "Customize your Fence groups"
 msgstr "カスタマイズあなたのFences"
 
+#, fuzzy
 msgid "Customize your Fence groups' background color & style."
-msgstr ""
+msgstr "Fencesグループの背景色とスタイルをカスタマイズできます。"
 
 msgid "Customize..."
 msgstr "カスタマイズ..."
@@ -559,8 +589,9 @@ msgstr "日常の一枚"
 msgid "Darken Fence area title bars"
 msgstr "タイトルバーのFenceエリアを暗くする"
 
+#, fuzzy
 msgid "Darken titlebar areas"
-msgstr ""
+msgstr "タイトルバー領域を暗くする"
 
 msgid "Date added to Fence"
 msgstr "追加された日付: Fence"
@@ -590,7 +621,7 @@ msgid "Description:"
 msgstr "説明:"
 
 msgid "Designed and developed by {0}."
-msgstr "Fences によって設計および開発されました。"
+msgstr "デザイン・開発は{0}。"
 
 msgid "Desktop Files"
 msgstr "デスクトップファイル"
@@ -637,8 +668,9 @@ msgstr "シフトキーを押し続けることで、いつでもスナッピン
 msgid "Disabled"
 msgstr "障害者"
 
+#, fuzzy
 msgid "Do nothing"
-msgstr ""
+msgstr "何もしない"
 
 msgid "Do you want to remove all of your Fences settings and saved backups?"
 msgstr "Fenceの設定と保存されたバックアップをすべて削除しますか？"
@@ -693,26 +725,33 @@ msgstr "デスクトップに長方形を描き、「Fenceを作成」を選択�
 msgid "Edit a Rule"
 msgstr "編集規則"
 
+#, fuzzy
 msgid "Edit background color"
-msgstr ""
+msgstr "背景色の編集"
 
+#, fuzzy
 msgid "Edit Background Color"
-msgstr ""
+msgstr "背景色の編集"
 
+#, fuzzy
 msgid "Edit color..."
-msgstr ""
+msgstr "色を編集する"
 
+#, fuzzy
 msgid "Edit Fence color..."
-msgstr ""
+msgstr "Fencesの色を編集する"
 
+#, fuzzy
 msgid "Edit Fence Style"
-msgstr ""
+msgstr "Fencesスタイルの編集"
 
+#, fuzzy
 msgid "Edit title font"
-msgstr ""
+msgstr "タイトルフォントの編集"
 
+#, fuzzy
 msgid "Edit title font color"
-msgstr ""
+msgstr "タイトルの文字色を編集する"
 
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
 msgstr "アイコンをフリックできるようにするFences（タッチ対応システム用）"
@@ -720,17 +759,20 @@ msgstr "アイコンをフリックできるようにするFences（タッチ対
 msgid "Enable advanced crash reporting"
 msgstr "高度なクラッシュレポートを有効にする"
 
+#, fuzzy
 msgid "Enable Chameleon"
-msgstr ""
+msgstr "Chameleon を有効にする"
 
+#, fuzzy
 msgid "Enable crash reporting"
-msgstr ""
+msgstr "クラッシュレポートの有効化"
 
 msgid "Enable Fences"
 msgstr "'Fencesを有効にする'"
 
+#, fuzzy
 msgid "Enable Pages"
-msgstr ""
+msgstr "ページを有効にする"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "個々のFences内でソートを有効にする(名前、タイプ、サイズなど)"
@@ -744,17 +786,20 @@ msgstr "終わり"
 msgid "Enter title"
 msgstr "タイトルを入力してください。"
 
+#, fuzzy
 msgid "Enterprise Distribution Testing Tools"
-msgstr ""
+msgstr "企業向け配布テストツール"
 
+#, fuzzy
 msgid "Enterprise Edition"
-msgstr ""
+msgstr "エンタープライズ・エディション"
 
 msgid "Exclude Fence groups docked to edge of the screen"
 msgstr "スクリーンの端にドッキングしたFencesを除外してください。"
 
+#, fuzzy
 msgid "Exclude from quick-hide"
-msgstr ""
+msgstr "クイック非表示から除外する"
 
 msgid "Exclude this Fence group from quick-hide"
 msgstr "これをクイック隠しから除外してください。"
@@ -768,8 +813,9 @@ msgstr "実行可能ファイル"
 msgid "Exit"
 msgstr "出口"
 
+#, fuzzy
 msgid "Export Config to File"
-msgstr ""
+msgstr "設定をファイルにエクスポート"
 
 msgid "Extra large icons"
 msgstr "特大のアイコン"
@@ -834,6 +880,7 @@ msgstr ""
 "'Fences'フォルダのポータル機能はクラシックモードでは利用できません。\n"
 "Aeroを有効にしてください。"
 
+#, fuzzy
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
 "As a precaution, Fences has been temporarily disabled.\n"
@@ -841,6 +888,11 @@ msgid ""
 "To re-enable Fences, open Fences' Settings and choose\n"
 "\"Enable Fences\"."
 msgstr ""
+"Fencesはエクスプローラーが正しく閉じられていないことを検出しました。\n"
+"予防措置として、Fencesは一時的に無効になっています。\n"
+"\n"
+"Fencesを再度有効にするには、Fencesの設定を開き、「Fencesを有効にする」を選択してください。\n"
+"「Fencesを有効にする」を選択します。"
 
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
@@ -884,8 +936,9 @@ msgstr ""
 msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"Tools\", press the link for \"More Tools...\", and uncheck \"Enable Fences\" then reboot."
 msgstr "FencesはWindows XP上でDeskScapesに互換性がありません。「ツール」を選択し、「さらにツールを表示...」のリンクを押して、「Fencesを有効にする」のチェックを外してください。その後、再起動してください。"
 
+#, fuzzy
 msgid "Fences is not yet loaded."
-msgstr ""
+msgstr "Fencesはまだロードされていない。"
 
 msgid ""
 "Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
@@ -940,8 +993,9 @@ msgstr "'Fences: 互換性の問題が見つかりました...'"
 msgid "Fences: Turn off sorting?"
 msgstr "'Fences: ソートをオフにしますか?'"
 
+#, fuzzy
 msgid "Fence™ is a Trademark of {0}."
-msgstr ""
+msgstr "Fence™は{0}の商標です。"
 
 msgid "File"
 msgstr "ファイル"
@@ -1021,8 +1075,9 @@ msgstr "プログラムのリンクを隠す"
 msgid "Hide for web links"
 msgstr "ウェブリンクを隠す"
 
+#, fuzzy
 msgid "Hide scrollbars when inactive"
-msgstr ""
+msgstr "非アクティブ時にスクロールバーを隠す"
 
 msgid "Hide shortcut arrows from links, fade your Fence groups until mouseovered, and upgrade the look of your scrollbars with Fences' new custom-skinned scrollbars."
 msgstr "リンクのショートカット矢印を非表示にし、マウスオーバーされるまでFencesをフェードさせ、Fencesの新しいカスタムスキンのスクロールバーでスクロールバーの外観をアップグレードします。"
@@ -1078,8 +1133,9 @@ msgstr "Folder Portalを削除する方法"
 msgid "How to use"
 msgstr "使い方"
 
+#, fuzzy
 msgid "How to use desktop pages"
-msgstr ""
+msgstr "デスクトップ・ページの使い方"
 
 msgid "How to use with a keyboard"
 msgstr "キーボードとの使い方"
@@ -1090,17 +1146,20 @@ msgstr "マウスの使い方"
 msgid "How to use with a touch-enabled system"
 msgstr "タッチシステムでの使用方法"
 
+#, fuzzy
 msgid "Hue:"
-msgstr ""
+msgstr "色合いだ："
 
 msgid "icon"
 msgstr "アイコン"
 
+#, fuzzy
 msgid "Icon opacity"
-msgstr ""
+msgstr "アイコンの不透明度"
 
+#, fuzzy
 msgid "Icon Opacity"
-msgstr ""
+msgstr "アイコンの不透明度"
 
 msgid "Icon transparency && fading Fence groups"
 msgstr "アイコンの透過 && 減衰 Fences"
@@ -1186,8 +1245,9 @@ msgstr "イメージ"
 msgid "Immediately"
 msgstr "すぐに"
 
+#, fuzzy
 msgid "Import Config from File"
-msgstr ""
+msgstr "ファイルからのインポート"
 
 msgid "Installation complete!"
 msgstr "インストール完了！"
@@ -1228,8 +1288,9 @@ msgstr "キオスクモード"
 msgid "Kiosk Mode"
 msgstr "キオスクモード"
 
+#, fuzzy
 msgid "Kiosk Mode (Lock Desktop)"
-msgstr ""
+msgstr "キオスクモード（デスクトップをロック）"
 
 msgid "Language"
 msgstr "言語"
@@ -1255,14 +1316,16 @@ msgstr "レイアウト名:"
 msgid "Layout snapshots"
 msgstr "レイアウトのスナップショット"
 
+#, fuzzy
 msgid "Layout spacing & snapping"
-msgstr ""
+msgstr "レイアウトの間隔とスナップ"
 
 msgid "Layout tools and snapshots"
 msgstr "レイアウトツールとスナップショット"
 
+#, fuzzy
 msgid "Left-click the bottom right corner of the taskbar to"
-msgstr ""
+msgstr "タスクバーの右下隅を左クリックして"
 
 msgid "Legal Information"
 msgstr "法的情報"
@@ -1279,8 +1342,9 @@ msgstr "ライセンスはまだ有効化されていません"
 msgid "Lightly bounce after switching pages"
 msgstr "ページを切り替えたら、軽くバウンドしてください。"
 
+#, fuzzy
 msgid "Lightness:"
-msgstr ""
+msgstr "軽さ："
 
 msgid "Like on your mobile phone, swipe between multiple screens of icons. Great for keeping different desktops for different topics, and works great with the keyboard or mouse."
 msgstr "スワイプしてアイコンの複数画面を切り替えるのはスマートフォンのようです。キーボードやマウスと相性がよく、複数のデスクトップを使用して異なるトピックを管理するのに最適です。"
@@ -1315,8 +1379,9 @@ msgstr "ローディングリスト..."
 msgid "Lock desktop"
 msgstr "デスクトップをロックする"
 
+#, fuzzy
 msgid "Lock Desktop"
-msgstr ""
+msgstr "デスクトップをロックする"
 
 msgid "Lock Fences"
 msgstr "ロックFences"
@@ -1324,8 +1389,9 @@ msgstr "ロックFences"
 msgid "Lock your desktop to protect others from modifying it."
 msgstr "デスクトップをロックして、他人がそれを変更するのを防ぐ。"
 
+#, fuzzy
 msgid "Maintain backups and adjust your layout settings."
-msgstr ""
+msgstr "バックアップを維持し、レイアウト設定を調整する。"
 
 msgid "Maintain sorting"
 msgstr "ソーティングを維持してください。"
@@ -1339,8 +1405,9 @@ msgstr "製品キーを管理する"
 msgid "Manage sorting rules"
 msgstr "ソートルールの管理"
 
+#, fuzzy
 msgid "Manage subscription"
-msgstr ""
+msgstr "購読を管理する"
 
 msgid "Medium icons"
 msgstr "中くらいのアイコン"
@@ -1354,8 +1421,9 @@ msgstr "分前"
 msgid "More"
 msgstr "もっと"
 
+#, fuzzy
 msgid "More adjustments"
-msgstr ""
+msgstr "さらなる調整"
 
 msgid "More options..."
 msgstr "もっとオプション..."
@@ -1408,8 +1476,9 @@ msgstr "新しいアイコンと規則"
 msgid "new icons should be placed in this Fence: "
 msgstr "Fenceに新しいアイコンを配置するべきです。"
 
+#, fuzzy
 msgid "New in Fences 5! Reduce visual clutter by blending your icons with the wallpaper."
-msgstr ""
+msgstr "Fences 5の新機能！アイコンを壁紙とブレンドすることで、視覚的な乱雑さを軽減します。"
 
 msgid "New name:"
 msgstr "新しい名前:"
@@ -1455,8 +1524,9 @@ msgstr "スクリーンの数"
 msgid "Number of times opened"
 msgstr "開く回数"
 
+#, fuzzy
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "on"
 msgstr "on に"
@@ -1503,8 +1573,9 @@ msgstr "Folder Portalをダブルクリックしてすばやく開く"
 msgid "Open this folder"
 msgstr "このフォルダを開け"
 
+#, fuzzy
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 msgid "or"
 msgstr "どちらか"
@@ -1536,8 +1607,9 @@ msgstr "他の種類"
 msgid "Outline Fence areas"
 msgstr "Fence 地域を概要する"
 
+#, fuzzy
 msgid "Output multi-monitor debug report"
-msgstr ""
+msgstr "マルチモニターデバッグレポートの出力"
 
 msgid "outside of"
 msgstr "外"
@@ -1545,8 +1617,9 @@ msgstr "外"
 msgid "Page switching"
 msgstr "ページ切替"
 
+#, fuzzy
 msgid "Pages"
-msgstr ""
+msgstr "ページ"
 
 msgid "Panels on left edge"
 msgstr "左端のパネル"
@@ -1554,17 +1627,21 @@ msgstr "左端のパネル"
 msgid "Panels on right edge"
 msgstr "右端のパネル"
 
+#, fuzzy
 msgid "Paste color"
-msgstr ""
+msgstr "ペーストカラー"
 
+#, fuzzy
 msgid "Paste Fence color"
-msgstr ""
+msgstr "Fencesカラーの貼り付け"
 
+#, fuzzy
 msgid "Peek"
-msgstr ""
+msgstr "覗き見"
 
+#, fuzzy
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
-msgstr ""
+msgstr "Peekは、タスクバー、ホットコーナー、ホットキーを使って、Fencesグループを瞬時にトップに表示します。"
 
 msgid "Per-Fence Customization"
 msgstr "パーカステム"
@@ -1572,8 +1649,9 @@ msgstr "パーカステム"
 msgid "Perform automatic layout"
 msgstr "自動レイアウトを実行する"
 
+#, fuzzy
 msgid "Personalization"
-msgstr ""
+msgstr "パーソナル"
 
 msgid "Personalize"
 msgstr "個人化"
@@ -1728,14 +1806,17 @@ msgstr "リセット"
 msgid "Reset all individually-customized Fences"
 msgstr "全ての個別にカスタマイズされたFencesをリセットする"
 
+#, fuzzy
 msgid "Reset all to default"
-msgstr ""
+msgstr "すべてをデフォルトに戻す"
 
+#, fuzzy
 msgid "Reset color"
-msgstr ""
+msgstr "リセットカラー"
 
+#, fuzzy
 msgid "Reset Fence color"
-msgstr ""
+msgstr "Fencesの色をリセット"
 
 msgid "Reset rule to default"
 msgstr "リセットルールをデフォルトに戻す"
@@ -1749,8 +1830,9 @@ msgstr "リセットルール？"
 msgid "Reset saved settings for other screen resolutions"
 msgstr "他の解像度の設定をリセットする"
 
+#, fuzzy
 msgid "Reset this group's customization"
-msgstr ""
+msgstr "このグループのカスタマイズをリセットする"
 
 msgid "Reset to default"
 msgstr "リセットをデフォルトに"
@@ -1758,17 +1840,21 @@ msgstr "リセットをデフォルトに"
 msgid "Reset to defaults"
 msgstr "リセットをデフォルトに"
 
+#, fuzzy
 msgid "Restore color when desktop is active"
-msgstr ""
+msgstr "デスクトップがアクティブなときに色を元に戻す"
 
+#, fuzzy
 msgid "Restore color when desktop is in use"
-msgstr ""
+msgstr "デスクトップ使用中の色を復元"
 
+#, fuzzy
 msgid "Restore color when mouse is over a Fence group"
-msgstr ""
+msgstr "マウスがFencesグループの上にあるときに色を復元する"
 
+#, fuzzy
 msgid "Restore color when mouse is over group"
-msgstr ""
+msgstr "マウスがグループ上にあるときに色を元に戻す"
 
 msgid "Restore Snapshot"
 msgstr "スナップショットを復元"
@@ -1779,8 +1865,9 @@ msgstr "再撮影してください。"
 msgid "Reverse order"
 msgstr "逆順"
 
+#, fuzzy
 msgid "Right-click the bottom right corner of the taskbar to"
-msgstr ""
+msgstr "タスクバーの右下隅を右クリックする。"
 
 msgid "Roll up Fence groups placed on edge of screen"
 msgstr "画面の端にあるFencesを巻き上げる"
@@ -1791,14 +1878,16 @@ msgstr "Fencesをタイトルバーにしてマウスオーバーで表示させ
 msgid "Roll up Fences"
 msgstr "ロールアップ Fences"
 
+#, fuzzy
 msgid "Rollup"
-msgstr ""
+msgstr "ロールアップ"
 
 msgid "Roll-up Fence"
 msgstr "ロールアップFence"
 
+#, fuzzy
 msgid "Round corner of Fence areas"
-msgstr ""
+msgstr "Fencesエリアのラウンドコーナー"
 
 msgid "Round corners of Fence areas"
 msgstr "1の角を丸める"
@@ -1806,8 +1895,9 @@ msgstr "1の角を丸める"
 msgid "Rule names must be less than 255 characters long"
 msgstr "ルール名は255文字以下でなければなりません"
 
+#, fuzzy
 msgid "Rules"
-msgstr ""
+msgstr "ルール"
 
 msgid "Rules in use:"
 msgstr "使用規則："
@@ -1860,14 +1950,17 @@ msgstr "デスクトップを表示（トグル）"
 msgid "Show desktop icons"
 msgstr "デスクトップアイコンを表示する"
 
+#, fuzzy
 msgid "Show desktop in full color when in use"
-msgstr ""
+msgstr "使用中のデスクトップをフルカラーで表示"
 
+#, fuzzy
 msgid "Show Fence groups in full color on mouseover"
-msgstr ""
+msgstr "マウスオーバーでFencesグループをフルカラーで表示"
 
+#, fuzzy
 msgid "Show Fences"
-msgstr ""
+msgstr "Fencesを表示"
 
 msgid "Show Fences (press & hold)"
 msgstr "Fencesを表示 (ホールド&押す)"
@@ -1878,44 +1971,56 @@ msgstr "Fencesを表示する（トグル）"
 msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
 msgstr "Fencesを表示（トグル）：アプリを切り替えても、次のホットキー押下までFencesを常に最前面に表示します。"
 
+#, fuzzy
 msgid "Show Fences by clicking the far right edge of your taskbar"
-msgstr ""
+msgstr "タスクバーの右端をクリックして Fences を表示します"
 
-msgid "Show Fences with hotkeys"
-msgstr ""
+#, fuzzy
+msgid "ホットキーを使用して Fences を表示する"
+msgstr "ホットキーでFencesを表示"
 
+#, fuzzy
 msgid "Show Headers"
-msgstr ""
+msgstr "ヘッダーを表示する"
 
+#, fuzzy
 msgid "Show icon as a running task"
-msgstr ""
+msgstr "実行中のタスクとしてアイコンを表示する"
 
+#, fuzzy
 msgid "Show on all pages"
-msgstr ""
+msgstr "すべてのページに表示する"
 
+#, fuzzy
 msgid "Show the full desktop"
-msgstr ""
+msgstr "デスクトップ全体を表示する"
 
+#, fuzzy
 msgid "Show the full desktop (classic)"
-msgstr ""
+msgstr "デスクトップ全体を表示する（クラシック）"
 
+#, fuzzy
 msgid "Show the full desktop (fast)"
-msgstr ""
+msgstr "デスクトップ全体を表示する（高速）"
 
+#, fuzzy
 msgid "Show this Fence group on all pages"
-msgstr ""
+msgstr "このFencesグループをすべてのページに表示する"
 
 msgid "Show this folder on the desktop"
 msgstr "デスクトップにこのフォルダを表示させてください。"
 
+#, fuzzy
 msgid "Show title bars on Fence areas"
-msgstr ""
+msgstr "Fencesエリアにタイトルバーを表示する"
 
+#, fuzzy
 msgid "Show titlebar buttons on Fence areas on mouseover"
-msgstr ""
+msgstr "マウスオーバー時にFences領域にタイトルバーボタンを表示する"
 
+#, fuzzy
 msgid "Show titlebar controls on mouseover"
-msgstr ""
+msgstr "マウスオーバー時にタイトルバーのコントロールを表示する"
 
 msgid "Size"
 msgstr "サイズ"
@@ -1935,11 +2040,13 @@ msgstr "写真を撮りました！"
 msgid "Snapshot Title"
 msgstr "スナップショットタイトル"
 
+#, fuzzy
 msgid "Snapshots"
-msgstr ""
+msgstr "スナップ写真"
 
+#, fuzzy
 msgid "Snapshots && layout"
-msgstr ""
+msgstr "スナップショットとレイアウト"
 
 msgid "Snapshot-taking canceled."
 msgstr "写真を撮るのをキャンセルしました。"
@@ -1956,8 +2063,9 @@ msgstr "アイコンを整理しろ"
 msgid "Space"
 msgstr "宇宙"
 
+#, fuzzy
 msgid "Speed up Windows' built-in Show Desktop functionality (\"WinKey+D\")"
-msgstr ""
+msgstr "Windows内蔵のデスクトップ表示機能（「WinKey+D」）の高速化"
 
 msgid "Stardock Application Services was unable to start. (Unable to register callback.) You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
 msgstr "スタードック アプリケーション サービス が 起動 できません でした 。 （ コールバック を 登録 できません でした ） 、 Fences を 再インストール する 必要 が ある 可能性 が あります 。 この 問題 が 続く 場合 、 スタードック の カスタマー サポート に お 問い合わせ ください 。"
@@ -2034,11 +2142,13 @@ msgstr "リストアの前にスナップショットを取る？"
 msgid "Target-based rules"
 msgstr "ターゲットベースのルール"
 
+#, fuzzy
 msgid "Taskbar Hot-Corner"
-msgstr ""
+msgstr "タスクバーホットコーナー"
 
+#, fuzzy
 msgid "Taskbar Icon"
-msgstr ""
+msgstr "タスクバーアイコン"
 
 msgid "Text file"
 msgstr "テキストファイル"
@@ -2129,8 +2239,9 @@ msgstr "この機能はWindows XPでは利用できません。"
 msgid "This feature requires Windows 7 or better."
 msgstr "この機能は、Windows 7以上が必要です。"
 
+#, fuzzy
 msgid "This Fence will be reset to match the rest of your Fence groups."
-msgstr ""
+msgstr "このFencesは他のFencesグループと同じようにリセットされます。"
 
 msgid "This will reset {0} to its default factory settings. Continue?"
 msgstr "これはFencesをデフォルトの工場設定にリセットします。続けますか？"
@@ -2147,8 +2258,9 @@ msgstr "時間"
 msgid "Title:"
 msgstr "タイトル："
 
+#, fuzzy
 msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
-msgstr ""
+msgstr "特定のFencesの外観を調整するには、上の「すべてのグループ」と書かれたドロップダウンからFencesを選び、通常のコントロールを使って色設定を編集する。"
 
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Fenceの見た目を調節するには、Fencesの設定の「カスタマイズ」エリアへアクセスします。そこで、ドロップダウンからFenceを選択し、通常のコントロールを使用して色の設定を編集してください。"
@@ -2198,8 +2310,9 @@ msgstr "Folder Portalに表示されているフォルダをすばやく開く�
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
 msgstr "デスクトップをアンロックするには、管理者として以下のプロンプトを承認してください。"
 
+#, fuzzy
 msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
-msgstr ""
+msgstr "購読設定を更新するには、https://redirects.stardock.com/subscriptions/fences5。"
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "Fencesを使用するためには、デスクトップの任意の空白をダブルクリックして、アイコンが消えます。再びダブルクリックすると、アイコンが戻ります。"
@@ -2216,8 +2329,9 @@ msgstr "透過的なFenceの背景（Windows 10のみ）"
 msgid "Transparency:"
 msgstr "透明性:"
 
+#, fuzzy
 msgid "Troubleshooting"
-msgstr ""
+msgstr "トラブルシューティング"
 
 msgid "Turn off sorting?"
 msgstr "ソートをオフにしますか？"
@@ -2231,8 +2345,9 @@ msgstr "フォルダを作成できません。もう一度お試しください
 msgid "Unlock desktop"
 msgstr "デスクトップをロック解除"
 
+#, fuzzy
 msgid "Unlock Desktop"
-msgstr ""
+msgstr "デスクトップのロック解除"
 
 msgid "Unlock previous purchase"
 msgstr "購入したものをアンロックする"
@@ -2276,14 +2391,15 @@ msgstr "速やかに隠れることを使う"
 msgid "Using Roll-up Fences"
 msgstr "ロールアップFencesを使用"
 
+#, fuzzy
 msgid "Vanish"
-msgstr ""
+msgstr "消える"
 
 msgid "Version "
 msgstr "バージョン"
 
 msgid "Version {0}"
-msgstr "バージョンFences"
+msgstr "バージョン [0］"
 
 msgid "Video file"
 msgstr "ビデオファイル"
@@ -2291,8 +2407,9 @@ msgstr "ビデオファイル"
 msgid "Visible only on mouseover"
 msgstr "マウスオーバーでのみ表示"
 
+#, fuzzy
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
-msgstr ""
+msgstr "Windowsレジストリキー{0}で指定されたコンフィグファイルの存在待ち"
 
 msgid ""
 "Warning: Enabling/disabling Fences is not recommended. If you\n"
@@ -2325,8 +2442,9 @@ msgstr "ウェブリンク"
 msgid "Web page file"
 msgstr "ウェブページファイル"
 
+#, fuzzy
 msgid "Welcome"
-msgstr ""
+msgstr "ようこそ"
 
 msgid "Welcome to Fences®"
 msgstr "Fences®へようこそ"
@@ -2352,23 +2470,30 @@ msgstr "アイコンはどこ行ったんですか？"
 msgid "Where did my icons go? No need to worry."
 msgstr "アイコンはどこに行ったのですか？心配する必要はありません。"
 
+#, fuzzy
 msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
-msgstr ""
+msgstr "Fencesを使えば、デスクトップ上のアイコンをグループ化したり、デスクトップからフォルダにアクセスしたりと、様々なことができます。左の機能をクリックすると、Fencesでできることの詳細をご覧いただけます。"
 
+#, fuzzy
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
-msgstr ""
+msgstr "ロールアップを使えば、Fencesをタイトルバーに折り畳んで、アイコンをしまっておくことができます。"
 
+#, fuzzy
 msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
-msgstr ""
+msgstr "Vanishを使えば、デスクトップ上の空白部分をダブルクリックすることで、素早くデスクトップアイコンを隠したり表示したりすることができます。"
 
 msgid "Work better with Fences"
 msgstr "あなたのFencesとよく働きましょう"
 
+#, fuzzy
 msgid ""
 "Would you like to disable showing Fences in the taskbar?\n"
 "\n"
 "You can re-enable it later from Fences Settings in the Quick Access area."
 msgstr ""
+"タスクバーにFencesを表示しないようにしますか？\n"
+"\n"
+"後でクイック・アクセス・エリアのFences設定から再度有効にできます。"
 
 msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
 msgstr "現在の設定を自動レイアウトを適用する前にスナップショットを撮影しますか？"
@@ -2433,8 +2558,9 @@ msgstr "'%sはクラシックモードでは使用できず、正しく表示さ
 msgid "&View"
 msgstr "&ビュー"
 
+#, fuzzy
 msgid "(default)"
-msgstr ""
+msgstr "(デフォルト)"
 
 msgid "(None)"
 msgstr "なし"
@@ -2442,8 +2568,9 @@ msgstr "なし"
 msgid "(Recommended for advanced users)"
 msgstr "'推奨される上級ユーザー'"
 
+#, fuzzy
 msgid "(recommended)"
-msgstr ""
+msgstr "(推奨)"
 
 msgid "(Select a criteria type)"
 msgstr "'(選択してください)'"
@@ -2451,11 +2578,13 @@ msgstr "'(選択してください)'"
 msgid "(Untitled Fence with %i icons)"
 msgstr "'(タイトルなしFence %i個のアイコンと共に)'"
 
+#, fuzzy
 msgid "* Header bar will still show for Folder Portals upon mouseover"
-msgstr ""
+msgstr "* フォルダポータルのマウスオーバー時にヘッダーバーが表示されます。"
 
+#, fuzzy
 msgid "* Labels will still show for Folder Portals upon mouseover"
-msgstr ""
+msgstr "* フォルダポータルのマウスオーバー時にラベルが表示されます。"
 
 msgid "* Labels will still show on Folder Portals on mouseover"
 msgstr "ラベルは、マウスオーバー時にFolder Portals上に表示されます。"
@@ -2463,14 +2592,17 @@ msgstr "ラベルは、マウスオーバー時にFolder Portals上に表示さ�
 msgid "* Log out for language change to take effect"
 msgstr "* ログアウトして言語の変更を有効にします"
 
+#, fuzzy
 msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
-msgstr ""
+msgstr "** Fences 5 Release Previewで近日公開予定 - マルチモニター構成の管理、およびドッキング/ドッキング解除シナリオのサポートが改善されました。"
 
+#, fuzzy
 msgid "{0} are Registered Trademarks of {1}."
-msgstr ""
+msgstr "{0}は{1}の登録商標です。"
 
+#, fuzzy
 msgid "{0} are Trademarks of {1}."
-msgstr ""
+msgstr "{0}は{1}の商標です。"
 
 msgid "{0} days left in your free trial"
 msgstr "あなたの試用期間残りFences日"
@@ -2478,8 +2610,9 @@ msgstr "あなたの試用期間残りFences日"
 msgid "{0} days remain before deactivation"
 msgstr "Fences日後に無効化"
 
+#, fuzzy
 msgid "{0} is a Registered Trademark of {1}."
-msgstr ""
+msgstr "{0}は{1}の登録商標です。"
 
 msgid "●  Double click on a Fence group's titlebar to roll it up"
 msgstr "Fenceのタイトルバーをダブルクリックすると、ロールアップできます。"

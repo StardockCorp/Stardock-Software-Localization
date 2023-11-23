@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
 "POT-Creation-Date: 2023-11-22 00:10-08:00\n"
-"PO-Revision-Date: 2023-11-22 00:10-08:00\n"
+"PO-Revision-Date: 2023-11-22 22:01-0800\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: de\n"
@@ -39,13 +39,17 @@ msgstr "Ein Hinweis..."
 msgid "About"
 msgstr "Über"
 
+#, fuzzy
 msgid ""
 "Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
 "\n"
 msgstr ""
+"Sie können auf mehrere Bildschirme mit Symbolen zugreifen, indem Sie den Rand Ihres Bildschirms anfassen und ziehen, wie auf Ihrem Mobiltelefon. Verwenden Sie sie, um verschiedene Bereiche Ihres Computerlebens voneinander zu trennen.\n"
+"\n"
 
+#, fuzzy
 msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
-msgstr ""
+msgstr "Greifen Sie direkt vom Desktop aus in einer vollständig anpassbaren Live-Ansicht auf den Inhalt eines beliebigen Ordners zu."
 
 msgid "Activate"
 msgstr "Aktivieren"
@@ -56,8 +60,9 @@ msgstr "Unternehmenslizenz aktivieren"
 msgid "Activation successful."
 msgstr "Aktivierung erfolgreich."
 
+#, fuzzy
 msgid "Add \"Show Fences\" icon to my taskbar"
-msgstr ""
+msgstr "Hinzufügen des Symbols \"Fences anzeigen\" zu meiner Taskleiste"
 
 msgid "Add / Remove"
 msgstr "Hinzufügen / Entfernen"
@@ -98,11 +103,13 @@ msgstr "Passen Sie die Transparenz der Fences individuell an"
 msgid "Adjust the transparency of desktop icons"
 msgstr "Passen Sie die Transparenz der Desktop-Symbole an"
 
+#, fuzzy
 msgid "Adjust title font color"
-msgstr ""
+msgstr "Schriftfarbe des Titels anpassen"
 
+#, fuzzy
 msgid "Adjust title text font/color"
-msgstr ""
+msgstr "Schriftart/Farbe des Titeltextes anpassen"
 
 msgid "after"
 msgstr "nach"
@@ -125,8 +132,9 @@ msgstr "Symbole am Raster ausrichten"
 msgid "All Fence groups"
 msgstr "Alle Fences"
 
+#, fuzzy
 msgid "All groups"
-msgstr ""
+msgstr "Alle Gruppen"
 
 msgid "All new icons"
 msgstr "Alle neuen Symbole"
@@ -140,8 +148,9 @@ msgstr "Beliebig viele Seiten mit Symbolen erlauben"
 msgid "Allow navigation"
 msgstr "Navigation ermöglichen"
 
+#, fuzzy
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 msgid "Always"
 msgstr "Immer"
@@ -155,8 +164,9 @@ msgstr "Diese Antwort immer verwenden"
 msgid "An update to Fences is available!"
 msgstr "Ein Software-Update für Fences ist verfügbar!"
 
+#, fuzzy
 msgid "Analytics"
-msgstr ""
+msgstr "Analytics"
 
 msgid "and"
 msgstr "und"
@@ -210,8 +220,9 @@ msgstr "Möchten Sie diese Regel wirklich entfernen?"
 msgid "Are you sure you want to reset the appearance of all Fence groups?"
 msgstr "Möchten Sie das Erscheinungsbild aller Fences wirklich zurücksetzen?"
 
+#, fuzzy
 msgid "Are you sure you want to reset this group's custom color?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie die benutzerdefinierte Farbe für diese Gruppe zurücksetzen wollen?"
 
 msgid "Are you sure you want to reset this rule back to its default criteria?"
 msgstr "Möchten Sie diese Regel wirklich auf die Standardeinstellung zurücksetzen?"
@@ -257,8 +268,9 @@ msgstr "Symbole automatisch anzeigen, wenn der Desktop verwendet wird"
 msgid "Automatically show icons when drag/dropping to the desktop"
 msgstr "Symbole bei Drag&Drop auf den Desktop automatisch einblenden"
 
+#, fuzzy
 msgid "Automatically sort icons into groups based on their name, file type, or other criteria."
-msgstr ""
+msgstr "Automatische Sortierung von Symbolen in Gruppen auf der Grundlage ihres Namens, Dateityps oder anderer Kriterien."
 
 msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
 msgstr "Automatisch täglich Sicherungen erstellen (Sicherungen der letzten 3 Tage werden aufbewahrt)"
@@ -266,17 +278,20 @@ msgstr "Automatisch täglich Sicherungen erstellen (Sicherungen der letzten 3 Ta
 msgid "Available rules:"
 msgstr "Verfügbare Regeln:"
 
+#, fuzzy
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
-msgstr ""
+msgstr "Warten auf die Angabe eines Pfads für die Konfigurationsdatei in {0} oder auf die Anwendung der Konfiguration über {1}"
 
+#, fuzzy
 msgid "Awaiting license file in {0}"
-msgstr ""
+msgstr "Warten auf die Lizenzdatei in {0}"
 
 msgid "Background Color"
 msgstr "Hintergrundfarbe"
 
+#, fuzzy
 msgid "Background Style"
-msgstr ""
+msgstr "Hintergrund Stil"
 
 msgid "Basic options"
 msgstr "Grundlegende Optionen"
@@ -294,35 +309,45 @@ msgstr ""
 msgid "between"
 msgstr "zwischen"
 
+#, fuzzy
 msgid "Blend"
-msgstr ""
+msgstr "Blend"
 
+#, fuzzy
 msgid "Blend background into wallpaper with Chameleon"
-msgstr ""
+msgstr "Mit Chameleon den Hintergrund in eine Tapete verwandeln"
 
+#, fuzzy
 msgid "Blend icons into wallpaper"
-msgstr ""
+msgstr "Symbole als Hintergrundbild einblenden"
 
+#, fuzzy
 msgid "Blend icons into wallpaper with Chameleon"
-msgstr ""
+msgstr "Mit Chameleon Icons in Hintergrundbilder einbinden"
 
+#, fuzzy
 msgid "Blend into wallpaper with Chameleon"
-msgstr ""
+msgstr "Mit Chameleon mit der Tapete verschmelzen"
 
+#, fuzzy
 msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
-msgstr ""
+msgstr "Blenden Sie Ihre Symbole in Ihr Hintergrundbild ein, und genießen Sie die neue Ruhe."
 
+#, fuzzy
 msgid "Blue Fence area backgrounds"
-msgstr ""
+msgstr "Blauer Zaunbereich Hintergründe"
 
+#, fuzzy
 msgid "Blur background"
-msgstr ""
+msgstr "Geblurter Hintergrund"
 
+#, fuzzy
 msgid "Blur group area background"
-msgstr ""
+msgstr "Hintergrund des Gruppenbereichs verwischen"
 
+#, fuzzy
 msgid "Brightness:"
-msgstr ""
+msgstr "Helligkeit:"
 
 msgid "By creating program..."
 msgstr "Nach Verursacherprogramm..."
@@ -360,8 +385,9 @@ msgstr "Nach Typ..."
 msgid "By usage count..."
 msgstr "Nach Anzahl der Verwendungen..."
 
+#, fuzzy
 msgid "Bytes"
-msgstr ""
+msgstr "Bytes"
 
 msgid "Cancel"
 msgstr "Abbrechen"
@@ -448,8 +474,9 @@ msgstr "Klicken und ziehen Sie den Rand oder die Titelleiste eines Fences, um de
 msgid "Close"
 msgstr "Schließen"
 
+#, fuzzy
 msgid "Color customization is unavailable with Chameleon"
-msgstr ""
+msgstr "Farbanpassung ist bei Chameleon nicht möglich"
 
 msgid "Color intensity:"
 msgstr "Farbintensität:"
@@ -463,29 +490,34 @@ msgstr "Kompatibilitätsprobleme gefunden ..."
 msgid "Compressed file"
 msgstr "Komprimierte Datei"
 
+#, fuzzy
 msgid "Config Import / Export"
-msgstr ""
+msgstr "Konfig. Import/Export"
 
 msgid "Configure Fences"
 msgstr "Fences konfigurieren"
 
+#, fuzzy
 msgid "Configure Fences..."
-msgstr ""
+msgstr "Fences konfigurieren..."
 
 msgid "contains"
 msgstr "enthält"
 
+#, fuzzy
 msgid "Control"
-msgstr ""
+msgstr "Steuerung"
 
 msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
 msgstr "Greifen Sie bequem auf Ordner direkt aus einem Fence heraus und mit individuellen Ansichtseinstellungen zu."
 
+#, fuzzy
 msgid "Copy color"
-msgstr ""
+msgstr "Farbe kopieren"
 
+#, fuzzy
 msgid "Copy Fence color"
-msgstr ""
+msgstr "Zaunfarbe kopieren"
 
 msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "Copyright © {0}-{1} {2}. Alle Rechte vorbehalten."
@@ -543,14 +575,16 @@ msgstr "Extra-Anpassungsmöglichkeiten"
 msgid "Customize"
 msgstr "Anpassen"
 
+#, fuzzy
 msgid "Customize icon"
-msgstr ""
+msgstr "Symbol anpassen"
 
 msgid "Customize your Fence groups"
 msgstr "Passen Sie Ihre Fences individuell an"
 
+#, fuzzy
 msgid "Customize your Fence groups' background color & style."
-msgstr ""
+msgstr "Passen Sie die Hintergrundfarbe und den Stil Ihrer Zaungruppen an."
 
 msgid "Customize..."
 msgstr "Anpassen..."
@@ -564,8 +598,9 @@ msgstr "Tägliche Sicherung"
 msgid "Darken Fence area title bars"
 msgstr "Titelleisten für Zaunbereich abdunkeln"
 
+#, fuzzy
 msgid "Darken titlebar areas"
-msgstr ""
+msgstr "Titelleistenbereiche abdunkeln"
 
 msgid "Date added to Fence"
 msgstr "Datum zu Fence hinzugefügt"
@@ -627,8 +662,9 @@ msgstr "Der Desktop bleibt bis zum nächsten Neustart oder bis zur nächsten man
 msgid "Desktop unlocked. It will remain unlocked until you lock it again."
 msgstr "Der Desktop bleibt bis zur nächsten manuellen Sperre entsperrt."
 
+#, fuzzy
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 msgid "Details (Large)"
 msgstr "Details (Groß)"
@@ -642,8 +678,9 @@ msgstr "Einrasten mit gedrückter Shift-Taste deaktivieren"
 msgid "Disabled"
 msgstr "Deaktiviert"
 
+#, fuzzy
 msgid "Do nothing"
-msgstr ""
+msgstr "Nichts tun"
 
 msgid "Do you want to remove all of your Fences settings and saved backups?"
 msgstr "Möchten Sie alle Fences-Einstellungen und gespeicherten Sicherungen entfernen?"
@@ -690,8 +727,9 @@ msgstr ""
 msgid "Double clicking will roll-up your Fence!"
 msgstr "Per Doppelklick werden Fences eingeklappt!"
 
+#, fuzzy
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 msgid "Draw a rectangle on your desktop and choose \"Create Fence\"."
 msgstr "Ziehen Sie ein Auswahlrechteck auf dem Desktop und wählen Sie dann \"Fence erstellen\" aus."
@@ -699,26 +737,33 @@ msgstr "Ziehen Sie ein Auswahlrechteck auf dem Desktop und wählen Sie dann \"Fe
 msgid "Edit a Rule"
 msgstr "Eine Regel bearbeiten"
 
+#, fuzzy
 msgid "Edit background color"
-msgstr ""
+msgstr "Hintergrundfarbe bearbeiten"
 
+#, fuzzy
 msgid "Edit Background Color"
-msgstr ""
+msgstr "Hintergrundfarbe bearbeiten"
 
+#, fuzzy
 msgid "Edit color..."
-msgstr ""
+msgstr "Farbe bearbeiten..."
 
+#, fuzzy
 msgid "Edit Fence color..."
-msgstr ""
+msgstr "Zaunfarbe bearbeiten..."
 
+#, fuzzy
 msgid "Edit Fence Style"
-msgstr ""
+msgstr "Zaunstil bearbeiten"
 
+#, fuzzy
 msgid "Edit title font"
-msgstr ""
+msgstr "Titelschriftart bearbeiten"
 
+#, fuzzy
 msgid "Edit title font color"
-msgstr ""
+msgstr "Schriftfarbe des Titels bearbeiten"
 
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
 msgstr "Aktivieren Sie \"Flicking\" (Schubsen), um Symbole in Fences zu schubsen (für Touchscreens)"
@@ -726,17 +771,20 @@ msgstr "Aktivieren Sie \"Flicking\" (Schubsen), um Symbole in Fences zu schubsen
 msgid "Enable advanced crash reporting"
 msgstr "Erweiterte Absturzberichte aktivieren"
 
+#, fuzzy
 msgid "Enable Chameleon"
-msgstr ""
+msgstr "Chameleon einschalten"
 
+#, fuzzy
 msgid "Enable crash reporting"
-msgstr ""
+msgstr "Absturzberichte aktivieren"
 
 msgid "Enable Fences"
 msgstr "Fences aktivieren"
 
+#, fuzzy
 msgid "Enable Pages"
-msgstr ""
+msgstr "Seiten freigeben"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "Aktivieren Sie die Sortierfunktion innerhalb der einzelnen Fences (nach Namen, Typ, Größe, etc.)"
@@ -750,17 +798,20 @@ msgstr "endet mit"
 msgid "Enter title"
 msgstr "Titel eingeben"
 
+#, fuzzy
 msgid "Enterprise Distribution Testing Tools"
-msgstr ""
+msgstr "Testwerkzeuge für die Unternehmensverteilung"
 
+#, fuzzy
 msgid "Enterprise Edition"
-msgstr ""
+msgstr "Enterprise-Ausgabe"
 
 msgid "Exclude Fence groups docked to edge of the screen"
 msgstr "Am Bildschirmrand angedockte Fences ausschließen"
 
+#, fuzzy
 msgid "Exclude from quick-hide"
-msgstr ""
+msgstr "Vom Schnellausblenden ausschließen"
 
 msgid "Exclude this Fence group from quick-hide"
 msgstr "Diesen Fence von der Schnell-Verstecken Funktion ausschließen"
@@ -774,8 +825,9 @@ msgstr "Ausführbare Datei"
 msgid "Exit"
 msgstr "Beenden"
 
+#, fuzzy
 msgid "Export Config to File"
-msgstr ""
+msgstr "Konfiguration in Datei exportieren"
 
 msgid "Extra large icons"
 msgstr "Extra große Symbole"
@@ -795,8 +847,9 @@ msgstr ""
 msgid "Fence Name"
 msgstr "Name des Fence"
 
+#, fuzzy
 msgid "Fences Color"
-msgstr ""
+msgstr "Fences Farbe"
 
 msgid ""
 "Fences deactivated this session.\n"
@@ -843,6 +896,7 @@ msgstr ""
 "Fences Folder Portals sind in der klassischen Ansicht nicht verfügbar.\n"
 "Bitte aktivieren Sie Aero, um diese Funktion zu nutzen."
 
+#, fuzzy
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
 "As a precaution, Fences has been temporarily disabled.\n"
@@ -850,6 +904,11 @@ msgid ""
 "To re-enable Fences, open Fences' Settings and choose\n"
 "\"Enable Fences\"."
 msgstr ""
+"Fences hat festgestellt, dass der Explorer nicht richtig geschlossen wurde.\n"
+"Als Vorsichtsmaßnahme wurde Fences vorübergehend deaktiviert.\n"
+"\n"
+"Um Fences wieder zu aktivieren, öffnen Sie die Einstellungen von Fences und wählen Sie\n"
+"\"Fences aktivieren\"."
 
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
@@ -893,8 +952,9 @@ msgstr ""
 msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"Tools\", press the link for \"More Tools...\", and uncheck \"Enable Fences\" then reboot."
 msgstr "Fences ist nicht mit DeskScapes unter Windows XP kompatibel. Bitte wählen Sie \"Extras\" aus und klicken Sie dann auf \"Weitere Werkzeuge...\".Deaktivieren Sie \"Fences aktivieren\" und starten Sie Ihr System dann neu."
 
+#, fuzzy
 msgid "Fences is not yet loaded."
-msgstr ""
+msgstr "Fences ist noch nicht geladen."
 
 msgid ""
 "Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
@@ -949,8 +1009,9 @@ msgstr "Fences: Kompatibilitätsprobleme gefunden ..."
 msgid "Fences: Turn off sorting?"
 msgstr "Fences: Sortieren abschalten?"
 
+#, fuzzy
 msgid "Fence™ is a Trademark of {0}."
-msgstr ""
+msgstr "Fence™ ist ein Warenzeichen von {0}."
 
 msgid "File"
 msgstr "Datei"
@@ -1030,8 +1091,9 @@ msgstr "Für Programm-Verknüpfungen ausblenden"
 msgid "Hide for web links"
 msgstr "Für Web-Verknüpfungen ausblenden"
 
+#, fuzzy
 msgid "Hide scrollbars when inactive"
-msgstr ""
+msgstr "Bildlaufleisten bei Inaktivität ausblenden"
 
 msgid "Hide shortcut arrows from links, fade your Fence groups until mouseovered, and upgrade the look of your scrollbars with Fences' new custom-skinned scrollbars."
 msgstr "Blenden Sie Pfeilsymbole bei Verknüpfungen aus, verstecken Sie Ihre Fences, bis Sie mit der Maus darauf zeigen und passen Sie Ihre Scrollbalken mit neuen individuellen Designs an."
@@ -1039,14 +1101,16 @@ msgstr "Blenden Sie Pfeilsymbole bei Verknüpfungen aus, verstecken Sie Ihre Fen
 msgid "Hide shortcut arrows on desktop icons"
 msgstr "Pfeilsymbole bei Desktop-Verknüpfungen nicht anzeigen"
 
+#, fuzzy
 msgid "Hide text on desktop icons"
-msgstr ""
+msgstr "Text auf Desktop-Symbolen ausblenden"
 
 msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
 msgstr "Halten Sie die Alt-Taste gedrückt und ziehen Sie Ordner auf Ihren Desktop, um schnell Folder Portals zu erstellen. Alternativ können Sie auch mit rechts auf einen Ordner klicken und \"Diesen Ordner auf dem Desktop anzeigen\" auswählen."
 
+#, fuzzy
 msgid "Hot Keys"
-msgstr ""
+msgstr "Tastenkombinationen"
 
 msgid "How to adjust the appearance of individual Fence groups"
 msgstr "Das Erscheinungsbild einzelner Fences anpassen"
@@ -1087,8 +1151,9 @@ msgstr "Ein Folder Portal entfernen"
 msgid "How to use"
 msgstr "So verwenden Sie"
 
+#, fuzzy
 msgid "How to use desktop pages"
-msgstr ""
+msgstr "Verwendung von Desktop-Seiten"
 
 msgid "How to use with a keyboard"
 msgstr "Tastaturbedienung"
@@ -1099,17 +1164,20 @@ msgstr "Mausbedienung"
 msgid "How to use with a touch-enabled system"
 msgstr "Touchscreen-Bedienung"
 
+#, fuzzy
 msgid "Hue:"
-msgstr ""
+msgstr "Farbton:"
 
 msgid "icon"
 msgstr "Symbol"
 
+#, fuzzy
 msgid "Icon opacity"
-msgstr ""
+msgstr "Icon Deckkraft"
 
+#, fuzzy
 msgid "Icon Opacity"
-msgstr ""
+msgstr "Deckkraft des Symbols"
 
 msgid "Icon transparency && fading Fence groups"
 msgstr "Symbol Transparenz && Fence-Ausblendeeffekt"
@@ -1195,8 +1263,9 @@ msgstr "Bilder"
 msgid "Immediately"
 msgstr "Sofort"
 
+#, fuzzy
 msgid "Import Config from File"
-msgstr ""
+msgstr "Konfig aus Datei importieren"
 
 msgid "Installation complete!"
 msgstr "Installation abgeschlossen!"
@@ -1237,8 +1306,9 @@ msgstr "Kiosk-Modus"
 msgid "Kiosk Mode"
 msgstr "Kiosk-Modus"
 
+#, fuzzy
 msgid "Kiosk Mode (Lock Desktop)"
-msgstr ""
+msgstr "Kiosk-Modus (Desktop sperren)"
 
 msgid "Language"
 msgstr "Sprache"
@@ -1246,8 +1316,9 @@ msgstr "Sprache"
 msgid "Large icons"
 msgstr "Große Symbole"
 
+#, fuzzy
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 msgid "Layout & style"
 msgstr "Layout und Stil"
@@ -1255,8 +1326,9 @@ msgstr "Layout und Stil"
 msgid "Layout auto-adjustments"
 msgstr "Layout Auto-Anpassungen"
 
+#, fuzzy
 msgid "Layout Builder"
-msgstr ""
+msgstr "Layout Builder"
 
 msgid "Layout Name:"
 msgstr "Layout-Name:"
@@ -1264,14 +1336,16 @@ msgstr "Layout-Name:"
 msgid "Layout snapshots"
 msgstr "Layout-Sicherungen"
 
+#, fuzzy
 msgid "Layout spacing & snapping"
-msgstr ""
+msgstr "Layout-Abstand & Einrasten"
 
 msgid "Layout tools and snapshots"
 msgstr "Layout-Werkzeuge und Sicherungen"
 
+#, fuzzy
 msgid "Left-click the bottom right corner of the taskbar to"
-msgstr ""
+msgstr "Klicken Sie mit der linken Maustaste auf die untere rechte Ecke der Taskleiste, um"
 
 msgid "Legal Information"
 msgstr "Rechtliche Informationen"
@@ -1288,8 +1362,9 @@ msgstr "Lizenz noch nicht geprüft"
 msgid "Lightly bounce after switching pages"
 msgstr "Leichtes Nachfedern nach dem Seitenwechsel"
 
+#, fuzzy
 msgid "Lightness:"
-msgstr ""
+msgstr "Lightness :"
 
 msgid "Like on your mobile phone, swipe between multiple screens of icons. Great for keeping different desktops for different topics, and works great with the keyboard or mouse."
 msgstr "Genau wie auf ihrem Mobiltelefon. Wischen Sie einfach zwischen mehreren Seiten mit Symbolen hin und her. Perfekt, um Symbole nach Kategorien zu ordnen und ideal mit Tastatur und Maus zu bedienen."
@@ -1324,8 +1399,9 @@ msgstr "Liste wird geladen..."
 msgid "Lock desktop"
 msgstr "Desktop sperren"
 
+#, fuzzy
 msgid "Lock Desktop"
-msgstr ""
+msgstr "Desktop sperren"
 
 msgid "Lock Fences"
 msgstr "Fences sperren"
@@ -1333,8 +1409,9 @@ msgstr "Fences sperren"
 msgid "Lock your desktop to protect others from modifying it."
 msgstr "Sperren Sie Ihren Desktop, um unbefugte Änderungen zu vermeiden."
 
+#, fuzzy
 msgid "Maintain backups and adjust your layout settings."
-msgstr ""
+msgstr "Führen Sie Backups durch und passen Sie Ihre Layout-Einstellungen an."
 
 msgid "Maintain sorting"
 msgstr "Sortierreihenfolge beibehalten"
@@ -1348,8 +1425,9 @@ msgstr "Produktschlüssel verwalten"
 msgid "Manage sorting rules"
 msgstr "Sortierregeln verwalten"
 
+#, fuzzy
 msgid "Manage subscription"
-msgstr ""
+msgstr "Abonnement verwalten"
 
 msgid "Medium icons"
 msgstr "Mittelgroße Symbole"
@@ -1363,8 +1441,9 @@ msgstr "Minuten her"
 msgid "More"
 msgstr "Mehr"
 
+#, fuzzy
 msgid "More adjustments"
-msgstr ""
+msgstr "Weitere Anpassungen"
 
 msgid "More options..."
 msgstr "Weitere Optionen..."
@@ -1417,8 +1496,9 @@ msgstr "Neue Symbole && Regeln"
 msgid "new icons should be placed in this Fence: "
 msgstr "neue Symbole sollten in diesem Fence abgelegt werden: "
 
+#, fuzzy
 msgid "New in Fences 5! Reduce visual clutter by blending your icons with the wallpaper."
-msgstr ""
+msgstr "Neu in Fences 5! Verringern Sie die visuelle Unordnung, indem Sie Ihre Icons mit dem Hintergrundbild verschmelzen."
 
 msgid "New name:"
 msgstr "Neuer Name:"
@@ -1464,8 +1544,9 @@ msgstr "Anzahl der Bildschirme"
 msgid "Number of times opened"
 msgstr "Anzahl der Öffnungen"
 
+#, fuzzy
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "on"
 msgstr "auf"
@@ -1512,8 +1593,9 @@ msgstr "Folder Portal per Doppelklick schnell öffnen"
 msgid "Open this folder"
 msgstr "Diesen Ordner öffnen"
 
+#, fuzzy
 msgid "Options"
-msgstr ""
+msgstr "Optionen"
 
 msgid "or"
 msgstr "oder"
@@ -1545,8 +1627,9 @@ msgstr "andere Typen"
 msgid "Outline Fence areas"
 msgstr "Umrandung bei Fences anzeigen"
 
+#, fuzzy
 msgid "Output multi-monitor debug report"
-msgstr ""
+msgstr "Debug-Bericht für mehrere Monitore ausgeben"
 
 msgid "outside of"
 msgstr "außerhalb von"
@@ -1554,8 +1637,9 @@ msgstr "außerhalb von"
 msgid "Page switching"
 msgstr "Seitenwechsel"
 
+#, fuzzy
 msgid "Pages"
-msgstr ""
+msgstr "Seiten"
 
 msgid "Panels on left edge"
 msgstr "Bereich am linken Rand"
@@ -1563,17 +1647,21 @@ msgstr "Bereich am linken Rand"
 msgid "Panels on right edge"
 msgstr "Bereich am rechten Rand"
 
+#, fuzzy
 msgid "Paste color"
-msgstr ""
+msgstr "Farbe einfügen"
 
+#, fuzzy
 msgid "Paste Fence color"
-msgstr ""
+msgstr "Farbe Zaun einfügen"
 
+#, fuzzy
 msgid "Peek"
-msgstr ""
+msgstr "Hervorzublitzen"
 
+#, fuzzy
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
-msgstr ""
+msgstr "Peek bringt Ihre Fence-Gruppen über die Taskleiste, Hotcorners oder Hotkeys sofort nach oben."
 
 msgid "Per-Fence Customization"
 msgstr "Anpassung pro Fence"
@@ -1581,8 +1669,9 @@ msgstr "Anpassung pro Fence"
 msgid "Perform automatic layout"
 msgstr "Automatisches Layout ausführen"
 
+#, fuzzy
 msgid "Personalization"
-msgstr ""
+msgstr "Personalisierung"
 
 msgid "Personalize"
 msgstr "Personalisieren"
@@ -1734,14 +1823,17 @@ msgstr "Zurücksetzen"
 msgid "Reset all individually-customized Fences"
 msgstr "Alle individuell angepassten Fences zurücksetzen"
 
+#, fuzzy
 msgid "Reset all to default"
-msgstr ""
+msgstr "Alles auf Standard zurücksetzen"
 
+#, fuzzy
 msgid "Reset color"
-msgstr ""
+msgstr "Farbe zurücksetzen"
 
+#, fuzzy
 msgid "Reset Fence color"
-msgstr ""
+msgstr "Zaunfarbe zurücksetzen"
 
 msgid "Reset rule to default"
 msgstr "Regel auf Standardeinstellungen zurücksetzen"
@@ -1755,8 +1847,9 @@ msgstr "Regel zurücksetzen?"
 msgid "Reset saved settings for other screen resolutions"
 msgstr "Gespeicherte Einstellungen für andere Bildschirmauflösungen zurücksetzen"
 
+#, fuzzy
 msgid "Reset this group's customization"
-msgstr ""
+msgstr "Zurücksetzen der Anpassungen dieser Gruppe"
 
 msgid "Reset to default"
 msgstr "Auf Standardwerte zurücksetzen"
@@ -1764,17 +1857,21 @@ msgstr "Auf Standardwerte zurücksetzen"
 msgid "Reset to defaults"
 msgstr "Auf Standardwerte zurücksetzen"
 
+#, fuzzy
 msgid "Restore color when desktop is active"
-msgstr ""
+msgstr "Farbe wiederherstellen, wenn der Desktop aktiv ist"
 
+#, fuzzy
 msgid "Restore color when desktop is in use"
-msgstr ""
+msgstr "Farbe wiederherstellen, wenn der Desktop in Gebrauch ist"
 
+#, fuzzy
 msgid "Restore color when mouse is over a Fence group"
-msgstr ""
+msgstr "Farbe wiederherstellen, wenn sich die Maus über einer Fence-Gruppe befindet"
 
+#, fuzzy
 msgid "Restore color when mouse is over group"
-msgstr ""
+msgstr "Farbe wiederherstellen, wenn die Maus über der Gruppe ist"
 
 msgid "Restore Snapshot"
 msgstr "Sicherung wiederherstellen"
@@ -1785,8 +1882,9 @@ msgstr "Sicherung wiederholen..."
 msgid "Reverse order"
 msgstr "Umgekehrte Reihenfolge"
 
+#, fuzzy
 msgid "Right-click the bottom right corner of the taskbar to"
-msgstr ""
+msgstr "Klicken Sie mit der rechten Maustaste auf die untere rechte Ecke der Taskleiste, um"
 
 msgid "Roll up Fence groups placed on edge of screen"
 msgstr "Am Bildschirmrand platzierte Fences einklappen"
@@ -1797,14 +1895,16 @@ msgstr "Klappen Sie Fences ein, sodass nur die Titelleiste bzw. der ganze Fence 
 msgid "Roll up Fences"
 msgstr "Fences einklappen"
 
+#, fuzzy
 msgid "Rollup"
-msgstr ""
+msgstr "Rollup"
 
 msgid "Roll-up Fence"
 msgstr "Fence einklappen"
 
+#, fuzzy
 msgid "Round corner of Fence areas"
-msgstr ""
+msgstr "Runde Ecke der Zaunflächen"
 
 msgid "Round corners of Fence areas"
 msgstr "Runde Ecken von Zaunbereichen"
@@ -1812,8 +1912,9 @@ msgstr "Runde Ecken von Zaunbereichen"
 msgid "Rule names must be less than 255 characters long"
 msgstr "Regelnamen dürfen maximal 254 Zeichen lang sein."
 
+#, fuzzy
 msgid "Rules"
-msgstr ""
+msgstr "Regeln"
 
 msgid "Rules in use:"
 msgstr "Verwendete Regeln:"
@@ -1851,8 +1952,9 @@ msgstr "Legen Sie eine Seitenanzahl fest und beginnen Sie beim Erreichen des End
 msgid "Settings"
 msgstr "Einstellungen"
 
+#, fuzzy
 msgid "Shift"
-msgstr ""
+msgstr "Schicht"
 
 msgid "Shortcut (Link)"
 msgstr "Verknüpfung (Link)"
@@ -1866,14 +1968,17 @@ msgstr "Desktop anzeigen (umschalten)"
 msgid "Show desktop icons"
 msgstr "Desktopsymbole anzeigen"
 
+#, fuzzy
 msgid "Show desktop in full color when in use"
-msgstr ""
+msgstr "Anzeige des Desktops in voller Farbe, wenn er benutzt wird"
 
+#, fuzzy
 msgid "Show Fence groups in full color on mouseover"
-msgstr ""
+msgstr "Zaungruppen in voller Farbe bei Mouseover anzeigen"
 
+#, fuzzy
 msgid "Show Fences"
-msgstr ""
+msgstr "Fences Anzeigen"
 
 msgid "Show Fences (press & hold)"
 msgstr "Fences anzeigen (drücken & halten)"
@@ -1884,44 +1989,56 @@ msgstr "Fences anzeigen (umschalten)"
 msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
 msgstr "Fences anzeigen (umschalten): Fences bis zum Auslösen des nächsten Tastaturkürzels im Vordergrund halten, auch bei Programmwechsel."
 
+#, fuzzy
 msgid "Show Fences by clicking the far right edge of your taskbar"
-msgstr ""
+msgstr "Zeigen Sie die Fences an, indem Sie auf den rechten Rand Ihrer Taskleiste klicken"
 
+#, fuzzy
 msgid "Show Fences with hotkeys"
-msgstr ""
+msgstr "Fences mit Hotkeys anzeigen"
 
+#, fuzzy
 msgid "Show Headers"
-msgstr ""
+msgstr "Kopfzeilen anzeigen"
 
+#, fuzzy
 msgid "Show icon as a running task"
-msgstr ""
+msgstr "Symbol als laufende Aufgabe anzeigen"
 
+#, fuzzy
 msgid "Show on all pages"
-msgstr ""
+msgstr "Auf allen Seiten anzeigen"
 
+#, fuzzy
 msgid "Show the full desktop"
-msgstr ""
+msgstr "Den gesamten Desktop anzeigen"
 
+#, fuzzy
 msgid "Show the full desktop (classic)"
-msgstr ""
+msgstr "Den gesamten Desktop anzeigen (klassisch)"
 
+#, fuzzy
 msgid "Show the full desktop (fast)"
-msgstr ""
+msgstr "Den gesamten Desktop anzeigen (schnell)"
 
+#, fuzzy
 msgid "Show this Fence group on all pages"
-msgstr ""
+msgstr "Diese Zaungruppe auf allen Seiten anzeigen"
 
 msgid "Show this folder on the desktop"
 msgstr "Diesen Ordner auf dem Desktop anzeigen"
 
+#, fuzzy
 msgid "Show title bars on Fence areas"
-msgstr ""
+msgstr "Titelleisten für Zaunbereiche anzeigen"
 
+#, fuzzy
 msgid "Show titlebar buttons on Fence areas on mouseover"
-msgstr ""
+msgstr "Titelleistenschaltflächen auf Zaunflächen bei Mouseover anzeigen"
 
+#, fuzzy
 msgid "Show titlebar controls on mouseover"
-msgstr ""
+msgstr "Steuerelemente der Titelleiste bei Mouseover anzeigen"
 
 msgid "Size"
 msgstr "Größe"
@@ -1941,11 +2058,13 @@ msgstr "Sicherung erstellt!"
 msgid "Snapshot Title"
 msgstr "Titel der Sicherung"
 
+#, fuzzy
 msgid "Snapshots"
-msgstr ""
+msgstr "Schnappschüsse"
 
+#, fuzzy
 msgid "Snapshots && layout"
-msgstr ""
+msgstr "Schnappschüsse && Layout"
 
 msgid "Snapshot-taking canceled."
 msgstr "Sicherung abgebrochen."
@@ -1962,8 +2081,9 @@ msgstr "Symbole ordnen"
 msgid "Space"
 msgstr "Leertaste"
 
+#, fuzzy
 msgid "Speed up Windows' built-in Show Desktop functionality (\"WinKey+D\")"
-msgstr ""
+msgstr "Beschleunigung der in Windows integrierten Funktion \"Desktop anzeigen\" (\"WinKey+D\")"
 
 msgid "Stardock Application Services was unable to start. (Unable to register callback.) You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
 msgstr "Stardock Application Services konnte nicht gestartet werden (Callback konnte nicht eingerichtet werden). Möglicherweise müssen Sie das Programm neu installieren. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Stardock Kundenservice."
@@ -1971,8 +2091,9 @@ msgstr "Stardock Application Services konnte nicht gestartet werden (Callback ko
 msgid "Stardock Application Services was unable to start. You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
 msgstr "Stardock Application Services konnte nicht gestartet werden. Möglicherweise müssen Sie das Programm neu installieren. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Stardock Kundenservice."
 
+#, fuzzy
 msgid "Start using Fences"
-msgstr ""
+msgstr "Start mit Fences"
 
 msgid "Start using Fences!"
 msgstr "Fences jetzt verwenden!"
@@ -2001,8 +2122,9 @@ msgstr ""
 "\n"
 " Ihre Fences werden bei dem nächsten Wechsel der Bildschirmauflösung entsprechend skaliert."
 
+#, fuzzy
 msgid "Suffix"
-msgstr ""
+msgstr "Suffix"
 
 msgid "Switch pages by pulling edge of screen with mouse"
 msgstr "Ziehen Sie den Bildschirmrand mit der Maus, um zwischen Seiten zu wechseln."
@@ -2043,14 +2165,17 @@ msgstr "Sicherung vor dem Anwenden erstellen?"
 msgid "Take snapshot before restoring?"
 msgstr "Sicherung vor der Wiederherstellung erstellen?"
 
+#, fuzzy
 msgid "Target-based rules"
-msgstr ""
+msgstr "Zielbasierte Regeln"
 
+#, fuzzy
 msgid "Taskbar Hot-Corner"
-msgstr ""
+msgstr "Taskleiste Hot-Corner"
 
+#, fuzzy
 msgid "Taskbar Icon"
-msgstr ""
+msgstr "Taskleistensymbol"
 
 msgid "Text file"
 msgstr "Textdatei"
@@ -2073,8 +2198,9 @@ msgstr ""
 "\n"
 "Fortgeschrittene Nutzer können nach dem Prozess \"StardockFencesHotkeySupport\" in dem Task-Manager suchen."
 
+#, fuzzy
 msgid "The link's target"
-msgstr ""
+msgstr "Das Ziel des Links"
 
 msgid "The maximum number of rules (%i) have been created. Please delete a rule before creating another."
 msgstr "Die maximale Anzahl an Regeln (%i) wurde erstellt. Löschen Sie zunächst eine Regel, bevor Sie eine neue erstellen."
@@ -2149,14 +2275,16 @@ msgstr "Diese Funktion ist unter Windows XP nicht verfügbar."
 msgid "This feature requires Windows 7 or better."
 msgstr "Diese Funktion erfordert Windows 7 oder neuer."
 
+#, fuzzy
 msgid "This Fence will be reset to match the rest of your Fence groups."
-msgstr ""
+msgstr "Dieser Zaun wird so zurückgesetzt, dass er mit den übrigen Zaungruppen übereinstimmt."
 
 msgid "This will reset {0} to its default factory settings. Continue?"
 msgstr "Hiermit wird {0} auf die Werkseinstellungen zurückgesetzt. Möchten Sie fortfahren?"
 
+#, fuzzy
 msgid "Tidle"
-msgstr ""
+msgstr "Tidle"
 
 msgid "Time-based rules"
 msgstr "Zeitbasierte Regeln"
@@ -2167,8 +2295,9 @@ msgstr "mal"
 msgid "Title:"
 msgstr "Titel:"
 
+#, fuzzy
 msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
-msgstr ""
+msgstr "Um das Aussehen eines bestimmten Zauns anzupassen, wählen Sie einen Zaun aus dem Dropdown-Menü \"Alle Gruppen\" aus und bearbeiten Sie seine Farbeinstellungen mit den üblichen Steuerelementen."
 
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Um die Darstellung eines bestimmten Fence anzupassen, wechseln Sie zu dem \"Anpassen\"-Bereich in den Fences-Einstellungen. Wählen Sie dann den betroffenen Fence über das Dropdown-Menü aus und passen Sie die Farbeinstellungen über die Regler an."
@@ -2218,8 +2347,9 @@ msgstr "Um den in einem Folder Portal angezeigten Ordner schnell zu öffnen, hal
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
 msgstr "Um den Desktop zu entsperren, bestätigen Sie bitte die folgende Aufforderung als Administrator."
 
+#, fuzzy
 msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
-msgstr ""
+msgstr "Um Ihre Abonnementeinstellungen zu aktualisieren, besuchen Sie bitte https://redirects.stardock.com/subscriptions/fences5"
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "Um die Schnell-Verstecken-Funktion von Fences zu verwenden bzw. rückgängig zu machen, doppelklicken Sie auf einen leeren Bereich auf dem Desktop."
@@ -2236,8 +2366,9 @@ msgstr "Durchsichtige Fence-Hintergründe (nur Windows 10)"
 msgid "Transparency:"
 msgstr "Transparenz:"
 
+#, fuzzy
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Fehlerbehebung"
 
 msgid "Turn off sorting?"
 msgstr "Sortieren abschalten?"
@@ -2251,8 +2382,9 @@ msgstr "Ordner konnte nicht erstellt werden. Bitte versuchen Sie es erneut."
 msgid "Unlock desktop"
 msgstr "Desktop entsperren"
 
+#, fuzzy
 msgid "Unlock Desktop"
-msgstr ""
+msgstr "Desktop freischalten"
 
 msgid "Unlock previous purchase"
 msgstr "Vorherigen Kauf freischalten"
@@ -2275,8 +2407,9 @@ msgstr "Verbessern Sie das Aussehen und Verhalten Ihres Desktops"
 msgid "Usage"
 msgstr "Verwendung"
 
+#, fuzzy
 msgid "Use system language"
-msgstr ""
+msgstr "Systemsprache verwenden"
 
 msgid "Use these hotkeys to access your desktop quickly – much faster than the built-in WinKey+D. You can even replace it entirely."
 msgstr "Verwenden Sie diese Tastaturkürzel, um direkt auf Ihren Desktop und schneller als per Stadardkürzel Win+D zuzugreifen. Sie können das Standardkürzel sogar komplett ersetzen."
@@ -2296,14 +2429,17 @@ msgstr "Schnell-Verstecken-Funktion verwenden"
 msgid "Using Roll-up Fences"
 msgstr "Fences einklappen"
 
+#, fuzzy
 msgid "Vanish"
-msgstr ""
+msgstr "Verschwinden"
 
+#, fuzzy
 msgid "Version "
-msgstr ""
+msgstr "Version "
 
+#, fuzzy
 msgid "Version {0}"
-msgstr ""
+msgstr "Version {0}"
 
 msgid "Video file"
 msgstr "Videodatei"
@@ -2311,8 +2447,9 @@ msgstr "Videodatei"
 msgid "Visible only on mouseover"
 msgstr "Nur bei Mouse-Over sichtbar"
 
+#, fuzzy
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
-msgstr ""
+msgstr "Warten auf das Vorhandensein der unter dem Windows-Registrierungsschlüssel {0} angegebenen Config-Datei"
 
 msgid ""
 "Warning: Enabling/disabling Fences is not recommended. If you\n"
@@ -2345,8 +2482,9 @@ msgstr "Web-Links"
 msgid "Web page file"
 msgstr "Webseitendatei"
 
+#, fuzzy
 msgid "Welcome"
-msgstr ""
+msgstr "Willkommen"
 
 msgid "Welcome to Fences®"
 msgstr "Willkommen zu Fences®"
@@ -2372,23 +2510,30 @@ msgstr "Wo sind meine Symbole?"
 msgid "Where did my icons go? No need to worry."
 msgstr "Wo sind meine Symbole? Keine Sorge."
 
+#, fuzzy
 msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
-msgstr ""
+msgstr "Mit Fences können Sie Icons auf Ihrem Desktop gruppieren, von Ihrem Desktop aus auf Ordner zugreifen und vieles mehr. Klicken Sie auf die Funktionen auf der linken Seite, um mehr über die Möglichkeiten von Fences zu erfahren."
 
+#, fuzzy
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
-msgstr ""
+msgstr "Mit Rollup können Sie einen Zaun in seine Titelleiste einklappen, so dass Ihre Symbole gut verstaut sind."
 
+#, fuzzy
 msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
-msgstr ""
+msgstr "Mit Vanish können Sie Ihre Desktop-Symbole schnell aus- und wieder einblenden, indem Sie auf eine freie Stelle auf Ihrem Desktop doppelklicken."
 
 msgid "Work better with Fences"
 msgstr "Arbeiten Sie effektiver mit Fences"
 
+#, fuzzy
 msgid ""
 "Would you like to disable showing Fences in the taskbar?\n"
 "\n"
 "You can re-enable it later from Fences Settings in the Quick Access area."
 msgstr ""
+"Möchten Sie die Anzeige von Fences in der Taskleiste deaktivieren?\n"
+"\n"
+"Sie können sie später in den Zauneinstellungen im Bereich Schnellzugriff wieder aktivieren."
 
 msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
 msgstr "Möchten Sie vor dem Anwenden des Auto-Layouts eine Sicherung Ihrer aktuellen Einstellungen anlegen?"
@@ -2453,8 +2598,9 @@ msgstr "%s ist im klassischen Modus nicht verfügbar und wird möglicherweise fa
 msgid "&View"
 msgstr "&Ansicht"
 
+#, fuzzy
 msgid "(default)"
-msgstr ""
+msgstr "(Standard)"
 
 msgid "(None)"
 msgstr "(keine)"
@@ -2462,8 +2608,9 @@ msgstr "(keine)"
 msgid "(Recommended for advanced users)"
 msgstr "(empfohlen für fortgeschrittene Benutzer)"
 
+#, fuzzy
 msgid "(recommended)"
-msgstr ""
+msgstr "(empfohlen)"
 
 msgid "(Select a criteria type)"
 msgstr "(Wählen Sie ein Kriterium aus)"
@@ -2471,11 +2618,13 @@ msgstr "(Wählen Sie ein Kriterium aus)"
 msgid "(Untitled Fence with %i icons)"
 msgstr "(unbenannter Zaun mit %i Symbole)"
 
+#, fuzzy
 msgid "* Header bar will still show for Folder Portals upon mouseover"
-msgstr ""
+msgstr "* Kopfleiste wird bei Ordnerportalen immer noch angezeigt, wenn man mit der Maus darüber fährt"
 
+#, fuzzy
 msgid "* Labels will still show for Folder Portals upon mouseover"
-msgstr ""
+msgstr "* Beschriftungen werden für Ordnerportale weiterhin beim Mouseover angezeigt"
 
 msgid "* Labels will still show on Folder Portals on mouseover"
 msgstr "* Beschriftungen werden immer noch bei Folder Portals bei Mouse-Over angezeigt"
@@ -2483,14 +2632,17 @@ msgstr "* Beschriftungen werden immer noch bei Folder Portals bei Mouse-Over ang
 msgid "* Log out for language change to take effect"
 msgstr "* Melden Sie sich ab, damit die Sprachänderung wirksam wird"
 
+#, fuzzy
 msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
-msgstr ""
+msgstr "** Demnächst in der Fences 5 Release Preview - Verbesserte Unterstützung für die Verwaltung von Multi-Monitor-Konfigurationen und Andock-/Abkopplungsszenarien."
 
+#, fuzzy
 msgid "{0} are Registered Trademarks of {1}."
-msgstr ""
+msgstr "{0} sind eingetragene Warenzeichen von {1}."
 
+#, fuzzy
 msgid "{0} are Trademarks of {1}."
-msgstr ""
+msgstr "{0} sind Warenzeichen von {1}."
 
 msgid "{0} days left in your free trial"
 msgstr "{0}Tage Testzeit übrig"
@@ -2498,8 +2650,9 @@ msgstr "{0}Tage Testzeit übrig"
 msgid "{0} days remain before deactivation"
 msgstr "{0} Tage verbleiben bis zur Deaktivierung"
 
+#, fuzzy
 msgid "{0} is a Registered Trademark of {1}."
-msgstr ""
+msgstr "{0} ist ein eingetragenes Warenzeichen von {1}."
 
 msgid "●  Double click on a Fence group's titlebar to roll it up"
 msgstr "●  Doppelklicken Sie auf die Titelleiste eines Fence, um ihn einzuklappen"
