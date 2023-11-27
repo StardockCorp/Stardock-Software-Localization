@@ -1,0 +1,2676 @@
+# Stardock Fences Localization File
+msgid ""
+msgstr ""
+"Project-Id-Version: Fences 5\n"
+"POT-Creation-Date: 2023-11-22 00:10-08:00\n"
+"PO-Revision-Date: 2023-11-22 22:01-0800\n"
+"Last-Translator: Stardock Community\n"
+"Language-Team: Stardock Community\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "a file"
+msgstr "un fichier"
+
+msgid "a folder"
+msgstr "un dossier"
+
+msgid "A folder cannot be created inside of this folder. Please try again."
+msgstr "Impossible de créer un dossier à l'intérieur de ce dossier. Veuillez ressayer, SVP."
+
+msgid "A Folder Portal's title always shows the name of the folder it contains. To set a custom title, navigate to the root folder of the portal and try again. Your customization will stick."
+msgstr "Le titre d'un Folder Portal affiche toujours le nom du dossier qu'il contient. Pour définir un titre personnalisé, accédez au dossier racine du portail et réessayez. Votre personnalisation va rester."
+
+msgid "A newer version is already installed"
+msgstr "Une version plus récente est déjà installée"
+
+msgid "a program shortcut"
+msgstr "un raccourci de programme"
+
+msgid "a system icon"
+msgstr "une icône système"
+
+msgid "A tip..."
+msgstr "Un conseil..."
+
+msgid "About"
+msgstr "A propos de"
+
+#, fuzzy
+msgid ""
+"Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
+"\n"
+msgstr ""
+"Accédez à plusieurs écrans d'icônes en saisissant et en tirant le bord de votre écran, comme sur votre téléphone portable. Utilisez-les pour séparer les différentes parties de votre vie informatique.\n"
+"\n"
+
+#, fuzzy
+msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
+msgstr "Accédez au contenu de n'importe quel dossier directement depuis le bureau dans une vue en direct entièrement personnalisable."
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "Activate enterprise license"
+msgstr "Activer licence d'entreprise"
+
+msgid "Activation successful."
+msgstr "Activation réussie."
+
+#, fuzzy
+msgid "Add \"Show Fences\" icon to my taskbar"
+msgstr "Ajouter l'icône \"Afficher les Fences\" à ma barre des tâches"
+
+msgid "Add / Remove"
+msgstr "Ajouter / Supprimer"
+
+msgid "Add a Custom Rule..."
+msgstr "Ajouter une règle personnalisée..."
+
+msgid "Add additional criteria..."
+msgstr "Ajouter des critères supplémentaires..."
+
+msgid "Add another rule..."
+msgstr "Ajouter une autre règle..."
+
+msgid "Add new icons as the first icon in the target Fence"
+msgstr "Ajouter de nouvelles icônes comme première icône dans l'fences-cible"
+
+msgid "Add rule..."
+msgstr "Ajouter règle..."
+
+msgid "Additional options"
+msgstr "Autres options"
+
+msgid "Additional settings"
+msgstr "Paramètres supplémentaires"
+
+msgid "Additional Tweaks"
+msgstr "Ajustements additionnels"
+
+msgid "Adjust a Fence"
+msgstr "Ajuster un Fence"
+
+msgid "Adjust the appearance of individual Fence groups"
+msgstr "Ajuster apparence d'fences individuels"
+
+msgid "Adjust the transparency of an individual Fence"
+msgstr "Ajuster la transparence d'un Fence individuel"
+
+msgid "Adjust the transparency of desktop icons"
+msgstr "Ajuster la transparence des icônes du bureau"
+
+#, fuzzy
+msgid "Adjust title font color"
+msgstr "Ajuster la couleur de la police du titre"
+
+#, fuzzy
+msgid "Adjust title text font/color"
+msgstr "Ajuster la police/couleur du texte du titre"
+
+msgid "after"
+msgstr "après"
+
+msgid "After 1 second"
+msgstr "Après 1 seconde"
+
+msgid "After 10 minutes"
+msgstr "Au bout de 10 minutes"
+
+msgid "After 2 minutes"
+msgstr "Au bout de 2 minutes"
+
+msgid "After 30 seconds"
+msgstr "Au bout de 30 secondes"
+
+msgid "Align icons to grid"
+msgstr "Aligner icônes sur la grille"
+
+msgid "All Fence groups"
+msgstr "Tous les Fences"
+
+#, fuzzy
+msgid "All groups"
+msgstr "Tous les groupes"
+
+msgid "All new icons"
+msgstr "Toutes les nouvelles icônes"
+
+msgid "Allow drag && drop from the desktop"
+msgstr "Permettre glisser && déposer du bureau"
+
+msgid "Allow me to place icons on as many pages as I want"
+msgstr "Me permettre de placer des icônes sur autant de pages que je le souhaite"
+
+msgid "Allow navigation"
+msgstr "Permettre navigation"
+
+#, fuzzy
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Always"
+msgstr "Toujours"
+
+msgid "Always show icons at startup"
+msgstr "Toujours afficher les icônes au démarrage"
+
+msgid "Always use this answer"
+msgstr "Toujours utiliser cette réponse"
+
+msgid "An update to Fences is available!"
+msgstr "Il y a une mise à jour de Fences® de disponible !"
+
+msgid "Analytics"
+msgstr "Analyses"
+
+msgid "and"
+msgstr "et"
+
+msgid "Animate icons when they move"
+msgstr "Animer les icônes lorsqu'elles se déplacent"
+
+msgid "Animate the page-switching"
+msgstr "Animer la commutation de page"
+
+msgid "Apply a custom look to your Fence groups"
+msgstr "Appliquer un look personnalisé à vos Fences"
+
+msgid ""
+"Apply a layout to help get started.\n"
+"Recommended for most users, easy to undo."
+msgstr ""
+"Appliquez une mise en page pour vous aider à démarrer.\n"
+"Recommandé pour la plupart des utilisateurs, facile à annuler."
+
+msgid "Apply rules now"
+msgstr "Appliquer règles maintenant"
+
+msgid "Apply rules now to existing icons"
+msgstr "Appliquer les règles maintenant aux icônes existantes"
+
+msgid ""
+"Are you sure you want to always force your icons to follow the rules defined above?\n"
+"\n"
+"Using rules in this way might undesirably move icons between Fence groups.\n"
+"It is recommended you take a snapshot before proceeding.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Êtes-vous sûr de vouloir toujours forcer vos icônes à suivre les règles définies ci-dessus ?\n"
+"\n"
+"L'utilisation de règles de cette façon pourrait déplacer des icônes entre les Fences de manière non souhaitée.\n"
+"Il est recommandé de prendre un instantané avant de continuer.\n"
+"\n"
+"Poursuivre ?"
+
+msgid "Are you sure you want to delete this snapshot?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet instantané ?"
+
+msgid "Are you sure you want to remove this Fence and send its contents to the Recycle Bin?"
+msgstr "Êtes-vous sûr de vouloir enlever cet Fences et envoyer son contenu à la corbeille ?"
+
+msgid "Are you sure you want to remove this Fence?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet Fences ?"
+
+msgid "Are you sure you want to remove this rule?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette règle ?"
+
+msgid "Are you sure you want to reset the appearance of all Fence groups?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser l'apparence de tous les Fences ?"
+
+#, fuzzy
+msgid "Are you sure you want to reset this group's custom color?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser la couleur personnalisée de ce groupe ?"
+
+msgid "Are you sure you want to reset this rule back to its default criteria?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser cette règle à ses critères par défaut ?"
+
+msgid ""
+"Are you sure you want to run all rules now?\n"
+"\n"
+"Running the rules might undesirably move icons between Fence groups. It is recommended you take a snapshot before proceeding.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Êtes-vous sûr de vouloir exécuter toutes les règles maintenant ?\n"
+"\n"
+"Exécuter les règles pourrait déplacer des icônes malencontreusement entre des Fences. Il est recommandé de prendre un instantané avant de continuer.\n"
+"\n"
+"Poursuivre ?"
+
+msgid "Are you sure you'd like to reset your per-Fence customized settings?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser vos paramètres personnalisés par Fences ?"
+
+msgid "at least"
+msgstr "au moins"
+
+msgid "at the start of the Fence"
+msgstr "au début de l'fences"
+
+msgid "Audio file"
+msgstr "Fichier audio"
+
+msgid "August 29, 1984"
+msgstr "Le 29 août 1984"
+
+msgid "Auto arrange icons"
+msgstr "Auto-arranger les icônes"
+
+msgid "Auto organizing"
+msgstr "Auto-organisation en cours"
+
+msgid "Automatically hide icons when desktop is not in use"
+msgstr "Masquer automatiquement les icônes lorsque le bureau n'est pas utilisé"
+
+msgid "Automatically show icons when desktop is in use"
+msgstr "Masquer automatiquement les icônes lorsque le bureau est utilisé"
+
+msgid "Automatically show icons when drag/dropping to the desktop"
+msgstr "Afficher automatiquement les icônes lors du glisser/déposer vers le bureau"
+
+#, fuzzy
+msgid "Automatically sort icons into groups based on their name, file type, or other criteria."
+msgstr "Trier automatiquement les icônes en groupes en fonction de leur nom, du type de fichier ou d'autres critères."
+
+msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
+msgstr "Prendre automatiquement des instantanés de sauvegarde journalière (les 3 derniers jours seront conservés)"
+
+msgid "Available rules:"
+msgstr "Règles disponibles :"
+
+#, fuzzy
+msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
+msgstr "En attente d'un chemin d'accès au fichier de configuration spécifié dans {0}, ou de l'application de la configuration via {1}"
+
+#, fuzzy
+msgid "Awaiting license file in {0}"
+msgstr "Attente du fichier de licence dans {0}"
+
+msgid "Background Color"
+msgstr "Couleur Arrière-plan"
+
+#, fuzzy
+msgid "Background Style"
+msgstr "Style d'arrière plan"
+
+msgid "Basic options"
+msgstr "Options de base"
+
+msgid "before"
+msgstr "avant"
+
+msgid ""
+"Below, you can define rules that will govern where new icons are placed.\n"
+"Sample rules are provided or you can create your own - click \"Add rule...\" to get started!"
+msgstr ""
+"Ci-dessous, vous pouvez définir les règles qui régiront l'emplacement des nouvelles icônes.\n"
+"Des exemples de règles sont fournis ou vous pouvez créer les vôtres - cliquez sur « Ajouter règle...» pour commencer !"
+
+msgid "between"
+msgstr "entre"
+
+#, fuzzy
+msgid "Blend"
+msgstr "Mélange"
+
+#, fuzzy
+msgid "Blend background into wallpaper with Chameleon"
+msgstr "Transformer l'arrière-plan en papier peint avec Chameleon"
+
+#, fuzzy
+msgid "Blend icons into wallpaper"
+msgstr "Incorporer des icônes au papier peint"
+
+#, fuzzy
+msgid "Blend icons into wallpaper with Chameleon"
+msgstr "Mélangez des icônes à du papier peint avec Chameleon"
+
+#, fuzzy
+msgid "Blend into wallpaper with Chameleon"
+msgstr "Se fondre dans le papier peint avec Chameleon"
+
+#, fuzzy
+msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
+msgstr "Incorporez vos icônes à votre fond d'écran et profitez d'une toute nouvelle tranquillité d'esprit."
+
+#, fuzzy
+msgid "Blue Fence area backgrounds"
+msgstr "Arrière-plans de la zone de la Fence bleue"
+
+#, fuzzy
+msgid "Blur background"
+msgstr "Flouter le fond"
+
+#, fuzzy
+msgid "Blur group area background"
+msgstr "Flouter l'arrière-plan de la zone de groupe"
+
+#, fuzzy
+msgid "Brightness:"
+msgstr "Luminosité:"
+
+msgid "By creating program..."
+msgstr "En créant un programme..."
+
+msgid "By Default,"
+msgstr "Par défaut,"
+
+msgid "By default..."
+msgstr "Par défaut..."
+
+msgid "By file-size..."
+msgstr "Par taille de fichier..."
+
+msgid "By last-modified..."
+msgstr "Par dernière modification..."
+
+msgid "By link target..."
+msgstr "Par cible de lien..."
+
+msgid "By name..."
+msgstr "Par le nom..."
+
+msgid "By the day of the week..."
+msgstr "Par le jour de la semaine..."
+
+msgid "by the program"
+msgstr "par le programme"
+
+msgid "By the time of the day..."
+msgstr "Par l'heure du jour..."
+
+msgid "By type..."
+msgstr "Par le type..."
+
+msgid "By usage count..."
+msgstr "Par le compte d'utilisation..."
+
+msgid "Bytes"
+msgstr "Octets"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Cannot perform an auto-layout while Fences is not enabled."
+msgstr "Impossible d'exécuter une mise en page automatique tant que Fences® n'est pas activé."
+
+msgid "Cannot restore snapshots while Fences is not enabled."
+msgstr "Impossible de restaurer des instantanés tant que Fences® n'est pas activé."
+
+msgid "Cannot take snapshot while Fences is not enabled."
+msgstr "Impossible de prendre un instantané tant que Fences® n'est pas activé."
+
+msgid "Change / resize the font used in Fences' labels"
+msgstr "Changer / redimensionner la police utilisée dans les labels de Fences®"
+
+msgid "Change color"
+msgstr "Changer couleur"
+
+msgid "Change Fence Order"
+msgstr "Modifier Ordre Fences"
+
+msgid "Change font"
+msgstr "Changer police"
+
+msgid "Change Rules Order"
+msgstr "Modifier ordre des règles"
+
+msgid "Change the order in which rules are applied"
+msgstr "Modifier ordre d'application des règles"
+
+msgid "Change the order in which your rules are applies by choosing a rule below and using the up/down arrows."
+msgstr "Modifier l'ordre d'application de vos règles en sélectionnant une règle ci-dessous et en utilisant les flèches haut/bas."
+
+msgid "Check for updates"
+msgstr "Voir s'il existe des mises à jour"
+
+msgid "Choose a color for your Fence groups, and adjust Fence labels to suit your tastes."
+msgstr "Choisissez une couleur pour vos Fences et ajustez les labels des Fences à votre goût."
+
+msgid "Choose a default Fence for new icons, or automatically place icons in Fences by name, size, filetype, or a variety of customizable criteria."
+msgstr "Choisissez un Fences par défaut pour les nouvelles icônes, ou placez automatiquement des icônes dans les Fences par nom, taille, type de fichier ou une variété de critères personnalisables."
+
+msgid "Choose a different folder"
+msgstr "Choisir un autre dossier"
+
+msgid "Choose a different folder..."
+msgstr "Choisir un autre dossier..."
+
+msgid "choose a Fence..."
+msgstr "Choisir un Fence..."
+
+msgid "Choose a folder to place this Fence into"
+msgstr "Choisir un dossier où placer cet Fences"
+
+msgid "Choose a Layout"
+msgstr "Choisir une mise en page"
+
+msgid ""
+"Choose a layout to help get me started\n"
+"(Recommended for most users, easy to undo)"
+msgstr ""
+"Choisir une mise en page pour m'aider à démarrer\n"
+"(Recommandé pour la plupart des utilisateurs)"
+
+msgid "Choose folder"
+msgstr "Choisir dossier"
+
+msgid "Choose from more icon types..."
+msgstr "Choisir parmi d'autres types d'icônes..."
+
+msgid "Choose layout"
+msgstr "Choisir mise en page"
+
+msgid "Choose Resolution"
+msgstr "Choisir Résolution"
+
+msgid "Classic icons"
+msgstr "Icônes classiques"
+
+msgid "Click && drag the edge or titlebar of a Fence group to move or resize."
+msgstr "Cliquer && glisser le bord ou la barre de titre d'un Fence pour déplacer ou redimensionner."
+
+msgid "Close"
+msgstr "Fermer"
+
+#, fuzzy
+msgid "Color customization is unavailable with Chameleon"
+msgstr "La personnalisation des couleurs n'est pas possible avec Chameleon"
+
+msgid "Color intensity:"
+msgstr "Intensité de couleur :"
+
+msgid "Compatibility issue found..."
+msgstr "Rencontré problème de compatibilité..."
+
+msgid "Compatibiliy issue found..."
+msgstr "Rencontré problème de compatibilité..."
+
+msgid "Compressed file"
+msgstr "Fichier comprimé"
+
+#, fuzzy
+msgid "Config Import / Export"
+msgstr "Config Import / Export"
+
+msgid "Configure Fences"
+msgstr "Configurer Fences®"
+
+#, fuzzy
+msgid "Configure Fences..."
+msgstr "Configurer les Fences..."
+
+msgid "contains"
+msgstr "contient"
+
+#, fuzzy
+msgid "Control"
+msgstr "Contrôle"
+
+msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
+msgstr "Accédez facilement à n'importe quel dossier depuis un Fence, avec le style de visualisation de votre choix."
+
+#, fuzzy
+msgid "Copy color"
+msgstr "Couleur de la copie"
+
+#, fuzzy
+msgid "Copy Fence color"
+msgstr "Copier la couleur de la Fence"
+
+msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
+msgstr "Copyright © {0}-{1} {2}. Tous droits réservés."
+
+msgid "Create a Fence™"
+msgstr "Créer un Fence"
+
+msgid "Create Fence from a Folder"
+msgstr "Créer Fences à partir d'un dossier"
+
+msgid "Create Fence groups with left and right mouse buttons"
+msgstr "Créer des Fences avec les boutons gauche et droit de la souris"
+
+msgid "Create Fence groups with left mouse button only"
+msgstr "Créer des Fences avec le seul bouton gauche de la souris"
+
+msgid "Create Fence groups with right mouse button only"
+msgstr "Créer des Fences avec le seul bouton droit de la souris"
+
+msgid "Create Fence® from these icons"
+msgstr "Créer un Fence à partir de ces icônes"
+
+msgid "Create Fence® here"
+msgstr "Créer un Fence ici"
+
+msgid "Create Folder"
+msgstr "Créer Dossier"
+
+msgid "Create Folder Portal™ %1"
+msgstr "Créer Folder Portal™ %1"
+
+msgid "Create Folder Portal™ groups with Alt + Drag/Drop"
+msgstr "Créer Folder Portal™ par Alt + Glisser/Déposer"
+
+msgid "Create Folder Portal™ here"
+msgstr "Créer Folder Portal™ ici"
+
+msgid "Create new Fence from these icons"
+msgstr "Créer un nouvel Fences à partir de ces icônes"
+
+msgid "Create new Fence here"
+msgstr "Créer un nouvel Fences ici"
+
+msgid ""
+"Creates 2 empty Fence groups for you to start using\n"
+"(Recommended for most casual users)"
+msgstr ""
+"Crée 2 Fences vides pour que vous puissiez démarrer l'utilisation\n"
+"((Recommandé pour la plupart des utilisateurs occasionnels)"
+
+msgid "Custom rules"
+msgstr "Règles personnalisées"
+
+msgid "Customization Extras"
+msgstr "Options de personnalisation"
+
+msgid "Customize"
+msgstr "Personnaliser"
+
+#, fuzzy
+msgid "Customize icon"
+msgstr "Personnaliser l'icône"
+
+msgid "Customize your Fence groups"
+msgstr "Personnalisez vos Fences"
+
+#, fuzzy
+msgid "Customize your Fence groups' background color & style."
+msgstr "Personnalisez la couleur et le style de l'arrière-plan de vos groupes de Fence."
+
+msgid "Customize..."
+msgstr "Personnaliser..."
+
+msgid "Customizing your Folder Portal groups"
+msgstr "Personnaliser vos Folder Portals"
+
+msgid "Daily Snapshot"
+msgstr "Instantané quotidien"
+
+msgid "Darken Fence area title bars"
+msgstr "Assombrir les barres de titre de la zone Fence"
+
+#, fuzzy
+msgid "Darken titlebar areas"
+msgstr "Assombrir les zones de la barre de titre"
+
+msgid "Date added to Fence"
+msgstr "Date d'ajout à Fences"
+
+msgid "Date created"
+msgstr "Date de création"
+
+msgid "Date modified"
+msgstr "Date de modification"
+
+msgid "Date Taken:"
+msgstr "Date de prise :"
+
+msgid "days left in your free trial"
+msgstr "jours restants pour votre essai gratuit"
+
+msgid "Delete rule..."
+msgstr "Effacer règle..."
+
+msgid "Delete Snapshot"
+msgstr "Effacer Instantané"
+
+msgid "Delete this rule"
+msgstr "Effacer cette règle"
+
+msgid "Description:"
+msgstr "La description:"
+
+msgid "Designed and developed by {0}."
+msgstr "Conçu et développé par {0}."
+
+msgid "Desktop Files"
+msgstr "Fichiers de bureau"
+
+msgid "Desktop lock did not complete."
+msgstr "Le verrouillage du bureau ne s'est pas terminé."
+
+msgid "Desktop locked. It will remain locked until you unlock it."
+msgstr "Verrouillage du bureau terminé. Il restera verrouillé jusqu'à ce que vous le déverrouilliez."
+
+msgid "Desktop Pages"
+msgstr "Pages de bureau"
+
+msgid "Desktop quick-hide"
+msgstr "Masquage rapide du bureau"
+
+msgid "Desktop quick-hide activated"
+msgstr "Masquage rapide du bureau activé"
+
+msgid "Desktop Shortcuts"
+msgstr "Raccourcis Bureau"
+
+msgid "Desktop unlock did not complete."
+msgstr "Le déverrouillage du bureau ne s'est pas terminé."
+
+msgid "Desktop unlocked until the next reboot, or until you re-lock the desktop."
+msgstr "Bureau déverrouillé jusqu'au prochain redémarrage ou jusqu'à ce que vous reverrouilliez le bureau."
+
+msgid "Desktop unlocked. It will remain unlocked until you lock it again."
+msgstr "Bureau déverrouillé. Il restera déverrouillé jusqu'à ce que vous le reverrouilliez."
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Details (Large)"
+msgstr "Détails (Grand)"
+
+msgid "Disable per-Fence transparency"
+msgstr "Désactiver transparence par Fences"
+
+msgid "Disable snapping at any time by holding shift"
+msgstr "Désactivez l'enclenchement à tout moment par maintien de la touche Shift"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+#, fuzzy
+msgid "Do nothing"
+msgstr "Ne rien faire"
+
+msgid "Do you want to remove all of your Fences settings and saved backups?"
+msgstr "Voulez-vous supprimer tous les paramètres et les sauvegardes sauvegardées d'fences ?"
+
+#, fuzzy
+msgid "Document"
+msgstr "Document"
+
+#, fuzzy
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Does not apply to Folder Portals"
+msgstr "Ne s'applique pas aux Folder Portals"
+
+msgid "does not contain"
+msgstr "ne contient pas"
+
+msgid "does not end with"
+msgstr "ne se termine pas par"
+
+msgid "does not start with"
+msgstr "ne commence pas par"
+
+msgid "Done"
+msgstr "Terminé"
+
+msgid "Don't preserve my desktop layout"
+msgstr "Ne pas garder ma mise en page de bureau"
+
+msgid "Don't show this message again"
+msgstr "Ne plus réafficher ce message"
+
+msgid "Double click Fence titlebar to roll up"
+msgstr "Double-cliquez sur la barre de titre de l'fences pour l'enrouler"
+
+msgid ""
+"Double clicking a Fence group's titlebar will cause it to roll-up into its titlebar, saving you space.\n"
+"\n"
+"Move your mouse over to reveal the Fence, or double-click again to disable. Move Fence to edge of screen to dock to the edge of the screen."
+msgstr ""
+"Un double-clic sur la barre de titre d'un Fence le fera s'enrouler dans sa barre de titre, ce qui vous fera gagner de l'espace.\n"
+"\n"
+"Déplacez votre souris pour afficher l'fences, ou double-cliquez à nouveau pour le désactiver. Déplacez l'fences jusqu'au bord de l'écran pour l'amarrer au bord de l'écran."
+
+msgid "Double clicking will roll-up your Fence!"
+msgstr "Un double clic fera s'enrouler votre Fences !"
+
+msgid "Downloads"
+msgstr "Téléchargements"
+
+msgid "Draw a rectangle on your desktop and choose \"Create Fence\"."
+msgstr "Dessinez un rectangle sur votre bureau et choisissez « Créer Fences »."
+
+msgid "Edit a Rule"
+msgstr "Modifier une Règle"
+
+#, fuzzy
+msgid "Edit background color"
+msgstr "Modifier la couleur d'arrière-plan"
+
+#, fuzzy
+msgid "Edit Background Color"
+msgstr "Modifier la couleur d'arrière-plan"
+
+#, fuzzy
+msgid "Edit color..."
+msgstr "Modifier la couleur..."
+
+#, fuzzy
+msgid "Edit Fence color..."
+msgstr "Modifier la couleur de la Fence..."
+
+#, fuzzy
+msgid "Edit Fence Style"
+msgstr "Modifier le style de Fence"
+
+#, fuzzy
+msgid "Edit title font"
+msgstr "Modifier la police du titre"
+
+#, fuzzy
+msgid "Edit title font color"
+msgstr "Modifier la couleur de la police du titre"
+
+msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
+msgstr "Activer les icônes « clignotantes » dans les Fences (destiné aux systèmes tactiles activés)"
+
+msgid "Enable advanced crash reporting"
+msgstr "Activer les rapports d'incident avancés"
+
+#, fuzzy
+msgid "Enable Chameleon"
+msgstr "Activer le Chameleon"
+
+#, fuzzy
+msgid "Enable crash reporting"
+msgstr "Activer le signalement des accidents"
+
+msgid "Enable Fences"
+msgstr "Activer Fences®"
+
+#, fuzzy
+msgid "Enable Pages"
+msgstr "Activer les pages"
+
+msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
+msgstr "Activer le triage à l'intérieur d'fences individuels (par nom, type, taille, etc.)"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "ends with"
+msgstr "se termine par"
+
+msgid "Enter title"
+msgstr "Saisir titre"
+
+#, fuzzy
+msgid "Enterprise Distribution Testing Tools"
+msgstr "Outils de test de la distribution en entreprise"
+
+#, fuzzy
+msgid "Enterprise Edition"
+msgstr "Edition pour entreprise"
+
+msgid "Exclude Fence groups docked to edge of the screen"
+msgstr "Exclure Fences amarrés en bord d'écran"
+
+#, fuzzy
+msgid "Exclude from quick-hide"
+msgstr "Exclure du masquage rapide"
+
+msgid "Exclude this Fence group from quick-hide"
+msgstr "Exclure cet Fences d'un masquage rapide"
+
+msgid "Exclude this icon from Fences' quick-hide"
+msgstr "Exclure cette icône du masquage rapide de Fences®"
+
+msgid "Executable file"
+msgstr "Fichier exécutable"
+
+msgid "Exit"
+msgstr "Quitter"
+
+#, fuzzy
+msgid "Export Config to File"
+msgstr "Exporter la configuration vers un fichier"
+
+msgid "Extra large icons"
+msgstr "Icônes très très grandes"
+
+msgid "Fade-in faded Fence groups when the mouse is over them"
+msgstr "Faire réapparaître les Fences au passage de la souris par-dessus"
+
+msgid ""
+"Failed to deactivate the local machine.\n"
+"\n"
+"If you need assistance, please contact us at support@stardock.com"
+msgstr ""
+"Désactivation de la machine locale a raté.\n"
+"\n"
+"Si vous avez besoin d'aide, veuillez nous contacter via support@stardock.com"
+
+msgid "Fence Name"
+msgstr "Nom Fences"
+
+#, fuzzy
+msgid "Fences Color"
+msgstr "Couleur des Fences"
+
+msgid ""
+"Fences deactivated this session.\n"
+"\n"
+"Please reboot before attempting to reactivate."
+msgstr ""
+"Fences ont désactivé cette session.\n"
+"\n"
+"Veuillez SVP redémarrer avant d'essayer de réactiver."
+
+msgid ""
+"Fences detected that Explorer was not closed properly.\n"
+"As a precaution, Fences was temporarily disabled.\n"
+"\n"
+"Would you like to re-enable Fences now?"
+msgstr ""
+"Fences a détecté que Explorer n'était pas fermé correctement.\n"
+"Par mesure de précaution, Fences a été temporairement désactivé.\n"
+"\n"
+"Souhaitez-vous réactiver Fences maintenant ?"
+
+msgid ""
+"Fences does not appear to be loaded.\n"
+"\n"
+"Cannot restore inital layout at this time."
+msgstr ""
+"Fences® ne semble pas être chargé.\n"
+"\n"
+"Impossible de restaurer la mise en page initiale pour le moment."
+
+msgid ""
+"Fences does not appear to be loaded.\n"
+"\n"
+"You may need to reinstall Fences."
+msgstr ""
+"Fences® ne semble pas être chargé.\n"
+"\n"
+"Il se pourrait que vous deviez réinstaller Fences®."
+
+msgid ""
+"Fences Folder Portals™ are unavailable in classic mode.\n"
+"Please enable Aero to use this feature."
+msgstr ""
+"La fonctionnalité de Folder Portals™ de Fences® n'est pas disponible en mode classique.\n"
+"Veuillez SVP activer Aero pour utiliser cette fonction."
+
+#, fuzzy
+msgid ""
+"Fences has detected that Explorer was not closed properly.\n"
+"As a precaution, Fences has been temporarily disabled.\n"
+"\n"
+"To re-enable Fences, open Fences' Settings and choose\n"
+"\"Enable Fences\"."
+msgstr ""
+"Fences a détecté qu'Explorer n'a pas été fermé correctement.\n"
+"Par mesure de précaution, Fences a été temporairement désactivé.\n"
+"\n"
+"Pour réactiver Fences, ouvrez les paramètres de Fences et choisissez\n"
+"\"Activer Fences\"."
+
+msgid ""
+"Fences has detected that Explorer was not closed properly.\n"
+"As a precaution, Fences has been temporarily disabled.\n"
+"\n"
+"To re-enable Fences, right click your desktop and choose\n"
+"\"Enable Fences\"."
+msgstr ""
+"Fences® a détecté qu'Explorer n'a pas été fermé correctement.\n"
+"Par mesure de précaution, Fences® a été désactivé temporairement.\n"
+"\n"
+"Pour réactiver Fences®, cliquez avec le bouton droit de la souris sur\n"
+"votre bureau et choisissez « Activer Fences® »."
+
+msgid "Fences has detected that its integrity has been compromised. There may be a problem with your Fences installation. It is recommended you uninstall and reinstall Fences."
+msgstr "Fences® a détecté que son intégrité a été compromise. Il se peut qu'il y ait un problème avec l'installation de votre Fences®. Il est recommandé de désinstaller et réinstaller Fences®."
+
+msgid "Fences has not been activated."
+msgstr "Fences® n'a pas pas été activé."
+
+msgid ""
+"Fences is currently disabled.\n"
+"\n"
+"Would you like to re-enable Fences?"
+msgstr ""
+"Fences® est actuellement désactivé.\n"
+"\n"
+"Voulez-vous réactiver Fences® ?"
+
+msgid ""
+"Fences is currently disabled.\n"
+"It must be enabled to restore your inital snapshot, however enabling Fences will first revert your icons' positions to where they were when Fences was last loaded. This may not be desired.\n"
+"\n"
+"Do you want to continue with the restore anyways?"
+msgstr ""
+"Fences® est actuellement désactivé.\n"
+"Il doit être activé pour restaurer votre instantané initial, cependant l'activation de Fences® commencera par revenir vos icônes aux positions qu'elles avaient lors du dernier chargement de Fences®. Cela n'est peut-être pas ce que vous souhaitez.\n"
+"\n"
+"Voulez-vous poursuivre la restauration de toute façon ?"
+
+msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"Tools\", press the link for \"More Tools...\", and uncheck \"Enable Fences\" then reboot."
+msgstr "Fences® n'est pas compatible avec DeskScapes sous Windows XP. Veuillez, SVP, aller dans « Outils », cliquez sur le lien « Autres Outils... », décochez « Activer Fences® » puis redémarrez."
+
+#, fuzzy
+msgid "Fences is not yet loaded."
+msgstr "Fences n'est pas encore chargé."
+
+msgid ""
+"Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
+"\n"
+"Kiosk Mode works on a per-user basis and will lock the desktop through reboots, until it is next unlocked. Fences will ask for administrator access when locking and unlocking the desktop, ensuring that only authorized users have access to control the desktop.\n"
+"\n"
+"Kiosk Mode should be used as part of your complete system lock-down plan, and should not replace proper file system access controls and other such protections."
+msgstr ""
+"Le Mode Kiosque de Fences® vous aide à protéger la mise en page & le contenu de votre bureau contre les changements, ce qui peut être utile dans les environnements multiutilisateurs.\n"
+"\n"
+"Le mode Kiosque fonctionne par utilisateur et verrouille le bureau par redémarrage jusqu'à ce qu'il soit déverrouillé. Fences® demandera un accès de type administrateur lors du verrouillage et du déverrouillage du bureau, en s'assurant que seuls les utilisateurs autorisés ont accès au contrôle du bureau.\n"
+"\n"
+"Le Mode Kiosque doit être utilisé dans le cadre de votre plan de verrouillage complet du système et ne devrait pas remplacer les contrôles d'accès au système de fichiers et autres protections appropriées."
+
+msgid "Fences license validation failed. Try again?"
+msgstr "La validation de la licence de Fences® a échoué. Réessayer ?"
+
+msgid ""
+"Fences needs a reboot in order to finish installation.\n"
+"Please reboot your computer to use Fences."
+msgstr ""
+"Fences® requiert un redémarrage pour terminer l'installation.\n"
+"Veuillez SVP redémarrer votre ordinateur pour utiliser Fences®."
+
+msgid "Fences noticed that you moved an icon within a sorted Fence. Would you like to disable sorting in that Fence so you can move icons freely within it?"
+msgstr "Fences® a remarqué que vous avez déplacé une icône dans un Fence trié. Voudriez-vous désactiver le tri dans cet Fences pour pouvoir déplacer librement les icônes qui s'y trouvent ?"
+
+msgid "Fences OEM Layout Builder"
+msgstr "OEM Layout Builder de Fences®"
+
+msgid "Fences' Preferences experienced an error, please try again."
+msgstr "Les préférences de Fences® ont subi une erreur, veuillez réessayer."
+
+msgid "Fences Rules"
+msgstr "Règles de Fences®"
+
+msgid "Fences Uninstall"
+msgstr "Désinstallation de Fences®"
+
+msgid "Fences Update Available"
+msgstr " Il y a une Mise à jour pour Fences® de disponible"
+
+msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
+msgstr "Fences® a été conçu pour vous aider à utiliser votre bureau. Pour vous aider à démarrer, Fences® peut créer quelques Fences de départ et procéder à un nettoyage rapide de votre bureau."
+
+msgid "Fences: \"Times Opened\" sorting information"
+msgstr "Fences® : Tri informations « Nombre de fois ouvert »"
+
+msgid "Fences: Compatibility issue found..."
+msgstr " Fences® : Rencontré problème de compatibilité..."
+
+msgid "Fences: Turn off sorting?"
+msgstr "Fences® : Désactiver le tri ?"
+
+#, fuzzy
+msgid "Fence™ is a Trademark of {0}."
+msgstr "Fence™ est une marque déposée de {0}."
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "File size"
+msgstr "Taille de fichier"
+
+msgid "File was created"
+msgstr "Fichier a été créé"
+
+msgid "files"
+msgstr "fichiers"
+
+msgid "Files & Documents"
+msgstr "Fichiers & Documents"
+
+msgid "Fine tune Fences' rules to the exact criteria that suits your needs."
+msgstr "Peaufiner les règles de Fences® aux critères précis qui correspondent à vos besoins."
+
+msgid "Fine tune the look, feel and behavior of your Fence groups"
+msgstr "Peaufinez l'apparence, la sensation et le comportement de vos Fences"
+
+msgid "First-Use Snapshot"
+msgstr "Instantané de Première Utilisation"
+
+msgid "FlickSensitivity"
+msgstr "Sensibilité du zap"
+
+msgid "Folder to create"
+msgstr "Dossier à créer"
+
+msgid "Folders"
+msgstr "Dossiers"
+
+msgid "For extra-messy desktops, performs a one-time sorting of shortcuts, files, and folders into Fence groups"
+msgstr " Effectue, dans le cas de bureaux extrêmement encombrés, un tri unique des raccourcis, fichiers et dossiers dans les Fences"
+
+msgid "Fully visible"
+msgstr "Entièrement visible"
+
+msgid "General Desktop (No Fence)"
+msgstr "Bureau Principal (Pas d'fences)"
+
+msgid "Getting started"
+msgstr "Démarrer"
+
+msgid "Getting started with Fences"
+msgstr "Démarrer avec Fences®"
+
+msgid "Give snapshot a name"
+msgstr "Donnez un nom à l'instantané"
+
+msgid "go to"
+msgstr "aller "
+
+msgid "Go to Website"
+msgstr "Aller au site Web"
+
+msgid "Hide and show your desktop icons instantly with a double-click."
+msgstr "Masquez et affichez instantanément les icônes de votre bureau en double-cliquant dessus."
+
+msgid "Hide details header"
+msgstr "Masquer détails en-tête"
+
+msgid "Hide for all icons"
+msgstr "Masquer pour toutes les icônes"
+
+msgid "Hide for document links"
+msgstr "Masquer pour liens de document"
+
+msgid "Hide for folder links"
+msgstr "Masquer pour liens de dossier"
+
+msgid "Hide for program links"
+msgstr "Masquer pour liens de programme"
+
+msgid "Hide for web links"
+msgstr "Masquer pour liens de Web"
+
+#, fuzzy
+msgid "Hide scrollbars when inactive"
+msgstr "Cacher les barres de défilement lorsqu'elles sont inactives"
+
+msgid "Hide shortcut arrows from links, fade your Fence groups until mouseovered, and upgrade the look of your scrollbars with Fences' new custom-skinned scrollbars."
+msgstr "Cachez les flèches de raccourcis de liens, effacez vos Fences jusqu'à ce qu'il y ait un passage de souris dessus et rehaussez l'apparence de vos barres de défilement avec les nouvelles barres de défilement personnalisées de Fences®."
+
+msgid "Hide shortcut arrows on desktop icons"
+msgstr "Masquez les flèches de raccourcis sur les icônes du bureau"
+
+msgid "Hide text on desktop icons"
+msgstr "Masquer le texte sur les icônes du bureau"
+
+msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
+msgstr "Maintenez Alt enfoncé et glissez/déposez n'importe quel dossier sur votre bureau pour créer rapidement un Folder Portal. Vous pouvez également faire un clic droit sur n'importe quel dossier et choisir « Afficher ce dossier sur le bureau »."
+
+msgid "Hot Keys"
+msgstr "Raccourcis clavier"
+
+msgid "How to adjust the appearance of individual Fence groups"
+msgstr "Comment ajuster l'apparence d'fences individuels"
+
+msgid "How to change the order of the icons in a Folder Portal"
+msgstr "Comment changer l'ordre des icônes dans un Folder Portal"
+
+msgid "How to change the size of the icons in a Folder Portal"
+msgstr "Comment changer la taille des icônes dans un Folder Portal"
+
+msgid "How to change the view style of the Folder Portal"
+msgstr "Comment changer le style d'affichage du Folder Portal"
+
+msgid "How to Configure Fences"
+msgstr "Comment configurer Fences®"
+
+msgid "How to create a Folder Portal™ group"
+msgstr "Comment créer un Folder Portal"
+
+msgid "How to create a new desktop page"
+msgstr "Comment créer une nouvelle page de bureau"
+
+msgid "How to exclude individual Fence groups"
+msgstr "Comment exclure des Fences individuels"
+
+msgid "How to hide/show the header on a 'details view' Folder Portal"
+msgstr "Comment masquer/afficher l'en-tête d'un Folder Portal à l'« affichage détaillé »"
+
+msgid "How to move icons or Fence groups between desktops"
+msgstr "Comment déplacer des icônes ou des Fences entre les bureaux"
+
+msgid "How to quickly open the folder in a window"
+msgstr "Comment ouvrir rapidement le dossier dans une fenêtre"
+
+msgid "How to remove a Folder Portal group"
+msgstr "Comment supprimer un Folder Portal"
+
+msgid "How to use"
+msgstr "Comment utiliser"
+
+#, fuzzy
+msgid "How to use desktop pages"
+msgstr "Comment utiliser les pages de bureau"
+
+msgid "How to use with a keyboard"
+msgstr "Comment utiliser avec un clavier"
+
+msgid "How to use with a mouse"
+msgstr "Comment utiliser avec une souris"
+
+msgid "How to use with a touch-enabled system"
+msgstr "Comment utiliser avec un système tactile"
+
+#, fuzzy
+msgid "Hue:"
+msgstr "Teinte :"
+
+msgid "icon"
+msgstr "icône"
+
+#, fuzzy
+msgid "Icon opacity"
+msgstr "Opacité d'icône"
+
+#, fuzzy
+msgid "Icon Opacity"
+msgstr "Opacité d'icône"
+
+msgid "Icon transparency && fading Fence groups"
+msgstr "Transparence d'icônes && estompage d'fences"
+
+msgid "Icon was created during a certain day of the week..."
+msgstr "Icône a été créée un certain jour de la semaine..."
+
+msgid "Icon was created during a certain time of the day..."
+msgstr "Icône a été créée à une certaine heure de la journée..."
+
+msgid "Icon was used"
+msgstr "Icône a été utilisée"
+
+msgid "icons"
+msgstr "icônes"
+
+msgid "Icons created"
+msgstr "Icônes créées"
+
+msgid "Icons created during certain times of the day..."
+msgstr "Icônes créées à certaines heures de la journée..."
+
+msgid "Icons created on certain days of the week..."
+msgstr "Icônes créées à certains jours de la semaine..."
+
+msgid "Icons in a Folder Portal cannot be manually repositioned. To change the order of icons in a Folder Portal, right-click in an empty part of the Fence, select Sort By, and choose an option."
+msgstr "Les icônes d'un Folder Portal ne peuvent pas être repositionnées manuellement. Pour modifier l'ordre des icônes dans un Folder Portal, cliquez avec le bouton droit de la souris dans une partie vide de l'fences, sélectionnez Trier par et choisissez une option."
+
+msgid "Icons in Folder Portals cannot be repositioned."
+msgstr "Les icônes de Folder Portals ne peuvent pas être repositionnées."
+
+msgid "Icons last modified"
+msgstr "Icônes modifiées en dernier"
+
+msgid "Icon's name contains..."
+msgstr "Nom de l'icône contient..."
+
+msgid "Icon's name does not contain..."
+msgstr "Nom de l'icône ne contient pas..."
+
+msgid "Icon's name ends with..."
+msgstr "Nom de l'icône se termine par..."
+
+msgid "Icon's name starts with..."
+msgstr "Nom de l'icône commence par..."
+
+msgid "Icons used"
+msgstr "Icônes utilisées"
+
+msgid "Icons whose file size"
+msgstr "Icônes dont la taille de fichier"
+
+msgid "Icons whose name"
+msgstr "Icônes dont le nom"
+
+msgid "Icons whose name contains..."
+msgstr "Icônes dont le nom contient..."
+
+msgid "Icons whose name starts/ends with..."
+msgstr "Icônes dont le nom commence/se termine par..."
+
+msgid "Icons whose type"
+msgstr "Icônes dont le type"
+
+msgid "Icons with file sizes greater than..."
+msgstr "Icônes dont la taille de fichier est supérieure à..."
+
+msgid "If hidden, unhide my desktop icons when switching pages"
+msgstr "Si masquées, démasquez les icônes de mon bureau lors d'une commutation de page."
+
+msgid "Ignore for now"
+msgstr "Ignorer pour le moment"
+
+msgid "I'll create Fence groups on my own"
+msgstr "Je vais créer mes Fences moi-même"
+
+#, fuzzy
+msgid "Image"
+msgstr "Image"
+
+#, fuzzy
+msgid "Images"
+msgstr "Images"
+
+msgid "Immediately"
+msgstr "Immédiatement"
+
+#, fuzzy
+msgid "Import Config from File"
+msgstr "Importer la configuration d'un fichier"
+
+msgid "Installation complete!"
+msgstr "Installation terminée !"
+
+msgid "is"
+msgstr "est"
+
+msgid "Item type"
+msgstr "Type d'objet"
+
+msgid "Join"
+msgstr "Joindre"
+
+msgid "Just create a couple Fence groups"
+msgstr "Juste créer quelques Fences"
+
+msgid "Just perform auto-layout"
+msgstr "Juste effectuer une auto-mise en page"
+
+msgid "Just restore snapshot"
+msgstr "Juste restaurer un instantané"
+
+msgid "Keep groups lined up when moving"
+msgstr "Garder les Fences alignés lors d'un mouvement"
+
+msgid "Keep groups sized to even multiples of icons (1x1, 2x2, 3x2, etc) when resizing"
+msgstr "Garder les Fences dimensionnés à des multiples d'icônes identiques (1x1, 2x2, 3x2, etc.) lors d'un redimensionnement"
+
+msgid "Keep groups spaced"
+msgstr "Garder les Fences espacés"
+
+msgid "Keep rules applied at all times"
+msgstr "Toujours respecter les règles"
+
+msgid "Kiosk mode"
+msgstr "Mode kiosque"
+
+#, fuzzy
+msgid "Kiosk Mode"
+msgstr "Mode kiosque"
+
+#, fuzzy
+msgid "Kiosk Mode (Lock Desktop)"
+msgstr "Mode kiosque (verrouillage du bureau)"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Large icons"
+msgstr "Grandes icônes"
+
+msgid "Layout"
+msgstr "Mise en page"
+
+msgid "Layout & style"
+msgstr "Mise en page & style"
+
+msgid "Layout auto-adjustments"
+msgstr "Autoréglages mise en page"
+
+msgid "Layout Builder"
+msgstr "Layout Builder (Créateur de mise en page)"
+
+msgid "Layout Name:"
+msgstr "Nom mise en page :"
+
+msgid "Layout snapshots"
+msgstr "Instantanés mise en page"
+
+#, fuzzy
+msgid "Layout spacing & snapping"
+msgstr "Espacement et accrochage de la mise en page"
+
+msgid "Layout tools and snapshots"
+msgstr "Outils de mise en page et instantanés"
+
+#, fuzzy
+msgid "Left-click the bottom right corner of the taskbar to"
+msgstr "Cliquez avec le bouton gauche de la souris dans le coin inférieur droit de la barre des tâches pour"
+
+msgid "Legal Information"
+msgstr "Informations légales"
+
+msgid "Less"
+msgstr "Moins"
+
+msgid "less than"
+msgstr "moins de"
+
+msgid "License not yet validated"
+msgstr "Licence non encore validée"
+
+msgid "Lightly bounce after switching pages"
+msgstr "Léger rebond après commutation de page"
+
+#, fuzzy
+msgid "Lightness:"
+msgstr "Luminosité :"
+
+msgid "Like on your mobile phone, swipe between multiple screens of icons. Great for keeping different desktops for different topics, and works great with the keyboard or mouse."
+msgstr "Comme sur votre téléphone mobile, glissez entre plusieurs écrans d'icônes. Idéal pour garder différents postes de travail pour différents sujets, et fonctionne parfaitement avec le clavier ou la souris."
+
+msgid "Link's target contains..."
+msgstr "La cible du lien contient..."
+
+msgid "Link's target does not contain..."
+msgstr "La cible du lien ne contient pas..."
+
+msgid "Link's target ends with..."
+msgstr "La cible du lien se termine par..."
+
+msgid "Link's target starts with..."
+msgstr "La cible du lien commence par..."
+
+msgid "Links whose target"
+msgstr "Liens dont la cible"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "List (Large)"
+msgstr "Liste (Grande)"
+
+msgid "Load"
+msgstr "Charger"
+
+msgid "Loading List..."
+msgstr "Chargement Liste en cours..."
+
+msgid "Lock desktop"
+msgstr "Verrouiller bureau"
+
+#, fuzzy
+msgid "Lock Desktop"
+msgstr "Verrouiller le bureau"
+
+msgid "Lock Fences"
+msgstr "Verrouiller Fences®"
+
+msgid "Lock your desktop to protect others from modifying it."
+msgstr "Verrouillez votre bureau pour en empêcher toute modification par un autre utilisateur."
+
+#, fuzzy
+msgid "Maintain backups and adjust your layout settings."
+msgstr "Conservez des copies de sauvegarde et ajustez vos paramètres de mise en page."
+
+msgid "Maintain sorting"
+msgstr " Garder le tri"
+
+msgid "Make laying out your desktop a snap ; snapping helps keep your Fence groups in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
+msgstr "Faites de la disposition de votre bureau un jeu d'enfant ; l'enclenchement permet de faire que vos Fences soient alignés et ajustés même avec de multiples icônes. Les outils de mise en page de Fences® vous aident aussi à garder la mise en page de votre bureau même en cas de changement de résolution d'écran et de la connexion à de nouveaux moniteurs."
+
+msgid "Manage product key"
+msgstr "Gérer la clé de produit"
+
+msgid "Manage sorting rules"
+msgstr "Gérer les règles de tri"
+
+#, fuzzy
+msgid "Manage subscription"
+msgstr "Gérer l'abonnement"
+
+msgid "Medium icons"
+msgstr "Icônes moyennes"
+
+msgid "Midnight"
+msgstr "Minuit"
+
+msgid "minutes ago"
+msgstr "minutes passées"
+
+msgid "More"
+msgstr "Plus"
+
+#, fuzzy
+msgid "More adjustments"
+msgstr "Plus d'ajustements"
+
+msgid "More options..."
+msgstr "Autres options..."
+
+msgid "more than"
+msgstr "plus de"
+
+msgid "Mouse over the title of a Fence group and click to rename."
+msgstr "Passez la souris sur le titre d'un Fence et cliquez pour renommer."
+
+msgid "Music & Video"
+msgstr "Musique & Vidéo"
+
+msgid "Music or video"
+msgstr "Musique ou vidéo"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name your new Fence"
+msgstr "Donnez un nom à votre nouvel Fences"
+
+msgid "Name-based rules"
+msgstr " Règles nominatives"
+
+msgid "Navigate back"
+msgstr "Naviguer en arrière"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "Never ask me to make a backup again"
+msgstr "Ne jamais redemander de faire une sauvegarde"
+
+msgid "New '%s' are now set to go to the Fence '%s'"
+msgstr "De nouveaux '%s' vont maintenant aller vers l'fences '%s'"
+
+msgid "New %s currently go to '%s'"
+msgstr "De nouveaux '%s' vont normalement aller vers '%s'"
+
+msgid "New %s currently go to this Fence"
+msgstr "De nouveaux '%s' vont actuellement vers cet Fences"
+
+msgid "New Folder Panel"
+msgstr "Nouveau Panneau Dossier"
+
+msgid "New Icons && Rules"
+msgstr "Nouvelles Icônes && Règles"
+
+msgid "new icons should be placed in this Fence: "
+msgstr "de nouvelles icônes doivent être placées dans cet Fences :"
+
+#, fuzzy
+msgid "New in Fences 5! Reduce visual clutter by blending your icons with the wallpaper."
+msgstr "Nouveau dans Fences 5 ! Réduisez l'encombrement visuel en fusionnant vos icônes avec le fond d'écran."
+
+msgid "New name:"
+msgstr "Nouveau nom :"
+
+msgid "New Rule"
+msgstr "Nouvelle règle"
+
+msgid "No"
+msgstr "Non"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Noon"
+msgstr "Midi"
+
+msgid "not"
+msgstr "pas"
+
+msgid "Not a valid day."
+msgstr "N'est pas un jour valable."
+
+msgid ""
+"Not all files could be removed.\n"
+"\n"
+"Remove this Fence how?"
+msgstr ""
+"Impossible de supprimer tous les fichiers.\n"
+"\n"
+"Supprimer cet Fences maintenant ?"
+
+msgid ""
+"Note, your current icon positions will be\n"
+"backed up before any layout is applied."
+msgstr ""
+"Notez que vos positions d'icônes actuelles seront\n"
+"sauvegardées avant application de toute mise en page."
+
+msgid "Notepad"
+msgstr "Bloc-notes"
+
+msgid "Number of screens"
+msgstr "Nombre d'écrans"
+
+msgid "Number of times opened"
+msgstr "Nombre d'ouvertures"
+
+#, fuzzy
+msgid "OK"
+msgstr "OK"
+
+msgid "on"
+msgstr "lors"
+
+msgid "on a weekday"
+msgstr "pendant un jour de semaine"
+
+msgid "on a weekend"
+msgstr "pendant un week-end"
+
+msgid "On first run, Fences gave the opportunity to automatically sort your desktop icons into a few basic categories, to make it easier to start using the program. Would you like to perform this auto-layout again?"
+msgstr "Lors de la première exécution, Fences® a offert la possibilité de trier automatiquement les icônes de votre bureau en quelques catégories de base, pour faciliter l'utilisation du programme. Voudriez-vous refaire cette auto-mise en page ?"
+
+msgid "On Mouseover"
+msgstr "Au Passage de la Souris"
+
+msgid "On screen resolution changes..."
+msgstr "En cas de changements de résolution d'écran..."
+
+msgid "on the Desktop"
+msgstr "sur le Bureau"
+
+msgid ""
+"Only TrueType fonts can be used.\n"
+"\n"
+"Please choose another font."
+msgstr ""
+"Seules peuvent être utilisées des polices TrueType.\n"
+"\n"
+"Veuillez SVP choisir une autre police."
+
+msgid "Opacity"
+msgstr "Opacité"
+
+msgid "Open Fences Settings"
+msgstr "Ouvrir Paramètres de Fences®"
+
+msgid "Open folder"
+msgstr "Ouvrir Dossier"
+
+msgid "Open Folder Portal quickly by double-clicking"
+msgstr "Ouvrez rapidement le Folder Portal par un double-clic"
+
+msgid "Open this folder"
+msgstr "Ouvrir ce dossier"
+
+#, fuzzy
+msgid "Options"
+msgstr "Options"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Organize"
+msgstr "Organiser"
+
+msgid "Organize icons based on custom rules"
+msgstr "Organiser les icônes en fonction de règles personnalisées"
+
+msgid "Organize icons based on their link's target"
+msgstr "Organiser les icônes en fonction de la cible de leur lien"
+
+msgid "Organize icons based on their name"
+msgstr "Organiser les icônes en fonction de leur nom"
+
+msgid "Organize icons based on time"
+msgstr "Organiser les icônes en fonction du temps"
+
+msgid "Other (enter the executable's filename)"
+msgstr "Autre (saisissez le nom du fichier de l'exécutable)"
+
+msgid "Other (enter your own list)"
+msgstr "Autre (saisissez votre propre liste)"
+
+msgid "other types"
+msgstr "autres types"
+
+msgid "Outline Fence areas"
+msgstr "Donner un contour aux zones d'fences"
+
+#, fuzzy
+msgid "Output multi-monitor debug report"
+msgstr "Rapport de débogage multi-moniteur"
+
+msgid "outside of"
+msgstr "à l'extérieur de"
+
+msgid "Page switching"
+msgstr "Commutation de page"
+
+#, fuzzy
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Panels on left edge"
+msgstr "Panneaux sur bord gauche"
+
+msgid "Panels on right edge"
+msgstr "Panneaux sur bord droit"
+
+#, fuzzy
+msgid "Paste color"
+msgstr "Couleur de la pâte"
+
+#, fuzzy
+msgid "Paste Fence color"
+msgstr "Coller la couleur de la Fence"
+
+#, fuzzy
+msgid "Peek"
+msgstr "Coup d'œil"
+
+#, fuzzy
+msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
+msgstr "Peek place instantanément vos groupes de Fence en tête de liste, en utilisant la barre des tâches, les hotcorners ou les touches de raccourci."
+
+msgid "Per-Fence Customization"
+msgstr "Personnalisation par Fences"
+
+msgid "Perform automatic layout"
+msgstr "Exécuter auto-mise en page"
+
+#, fuzzy
+msgid "Personalization"
+msgstr "Personnalisation"
+
+msgid "Personalize"
+msgstr "Personnaliser"
+
+#, fuzzy
+msgid "Photos"
+msgstr "Photos"
+
+msgid "pixels apart when moving"
+msgstr "pixels séparés lors du déplacement"
+
+msgid "Place all new icons in the general desktop area by default"
+msgstr "Placer toutes les nouvelles icônes dans la zone générale du bureau par défaut"
+
+msgid "Place all new icons in this Fence by default"
+msgstr "Placez toutes les nouvelles icônes dans cet Fences par défaut"
+
+msgid "Place folders first"
+msgstr "D'abord placer des dossiers"
+
+msgid "Place new icons based on the file's size..."
+msgstr "Placer de nouvelles icônes en fonction de la taille de fichier..."
+
+msgid "Place new icons based on what program created it..."
+msgstr "Placer de nouvelles icônes en fonction du programme l'ayant créée..."
+
+msgid "Please limit title length to 500 characters or less."
+msgstr "Veuillez SVP limiter la longueur du titre à 500 caractères ou moins."
+
+msgid "Please navigate up to root folder to rename this Fence"
+msgstr "Veuillez SVP naviguer jusqu'au dossier racine pour renommer cet Fences"
+
+msgid "Please note:"
+msgstr "Veuillez noter, SVP :"
+
+msgid "Please pick which option best suits your needs:"
+msgstr "Veuillez SVP choisir l'option vous convenant le mieux :"
+
+msgid "Please recreate the issue, and *be sure to include your name* in the crash-report dialog that appears. Share this name with customer support so that they can find your report. Thank you!"
+msgstr "Veuillez recréer le problème et *assurez-vous d'inclure votre nom* dans la boîte de dialogue de rapport d'incident qui s'affiche. Partagez ce nom avec le service client afin qu'il puisse trouver votre rapport. Merci!"
+
+msgid "Please select another theme to restore your Fence group' appareance."
+msgstr "Veuillez SVP sélectionner un autre thème pour restaurer l'apparence de vos Fences."
+
+msgid "Power-up your desktop"
+msgstr "Mettez votre ordinateur de bureau en route"
+
+msgid "Pre-Install Snapshot"
+msgstr "Instantané de Pré-installation"
+
+msgid "Pre-Install snapshot not found."
+msgstr "Pas trouvé d'instantané de pré-installation."
+
+msgid "Preserve my desktop layout by scaling my Fence groups"
+msgstr "Garder la mise en page de mon bureau lors d'un redimensionnement de mes Fences"
+
+msgid "Pro tip! The quickest way edit Fences' settings is to right-click the desktop and choose \"Configure Fences\"."
+msgstr "Note : Pour éditer facilement les paramètres des Fences cliquer bouton souris droit sur le bureau et choisir « Configurer Fences® »."
+
+msgid "Problem deleting snapshot."
+msgstr "Problème de suppression d'instantané."
+
+msgid "Problem during installation:"
+msgstr "Problème lors de l'installation :"
+
+msgid "Problem restoring snapshot."
+msgstr "Problème de restauration d'instantané."
+
+msgid "Program Shortcuts"
+msgstr "Raccourcis de Programme"
+
+msgid "Programs"
+msgstr "Programmes"
+
+msgid "Project 1"
+msgstr "Projet 1"
+
+msgid "Project 2"
+msgstr "Projet 2"
+
+msgid "Purchase"
+msgstr "Acheter"
+
+msgid "Purchase ({0})"
+msgstr "Acheter ({0})"
+
+msgid "quick-hide activated"
+msgstr "masquage rapide activé"
+
+msgid "Recommended for advanced users"
+msgstr "Recommandé pour les utilisateurs avancés"
+
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+msgid "Remove a Folder Portal like you would any other Fence group; put your mouse over the Fence group, and click the \"x\" that appears. The folder will not be deleted."
+msgstr "Supprimez un Folder Portal comme vous le feriez pour n'importe quel autre Fences ; placez votre souris sur l'fences, et cliquez sur le \"x\" qui apparaît. Le dossier ne sera pas supprimé."
+
+msgid "Remove Fence"
+msgstr "Supprimer Fences"
+
+msgid "Remove Fence and delete files"
+msgstr "Supprimer Fences et effacer des fichiers"
+
+msgid "Remove Fence and move files to a folder"
+msgstr "Supprimer Fences et déplacer des fichiers dans un dossier"
+
+msgid "Remove Fence from desktop and delete the folder it represents"
+msgstr "Supprimer Fences du bureau et supprimer le dossier qu'il représente"
+
+msgid "Remove rule?"
+msgstr "Supprimer règle ?"
+
+msgid "Remove this Folder Portal"
+msgstr "Supprimer ce Folder Portal"
+
+msgid "Remove your Fences settings?"
+msgstr "Supprimer vos paramètres de Fences® ?"
+
+msgid "Rename"
+msgstr "Renommer"
+
+msgid "Rename a Fence"
+msgstr "Renommer un Fence"
+
+msgid "Rename Fence"
+msgstr "Renommer Fence"
+
+msgid "Rename rule"
+msgstr "Renommer règle"
+
+msgid "Rename rule..."
+msgstr "Renommer règle..."
+
+msgid "Rename Snapshot"
+msgstr "Renommer Instantané"
+
+msgid "Rename..."
+msgstr "Renommer..."
+
+msgid "Re-order your Fence groups here by choosing a Fence group and using the up/down arrows."
+msgstr "Réorganisez vos Fences ici en choisissant un Fence et en utilisant les flèches haut/bas."
+
+msgid "Re-order your Rules"
+msgstr "Réorganiser vos règles"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Reset all individually-customized Fences"
+msgstr "Réinitialiser tous les Fences personnalisés individuellement"
+
+#, fuzzy
+msgid "Reset all to default"
+msgstr "Réinitialiser le tout par défaut"
+
+#, fuzzy
+msgid "Reset color"
+msgstr "Réinitialiser la couleur"
+
+#, fuzzy
+msgid "Reset Fence color"
+msgstr "Réinitialiser la couleur de la Fence"
+
+msgid "Reset rule to default"
+msgstr "Réinitialiser la règle au par défaut"
+
+msgid "Reset rule to default..."
+msgstr "Réinitialiser la règle au par défaut..."
+
+msgid "Reset rule?"
+msgstr "Réinitialiser règle ?"
+
+msgid "Reset saved settings for other screen resolutions"
+msgstr "Réinitialiser les paramètres sauvegardés pour d'autres résolutions d'écran"
+
+#, fuzzy
+msgid "Reset this group's customization"
+msgstr "Réinitialiser la personnalisation de ce groupe"
+
+msgid "Reset to default"
+msgstr "Réinitialiser au par défaut"
+
+msgid "Reset to defaults"
+msgstr "Réinitialiser aux par défaut"
+
+#, fuzzy
+msgid "Restore color when desktop is active"
+msgstr "Restaurer les couleurs lorsque le bureau est actif"
+
+#, fuzzy
+msgid "Restore color when desktop is in use"
+msgstr "Restaurer les couleurs lorsque le bureau est en cours d'utilisation"
+
+#, fuzzy
+msgid "Restore color when mouse is over a Fence group"
+msgstr "Rétablir la couleur lorsque la souris passe sur un groupe de Fence"
+
+#, fuzzy
+msgid "Restore color when mouse is over group"
+msgstr "Rétablir la couleur lorsque la souris passe sur un groupe"
+
+msgid "Restore Snapshot"
+msgstr "Restaurer Instantané"
+
+msgid "Re-take snapshot..."
+msgstr "Refaire instantané..."
+
+msgid "Reverse order"
+msgstr "Inverser l'ordre"
+
+#, fuzzy
+msgid "Right-click the bottom right corner of the taskbar to"
+msgstr "Cliquez avec le bouton droit de la souris sur le coin inférieur droit de la barre des tâches pour"
+
+msgid "Roll up Fence groups placed on edge of screen"
+msgstr "Enrouler Fences placés en bord d'écran"
+
+msgid "Roll up Fence groups to just their titlebars and show on mouseover, to keep your desktop nice and tidy."
+msgstr "Enroulez les Fences vers le haut jusqu'à leurs barres de titre et affichez-les au passage de la souris, pour garder votre bureau bien rangé."
+
+msgid "Roll up Fences"
+msgstr "Enrouler Fences"
+
+#, fuzzy
+msgid "Rollup"
+msgstr "Enroulement"
+
+msgid "Roll-up Fence"
+msgstr "Enrouler Fences"
+
+#, fuzzy
+msgid "Round corner of Fence areas"
+msgstr "Coin arrondi des zones de Fence"
+
+msgid "Round corners of Fence areas"
+msgstr "Coins arrondis des zones de Fence"
+
+msgid "Rule names must be less than 255 characters long"
+msgstr "Les noms de règles doivent comporter moins de 255 caractères"
+
+#, fuzzy
+msgid "Rules"
+msgstr "Règles"
+
+msgid "Rules in use:"
+msgstr "Règles en usage :"
+
+#, fuzzy
+msgid "S&ort by"
+msgstr "S&ort par"
+
+msgid "Saturation:"
+msgstr "Saturation :"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Saving of snapshot failed."
+msgstr "Enregistrement de l'instantané a échoué."
+
+msgid "Screens"
+msgstr "Écrans"
+
+msgid "Send certain file types to different places"
+msgstr "Envoyer certains types de fichiers à des endroits différents"
+
+msgid "Send new %s to a particular Fence"
+msgstr "Envoyer de nouveaux %s vers un Fence spécifique"
+
+msgid "Send new %s to this Fence"
+msgstr "Envoyer de nouveaux %s vers cet Fences"
+
+msgid "Sensitivity:"
+msgstr "Sensibilité :"
+
+msgid "Set a fixed number of pages, and wrap around upon reaching the end"
+msgstr "Définissez un nombre fixe de pages, et enroulez à l'arrivée à la fin."
+
+msgid "Settings"
+msgstr "Paramètres"
+
+#, fuzzy
+msgid "Shift"
+msgstr "Décalage"
+
+msgid "Shortcut (Link)"
+msgstr "Raccourci (Lien)"
+
+msgid "Show desktop (press & hold)"
+msgstr "Montrer bureau (appuyez et maintenez)"
+
+msgid "Show desktop (toggle)"
+msgstr "Montrer bureau (basculer)"
+
+msgid "Show desktop icons"
+msgstr "Afficher icônes du bureau"
+
+#, fuzzy
+msgid "Show desktop in full color when in use"
+msgstr "Afficher le bureau en couleur lorsqu'il est utilisé"
+
+#, fuzzy
+msgid "Show Fence groups in full color on mouseover"
+msgstr "Afficher les groupes de Fences en couleur au passage de la souris"
+
+#, fuzzy
+msgid "Show Fences"
+msgstr "Fences d'exposition"
+
+msgid "Show Fences (press & hold)"
+msgstr "Afficher Fences (appuyez et maintenez)"
+
+msgid "Show Fences (toggle)"
+msgstr "Afficher Fences (basculer)"
+
+msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
+msgstr "Afficher Fences (basculer): Laissez Fences en haut jusqu'à la prochaine pression sur le raccourci clavier, même lorsque vous changez d'application."
+
+#, fuzzy
+msgid "Show Fences by clicking the far right edge of your taskbar"
+msgstr "Affichez Fences en cliquant sur le bord droit de la barre des tâches"
+
+#, fuzzy
+msgid "Show Fences with hotkeys"
+msgstr "Afficher les Fences à l'aide des touches de raccourci"
+
+#, fuzzy
+msgid "Show Headers"
+msgstr "Afficher les en-têtes"
+
+#, fuzzy
+msgid "Show icon as a running task"
+msgstr "Afficher l'icône d'une tâche en cours"
+
+#, fuzzy
+msgid "Show on all pages"
+msgstr "Afficher sur toutes les pages"
+
+#, fuzzy
+msgid "Show the full desktop"
+msgstr "Afficher le bureau complet"
+
+#, fuzzy
+msgid "Show the full desktop (classic)"
+msgstr "Afficher le bureau complet (classique)"
+
+#, fuzzy
+msgid "Show the full desktop (fast)"
+msgstr "Afficher le bureau complet (rapide)"
+
+#, fuzzy
+msgid "Show this Fence group on all pages"
+msgstr "Afficher ce groupe de Fence sur toutes les pages"
+
+msgid "Show this folder on the desktop"
+msgstr "Afficher ce dossier sur le bureau"
+
+#, fuzzy
+msgid "Show title bars on Fence areas"
+msgstr "Afficher les barres de titre sur les zones de Fence"
+
+#, fuzzy
+msgid "Show titlebar buttons on Fence areas on mouseover"
+msgstr "Afficher les boutons de la barre de titre sur les zones de Fence au survol de la souris"
+
+#, fuzzy
+msgid "Show titlebar controls on mouseover"
+msgstr "Afficher les contrôles de la barre de titre au survol de la souris"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Snapping is enabled in the free version of Fences. Purchasing this feature allows you to customize snapping."
+msgstr "L'enclenchement est activé dans la version gratuite de Fences®. L'achat de cette fonctionnalité vous permet de personnaliser l'enclenchement."
+
+msgid "Snapshot deleted"
+msgstr "Instantané supprimé"
+
+msgid "Snapshot Name:"
+msgstr "Nom de l'instantané :"
+
+msgid "Snapshot taken!"
+msgstr "Instantané pris !"
+
+msgid "Snapshot Title"
+msgstr "Titre Instantané"
+
+#, fuzzy
+msgid "Snapshots"
+msgstr "Captures d'écran"
+
+#, fuzzy
+msgid "Snapshots && layout"
+msgstr "Instantanés && mise en page"
+
+msgid "Snapshot-taking canceled."
+msgstr "Prise d'instantané annulée."
+
+msgid "Sorry a Fence cannot be created for this folder. Please choose another folder."
+msgstr "Désolé, impossible de créer un Fence pour ce dossier. Veuillez SVP choisir un autre dossier."
+
+msgid "Sorry, but background blur is not compatible with dynamic desktop content. To use translucent Fence backgrounds, disable DeskScapes by choosing a plain wallpaper."
+msgstr "Désolé, mais un flou de fond n'est pas compatible avec le contenu dynamique du bureau. Pour utiliser des fonds d'fences translucides, désactivez DeskScapes en choisissant un fond d'écran ordinaire."
+
+msgid "Sort out my icons"
+msgstr "Trier mes icônes"
+
+#, fuzzy
+msgid "Space"
+msgstr "Espace"
+
+#, fuzzy
+msgid "Speed up Windows' built-in Show Desktop functionality (\"WinKey+D\")"
+msgstr "Accélérer la fonctionnalité intégrée de Windows \"Show Desktop\" (\"WinKey+D\")"
+
+msgid "Stardock Application Services was unable to start. (Unable to register callback.) You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
+msgstr "Stardock Application Services n'a pas pu démarrer. (Impossible d'enregistrer un rappel.) Il se pourrait que vous deviez réinstaller Fences®. Si ce problème persiste, veuillez contacter l'assistance client de Stardock."
+
+msgid "Stardock Application Services was unable to start. You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
+msgstr "Stardock Application Services n'a pas pu démarrer. Il se pourrait que vous deviez réinstaller Fences®. Si ce problème persiste, veuillez contacter l'assistance client de Stardock."
+
+msgid "Start using Fences"
+msgstr "Commencez à utiliser Fences"
+
+msgid "Start using Fences!"
+msgstr "Commencez à utiliser Fences® !"
+
+msgid "starts with"
+msgstr "commence par"
+
+msgid "Store my Fence group positions on a per-screen-resolution basis"
+msgstr "Stocker les positions de mes Fences en fonction de la résolution par écran"
+
+msgid ""
+"Stored screen-resolution information has been reset.\n"
+"\n"
+"Your Fence groups will be scaled to the new screen resolution the next time you change screen resolutions, after which their new positions will be stored."
+msgstr ""
+"Les informations de résolution d'écran mémorisées ont été réinitialisées.\n"
+"\n"
+"\n"
+"Vos Fences seront redimensionnés à la nouvelle résolution d'écran la prochaine fois que vous changerez les résolutions d'écran, après quoi leurs nouvelles positions seront stockées."
+
+msgid ""
+"Stored screen-resolution information has been reset.\n"
+"\n"
+"Your Fence groups will be scaled to the new screen resolution the next time you change screen resolutions."
+msgstr ""
+"Les informations de résolution d'écran mémorisées ont été réinitialisées.\n"
+"\n"
+"Vos Fences seront redimensionnés à la nouvelle résolution d'écran la prochaine fois que vous changerez les résolutions d'écran."
+
+msgid "Suffix"
+msgstr "Suffixe"
+
+msgid "Switch pages by pulling edge of screen with mouse"
+msgstr "Commuter de page en tirant le bord de l'écran avec la souris"
+
+msgid "Switch pages with Alt+Left / Alt+Right, or Alt+MouseWheel"
+msgstr "Commuter de page avec Alt+Gauche / Alt+Droite, ou Alt+Molette souris"
+
+msgid "Switch pages with left+right mouse button drag"
+msgstr "Commuter de page avec le bouton glisser gauche+droit de la souris"
+
+msgid "Switch pages with middle mouse button drag"
+msgstr "Commuter de page avec le bouton glisser central de la souris"
+
+msgid "Switch pages with two-finger drag (touch-systems)"
+msgstr "Commuter de page avec glisser à deux doigts (systèmes tactiles)"
+
+msgid "Switch to another page on your touch-enabled system, drag your desktop left or right using two-fingers."
+msgstr "Commuter à une autre page sur votre système tactile, faites glisser votre bureau vers la gauche ou la droite à l'aide de deux doigts."
+
+msgid "Switch to another page using your keyboard, activate the desktop by clicking on it, and then press the left or right arrow keys while holding Alt. Alternatively, you can also hold Alt and use your mouse wheel while the desktop is activated."
+msgstr "Commuter à une autre page à l'aide de votre clavier, activez le bureau en cliquant dessus, puis appuyez sur les touches fléchées gauche ou droite tout en maintenant la touche Alt enfoncée. Vous pouvez également maintenir la touche Alt enfoncée et utiliser la molette de la souris pendant que le bureau est activé."
+
+msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
+msgstr "Commuter à une autre page à l'aide de votre souris, saisissez et tirez le bord gauche ou droit de votre bureau. Autre possibilité : appuyez sur les deux boutons de la souris et glissez n'importe où sur votre bureau, ou glissez à l'aide du bouton central de la souris."
+
+msgid "Take a new snapshot before performing auto-layout"
+msgstr "Prendre un nouvel instantané avant d'effectuer l'auto-mise en page"
+
+msgid "Take a new snapshot before restoring this snapshot"
+msgstr "Prendre un nouvel instantané avant de restaurer cet instantané"
+
+msgid "Take snapshot"
+msgstr "Prendre instantané"
+
+msgid "Take snapshot before applying?"
+msgstr "Prendre un instantané avant d'appliquer ?"
+
+msgid "Take snapshot before restoring?"
+msgstr "Prendre un instantané avant de restaurer ?"
+
+msgid "Target-based rules"
+msgstr "Règles basées sur la cible"
+
+#, fuzzy
+msgid "Taskbar Hot-Corner"
+msgstr "Raccourci de la barre des tâches"
+
+#, fuzzy
+msgid "Taskbar Icon"
+msgstr "Icône de la barre des tâches"
+
+msgid "Text file"
+msgstr "Fichier texte"
+
+msgid "the general desktop"
+msgstr "au bureau principal"
+
+msgid "The icon's name"
+msgstr "Le nom de l'icône"
+
+msgid "The icon's type"
+msgstr "Le type de l'icône"
+
+msgid ""
+"The keyboard extension for Fences does not appear to be loaded. You may need to reboot your system or reinstall Fences.\n"
+"\n"
+"Advanced users can look for the task \"StardockFencesHotkeySupport\" within the system Task Scheduler."
+msgstr ""
+"L'extension clavier pour Fences ne semble pas être chargée. Vous devrez peut-être redémarrer votre système ou réinstaller Fences.\n"
+"\n"
+"Les utilisateurs avancés peuvent rechercher la tâche \"StardockFencesHotkeySupport\" dans le planificateur de tâches du système."
+
+msgid "The link's target"
+msgstr "La cible du lien"
+
+msgid "The maximum number of rules (%i) have been created. Please delete a rule before creating another."
+msgstr "Le nombre maximum de règles (%i) a été créé. Veuillez SVP supprimer une règle avant d'en créer une autre."
+
+msgid "The snapshots title must be less than 255 characters long"
+msgstr "Les noms d'instantané doivent comporter moins de 255 caractères"
+
+msgid ""
+"There are several ways to create a Folder Portal™ group:\n"
+"\n"
+"1. Hold Alt while drag/dropping a folder on to your desktop.\n"
+"\n"
+"2. Draw a rectangle on your desktop. Choose \"Create Folder Portal™ Here\" from the menu that appears.\n"
+"\n"
+"3. Right click any folder and choose the option \"Show this folder on the desktop\"."
+msgstr ""
+"Il existe plusieurs façons de créer un Folder Portal™ :\n"
+"\n"
+"1. Maintenez la touche Alt enfoncée pendant que vous glissez/déposez un dossier sur votre bureau.\n"
+"\n"
+"2. Dessinez un rectangle sur votre bureau. Choisissez « Créer Folder Portal™ ici » dans le menu qui apparaît.\n"
+"\n"
+"3. Faites un clic droit sur n'importe quel dossier et choisissez l'option « Afficher ce dossier sur le bureau »."
+
+msgid "There was a problem resetting your settings. Please try again."
+msgstr "Il y a eu un problème de réinitialisation de vos paramètres. Veuillez ressayer, SVP."
+
+msgid ""
+"They're still here! Double clicking blank space on your desktop will make your icons appear and disappear. Double click again to reveal.\n"
+"\n"
+"To disable or tune this feature, visit Fences' settings."
+msgstr ""
+"Ils sont toujours encore là ! Un double-clic sur un espace vide de votre bureau fera apparaître et disparaître vos icônes. Double-cliquez à nouveau pour faire réapparaître.\n"
+"\n"
+"Pour désactiver ou régler cette fonction, consultez les paramètres de Fences®."
+
+msgid ""
+"This action will reset all of your Fence groups.\n"
+"Make sure you have backed them up.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Cette action réinitialisera toutes vos Fences.\n"
+"Assurez-vous de les avoir sauvegardés.\n"
+"\n"
+"Poursuivre ?"
+
+msgid ""
+"This action will update this snapshot to reflect your current desktop setup.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Cette action mettra à jour cet instantané pour refléter la configuration actuelle de votre bureau.\n"
+"\n"
+"Poursuivre ?"
+
+msgid "This application requires Windows 10"
+msgstr "Cette application requiert Windows 10"
+
+msgid "This copy of Fences has expired. Please obtain an updated copy."
+msgstr "Cette copie de Fences® est arrivée à expiration. Veuillez SVP en obtenir une copie mise à jour."
+
+msgid "This feature is a premium feature of Fences and is available for purchase."
+msgstr "Cette fonctionnalité est une fonctionnalité premium de Fences® et est disponible à l'achat."
+
+msgid "This feature is available as part of the customization-extras pack."
+msgstr "Cette fonctionnalité est disponible dans le pack d'extras de personnalisation."
+
+msgid "This feature is unavailable on Windows XP."
+msgstr "Cette fonctionnalité n'est pas disponible sous Windows XP."
+
+msgid "This feature requires Windows 7 or better."
+msgstr "Cette fonctionnalité nécessite Windows 7 ou plus récent."
+
+#, fuzzy
+msgid "This Fence will be reset to match the rest of your Fence groups."
+msgstr "Cette Fence sera réinitialisée pour correspondre aux autres groupes de Fences."
+
+msgid "This will reset {0} to its default factory settings. Continue?"
+msgstr "Cela réinitialisera {0} à ses paramétrages d'usine par défaut. Poursuivre ?"
+
+#, fuzzy
+msgid "Tidle"
+msgstr "Tidle"
+
+msgid "Time-based rules"
+msgstr "Règles temporelles"
+
+msgid "times"
+msgstr "fois"
+
+msgid "Title:"
+msgstr "Titre :"
+
+#, fuzzy
+msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
+msgstr "Pour ajuster l'apparence d'une Fence particulière, choisissez une Fence dans le menu déroulant intitulé \"Tous les groupes\" ci-dessus et modifiez ses paramètres de couleur à l'aide des commandes habituelles."
+
+msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
+msgstr "Pour ajuster l'apparence d'un Fence spécifique, faites un tour dans la section « Personnaliser » des paramètres de Fences®. Une fois que vous y êtes, choisissez un Fences dans le menu déroulant et modifiez ses paramètres de couleur à l'aide des commandes habituelles."
+
+msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
+msgstr "Pour modifier l'ordre des icônes dans un Folder Portal, cliquez avec le bouton droit de la souris sur l'affichage et choisissez dans le menu « Trier par »."
+
+msgid ""
+"To change the style of a Folder Portal, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it.\n"
+"\n"
+"From the \"View\" menu, you can choose from a variety of views including \"Details\" and \"List\"."
+msgstr ""
+"Pour changer le style d'un Folder Portal, cliquez sur l'icône du menu qui apparaît dans le coin supérieur gauche de l'fences lorsque la souris passe dessus.\n"
+"\n"
+"Dans le menu « Afficher », vous pouvez choisir parmi différents affichages, y compris « Détails » et « Liste »."
+
+msgid "To change which Fence groups remain visible during a quick-hide, right click blank space in a Fence group and choose the option \"Exclude this Fence group from quick-hide\" from its \"View\" menu. This can also be done for any individual icon on the desktop."
+msgstr "Pour changer les Fences devant rester visibles lors d'un masquage rapide, cliquez avec le bouton droit de la souris sur l'espace vide dans un Fence et choisissez l'option « Exclure cet Fences d'un masquage rapide » dans le menu « Afficher ». Cela peut également être fait pour n'importe quelle icône individuelle sur le bureau."
+
+msgid "To create a new desktop page, drag an icon or a Fence group to the edge of your screen. Hold it there a moment, and your desktop will switch pages. Drop the icon or Fence to place it on this new page."
+msgstr "Pour créer une nouvelle page de bureau, faites glisser une icône ou un Fence jusqu'au bord de votre écran. Maintenez-le (la) un instant là et votre bureau commutera de page. Déposez l'icône ou l'fences pour la (le) placer sur cette nouvelle page."
+
+msgid "To customize this rule, please create a new rule using the \"Choose from more icon types\" link on the previous screen."
+msgstr "Pour personnaliser cette règle, veuillez SVP créer une nouvelle règle à l'aide du lien « Choisir parmi d'autres types d'icônes » de l'écran précédent."
+
+msgid "To hide the header in a details view, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it, and choose \"Hide details header\" from the \"View\" menu."
+msgstr "Pour masquer l'en-tête dans un affichage détaillée, cliquez sur l'icône du menu qui apparaît dans le coin supérieur gauche de l'fences lorsque la souris passe dessus, et choisissez « Masquer détails en-tête » dans le menu « Affichage »."
+
+msgid "To lock the desktop, please authorize the following prompt as an administrator."
+msgstr "Pour verrouiller le bureau, veuillez autoriser l'invite suivante en tant qu'administrateur."
+
+msgid "To make icons on your desktop semi-transparent, place them into a Fence, and then choose an opacity from the \"View\" menu of that Fence. To access a Fence group's menu, click the menu icon in the top left corner of the Fence."
+msgstr "Pour rendre semi-transparentes les icônes sur votre bureau, placez-les dans un Fence, puis choisissez une opacité dans le menu « Afficher » de cet Fences. Pour accéder au menu d'un Fences, cliquez sur l'icône du menu dans le coin supérieur gauche de l'fences."
+
+msgid "To make individual Fence groups on your desktop semi-transparent, choose an opacity level from the \"View\" menu of that Fence. To access a Fence group's menu, click the menu icon in the top left corner of the Fence."
+msgstr "Pour rendre semi-transparentes des Fences individuels sur votre bureau, choisissez un niveau d'opacité dans le menu « Afficher » de cet Fences. Pour accéder au menu d'un Fence, cliquez sur l'icône du menu dans le coin supérieur gauche de l'fences."
+
+msgid "To move an icon or a Fence group between pages, drag the icon or Fence to the left or right edge of the screen, and hold it there for a moment. The desktop will switch pages so that you may drop it there. You may create as many pages left/right as you wish."
+msgstr "Pour déplacer une icône ou un Fence entre des pages, faites glisser l'icône ou l'fences vers le bord gauche ou droit de l'écran et maintenez-la (le) là un instant. Le bureau commutera de page pour que vous puissiez l'y déposer. Vous pouvez créer autant de pages à gauche/droite que vous le souhaitez."
+
+msgid "To open the folder associated with a Folder Portal quickly, hold control and double click the Folder Portal's titlebar, or blank space within the Folder Portal itself."
+msgstr "Pour ouvrir rapidement le dossier associé à un Folder Portal, maintenez la touche Ctrl enfoncée et double-cliquez sur la barre de titre du Folder Portal ou sur de l'espace vide dans le Folder Portal lui-même."
+
+msgid "To quickly open the folder shown in a Folder Portal, hold Control while double clicking the Fence group's titlebar, or double click empty space within the Fence group."
+msgstr "Pour ouvrir rapidement le dossier affiché dans un Folder Portal, maintenez la touche Ctrl enfoncée tout en double-cliquant sur la barre de titre de l'fences, ou double-cliquez sur de l'espace vide dans l'fences."
+
+msgid "To unlock the desktop, please authorize the following prompt as an administrator."
+msgstr "Pour déverrouiller le bureau, veuillez autoriser l'invite suivante en tant qu'administrateur."
+
+#, fuzzy
+msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
+msgstr "Pour mettre à jour vos paramètres d'abonnement, veuillez consulter le site https://redirects.stardock.com/subscriptions/fences5"
+
+msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
+msgstr "Pour utiliser la fonction de masquage rapide de Fences®, double-cliquez sur de l'espace vide n'importe où sur votre bureau et vos icônes disparaîtront. Double-cliquez à nouveau et elles réapparaîtront."
+
+msgid "Touch-based layout abilities"
+msgstr "Possibilités de mise en page avec écran tactile"
+
+msgid "Traditionally, Fences appear as shaded areas on your desktop. To apply a custom look to your Fence groups, visit the \"Customize\" area of Fences' settings and click the link \"Change Fence style...\"."
+msgstr "Traditionnellement, les Fences apparaissent comme des zones ombrées sur votre bureau. Pour appliquer un look personnalisé à vos Fences, faites un tour à la section « Personnaliser » des paramètres de Fences® et cliquez sur le lien « Modifier style d'fences... »."
+
+msgid "Translucent Fence backgrounds (Windows 10 only)"
+msgstr "Arrière-plans d'fences translucides (Windows 10 uniquement)"
+
+msgid "Transparency:"
+msgstr "Transparence :"
+
+#, fuzzy
+msgid "Troubleshooting"
+msgstr "Dépannage"
+
+msgid "Turn off sorting?"
+msgstr "Désactiver le tri ?"
+
+msgid "Type-based rules"
+msgstr "Règles en fonction du type"
+
+msgid "Unable to create folder. Please try again."
+msgstr "Impossible de créer un dossier Veuillez ressayer, SVP."
+
+msgid "Unlock desktop"
+msgstr "Déverrouiller bureau"
+
+#, fuzzy
+msgid "Unlock Desktop"
+msgstr "Déverrouiller le bureau"
+
+msgid "Unlock previous purchase"
+msgstr "Débloquer achat antérieur"
+
+msgid "Unnamed Fence"
+msgstr "Fences sans nom"
+
+msgid "Unnamed Fence with"
+msgstr "Fences sans nom avec"
+
+msgid "Unnamed Folder Portal"
+msgstr "Folder Portal sans nom"
+
+msgid "Unspecified"
+msgstr "Non spécifié"
+
+msgid "Upgrade your desktop's look and feel"
+msgstr "Améliorez l'apparence et la convivialité de votre bureau"
+
+msgid "Usage"
+msgstr "Utilisation"
+
+msgid "Use system language"
+msgstr "Utiliser la langue du système"
+
+msgid "Use these hotkeys to access your desktop quickly – much faster than the built-in WinKey+D. You can even replace it entirely."
+msgstr "Utilisez ces raccourcis clavier pour accéder rapidement à votre bureau – beaucoup plus rapide que le WinKey + D intégré. Vous pouvez même le remplacer entièrement."
+
+msgid "Using desktop pages"
+msgstr "Utilisation pages de bureau"
+
+msgid "Using Folder Portals"
+msgstr "Utilisation Folder Portals"
+
+msgid "Using kiosk mode"
+msgstr "Utilisation mode kiosque"
+
+msgid "Using quick-hide"
+msgstr "Utilisation masquage rapide"
+
+msgid "Using Roll-up Fences"
+msgstr "Utilisation Enroulement Fences"
+
+#, fuzzy
+msgid "Vanish"
+msgstr "Vanish"
+
+#, fuzzy
+msgid "Version "
+msgstr "Version"
+
+#, fuzzy
+msgid "Version {0}"
+msgstr "Version {0}"
+
+msgid "Video file"
+msgstr "Fichier vidéo"
+
+msgid "Visible only on mouseover"
+msgstr "Visible uniquement au passage de la souris"
+
+#, fuzzy
+msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
+msgstr "Attente de l'existence du fichier Config spécifié dans la clé {0} du registre Windows"
+
+msgid ""
+"Warning: Enabling/disabling Fences is not recommended. If you\n"
+"rearrange your desktop icons while Fences is not running, and\n"
+"then re-enable Fences, your icons will be reset to the positions\n"
+"they were in before disabling Fences. Also, you run the risk of\n"
+"creating instabilities.\n"
+"\n"
+"Continue anyways?"
+msgstr ""
+"Attention : Il n'est pas recommandé d'activer/désactiver Fences®. Si vous\n"
+"réorganisez les icônes de votre bureau pendant que Fences® n'est pas en cours d'exécution,\n"
+"puis réactivez Fences®, vos icônes seront réinitialisées aux positions dans lesquelles\n"
+"elles se trouvaient avant de désactiver Fences®. De plus, vous courez le risque\n"
+"de créer des instabilités.\n"
+"\n"
+"Poursuivre quand même ?"
+
+msgid "WARNING: Fences was recently uninstalled. It is HIGHLY RECOMMENDED that you reboot before re-installing Fences, or Fences may not load properly."
+msgstr "AVERTISSEMENT : Fences® a été désinstallé récemment. Il est FORTEMENT RECOMMANDÉ de redémarrer avant de réinstaller Fences®, sinon Fences® risque de ne pas se charger correctement."
+
+msgid ""
+"Warning: you have selected to condense your desktop to less screens than you are currently using. Icons will be moved to your current desktop as needed.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Attention: vous avez choisi de condenser votre bureau sur moins d'écrans que vous n'en utilisez actuellement. Des icônes seront déplacées vers votre bureau actuel le cas échéant.\n"
+"\n"
+"Poursuivre ?"
+
+msgid "Was modified"
+msgstr "A été modifié"
+
+msgid "Web Links"
+msgstr "Liens Web"
+
+msgid "Web page file"
+msgstr "Fichier de page Web"
+
+#, fuzzy
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Welcome to Fences®"
+msgstr "Bienvenue dans Fences®"
+
+msgid "What is kiosk mode?"
+msgstr "Qu'est-ce que le mode kiosque ?"
+
+msgid "When I plug in a new primary monitor, move my icons to it."
+msgstr "Lorsque je connecte un nouveau moniteur primaire, déplacez mes icônes vers celui-ci."
+
+msgid ""
+"When you installed Fences, a snapshot of your desktop's layout was taken.\n"
+"\n"
+"Would you like to restore your desktop icons' positions to before Fences was installed?"
+msgstr ""
+"Lorsque vous avez installé Fences®, il a été pris un instantané de la disposition de votre bureau.\n"
+"\n"
+"Souhaitez-vous restaurer les positions des icônes de votre bureau avant l'installation de Fences® ?"
+
+msgid "Where did my icons go?"
+msgstr "Où sont passées mes icônes ?"
+
+msgid "Where did my icons go? No need to worry."
+msgstr "Où sont passées mes icônes ? Pas de soucis."
+
+#, fuzzy
+msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
+msgstr "Avec Fences, vous pouvez regrouper des icônes sur votre bureau, accéder à des dossiers depuis votre bureau, et bien plus encore. Cliquez sur les fonctions à gauche pour en savoir plus sur les possibilités de Fences."
+
+#, fuzzy
+msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
+msgstr "Avec Rollup, vous pouvez réduire une Fence dans sa barre de titre pour garder vos icônes à l'abri."
+
+#, fuzzy
+msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
+msgstr "Avec Vanish, vous pouvez rapidement cacher && afficher les icônes de votre bureau en double-cliquant sur un espace vide de votre bureau."
+
+msgid "Work better with Fences"
+msgstr "Travaillez mieux avec vos Fences"
+
+#, fuzzy
+msgid ""
+"Would you like to disable showing Fences in the taskbar?\n"
+"\n"
+"You can re-enable it later from Fences Settings in the Quick Access area."
+msgstr ""
+"Vous souhaitez désactiver l'affichage de Fences dans la barre des tâches ?\n"
+"\n"
+"Vous pouvez le réactiver ultérieurement à partir des paramètres de Fences dans la zone d'accès rapide."
+
+msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
+msgstr "Souhaiteriez-vous prendre un instantané de votre configuration actuelle avant d'appliquer l'auto-mise en page ?"
+
+msgid "Would you like to take a snapshot of your current configuration before loading this snapshot?"
+msgstr "Souhaiteriez-vous prendre un instantané de votre configuration actuelle avant de charger cet instantané ?"
+
+msgid "Would you like to take a snapshot of your current configuration before performing an auto-layout?"
+msgstr "Souhaiteriez-vous prendre un instantané de votre configuration actuelle avant d'exécuter une auto-mise en page ?"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "You can change the size of icons in a Folder Portal by selecting an option from its \"View\" right-click menu, or by clicking anywhere on it, and then holding control while using your mouse's scroll-wheel."
+msgstr "Vous pouvez modifier la taille des icônes d'un Folder Portal en sélectionnant une option dans son menu contextuel (clic souris droit) « Affichage » ou en cliquant n'importe où sur celui-ci, puis en maintenant enfoncée la touche Ctrl tout en utilisant la molette de défilement de votre souris."
+
+msgid "You must give the snapshot a name"
+msgstr "Vous devez donner un nom à l'instantané"
+
+msgid "You must unlock the desktop to edit Fences."
+msgstr "Vous devez déverrouiller le bureau pour modifier Fences®."
+
+msgid "Your Fences trial has been deactivated."
+msgstr "Votre essai de Fences® a été désactivé."
+
+msgid "Your Fences trial has expired."
+msgstr "Votre essai de Fences® est arrivé à expiration."
+
+msgid "Your files will not be deleted."
+msgstr "Vos fichiers ne seront pas supprimés."
+
+msgid "Your settings have been reset."
+msgstr "Vos paramètres ont été réinitialisés."
+
+msgid " go to "
+msgstr " aller à "
+
+msgid "\"Times Opened\" sorting information"
+msgstr "Tri informations « Nombre de fois ouvert »"
+
+msgid ""
+"'%s' are already set to go to the Fence '%s'\n"
+"\n"
+"Would you like them to go to the Fence '%s' instead?"
+msgstr ""
+"'%s' sont déjà réglés pour aller dans l'fences '%s'\n"
+"\n"
+"Préféreriez-vous qu'ils aillent dans l'fences '%s' plutôt ?"
+
+msgid ""
+"'%s' are already set to go to the Fence '%s'\n"
+"\n"
+"Would you like to disable this rule?"
+msgstr ""
+"'%s' sont déjà réglés pour aller dans l'fences '%s'\n"
+"\n"
+"Voulez-vous désactiver cette règle ?"
+
+msgid "%s is unavailable in classic mode and may display improperly."
+msgstr "%s n'est pas disponible en mode classique et peut s'afficher incorrectement."
+
+msgid "&View"
+msgstr "&Afficher"
+
+#, fuzzy
+msgid "(default)"
+msgstr "(défaut)"
+
+msgid "(None)"
+msgstr "(Aucun)"
+
+msgid "(Recommended for advanced users)"
+msgstr "(Recommandé pour les utilisateurs avancés)"
+
+#, fuzzy
+msgid "(recommended)"
+msgstr "(conseillé)"
+
+msgid "(Select a criteria type)"
+msgstr "(Sélectionnez un type de critère)"
+
+msgid "(Untitled Fence with %i icons)"
+msgstr "(fences sans titre avec %i icônes)"
+
+#, fuzzy
+msgid "* Header bar will still show for Folder Portals upon mouseover"
+msgstr "* La barre d'en-tête s'affiche toujours pour les portails de dossiers au passage de la souris"
+
+#, fuzzy
+msgid "* Labels will still show for Folder Portals upon mouseover"
+msgstr "* Les étiquettes s'affichent toujours pour les portails de dossiers au passage de la souris"
+
+msgid "* Labels will still show on Folder Portals on mouseover"
+msgstr "* Les labels continueront d'apparaître sur les Folder Portals au passage de la souris."
+
+msgid "* Log out for language change to take effect"
+msgstr "* Déconnectez-vous pour que le changement de langue prenne effet"
+
+#, fuzzy
+msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
+msgstr "** Prochainement dans Fences 5 Release Preview - Prise en charge améliorée de la gestion des configurations multi-moniteurs et des scénarios d'ancrage/désancrage."
+
+#, fuzzy
+msgid "{0} are Registered Trademarks of {1}."
+msgstr "{0} sont des marques déposées de {1}."
+
+#, fuzzy
+msgid "{0} are Trademarks of {1}."
+msgstr "{0} sont des marques déposées de {1}."
+
+msgid "{0} days left in your free trial"
+msgstr "Il reste {0} jours de votre essai gratuit"
+
+msgid "{0} days remain before deactivation"
+msgstr "Il reste {0} jours avant désactivation"
+
+#, fuzzy
+msgid "{0} is a Registered Trademark of {1}."
+msgstr "{0} est une marque déposée de {1}."
+
+msgid "●  Double click on a Fence group's titlebar to roll it up"
+msgstr "●  Double-cliquez sur la barre de titre de l'fences pour l'enrouler"
+
+msgid "●  Move mouse over to reveal"
+msgstr "●  Faire passer la souris dessus pour faire apparaître"
+
+msgid "●  Or, move to the top or bottom edges of screen to dock automatically"
+msgstr "●  Ou bien, déplacez-vous vers les bords supérieurs ou inférieurs de l'écran pour s'amarrer automatiquement"
