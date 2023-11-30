@@ -74,6 +74,8 @@ When complete, we are automatically notified. Once reviewed, we will communicate
  - Multiplicity
 
 #### Group A File format
+The en.lng file is the base for which all other language files are generated. 
+
 The only section that should be edited is under the [Strings] block and leaving the 'Exists=1' to start it.
 >[Strings]
 >Exist = 1
