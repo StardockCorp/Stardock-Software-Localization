@@ -867,3 +867,13 @@ Exist=1
 "Show start button on secondary monitor taskbars"="在次要顯示器任務欄上顯示開始按鈕"
 "Taskbar search"="任務欄搜尋"
 "Show search on taskbar"="在任務欄上顯示搜尋"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="當屏幕超過1個時的次要顯示"
+"Pin website..."="釘選網站..."
+"Pin website"="釘選網站"
+"Enter the URL for the website you want to pin :"="輸入您想釘選的網站URL："
+"Enter the display name :"="輸入顯示名稱："
+"Ok"="確定"
+"Website links"="網站連結"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="釘選到開始菜單的網頁連結應獲取網站圖標（favicon）圖片（ 將連接到谷歌網站 **）"

@@ -872,3 +872,13 @@ Exist=1
 "Show start button on secondary monitor taskbars"="보조 모니터 작업 표시줄에 시작 버튼 표시"
 "Taskbar search"="작업 표시줄 검색"
 "Show search on taskbar"="작업 표시줄에 검색 표시"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="스크린이 1개 이상일 때 보조 디스플레이"
+"Pin website..."="웹사이트 고정..."
+"Pin website"="웹사이트 고정"
+"Enter the URL for the website you want to pin :"="고정하려는 웹사이트의 URL을 입력하세요 :"
+"Enter the display name :"="표시 이름 입력 :"
+"Ok"="확인"
+"Website links"="웹사이트 링크"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="시작 메뉴에 고정된 웹 링크는 파비콘 이미지를 가져야 합니다 ( 구글 웹사이트와 연결됩니다 **)"

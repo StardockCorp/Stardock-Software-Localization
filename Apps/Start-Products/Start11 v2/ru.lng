@@ -866,3 +866,13 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Показывать кнопку Пуск на панелях задач вторичных мониторов"
 "Taskbar search"="Поиск на панели задач"
 "Show search on taskbar"="Показывать поиск на панели задач"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Вторичный дисплей при > 1 экране"
+"Pin website..."="Закрепить сайт"
+"Pin website"="Закрепить сайт"
+"Enter the URL for the website you want to pin :"="Введите URL сайта, который хотите закрепить:"
+"Enter the display name :"="Введите отображаемое имя:"
+"Ok"="Ок"
+"Website links"="Ссылки на сайты"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Веб-ссылки, закрепленные в меню «Пуск», должны получать изображение favicon ( Будет осуществляться подключение к сайту Google **)"

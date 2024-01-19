@@ -878,3 +878,13 @@ Exist=1
 "Use old Start10® style search"="Usar el viejo estilo de búsqueda de Start10®"
 "&Show on desktop"="Mostrar en el escritorio"
 "Colour"="Color"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Pantalla secundaria cuando hay > 1 pantalla"
+"Pin website..."="Anclar sitio web"
+"Pin website"="Anclar sitio web"
+"Enter the URL for the website you want to pin :"="Introduce la URL del sitio web que quieres anclar:"
+"Enter the display name :"="Introduce el nombre a mostrar:"
+"Ok"="Ok"
+"Website links"="Enlaces de sitios web"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Los enlaces web anclados al menú de inicio deben obtener la imagen favicon ( Se realizarán conexiones a un sitio web de Google **)"

@@ -871,3 +871,13 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Starttaste auf Taskleisten sekundärer Monitore anzeigen"
 "Taskbar search"="Taskleistensuche"
 "Show search on taskbar"="Suche auf der Taskleiste anzeigen"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Sekundäranzeige bei > 1 Bildschirm"
+"Pin website..."="Website anpinnen"
+"Pin website"="Website anpinnen"
+"Enter the URL for the website you want to pin :"="Geben Sie die URL der Website ein, die Sie anpinnen möchten:"
+"Enter the display name :"="Geben Sie den Anzeigenamen ein:"
+"Ok"="Ok"
+"Website links"="Website-Links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="An das Startmenü angeheftete Weblinks sollten das Favicon-Bild erhalten ( Verbindungen zu einer Google-Website werden hergestellt **)"

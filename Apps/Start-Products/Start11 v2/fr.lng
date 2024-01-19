@@ -874,3 +874,13 @@ Exist=1
 
 ; Forgoten in Windows 11 style menu? the translation doesn't work
 ;"All applications"="Toutes les applications"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Affichage secondaire quand > 1 écran"
+"Pin website..."="Épingler le site web..."
+"Pin website"="Épingler le site web"
+"Enter the URL for the website you want to pin :"="Entrez l'URL du site web que vous souhaitez épingler :"
+"Enter the display name :"="Entrez le nom d'affichage :"
+"Ok"="Ok"
+"Website links"="Liens de sites web"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Les liens web épinglés au menu démarrer devraient obtenir l'image favicon ( Établira des connexions à un site web Google **)"

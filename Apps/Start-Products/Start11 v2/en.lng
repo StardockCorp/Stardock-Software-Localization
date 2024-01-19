@@ -860,3 +860,23 @@ Exist=1
 "the non tabbed area to move all the tabs."="the non tabbed area to move all the tabs."
 "or drag from the right hand side"="or drag from the right hand side"
 "to move a group."="to move a group."
+
+;Not included in UI dump
+;11/09/2023 Sean Drohan
+"Advanced taskbar options"="Advanced taskbar options"
+"Control advanced options."="Control advanced options."
+"Start button visibility"="Start button visibility"
+"Show start button on the primary monitor taskbar"="Show start button on the primary monitor taskbar"
+"Show start button on secondary monitor taskbars"="Show start button on secondary monitor taskbars"
+"Taskbar search"="Taskbar search"
+"Show search on taskbar"="Show search on taskbar"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"

@@ -868,3 +868,13 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Exibir botão Iniciar nas barras de tarefas dos monitores secundários"
 "Taskbar search"="Pesquisa na barra de tarefas"
 "Show search on taskbar"="Exibir pesquisa na barra de tarefas"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Tela secundária quando > 1 tela"
+"Pin website..."="Fixar site..."
+"Pin website"="Fixar site"
+"Enter the URL for the website you want to pin :"="Digite a URL do site que você deseja fixar:"
+"Enter the display name :"="Digite o nome de exibição:"
+"Ok"="Ok"
+"Website links"="Links de sites"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Links da web fixados no menu iniciar devem obter a imagem favicon ( Fará conexões com um site do Google **)"
