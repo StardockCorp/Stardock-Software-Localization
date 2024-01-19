@@ -53,7 +53,7 @@ In the commit popup, add some details about what you added or changed and why (p
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-32-02sdrohan.png)
 
 After you have edited one or more files, create a 'Pull request' (you are asking us to 'pull' your changes from your fork with this act)
-![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-34-18sdrohan.png)
+![enter image description here](https://cdn.stardock.us/support/uploads/msedge_2024-01-19_12-29-48.png)
 
 As you did for the individual files, you can write more details about any changes you made
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-36-21sdrohan.png)
