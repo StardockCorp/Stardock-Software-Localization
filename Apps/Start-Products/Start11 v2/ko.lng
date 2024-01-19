@@ -1,4 +1,4 @@
-[UI]
+﻿[UI]
 Name="Korean"
 [Strings]
 Exist=1
@@ -318,7 +318,7 @@ Exist=1
 "At the top"="상단"
 "Force to stretch to fit"="강제로 늘려서 맞춥니다"
 "Use a custom taskbar background texture"="커스텀 작업 표시줄 배경 텍스처를 사용합니다"
-"Automatically apply accent colour to texture"="액센트 색상을 텍스쳐에 자동으로 ㅈ거용합니다"
+"Automatically apply accent colour to texture"="액센트 색상을 텍스쳐에 자동으로 적용합니다"
 "Adjust texture transparency "="텍스처 투명도를 바꿉니다 "
 "The texture should be positioned"="텍스처 위치를 지정해야 합니다"
 "Taskbar textures"="작업 표시줄 텍스처"
@@ -653,7 +653,7 @@ Exist=1
 "Search Everything"="'모든 것을 검색하십시오'"
 "Search for shortcuts on the desktop and in Fences "="'바탕화면과 Fences에서 단축키를 검색하십시오'"
 "Use old Start10  style search"="'구식 Start10 스타일 검색을 사용하십시오'"
-"Show results from Everything instead of Start11 file searches"="'Start11 파일 검색 대신 모든 것에서 결과를 표시하십시오'"
+"Show results from Everything instead of Start11 file searches"="'Start11의 파일 검색 대신 Everything의 결과를 표시합니다'"
 "If you have the Everything search tool installed this will be used for non app searches."="'Everything 검색 도구가 설치되어 있다면 이 도구는 앱이 아닌 검색에 사용됩니다.'"
 "All Start11 backups"="'모든 Start11 백업'"
 "Save backup of setting"="설정 백업 저장"
@@ -811,7 +811,7 @@ Exist=1
 "New tab"="'새 탭'"
 "Steam®"="'Steam®'"
 "Recent searches"="'최근 검색'"
-"Suggested"="'제안된'"
+"Suggested"="'제안'"
 "Please select a folder"="폴더를 선택해 주세요."
 "< Empty folder >"="'< 빈 폴더 >'"
 "< Access denied >"="'< 접근 거부 >'"
@@ -827,7 +827,7 @@ Exist=1
 "Un&pin from Start"="'Start'에서 고정 해제"
 "Pin to tas&kbar"="'작업 표시줄에 고정'"
 "Unpin from tas&kbar"="'tas&kbar'에서 고정 해제"
-"Everything results"="'모든 것은 결과를 낳습니다'"
+"Everything results"="'Everything 결과'"
 "No items match your search"="'검색 결과가 없습니다'"
 "Searching..."="'검색 중...'"
 "Cascade all windows"="'모든 창 계단식 배열'"
