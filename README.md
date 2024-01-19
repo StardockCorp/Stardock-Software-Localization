@@ -63,11 +63,12 @@ When complete, we are automatically notified. Once reviewed, we will communicate
 ### Adding a new language file
 The en (English) file can be used as a template for all new language files.  
 
-On your local PC, in the directory where the lang file is stored, copy the en.lng file and immediately paste it in the same directory - creating a 'copy' of it.  Rename it to the [ISO 639-1 Cod](https://www.loc.gov/standards/iso639-2/php/code_list.php) formatted lng file (example de.lng for German)
+On your local PC, in the directory where the lang file is stored, copy the en.lng file and immediately paste it in the same directory - creating a 'copy' of it.  Rename it to the [ISO 639-1 Cod](https://www.loc.gov/standards/iso639-2/php/code_list.php) formatted lng file (example de.lng for German).  You can then test that your edits fit in the App UI.
 
-
-Open it, copy all the text, and use the 'Add file' option to create a new file in your fork, pasting in the English text for editing. 
+Once complete, you can go to your fork, 'Add file' and 'create a new file', pasting in your translated text. 
 ![Add file](https://cdn.stardock.us/support/uploads/msedge_2023-10-04_11-12-09.png)
+
+NOTE: DO NOT 'Upload' a file as it bypasses the .gitattributes formatting that is done to the lang files, namely, that the files MUST retain their UTF-16 LE encoding. 
 
 ## Language File Format and Testing
 ### App group A
