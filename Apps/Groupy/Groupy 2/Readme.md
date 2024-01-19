@@ -1,4 +1,4 @@
-![Groupy 2](https://www.stardock.com/press/software/groupy2/images/logos/groupy2_logoicon_1024.png)
+![Groupy 2](https://www.stardock.com/press/software/groupy2/images/logos/Groupy2-512px.png)
 
 # Groupy 2 Language Localizations
 ## File Format
