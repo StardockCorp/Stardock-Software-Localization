@@ -37,8 +37,8 @@ In this example, we will:
  - Creating a fork \ branch to edit it under your credentials
  - Creating a 'pull request' to have it reviewed and included in the main repository
 
-Click on the DeskScapes\DeskScapes 11 folder
-![enter image description here](https://cdn.stardock.us/support/uploads/ObjectDesktopManager_2023-09-28_15-20-29sdrohan.png)
+Click on the /Apps/DeskScapes/DeskScapes 11 folder and select a language you wish to edit
+![enter image description here](https://cdn.stardock.us/support/uploads/msedge_2024-01-19_12-10-18.png)
 
 Click the pencil 
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-24-45sdrohan.png)
