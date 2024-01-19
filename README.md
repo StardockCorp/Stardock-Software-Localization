@@ -40,18 +40,13 @@ In this example, we will:
 Click on the /Apps/DeskScapes/DeskScapes 11 folder and select a language you wish to edit
 ![enter image description here](https://cdn.stardock.us/support/uploads/msedge_2024-01-19_12-10-18.png)
 
-Click the pencil 
+Click the edit pencil 
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-24-45sdrohan.png)
 
 You will be notified that to edit the file, it needs to be 'forked' to continue.  Forking any file is just an act to create a copy under your own account.
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-28-54sdrohan.png)
 
 You can now freely edit the file under your own forked copy.  Once done, click the green 'commit changes' button
-![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-30-20sdrohan.png)
-
-### Adding a new language file
-The en (English) file can be used as a template for all new language files.  Open it, copy all the text, and use the 'Add file' option to create a new file in your fork, pasting in the English text for editing. 
-![Add file](https://cdn.stardock.us/support/uploads/msedge_2023-10-04_11-12-09.png)
 
 ### Commiting a new or edited language file
 In the commit popup, add some details about what you added or changed and why (poorly phrased, inaccurate word choices, etc.). Click 'propose changes' once done:
@@ -64,6 +59,15 @@ As you did for the individual files, you can write more details about any change
 ![enter image description here](https://cdn.stardock.us/support/uploads/Teams_2023-10-02_13-36-21sdrohan.png)
 
 When complete, we are automatically notified. Once reviewed, we will communicate with you (via GitHub and its email notification system) if we have any questions and either accept or deny the pull. If accepted, you will be credited in the changelog for any application release. 
+
+### Adding a new language file
+The en (English) file can be used as a template for all new language files.  
+
+On your local PC, in the directory where the lang file is stored, copy the en.lng file and immediately paste it in the same directory - creating a 'copy' of it.  Rename it to the [ISO 639-1 Cod](https://www.loc.gov/standards/iso639-2/php/code_list.php) formatted lng file (example de.lng for German)
+
+
+Open it, copy all the text, and use the 'Add file' option to create a new file in your fork, pasting in the English text for editing. 
+![Add file](https://cdn.stardock.us/support/uploads/msedge_2023-10-04_11-12-09.png)
 
 ## Language File Format and Testing
 ### App group A
