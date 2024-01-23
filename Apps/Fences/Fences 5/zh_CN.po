@@ -184,7 +184,7 @@ msgid ""
 "Recommended for most users, easy to undo."
 msgstr ""
 "应用自动布局以开始使用。\n"
-"（推荐）大多数用户的首选，易于撤消。"
+"（推荐）大多数用户的首选，易于撤消"
 
 msgid "Apply rules now"
 msgstr "立即应用规则"
@@ -277,18 +277,18 @@ msgid "Automatically sort icons into groups based on their name, file type, or o
 msgstr "根据图标名称、文件类型或其他标准，自动将图标分类分组。"
 
 msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
-msgstr "自动拍摄每日备份快照（将保留最近 3 天的快照）"
+msgstr "自动创建每日备份快照（将保留最近 3 天的快照）"
 
 msgid "Available rules:"
 msgstr "可用规则："
 
 #, fuzzy
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
-msgstr "等待在 {0} 中指定配置文件路径，或通过 {1} 应用配置"
+msgstr "正在等待在指定配置文件路径 {0} ，或通过 {1} 应用设置"
 
 #, fuzzy
 msgid "Awaiting license file in {0}"
-msgstr "等待 {0} 中的许可证文件"
+msgstr "正在等待许可证文件 {0}"
 
 msgid "Background Color"
 msgstr "背景颜色"
@@ -307,8 +307,8 @@ msgid ""
 "Below, you can define rules that will govern where new icons are placed.\n"
 "Sample rules are provided or you can create your own - click \"Add rule...\" to get started!"
 msgstr ""
-"在下方，您可定义将管理新图标的放置位置的规则。\n"
-"系统提供有示例规则，您也可创建自己的规则——单击“添加规则...”以开始！"
+"下面，您可以自定义管理新图标的分区的规则。\n"
+"您可以参考系统提供的示例，然后点击 \"添加规则\" 以开始创建自己的规则！"
 
 msgid "between"
 msgstr "之间"
@@ -319,7 +319,7 @@ msgstr "混合"
 
 #, fuzzy
 msgid "Blend background into wallpaper with Chameleon"
-msgstr "使用 Chameleon 将您的背景融入壁纸中"
+msgstr "使用 Chameleon 将您的分区与图标融入壁纸中"
 
 #, fuzzy
 msgid "Blend icons into wallpaper"
@@ -327,7 +327,7 @@ msgstr "将图标融入壁纸"
 
 #, fuzzy
 msgid "Blend icons into wallpaper with Chameleon"
-msgstr "使用 Chameleon 将图标混合到壁纸中"
+msgstr "使用 Chameleon 将图标融入到壁纸"
 
 #, fuzzy
 msgid "Blend into wallpaper with Chameleon"
@@ -335,11 +335,11 @@ msgstr "使用 Chameleon 融入壁纸"
 
 #, fuzzy
 msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
-msgstr "将图标与壁纸融为一体，享受全新的安心体验。"
+msgstr "将图标与壁纸融为一体，享受全新体验。"
 
 #, fuzzy
 msgid "Blue Fence area backgrounds"
-msgstr "蓝色栅栏区域背景"
+msgstr "蓝色 Fence 区域背景"
 
 #, fuzzy
 msgid "Blur background"
@@ -347,14 +347,14 @@ msgstr "模糊背景"
 
 #, fuzzy
 msgid "Blur group area background"
-msgstr "模糊组区域背景"
+msgstr "模糊分区背景"
 
 #, fuzzy
 msgid "Brightness:"
 msgstr "亮度："
 
 msgid "By creating program..."
-msgstr "通过创建程序..."
+msgstr "通过创建程序"
 
 msgid "By Default,"
 msgstr "默认情况下，"
@@ -363,31 +363,31 @@ msgid "By default..."
 msgstr "默认情况下..."
 
 msgid "By file-size..."
-msgstr "按文件大小..."
+msgstr "按文件大小"
 
 msgid "By last-modified..."
-msgstr "按上次修改..."
+msgstr "按上次修改时间"
 
 msgid "By link target..."
-msgstr "通过链接目标..."
+msgstr "通过链接目标"
 
 msgid "By name..."
-msgstr "按名称..."
+msgstr "按名称"
 
 msgid "By the day of the week..."
-msgstr "按一周的一天..."
+msgstr "按周日至周六顺序"
 
 msgid "by the program"
 msgstr "按程序"
 
 msgid "By the time of the day..."
-msgstr "按一天的时间..."
+msgstr "按日期"
 
 msgid "By type..."
-msgstr "按类型..."
+msgstr "按类型"
 
 msgid "By usage count..."
-msgstr "按用途计数..."
+msgstr "按使用次数"
 
 msgid "Bytes"
 msgstr "字节"
@@ -402,10 +402,10 @@ msgid "Cannot restore snapshots while Fences is not enabled."
 msgstr "桌面分区未启用时无法恢复快照。"
 
 msgid "Cannot take snapshot while Fences is not enabled."
-msgstr "桌面分区未启用时无法拍摄快照。"
+msgstr "桌面分区未启用时无法创建快照。"
 
 msgid "Change / resize the font used in Fences' labels"
-msgstr "更改/调整桌面分区标签中使用的字体大小"
+msgstr "更改/调整桌面分区标签字体大小"
 
 msgid "Change color"
 msgstr "更改颜色"
@@ -420,28 +420,28 @@ msgid "Change Rules Order"
 msgstr "更改规则顺序"
 
 msgid "Change the order in which rules are applied"
-msgstr "更改应用规则的顺序"
+msgstr "更改规则生效的顺序"
 
 msgid "Change the order in which your rules are applies by choosing a rule below and using the up/down arrows."
-msgstr "选择以下规则并使用向上/向下箭头以更改应用规则的顺序。"
+msgstr "选中规则后，使用 上/下箭头 更改规则生效的顺序"
 
 msgid "Check for updates"
 msgstr "检查更新"
 
 msgid "Choose a color for your Fence groups, and adjust Fence labels to suit your tastes."
-msgstr "选择您的桌面分区颜色，并调整桌面分区的标签以适应自己的风格。"
+msgstr "为您的桌面分区选择一个颜色，并调整桌面分区的标签以适应自己的风格。"
 
 msgid "Choose a default Fence for new icons, or automatically place icons in Fences by name, size, filetype, or a variety of customizable criteria."
-msgstr "为新图标选择默认桌面分区，或自动按名称、大小、文件类型或各种自定义标准将图标放在桌面分区。"
+msgstr "为新图标选择默认桌面分区，或自动按名称、大小、文件类型或其他自定义分类放置。"
 
 msgid "Choose a different folder"
 msgstr "选择不同的文件夹"
 
 msgid "Choose a different folder..."
-msgstr "选择不同的文件夹..."
+msgstr "选择不同的文件夹"
 
 msgid "choose a Fence..."
-msgstr "选择桌面分区..."
+msgstr "选择一个分区"
 
 msgid "Choose a folder to place this Fence into"
 msgstr "选择放置此桌面分区的文件夹"
@@ -453,8 +453,8 @@ msgid ""
 "Choose a layout to help get me started\n"
 "(Recommended for most users, easy to undo)"
 msgstr ""
-"选择布局以帮助我开始\n"
-"（推荐给大多数用户，可轻松撤消）"
+"选择一个布局以开始使用\n"
+"（推荐）大多数用户的首选，易于撤消"
 
 msgid "Choose folder"
 msgstr "选择文件夹"
@@ -472,20 +472,20 @@ msgid "Classic icons"
 msgstr "经典图标"
 
 msgid "Click && drag the edge or titlebar of a Fence group to move or resize."
-msgstr "单击并拖动桌面分区的边缘或标题栏以移动或调整大小。"
+msgstr "单击并拖动桌面分区的边缘或标题栏以移动或调整大小"
 
 msgid "Close"
 msgstr "关闭"
 
 #, fuzzy
 msgid "Color customization is unavailable with Chameleon"
-msgstr "Chameleon 不支持颜色定制"
+msgstr "Chameleon 不支持颜色自定义"
 
 msgid "Color intensity:"
-msgstr "颜色强度："
+msgstr "颜色饱和度："
 
 msgid "Compatibility issue found..."
-msgstr "发现兼容性问题..."
+msgstr "发现兼容性问题"
 
 msgid "Compatibiliy issue found..."
 msgstr "发现兼容性问题..."
@@ -498,11 +498,11 @@ msgid "Config Import / Export"
 msgstr "配置导入/导出"
 
 msgid "Configure Fences"
-msgstr "配置桌面分区"
+msgstr "配置 Fences"
 
 #, fuzzy
 msgid "Configure Fences..."
-msgstr "配置Fences..."
+msgstr "配置 Fences"
 
 msgid "contains"
 msgstr "包含"
@@ -511,7 +511,7 @@ msgid "Control"
 msgstr "控制"
 
 msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
-msgstr "方便地从桌面分区访问任何文件夹，视图样式由您选择。"
+msgstr "从桌面分区便捷地访问任何文件夹，可自定视图样式"
 
 #, fuzzy
 msgid "Copy color"
@@ -519,19 +519,19 @@ msgstr "复制颜色"
 
 #, fuzzy
 msgid "Copy Fence color"
-msgstr "复制栅栏颜色"
+msgstr "复制 Fence 颜色"
 
 msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "版权所有 © {0}-{1} {2}。保留所有权利。"
 
 msgid "Create a Fence™"
-msgstr "创建桌面分区"
+msgstr "创建一个桌面分区"
 
 msgid "Create Fence from a Folder"
 msgstr "从文件夹创建桌面分区"
 
 msgid "Create Fence groups with left and right mouse buttons"
-msgstr "用鼠标左右键创建桌面分区"
+msgstr "用鼠标左、右键创建桌面分区"
 
 msgid "Create Fence groups with left mouse button only"
 msgstr "仅使用鼠标左键创建桌面分区"
@@ -549,13 +549,13 @@ msgid "Create Folder"
 msgstr "创建文件夹"
 
 msgid "Create Folder Portal™ %1"
-msgstr "创建 Folder Portal™ %1"
+msgstr "创建 映射文件夹 %1"
 
 msgid "Create Folder Portal™ groups with Alt + Drag/Drop"
-msgstr "使用 Alt + 拖放来创建Folder Portal™"
+msgstr "使用 Alt + 拖放 来创建 映射文件夹"
 
 msgid "Create Folder Portal™ here"
-msgstr "在此处创建Folder Portal™"
+msgstr "在此处创建 映射文件夹"
 
 msgid "Create new Fence from these icons"
 msgstr "从这些图标创建新的桌面分区"
@@ -568,7 +568,7 @@ msgid ""
 "(Recommended for most casual users)"
 msgstr ""
 "创建 2 个空白桌面分区供您开始使用\n"
-"（推荐给大多数临时用户）"
+"（推荐）适合大多数临时用户"
 
 msgid "Custom rules"
 msgstr "自定义规则"
@@ -588,26 +588,26 @@ msgstr "自定义您的桌面分区"
 
 #, fuzzy
 msgid "Customize your Fence groups' background color & style."
-msgstr "自定义栅栏组的背景颜色和风格。"
+msgstr "自定义桌面分区的背景颜色和风格"
 
 msgid "Customize..."
-msgstr "自定义..."
+msgstr "自定义"
 
 msgid "Customizing your Folder Portal groups"
-msgstr "自定义您的Folder Portals"
+msgstr "自定义您的 映射文件夹"
 
 msgid "Daily Snapshot"
 msgstr "每日快照"
 
 msgid "Darken Fence area title bars"
-msgstr "使 Fence 区域标题栏变暗"
+msgstr "使桌面分区的标题栏变暗"
 
 #, fuzzy
 msgid "Darken titlebar areas"
 msgstr "使标题栏区域变暗"
 
 msgid "Date added to Fence"
-msgstr "日期已添加到桌面分区"
+msgstr "已添加日期到桌面分区"
 
 msgid "Date created"
 msgstr "已创建日期"
@@ -1442,7 +1442,7 @@ msgstr "更多"
 
 #, fuzzy
 msgid "More adjustments"
-msgstr "更多调整"
+msgstr "更多选项"
 
 msgid "More options..."
 msgstr "更多选项..."
