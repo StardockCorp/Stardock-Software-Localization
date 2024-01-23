@@ -616,13 +616,13 @@ msgid "Date modified"
 msgstr "已修改日期"
 
 msgid "Date Taken:"
-msgstr "拍摄日期："
+msgstr "日期："
 
 msgid "days left in your free trial"
-msgstr "剩余的免费试用期"
+msgstr "剩余的免费试用期限"
 
 msgid "Delete rule..."
-msgstr "删除规则..."
+msgstr "删除规则"
 
 msgid "Delete Snapshot"
 msgstr "删除快照"
@@ -634,49 +634,49 @@ msgid "Description:"
 msgstr "描述："
 
 msgid "Designed and developed by {0}."
-msgstr "{0} 设计和开发。"
+msgstr "由 {0} 设计和开发"
 
 msgid "Desktop Files"
 msgstr "桌面文件"
 
 msgid "Desktop lock did not complete."
-msgstr "桌面锁定未完成。"
+msgstr "未完成桌面锁定"
 
 msgid "Desktop locked. It will remain locked until you unlock it."
-msgstr "桌面锁定。其将在您解锁之前保持锁定。"
+msgstr "桌面已锁定，直到您手动将其解除。"
 
 msgid "Desktop Pages"
-msgstr "桌面页面"
+msgstr "多页桌面"
 
 msgid "Desktop quick-hide"
-msgstr "桌面快速隐藏"
+msgstr "快速隐藏桌面（速隐）"
 
 msgid "Desktop quick-hide activated"
-msgstr "桌面快速隐藏已激活"
+msgstr "“速隐” 已激活"
 
 msgid "Desktop Shortcuts"
 msgstr "桌面快捷键"
 
 msgid "Desktop unlock did not complete."
-msgstr "桌面解锁未完成。"
+msgstr "未完成桌面解锁"
 
 msgid "Desktop unlocked until the next reboot, or until you re-lock the desktop."
-msgstr "桌面已解锁，并直至下次重启，或者直至您重新锁定桌面。"
+msgstr "已解锁的桌面将在下次重启后自动锁定，当然您也可以手动锁定桌面"
 
 msgid "Desktop unlocked. It will remain unlocked until you lock it again."
-msgstr "桌面已解锁。其将在您再次锁定之前保持解锁。"
+msgstr "桌面已解锁，其将在您再次锁定之前保持解锁。"
 
 msgid "Details"
-msgstr "详细信息"
+msgstr "详情"
 
 msgid "Details (Large)"
-msgstr "详细信息（大）"
+msgstr "详情（多）"
 
 msgid "Disable per-Fence transparency"
-msgstr "禁用每个桌面分区的透明度"
+msgstr "禁用所有桌面分区的透明度"
 
 msgid "Disable snapping at any time by holding shift"
-msgstr "按住 shift 可随时禁用快照"
+msgstr "通过按住 Shift 以禁用快照"
 
 msgid "Disabled"
 msgstr "已禁用"
@@ -686,7 +686,7 @@ msgid "Do nothing"
 msgstr "什么都不做"
 
 msgid "Do you want to remove all of your Fences settings and saved backups?"
-msgstr "您想移除所有桌面分区的设置和保存的备份吗？"
+msgstr "您确认删除“所有桌面分区的设置”，以及“保存的备份”吗？"
 
 msgid "Document"
 msgstr "文档"
@@ -695,16 +695,16 @@ msgid "Documents"
 msgstr "文档"
 
 msgid "Does not apply to Folder Portals"
-msgstr "不适用于Folder Portals"
+msgstr "不适用于 映射文件夹"
 
 msgid "does not contain"
 msgstr "不包含"
 
 msgid "does not end with"
-msgstr "不以 结尾"
+msgstr "不以（）结尾"
 
 msgid "does not start with"
-msgstr "不以 开头"
+msgstr "不以（）开头"
 
 msgid "Done"
 msgstr "完成"
@@ -713,19 +713,19 @@ msgid "Don't preserve my desktop layout"
 msgstr "请勿保留我的桌面布局"
 
 msgid "Don't show this message again"
-msgstr "请勿再次显示此消息"
+msgstr "不再显示此消息"
 
 msgid "Double click Fence titlebar to roll up"
-msgstr "双击桌面分区标题栏以卷起"
+msgstr "双击桌面分区的标题栏以自动卷起该分区"
 
 msgid ""
 "Double clicking a Fence group's titlebar will cause it to roll-up into its titlebar, saving you space.\n"
 "\n"
 "Move your mouse over to reveal the Fence, or double-click again to disable. Move Fence to edge of screen to dock to the edge of the screen."
 msgstr ""
-"双击桌面分区标题栏将使其卷起到标题栏，从而节省空间。\n"
+"双击桌面分区的标题栏将使其自动卷起，从而节省空间\n"
 "\n"
-"移动您的鼠标以显示桌面分区，或再次双击以禁用。移动桌面分区到屏幕边缘以停靠在屏幕边缘。"
+"移动您的鼠标到标题栏以显示桌面分区，或再次双击以禁用自动卷起的功能。移动桌面分区到屏幕边缘以自动吸附。"
 
 msgid "Double clicking will roll-up your Fence!"
 msgstr "双击将卷起您的桌面分区！"
@@ -749,15 +749,15 @@ msgstr "编辑背景颜色"
 
 #, fuzzy
 msgid "Edit color..."
-msgstr "编辑颜色..."
+msgstr "编辑颜色"
 
 #, fuzzy
 msgid "Edit Fence color..."
-msgstr "编辑栅栏颜色..."
+msgstr "编辑桌面分区颜色"
 
 #, fuzzy
 msgid "Edit Fence Style"
-msgstr "编辑栅栏样式"
+msgstr "编辑桌面分区样式"
 
 #, fuzzy
 msgid "Edit title font"
@@ -765,13 +765,13 @@ msgstr "编辑标题字体"
 
 #, fuzzy
 msgid "Edit title font color"
-msgstr "编辑标题字体颜色"
+msgstr "编辑标题的字体颜色"
 
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
-msgstr "启用使图标 “闪入” 桌面分区（针对触控式系统）"
+msgstr "在桌面分区启用 “闪入”功能以支持触控式系统"
 
 msgid "Enable advanced crash reporting"
-msgstr "启用高级崩溃报告"
+msgstr "启用崩溃报告（专业）"
 
 #, fuzzy
 msgid "Enable Chameleon"
@@ -779,23 +779,23 @@ msgstr "启用 Chameleon"
 
 #, fuzzy
 msgid "Enable crash reporting"
-msgstr "启用碰撞报告"
+msgstr "启用崩溃报告"
 
 msgid "Enable Fences"
 msgstr "启用桌面分区"
 
 #, fuzzy
 msgid "Enable Pages"
-msgstr "启用页面URL"
+msgstr "启用“多页桌面”"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
-msgstr "启用在各个桌面分区内排序（按名称、类型、大小等）"
+msgstr "允许在各个桌面分区内（按名称、类型、大小等）排序"
 
 msgid "Enabled"
 msgstr "已启用"
 
 msgid "ends with"
-msgstr "以 结尾"
+msgstr "以（）结尾"
 
 msgid "Enter title"
 msgstr "输入标题"
@@ -813,13 +813,13 @@ msgstr "排除停靠在屏幕边缘的桌面分区"
 
 #, fuzzy
 msgid "Exclude from quick-hide"
-msgstr "从快速隐藏中排除"
+msgstr "从“速隐”中排除"
 
 msgid "Exclude this Fence group from quick-hide"
-msgstr "从快速隐藏中排除此桌面分区"
+msgstr "从“速隐”中排除此桌面分区"
 
 msgid "Exclude this icon from Fences' quick-hide"
-msgstr "从桌面分区快速隐藏中排除此图标"
+msgstr "从桌面分区“速隐”中排除此图标"
 
 msgid "Executable file"
 msgstr "可执行文件"
@@ -832,10 +832,10 @@ msgid "Export Config to File"
 msgstr "将配置导出到文件"
 
 msgid "Extra large icons"
-msgstr "特大号图标"
+msgstr "特大图标"
 
 msgid "Fade-in faded Fence groups when the mouse is over them"
-msgstr "当鼠标在桌面分区上时，淡入淡出的桌面分区"
+msgstr "当鼠标略过桌面分区时，显示淡入淡出动画"
 
 msgid ""
 "Failed to deactivate the local machine.\n"
@@ -1153,7 +1153,7 @@ msgstr "如何使用"
 
 #, fuzzy
 msgid "How to use desktop pages"
-msgstr "如何使用桌面页面"
+msgstr "如何使用“多页桌面”"
 
 msgid "How to use with a keyboard"
 msgstr "如何使用键盘"
@@ -1243,7 +1243,7 @@ msgid "Icons whose type"
 msgstr "类型 的图标"
 
 msgid "Icons with file sizes greater than..."
-msgstr "文件大小大于...的图标"
+msgstr "文件大小大于（）的图标"
 
 msgid "If hidden, unhide my desktop icons when switching pages"
 msgstr "隐藏后，切换页面时取消隐藏我的桌面图标"
