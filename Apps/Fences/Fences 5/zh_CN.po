@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
 "POT-Creation-Date: 2023-11-22 00:10-08:00\n"
-"PO-Revision-Date: 2023-11-22 22:01-0800\n"
-"Last-Translator: Stardock Community\n"
+"PO-Revision-Date: 2024-01-23 16:26-18:00\n"
+"Last-Translator: LinkChou\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgid "A folder cannot be created inside of this folder. Please try again."
 msgstr "无法在此文件夹内创建文件夹。请重试。"
 
 msgid "A Folder Portal's title always shows the name of the folder it contains. To set a custom title, navigate to the root folder of the portal and try again. Your customization will stick."
-msgstr "Folder Portal的标题总是显示其中包含的文件夹的名称。要设置自定义标题，请导航到快捷入口的根文件夹，然后重试。您的自定义将保持固定。"
+msgstr "Folder Portal的标题总是显示其中包含的文件夹的名称。要设置自定义标题，请导航到快捷入口的根目录，然后设置。您的偏好设置将保持固定。"
 
 msgid "A newer version is already installed"
 msgstr "已安装较新版本"
@@ -44,12 +44,12 @@ msgid ""
 "Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
 "\n"
 msgstr ""
-"像在手机上一样，抓住并拉动屏幕边缘，即可访问多屏图标。使用它们，可以将电脑生活的不同部分分开。\n"
+"像在手机上一样，按住并左右滑动屏幕边缘，即可访问多屏图标。您可以通过它便捷地将工作与生活的文件分开。\n"
 "\n"
 
 #, fuzzy
 msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
-msgstr "通过完全自定义的实时视图，直接从桌面访问任何文件夹的内容。"
+msgstr "通过可以完全自定义的实时视图，直接从桌面访问任何文件夹的内容。"
 
 msgid "Activate"
 msgstr "启用"
@@ -58,29 +58,29 @@ msgid "Activate enterprise license"
 msgstr "激活企业许可证"
 
 msgid "Activation successful."
-msgstr "激活成功。"
+msgstr "激活成功"
 
 #, fuzzy
 msgid "Add \"Show Fences\" icon to my taskbar"
-msgstr "在我的任务栏上添加 \"显示Fences \"图标"
+msgstr "在我的任务栏上添加 \"显示Fences\" 图标"
 
 msgid "Add / Remove"
-msgstr "添加/移除"
+msgstr "添加 / 移除"
 
 msgid "Add a Custom Rule..."
-msgstr "添加自定义规则..."
+msgstr "添加自定义规则"
 
 msgid "Add additional criteria..."
-msgstr "添加其他标准..."
+msgstr "添加其他标准"
 
 msgid "Add another rule..."
-msgstr "添加其他规则..."
+msgstr "添加其他规则"
 
 msgid "Add new icons as the first icon in the target Fence"
 msgstr "添加新图标，并将其作为目标桌面分区中的首个图标"
 
-msgid "Add rule..."
-msgstr "添加规则..."
+msgid "Add rule"
+msgstr "添加规则"
 
 msgid "Additional options"
 msgstr "其他选项"
@@ -95,7 +95,7 @@ msgid "Adjust a Fence"
 msgstr "调整桌面分区"
 
 msgid "Adjust the appearance of individual Fence groups"
-msgstr "调整各个桌面分区的外观"
+msgstr "调整所有桌面分区的外观"
 
 msgid "Adjust the transparency of an individual Fence"
 msgstr "调整单个桌面分区的透明度"
@@ -105,26 +105,26 @@ msgstr "调整桌面图标的透明度"
 
 #, fuzzy
 msgid "Adjust title font color"
-msgstr "调整标题字体颜色"
+msgstr "调整标题的字体颜色"
 
 #, fuzzy
 msgid "Adjust title text font/color"
-msgstr "调整标题文字的字体/颜色"
+msgstr "调整标题文字的字体和颜色"
 
 msgid "after"
 msgstr "之后"
 
 msgid "After 1 second"
-msgstr "1 秒之后"
+msgstr "1 秒后"
 
 msgid "After 10 minutes"
-msgstr "10 分钟之后"
+msgstr "10 分钟后"
 
 msgid "After 2 minutes"
-msgstr "2 分钟之后"
+msgstr "2 分钟后"
 
 msgid "After 30 seconds"
-msgstr "30 秒之后"
+msgstr "30 秒后"
 
 msgid "Align icons to grid"
 msgstr "对齐图标至网格"
@@ -134,7 +134,7 @@ msgstr "所有桌面分区"
 
 #, fuzzy
 msgid "All groups"
-msgstr "所有组"
+msgstr "所有分区"
 
 msgid "All new icons"
 msgstr "所有新图标"
@@ -159,10 +159,10 @@ msgid "Always show icons at startup"
 msgstr "总是在启动时显示图标"
 
 msgid "Always use this answer"
-msgstr "总是使用此答案"
+msgstr "总是使用此配置"
 
 msgid "An update to Fences is available!"
-msgstr "有可用的桌面分区更新！"
+msgstr "有可用的 Fences 更新！"
 
 msgid "Analytics"
 msgstr "分析"
@@ -171,7 +171,7 @@ msgid "and"
 msgstr "和"
 
 msgid "Animate icons when they move"
-msgstr "移动时为图标设置动画"
+msgstr "显示移动时的图标动画"
 
 msgid "Animate the page-switching"
 msgstr "增加页面切换动画效果"
@@ -183,14 +183,14 @@ msgid ""
 "Apply a layout to help get started.\n"
 "Recommended for most users, easy to undo."
 msgstr ""
-"应用布局以帮助入门。\n"
-"推荐给大多数用户，易于撤消。"
+"应用自动布局以开始使用。\n"
+"（推荐）大多数用户的首选，易于撤消。"
 
 msgid "Apply rules now"
-msgstr "现在应用规则"
+msgstr "立即应用规则"
 
 msgid "Apply rules now to existing icons"
-msgstr "现在将规则应用于现有图标"
+msgstr "立即将规则应用于现有图标"
 
 msgid ""
 "Are you sure you want to always force your icons to follow the rules defined above?\n"
@@ -202,32 +202,32 @@ msgid ""
 msgstr ""
 "您确定总是强制图标遵循上面定义的规则吗？\n"
 "\n"
-"以此方式使用规则可能会造成在桌面分区之间不必要地移动图标。\n"
-"建议您在继续操作之前拍摄快照。\n"
+"以此方式使用规则可能会在桌面分区之间不必要地移动图标。\n"
+"建议您在继续操作之前创建一个桌面快照。\n"
 "\n"
-"要继续吗？"
+"是否确认？"
 
 msgid "Are you sure you want to delete this snapshot?"
 msgstr "您确定要删除此快照吗？"
 
 msgid "Are you sure you want to remove this Fence and send its contents to the Recycle Bin?"
-msgstr "您确定要移除此桌面分区并将其内容发送到回收站吗？"
+msgstr "您确定要删除此桌面分区，并将其内容删除到回收站吗？"
 
 msgid "Are you sure you want to remove this Fence?"
-msgstr "您确定要移除此桌面分区吗？"
+msgstr "您确定要取消此桌面分区吗？"
 
 msgid "Are you sure you want to remove this rule?"
-msgstr "您确定要移除此规则吗？"
+msgstr "您确定要删除此规则吗？"
 
 msgid "Are you sure you want to reset the appearance of all Fence groups?"
 msgstr "您确定要重置所有桌面分区的外观吗？"
 
 #, fuzzy
 msgid "Are you sure you want to reset this group's custom color?"
-msgstr "您确定要重置该组的自定义颜色吗？"
+msgstr "您确定要重置本分区的自定义颜色吗？"
 
 msgid "Are you sure you want to reset this rule back to its default criteria?"
-msgstr "您确定要将此规则重置为默认标准吗？"
+msgstr "您确定重置此规则吗？"
 
 msgid ""
 "Are you sure you want to run all rules now?\n"
@@ -236,20 +236,20 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
-"您确定要立即运行所有规则吗？\n"
+"您确定要立即应用所有规则吗？\n"
 "\n"
-"运行规则可能会造成在桌面分区之间不必要地移动图标。建议您在继续操作之前拍摄快照。\n"
+"运行规则可能会使 Fences 在桌面分区之间不必要地移动图标。建议您在继续操作之前拍摄快照。\n"
 "\n"
 "要继续吗？"
 
 msgid "Are you sure you'd like to reset your per-Fence customized settings?"
-msgstr "您确定要重置每个桌面分区自定义设置吗？"
+msgstr "您确定要重置每个桌面分区的自定义设置吗？"
 
 msgid "at least"
 msgstr "至少"
 
 msgid "at the start of the Fence"
-msgstr "在桌面分区启动时"
+msgstr "在 Fence 启动时"
 
 msgid "Audio file"
 msgstr "音频文件"
@@ -261,7 +261,7 @@ msgid "Auto arrange icons"
 msgstr "自动排列图标"
 
 msgid "Auto organizing"
-msgstr "自动组织"
+msgstr "自动分类"
 
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "不使用桌面时自动隐藏图标"
@@ -1478,13 +1478,13 @@ msgid "Never ask me to make a backup again"
 msgstr "决不再次要求我进行备份"
 
 msgid "New '%s' are now set to go to the Fence '%s'"
-msgstr "新的 '％s’ 现在设置为前往桌面分区'％s’"
+msgstr "新的 '%s’ 现在设置为前往桌面分区'%s’"
 
 msgid "New %s currently go to '%s'"
-msgstr "新的 ％s 目前前往 '％s’"
+msgstr "新的 %s 目前前往 '%s’"
 
 msgid "New %s currently go to this Fence"
-msgstr "新的 ％s 目前前往此桌面分区"
+msgstr "新的 %s 目前前往此桌面分区"
 
 msgid "New Folder Panel"
 msgstr "新文件夹面板"
@@ -1655,7 +1655,7 @@ msgstr "粘贴栅栏颜色"
 
 #, fuzzy
 msgid "Peek"
-msgstr "閃入/閃出"
+msgstr "闪入/闪出"
 
 #, fuzzy
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
@@ -1937,10 +1937,10 @@ msgid "Send certain file types to different places"
 msgstr "发送特定文件类型到不同的位置"
 
 msgid "Send new %s to a particular Fence"
-msgstr "发送新的 ％s 到特定的桌面分区"
+msgstr "发送新的 %s 到特定的桌面分区"
 
 msgid "Send new %s to this Fence"
-msgstr "发送新的 ％s 到此桌面分区"
+msgstr "发送新的 %s 到此桌面分区"
 
 msgid "Sensitivity:"
 msgstr "灵敏度："
@@ -2579,7 +2579,7 @@ msgid ""
 "\n"
 "Would you like them to go to the Fence '%s' instead?"
 msgstr ""
-"％s'已经设置为前往桌面分区'％s’ \n"
+"%s'已经设置为前往桌面分区'%s’ \n"
 "\n"
 "您想要它们前往桌面分区 '%s’ 吗？"
 
@@ -2588,7 +2588,7 @@ msgid ""
 "\n"
 "Would you like to disable this rule?"
 msgstr ""
-"％s'已经设置为前往桌面分区'％s’ \n"
+"%s'已经设置为前往桌面分区'%s’ \n"
 "\n"
 "您想要禁用此规则吗？"
 
@@ -2616,7 +2616,7 @@ msgid "(Select a criteria type)"
 msgstr "（选择标准类型）"
 
 msgid "(Untitled Fence with %i icons)"
-msgstr "（带有 ％i 图标的无标题桌面分区）"
+msgstr "（带有 %i 图标的无标题桌面分区）"
 
 #, fuzzy
 msgid "* Header bar will still show for Folder Portals upon mouseover"
