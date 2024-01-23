@@ -1183,10 +1183,10 @@ msgid "Icon transparency && fading Fence groups"
 msgstr "图标透明度和淡入淡出桌面分区"
 
 msgid "Icon was created during a certain day of the week..."
-msgstr "图标在一周中的某一天创建..."
+msgstr "图标在一周中的某一天创建"
 
 msgid "Icon was created during a certain time of the day..."
-msgstr "图标在一天中的某个时间创建..."
+msgstr "图标在一天中的某个时间创建"
 
 msgid "Icon was used"
 msgstr "已使用图标"
@@ -1198,49 +1198,49 @@ msgid "Icons created"
 msgstr "已创建图标"
 
 msgid "Icons created during certain times of the day..."
-msgstr "图标在一天中的某些时间创建..."
+msgstr "图标在一天中的某些时间创建"
 
 msgid "Icons created on certain days of the week..."
-msgstr "图标在一周中的某几天创建..."
+msgstr "图标在一周中的某几天创建"
 
 msgid "Icons in a Folder Portal cannot be manually repositioned. To change the order of icons in a Folder Portal, right-click in an empty part of the Fence, select Sort By, and choose an option."
-msgstr "Folder Portal中的图标无法手动重新定位。要更改Folder Portal中图标的顺序，请右键单击桌面分区的空白部分，选择“排序方式”，然后选择一个选项。"
+msgstr "映射文件夹 中的图标无法手动重新定位。要更改 映射文件夹 中图标的顺序，请右键单击桌面分区的空白部分，选择“排序方式”，然后选择一个选项。"
 
 msgid "Icons in Folder Portals cannot be repositioned."
-msgstr "Folder Portals中的图标无法重新定位。"
+msgstr "映射文件夹 中的图标无法重新定位"
 
 msgid "Icons last modified"
 msgstr "上次修改的图标"
 
 msgid "Icon's name contains..."
-msgstr "图标的名称包含..."
+msgstr "图标的名称包含"
 
 msgid "Icon's name does not contain..."
-msgstr "图标的名称不包含..."
+msgstr "图标的名称不包含"
 
 msgid "Icon's name ends with..."
-msgstr "图标的名称以...结尾"
+msgstr "图标的名称以（）结尾"
 
 msgid "Icon's name starts with..."
-msgstr "图标的名称以...开头"
+msgstr "图标的名称以（）开头"
 
 msgid "Icons used"
-msgstr "使用的图标"
+msgstr "图标（已使用）"
 
 msgid "Icons whose file size"
-msgstr "文件大小 的图标"
+msgstr "图标 的文件体积"
 
 msgid "Icons whose name"
-msgstr "名称 的图标"
+msgstr "图标 的名称"
 
 msgid "Icons whose name contains..."
-msgstr "名称包含...的图标"
+msgstr "名称包含（）的图标"
 
 msgid "Icons whose name starts/ends with..."
-msgstr "名称以...开头/结尾的图标"
+msgstr "名称以（）开头/结尾的图标"
 
 msgid "Icons whose type"
-msgstr "类型 的图标"
+msgstr "图标 的类型"
 
 msgid "Icons with file sizes greater than..."
 msgstr "文件大小大于（）的图标"
@@ -1252,7 +1252,7 @@ msgid "Ignore for now"
 msgstr "现在忽略"
 
 msgid "I'll create Fence groups on my own"
-msgstr "我将自己创建我的桌面分区"
+msgstr "我将创建自己的桌面分区"
 
 msgid "Image"
 msgstr "图片"
@@ -1283,10 +1283,10 @@ msgid "Just create a couple Fence groups"
 msgstr "只创建一对桌面分区"
 
 msgid "Just perform auto-layout"
-msgstr "只执行自动布局"
+msgstr "仅执行自动布局"
 
 msgid "Just restore snapshot"
-msgstr "只恢复快照"
+msgstr "仅恢复快照"
 
 msgid "Keep groups lined up when moving"
 msgstr "移动时保持桌面分区对齐"
@@ -1301,14 +1301,14 @@ msgid "Keep rules applied at all times"
 msgstr "始终保持规则的适用"
 
 msgid "Kiosk mode"
-msgstr "信息亭模式"
+msgstr "Kiosk 模式"
 
 msgid "Kiosk Mode"
-msgstr "信息亭模式"
+msgstr "Kiosk 模式"
 
 #, fuzzy
 msgid "Kiosk Mode (Lock Desktop)"
-msgstr "信息亭模式（锁定桌面）"
+msgstr "Kiosk 模式（锁定桌面）"
 
 #, fuzzy
 msgid "Language"
@@ -1337,7 +1337,7 @@ msgstr "布局快照"
 
 #, fuzzy
 msgid "Layout spacing & snapping"
-msgstr "布局间距和套接"
+msgstr "布局间距和快照"
 
 msgid "Layout tools and snapshots"
 msgstr "布局工具和快照"
@@ -1359,26 +1359,26 @@ msgid "License not yet validated"
 msgstr "许可证尚未验证"
 
 msgid "Lightly bounce after switching pages"
-msgstr "切换页面之后轻轻弹跳"
+msgstr "切换页面之后轻弹"
 
 #, fuzzy
 msgid "Lightness:"
-msgstr "轻盈"
+msgstr "精简:"
 
 msgid "Like on your mobile phone, swipe between multiple screens of icons. Great for keeping different desktops for different topics, and works great with the keyboard or mouse."
-msgstr "像使用手机一样，在多个图标屏幕之间滑动。完美地为不同的主题保持不同的桌面，并且可与键盘或鼠标完美配合。"
+msgstr "像使用手机一样，在屏幕上左右滑动切换页面。完美地为不同的主题保持不同的桌面，并且可与键盘或鼠标完美配合。"
 
 msgid "Link's target contains..."
-msgstr "链接的目标包含..."
+msgstr "链接的目标包含.."
 
 msgid "Link's target does not contain..."
-msgstr "链接的目标不包含..."
+msgstr "链接的目标不包含"
 
 msgid "Link's target ends with..."
-msgstr "链接的目标以..."
+msgstr "链接的目标以"
 
 msgid "Link's target starts with..."
-msgstr "链接的目标以..."
+msgstr "链接的目标以"
 
 msgid "Links whose target"
 msgstr "链接的目标"
@@ -1393,7 +1393,7 @@ msgid "Load"
 msgstr "加载"
 
 msgid "Loading List..."
-msgstr "正在加载列表..."
+msgstr "正在加载列表…"
 
 msgid "Lock desktop"
 msgstr "锁定桌面"
@@ -1406,17 +1406,17 @@ msgid "Lock Fences"
 msgstr "锁定桌面分区"
 
 msgid "Lock your desktop to protect others from modifying it."
-msgstr "锁定桌面以避免他人修改。"
+msgstr "锁定桌面以避免他人修改"
 
 #, fuzzy
 msgid "Maintain backups and adjust your layout settings."
-msgstr "维护备份并调整布局设置。"
+msgstr "维护备份并调整布局设置"
 
 msgid "Maintain sorting"
-msgstr "维持排序"
+msgstr "保持排序"
 
 msgid "Make laying out your desktop a snap ; snapping helps keep your Fence groups in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
-msgstr "轻松布置桌面 ; 捕捉有助于使您的 Fences 保持一致，并且大小甚至可以容纳多个图标. Fences 的布局工具还可以帮助您通过更改屏幕分辨率和插入新显示器来保留桌面的布局。"
+msgstr "轻松布置桌面；快照有助于使您的桌面分组保持一致，并且其可以容纳多个图标。Fences 的布局工具还可以帮助您在添加新显示器时从容不迫地保留桌面的布局。"
 
 msgid "Manage product key"
 msgstr "管理产品密钥"
@@ -1432,7 +1432,7 @@ msgid "Medium icons"
 msgstr "中等图标"
 
 msgid "Midnight"
-msgstr "午夜"
+msgstr "半夜"
 
 msgid "minutes ago"
 msgstr "几分钟之前"
@@ -1445,7 +1445,7 @@ msgid "More adjustments"
 msgstr "更多选项"
 
 msgid "More options..."
-msgstr "更多选项..."
+msgstr "更多选项"
 
 msgid "more than"
 msgstr "多于"
@@ -1472,32 +1472,32 @@ msgid "Navigate back"
 msgstr "返回"
 
 msgid "Never"
-msgstr "决不"
+msgstr "从不"
 
 msgid "Never ask me to make a backup again"
-msgstr "决不再次要求我进行备份"
+msgstr "不再提醒我进行备份"
 
 msgid "New '%s' are now set to go to the Fence '%s'"
-msgstr "新的 '%s’ 现在设置为前往桌面分区'%s’"
+msgstr "新的 '%s’ 现在将被分类到桌面分区'%s’"
 
 msgid "New %s currently go to '%s'"
-msgstr "新的 %s 目前前往 '%s’"
+msgstr "新的 %s 现在将被分类到 '%s’"
 
 msgid "New %s currently go to this Fence"
-msgstr "新的 %s 目前前往此桌面分区"
+msgstr "新的 %s 现在将被分类到此桌面分区"
 
 msgid "New Folder Panel"
-msgstr "新文件夹面板"
+msgstr "新 映射文件夹"
 
 msgid "New Icons && Rules"
 msgstr "新图标和规则"
 
 msgid "new icons should be placed in this Fence: "
-msgstr "新图标应该放在此桌面分区中： "
+msgstr "新图标应该放在此桌面分区中："
 
 #, fuzzy
 msgid "New in Fences 5! Reduce visual clutter by blending your icons with the wallpaper."
-msgstr "Fences 5 的新功能！将图标与壁纸融为一体，减少视觉杂乱。"
+msgstr "Fences 5 的新功能！将图标与壁纸融为一体，减少杂乱感！"
 
 msgid "New name:"
 msgstr "新名称："
@@ -1518,14 +1518,14 @@ msgid "not"
 msgstr "不是"
 
 msgid "Not a valid day."
-msgstr "不是有效的一天。"
+msgstr "不是有效的日期"
 
 msgid ""
 "Not all files could be removed.\n"
 "\n"
 "Remove this Fence how?"
 msgstr ""
-"并非所有文件都可以移除。\n"
+"并非所有文件都可以被移除\n"
 "\n"
 "怎样移除此桌面分区？"
 
