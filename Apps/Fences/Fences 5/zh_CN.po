@@ -842,7 +842,7 @@ msgid ""
 "\n"
 "If you need assistance, please contact us at support@stardock.com"
 msgstr ""
-"无法停用本机计算机。\n"
+"无法停用本机计算机\n"
 "\n"
 "如需帮助，请通过 support@stardock.com 联系我们"
 
@@ -851,16 +851,16 @@ msgstr "桌面分区名称"
 
 #, fuzzy
 msgid "Fences Color"
-msgstr "Fences颜色"
+msgstr "Fences 颜色"
 
 msgid ""
 "Fences deactivated this session.\n"
 "\n"
 "Please reboot before attempting to reactivate."
 msgstr ""
-"桌面分区停用了此会话。\n"
+"Fences 关闭了此会话\n"
 "\n"
-"请在尝试恢复活动之前重启。"
+"请尝试重启"
 
 msgid ""
 "Fences detected that Explorer was not closed properly.\n"
@@ -868,8 +868,8 @@ msgid ""
 "\n"
 "Would you like to re-enable Fences now?"
 msgstr ""
-"Fences 检测到 Explorer 未正确关闭。\n"
-"作为预防措施，Fences 被暂时禁用。\n"
+"Fences 检测到资源管理器未正确关闭\n"
+"作为预防措施，Fences 已被暂时禁用\n"
 "\n"
 "您现在要重新启用 Fences 吗？"
 
@@ -878,24 +878,24 @@ msgid ""
 "\n"
 "Cannot restore inital layout at this time."
 msgstr ""
-"桌面分区似乎没有加载。\n"
+"Fences 未能成功加载\n"
 "\n"
-"目前无法恢复内部布局。"
+"无法恢复并初始化桌面布局"
 
 msgid ""
 "Fences does not appear to be loaded.\n"
 "\n"
 "You may need to reinstall Fences."
 msgstr ""
-"桌面分区似乎没有加载。\n"
+"Fences 未能成功加载\n"
 "\n"
-"您可能需要重新安装桌面分区。"
+"您可能需要重新安装 Fences"
 
 msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
 msgstr ""
-"桌面分区的Folder Portals™功能在经典模式下不可用。\n"
+"桌面分区的 映射文件夹 功能在经典模式下不可用\n"
 "请启用 Aero 以使用此功能。"
 
 #, fuzzy
@@ -906,11 +906,11 @@ msgid ""
 "To re-enable Fences, open Fences' Settings and choose\n"
 "\"Enable Fences\"."
 msgstr ""
-"Fences 检测到资源管理器未正确关闭。\n"
-"作为预防措施，Fences 已被暂时禁用。\n"
+"Fences 检测到资源管理器未正确关闭\n"
+"作为预防措施，Fences 已被暂时禁用\n"
 "\n"
-"要重新启用 Fences，请打开 Fences 的 \"设置 \"并选择\n"
-"\"启用Fences\"。"
+"要重新启用 Fences，请打开 Fences 的设置，并选择\n"
+"“启用Fences”"
 
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
@@ -919,26 +919,26 @@ msgid ""
 "To re-enable Fences, right click your desktop and choose\n"
 "\"Enable Fences\"."
 msgstr ""
-"桌面分区已检测到 Explorer 未正确关闭。\n"
-"预防起见，桌面分区已暂时禁用。\n"
+"Fences 检测到资源管理器未正确关闭\n"
+"作为预防措施，Fences 已被暂时禁用\n"
 "\n"
-"如需重新启用桌面分区，请右键单击您的桌面并选择\n"
-"“启用桌面分区”。"
+"如需重新启用 Fences，请右键单击您的桌面并选择\n"
+"“启用 Fences”"
 
 msgid "Fences has detected that its integrity has been compromised. There may be a problem with your Fences installation. It is recommended you uninstall and reinstall Fences."
-msgstr "桌面分区已检测到其完整性受到损害。桌面分区可能存在问题。建议您卸载并重装桌面分区。"
+msgstr "Fences 已检测到其功能完整性受损。Fences 可能存在问题，建议您卸载并重装 Fences 以解决该问题。"
 
 msgid "Fences has not been activated."
-msgstr "Fences尚未激活。"
+msgstr "Fences 尚未激活"
 
 msgid ""
 "Fences is currently disabled.\n"
 "\n"
 "Would you like to re-enable Fences?"
 msgstr ""
-"桌面分区目前已被禁用。\n"
+"Fences 目前已被禁用\n"
 "\n"
-"您想重新启用桌面分区吗？"
+"您想重新启用 Fences 吗？"
 
 msgid ""
 "Fences is currently disabled.\n"
@@ -946,17 +946,17 @@ msgid ""
 "\n"
 "Do you want to continue with the restore anyways?"
 msgstr ""
-"桌面分区目前已被禁用。\n"
-"必须启用桌面分区才能恢复您的初始快照，但启用桌面分区将首先将图标的位置恢复到上次加载桌面分区时的位置。您可能不希望这样做。\n"
+"Fences 目前已被禁用。\n"
+"必须启用 Fences 才能恢复您的初始快照状态，但启用 Fences 将会把图标的位置恢复到上次加载 Fences 时的位置。您可能不希望这样做。\n"
 "\n"
-"您想继续恢复吗？"
+"您确认继续吗？"
 
 msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"Tools\", press the link for \"More Tools...\", and uncheck \"Enable Fences\" then reboot."
-msgstr "桌面分区与 Windows XP 上的 DeskScapes 不兼容。请前往“工具”，按“更多工具...”链接，然后取消选中“启用桌面分区”，然后重启。"
+msgstr "Fences 与 Windows XP 上的 DeskScapes 不兼容。请前往“工具”→“更多工具”选项卡，取消选中“启用 Fences”并重启。"
 
 #, fuzzy
 msgid "Fences is not yet loaded."
-msgstr "Fences 尚未加载。"
+msgstr "Fences 尚未加载完毕"
 
 msgid ""
 "Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
@@ -965,51 +965,51 @@ msgid ""
 "\n"
 "Kiosk Mode should be used as part of your complete system lock-down plan, and should not replace proper file system access controls and other such protections."
 msgstr ""
-"桌面分区的信息亭模式可帮助您防止桌面的布局和内容更改，这对多用户环境有所帮助。\n"
+"Fences 的 Kiosk 模式可帮助您防止桌面布局和内容的更改，这对多用户环境有所帮助。\n"
 "\n"
-"信息亭模式以每个用户为基础工作，并通过重启来锁定桌面，直到下一次解锁。锁定和解锁桌面时，桌面分区将要求管理员访问，以确保只有授权的用户才能访问桌面。\n"
+"Kiosk 模式以每个用户为基础进行，并通过重启来锁定桌面，直到下一次被解锁。锁定和解锁桌面时，Fences 将要求管理员验证，以确保只有授权的用户才能控制桌面内容。\n"
 "\n"
-"信息亭模式应被用作您的完整系统锁定计划的一部分，不应取代正确的文件系统访问控件以及其他此类保护。"
+"Kiosk 模式应当被用作您的完整系统锁定计划的一部分，而不是取代专业的的文件系统访问控制程序以及其他此类保护软件。"
 
 msgid "Fences license validation failed. Try again?"
-msgstr "桌面分区许可证验证失败。要重试吗？"
+msgstr "Fences 的许可证验证失败。是否重试？"
 
 msgid ""
 "Fences needs a reboot in order to finish installation.\n"
 "Please reboot your computer to use Fences."
 msgstr ""
-"需要重启才能完成桌面分区的安装。\n"
-"请重启计算机以使用桌面分区。"
+"需要重启才能完成 Fences 的安装\n"
+"请重启计算机以使用 Fences"
 
 msgid "Fences noticed that you moved an icon within a sorted Fence. Would you like to disable sorting in that Fence so you can move icons freely within it?"
-msgstr "桌面分区注意到您在某个已排序的桌面分区内移动了一个图标。您想禁用在此桌面分区中的排序，以便在其中自由移动图标吗？"
+msgstr "Fences 注意到您在某个已排序的桌面分区内移动了一个图标。您想禁用在此桌面分区中的排序，以便在其中自由移动图标吗？"
 
 msgid "Fences OEM Layout Builder"
-msgstr "桌面分区 OEM 布局生成器"
+msgstr "Fences OEM 布局生成器"
 
 msgid "Fences' Preferences experienced an error, please try again."
-msgstr "桌面分区首选项遇到错误，请重试。"
+msgstr "Fences 在应用设置内容时遇到错误，请重试"
 
 msgid "Fences Rules"
 msgstr "桌面分区规则"
 
 msgid "Fences Uninstall"
-msgstr "桌面分区卸载"
+msgstr "Fences 卸载"
 
 msgid "Fences Update Available"
-msgstr "桌面分区更新可用"
+msgstr "Fences 存在更新"
 
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
-msgstr "桌面分区旨在帮助您使用桌面。为帮助您入门，桌面分区可创建一对起始桌面分区，并快速清理您的桌面。 "
+msgstr "Fences 旨在帮助您使用桌面。为帮助您入门，Fences 可创建两个初始默认桌面分区，并快速清理您的桌面。 "
 
 msgid "Fences: \"Times Opened\" sorting information"
-msgstr "桌面分区：“打开次数”排序信息"
+msgstr "Fences：“打开次数”排序信息"
 
 msgid "Fences: Compatibility issue found..."
-msgstr "桌面分区：发现兼容性问题..."
+msgstr "Fences：发现兼容性问题"
 
 msgid "Fences: Turn off sorting?"
-msgstr "桌面分区：要关闭排序吗？"
+msgstr "Fences：要关闭排序吗？"
 
 #, fuzzy
 msgid "Fence™ is a Trademark of {0}."
@@ -1031,10 +1031,10 @@ msgid "Files & Documents"
 msgstr "文件和文档"
 
 msgid "Fine tune Fences' rules to the exact criteria that suits your needs."
-msgstr "按照适合您需要的准确标准，微调桌面分区的规则。"
+msgstr "可以按照适合您所需的标准，微调各桌面分区的规则。"
 
 msgid "Fine tune the look, feel and behavior of your Fence groups"
-msgstr "微调您的桌面分区的外观、感觉和行为"
+msgstr "微调您的桌面分区的外观、规则与行为"
 
 msgid "First-Use Snapshot"
 msgstr "首次使用快照"
@@ -1049,13 +1049,13 @@ msgid "Folders"
 msgstr "文件夹"
 
 msgid "For extra-messy desktops, performs a one-time sorting of shortcuts, files, and folders into Fence groups"
-msgstr "对于特别凌乱的桌面，可将快捷方式、文件和文件夹一次性排列到桌面分区中"
+msgstr "对于特别凌乱的桌面，可将快捷方式、文件和文件夹立即分类排列到各桌面分区中"
 
 msgid "Fully visible"
 msgstr "完全可见"
 
 msgid "General Desktop (No Fence)"
-msgstr "一般桌面（无桌面分区）"
+msgstr "一般桌面（无 Fence）"
 
 msgid "Getting started"
 msgstr "入门"
@@ -1067,38 +1067,38 @@ msgid "Give snapshot a name"
 msgstr "为快照命名"
 
 msgid "go to"
-msgstr "前往"
+msgstr "跳转"
 
 msgid "Go to Website"
-msgstr "前往网站"
+msgstr "跳转到网站"
 
 msgid "Hide and show your desktop icons instantly with a double-click."
-msgstr "双击以立即隐藏和显示桌面图标。"
+msgstr "双击以立即隐藏、显示桌面图标。"
 
 msgid "Hide details header"
-msgstr "隐藏详细信息标题"
+msgstr "隐藏详细名称"
 
 msgid "Hide for all icons"
 msgstr "隐藏所有图标"
 
 msgid "Hide for document links"
-msgstr "隐藏文档链接"
+msgstr "隐藏文档小箭头"
 
 msgid "Hide for folder links"
-msgstr "隐藏文件夹链接"
+msgstr "隐藏文件夹小箭头"
 
 msgid "Hide for program links"
-msgstr "隐藏程序链接"
+msgstr "隐藏程序小箭头"
 
 msgid "Hide for web links"
-msgstr "隐藏网页链接"
+msgstr "隐藏网页小箭头"
 
 #, fuzzy
 msgid "Hide scrollbars when inactive"
-msgstr "在不活动时隐藏滚动条"
+msgstr "自动隐藏滚动条"
 
 msgid "Hide shortcut arrows from links, fade your Fence groups until mouseovered, and upgrade the look of your scrollbars with Fences' new custom-skinned scrollbars."
-msgstr "隐藏链接中的快捷方式箭头，淡出您的桌面分区直到鼠标悬停，并使用桌面分区新的自定义肤色滚动条升级滚动条的外观。"
+msgstr "隐藏链接中的快捷箭头，透明化桌面分区直到鼠标悬停，并使用 Fences 的新滚动条外观"
 
 msgid "Hide shortcut arrows on desktop icons"
 msgstr "隐藏桌面图标上的快捷方式箭头"
@@ -1107,7 +1107,7 @@ msgid "Hide text on desktop icons"
 msgstr "隐藏桌面图标上的文字"
 
 msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
-msgstr "按住 Alt 并将任何文件夹拖放到桌面上以快速创建Folder Portal。您也可右键单击任何文件夹，然后选择“在桌面上显示此文件夹”。"
+msgstr "按住 Alt 并将任何文件夹拖放到桌面上以快速创建 映射文件夹。您也可右键单击任何文件夹，然后选择“创建 映射文件夹 到桌面”"
 
 msgid "Hot Keys"
 msgstr "热键"
@@ -1116,53 +1116,53 @@ msgid "How to adjust the appearance of individual Fence groups"
 msgstr "如何调整各个桌面分区的外观"
 
 msgid "How to change the order of the icons in a Folder Portal"
-msgstr "如何更改Folder Portal中图标的顺序"
+msgstr "如何更改 映射文件夹 中图标的顺序"
 
 msgid "How to change the size of the icons in a Folder Portal"
-msgstr "如何更改Folder Portal中图标的大小"
+msgstr "如何更改 映射文件夹 中图标的大小"
 
 msgid "How to change the view style of the Folder Portal"
-msgstr "如何更改Folder Portal的视图样式"
+msgstr "如何更改 映射文件夹 的视图"
 
 msgid "How to Configure Fences"
-msgstr "如何配置桌面分区"
+msgstr "如何配置 Fences"
 
 msgid "How to create a Folder Portal™ group"
-msgstr "如何创建Folder Portal"
+msgstr "如何创建 映射文件夹"
 
 msgid "How to create a new desktop page"
-msgstr "如何创建新的桌面页面"
+msgstr "如何创建新的桌面页"
 
 msgid "How to exclude individual Fence groups"
-msgstr "如何排除各个桌面分区"
+msgstr "如何排除各桌面分区"
 
 msgid "How to hide/show the header on a 'details view' Folder Portal"
-msgstr "如何隐藏/显示“详细信息视图”Folder Portal上的标题"
+msgstr "如何在“详细信息视图”中隐藏/显示 映射文件夹 的名称"
 
 msgid "How to move icons or Fence groups between desktops"
-msgstr "如何在桌面之间移动图标或桌面分区"
+msgstr "如何在多桌面之间移动图标或桌面分区"
 
 msgid "How to quickly open the folder in a window"
 msgstr "如何快速打开窗口中的文件夹"
 
 msgid "How to remove a Folder Portal group"
-msgstr "如何移除Folder Portal"
+msgstr "如何移除 映射文件夹"
 
 msgid "How to use"
 msgstr "如何使用"
 
 #, fuzzy
 msgid "How to use desktop pages"
-msgstr "如何使用“多页桌面”"
+msgstr "如何协同“多页桌面”"
 
 msgid "How to use with a keyboard"
-msgstr "如何使用键盘"
+msgstr "如何协同键盘"
 
 msgid "How to use with a mouse"
-msgstr "如何使用鼠标"
+msgstr "如何协同鼠标"
 
 msgid "How to use with a touch-enabled system"
-msgstr "如何使用触控式系统"
+msgstr "如何在触控式系统中使用"
 
 #, fuzzy
 msgid "Hue:"
@@ -1173,11 +1173,11 @@ msgstr "图标"
 
 #, fuzzy
 msgid "Icon opacity"
-msgstr "图标不透明度"
+msgstr "图标透明度"
 
 #, fuzzy
 msgid "Icon Opacity"
-msgstr "图标不透明度"
+msgstr "图标透明度"
 
 msgid "Icon transparency && fading Fence groups"
 msgstr "图标透明度和淡入淡出桌面分区"
@@ -2025,7 +2025,7 @@ msgid "Show this Fence group on all pages"
 msgstr "在所有页面上显示此栅栏组"
 
 msgid "Show this folder on the desktop"
-msgstr "在桌面上显示此文件夹"
+msgstr "创建 映射文件夹 到桌面"
 
 #, fuzzy
 msgid "Show title bars on Fence areas"
@@ -2219,7 +2219,7 @@ msgstr ""
 "\n"
 "2.在桌面上绘制一个矩形。在显示的菜单中选择“创建Folder Portals™”。\n"
 "\n"
-"3.右键单击任何文件夹，然后选择“在桌面上显示此文件夹”选项。"
+"3.右键单击任何文件夹，然后选择“创建 映射文件夹 到桌面”选项。"
 
 msgid "There was a problem resetting your settings. Please try again."
 msgstr "重设您的设置时出现问题。请重试。"
