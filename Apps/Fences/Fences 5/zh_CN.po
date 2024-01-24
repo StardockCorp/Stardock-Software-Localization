@@ -460,7 +460,7 @@ msgid "Choose folder"
 msgstr "选择文件夹"
 
 msgid "Choose from more icon types..."
-msgstr "从更多图标类型中选择..."
+msgstr "从更多图标类型中选择"
 
 msgid "Choose layout"
 msgstr "选择布局"
@@ -716,19 +716,19 @@ msgid "Don't show this message again"
 msgstr "不再显示此消息"
 
 msgid "Double click Fence titlebar to roll up"
-msgstr "双击桌面分区的标题栏以自动卷起该分区"
+msgstr "双击桌面分区的标题栏以自动卷折（卷起）该分区"
 
 msgid ""
 "Double clicking a Fence group's titlebar will cause it to roll-up into its titlebar, saving you space.\n"
 "\n"
 "Move your mouse over to reveal the Fence, or double-click again to disable. Move Fence to edge of screen to dock to the edge of the screen."
 msgstr ""
-"双击桌面分区的标题栏将使其自动卷起，从而节省空间\n"
+"双击桌面分区的标题栏将使其自动卷折，从而节省空间\n"
 "\n"
 "移动您的鼠标到标题栏以显示桌面分区，或再次双击以禁用自动卷起的功能。移动桌面分区到屏幕边缘以自动吸附。"
 
 msgid "Double clicking will roll-up your Fence!"
-msgstr "双击将卷起您的桌面分区！"
+msgstr "双击将卷折（卷起）您的桌面分区！"
 
 msgid "Downloads"
 msgstr "下载"
@@ -1009,7 +1009,7 @@ msgid "Fences: Compatibility issue found..."
 msgstr "Fences：发现兼容性问题"
 
 msgid "Fences: Turn off sorting?"
-msgstr "Fences：要关闭排序吗？"
+msgstr "Fences：是否关闭排序"
 
 #, fuzzy
 msgid "Fence™ is a Trademark of {0}."
@@ -1076,7 +1076,7 @@ msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "双击以立即隐藏、显示桌面图标。"
 
 msgid "Hide details header"
-msgstr "隐藏详细名称"
+msgstr "隐藏标题栏"
 
 msgid "Hide for all icons"
 msgstr "隐藏所有图标"
@@ -1204,7 +1204,7 @@ msgid "Icons created on certain days of the week..."
 msgstr "图标在一周中的某几天创建"
 
 msgid "Icons in a Folder Portal cannot be manually repositioned. To change the order of icons in a Folder Portal, right-click in an empty part of the Fence, select Sort By, and choose an option."
-msgstr "映射文件夹 中的图标无法手动重新定位。要更改 映射文件夹 中图标的顺序，请右键单击桌面分区的空白部分，选择“排序方式”，然后选择一个选项。"
+msgstr "映射文件夹 中的图标无法手动重新定位。要更改 映射文件夹 中图标的顺序，请右键单击桌面分区的空白部分，选择“排序方式”菜单，然后选择一个选项。"
 
 msgid "Icons in Folder Portals cannot be repositioned."
 msgstr "映射文件夹 中的图标无法重新定位"
@@ -1886,20 +1886,20 @@ msgid "Right-click the bottom right corner of the taskbar to"
 msgstr "右键单击任务栏右下角，以"
 
 msgid "Roll up Fence groups placed on edge of screen"
-msgstr "自动卷起屏幕边缘的桌面分区"
+msgstr "自动卷折（卷起）屏幕边缘的桌面分区"
 
 msgid "Roll up Fence groups to just their titlebars and show on mouseover, to keep your desktop nice and tidy."
-msgstr "卷起桌面分区使其仅显示其标题栏。其在鼠标悬停时将自动显示，以保持桌面的干净整洁。"
+msgstr "卷折（卷起）桌面分区使其仅显示其标题栏。其在鼠标悬停时将自动显示，以保持桌面的干净整洁。"
 
 msgid "Roll up Fences"
-msgstr "卷起桌面分区"
+msgstr "卷折（卷起）桌面分区"
 
 #, fuzzy
 msgid "Rollup"
-msgstr "“卷轴”"
+msgstr "“卷折”"
 
 msgid "Roll-up Fence"
-msgstr "卷起桌面分区"
+msgstr "“卷折”桌面分区"
 
 #, fuzzy
 msgid "Round corner of Fence areas"
@@ -2191,18 +2191,18 @@ msgid ""
 "\n"
 "Advanced users can look for the task \"StardockFencesHotkeySupport\" within the system Task Scheduler."
 msgstr ""
-"Fences 的键盘扩展似乎未加载。 您可能需要重新启动系统或重新安装 Fences。\n"
+"Fences 的键盘扩展似乎未加载。您可能需要重启系统或重新安装 Fences\n"
 "\n"
-"高级用户可以在系统任务计划程序中查找任务“StardockFencesHotkeySupport”。"
+"高级用户可以自行在系统任务计划程序中查找任务“StardockFencesHotkeySupport”并排查问题"
 
 msgid "The link's target"
 msgstr "链接的目标"
 
 msgid "The maximum number of rules (%i) have been created. Please delete a rule before creating another."
-msgstr "创建的规则已达到最大数量 (%i) 。请先删除一个规则再创建另一个。"
+msgstr "创建的规则已达到最大数量（%i）。请先删除其他规则再创建新规则"
 
 msgid "The snapshots title must be less than 255 characters long"
-msgstr "快照标题必须小于 255 个字符的长度"
+msgstr "快照标题长度不得超过 255 个字符"
 
 msgid ""
 "There are several ways to create a Folder Portal™ group:\n"
@@ -2213,25 +2213,25 @@ msgid ""
 "\n"
 "3. Right click any folder and choose the option \"Show this folder on the desktop\"."
 msgstr ""
-"创建Folder Portals™有几种方法：\n"
+"创建 映射文件夹 有几种方法：\n"
 "\n"
-"1.按住 Alt 键的同时将文件夹拖放到桌面上。\n"
+"1.按住 Alt 键的同时将文件夹拖放到桌面上；\n"
 "\n"
-"2.在桌面上绘制一个矩形。在显示的菜单中选择“创建Folder Portals™”。\n"
+"2.在桌面上绘制一个矩形。在显示的菜单中选择“创建 映射文件夹”；\n"
 "\n"
-"3.右键单击任何文件夹，然后选择“创建 映射文件夹 到桌面”选项。"
+"3.右键单击一个文件夹，然后选择“创建 映射文件夹 到桌面”选项。"
 
 msgid "There was a problem resetting your settings. Please try again."
-msgstr "重设您的设置时出现问题。请重试。"
+msgstr "重置设置为初始值时出现问题，请重试"
 
 msgid ""
 "They're still here! Double clicking blank space on your desktop will make your icons appear and disappear. Double click again to reveal.\n"
 "\n"
 "To disable or tune this feature, visit Fences' settings."
 msgstr ""
-"它们仍在此处！双击桌面上的空白处将使您的图标出现并消失。再次双击以显示。\n"
+"图标被隐藏了～ 双击桌面上的空白处可以使您的图标再次出现。再次双击可隐藏。\n"
 "\n"
-"要禁用或调整此功能，请访问桌面分区设置。"
+"要禁用或调整此功能，请访问 Fences 设置。"
 
 msgid ""
 "This action will reset all of your Fence groups.\n"
@@ -2239,44 +2239,44 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
-"此操作将重置所有桌面分区。\n"
-"确保您已经备份。\n"
+"此操作将重置所有桌面分区\n"
+"确保您已经备份\n"
 "\n"
-"要继续吗？"
+"是否继续"
 
 msgid ""
 "This action will update this snapshot to reflect your current desktop setup.\n"
 "\n"
 "Continue?"
 msgstr ""
-"此操作将更新此快照以反映您当前的桌面设置。\n"
+"此操作将更新此快照以符合您当前的桌面设置\n"
 "\n"
-"要继续吗？"
+"是否继续"
 
 msgid "This application requires Windows 10"
-msgstr "此应用要求 Windows 10"
+msgstr "此应用需要 Windows 10 才能正常运行"
 
 msgid "This copy of Fences has expired. Please obtain an updated copy."
-msgstr "此桌面分区副本已过期。请获取更新的副本。"
+msgstr "此 Fences 版本已过时，请更新"
 
 msgid "This feature is a premium feature of Fences and is available for purchase."
-msgstr "此功能是桌面分区的高级功能，可供购买。"
+msgstr "此功能是 Fences 的高级功能，购买以继续"
 
 msgid "This feature is available as part of the customization-extras pack."
-msgstr "此功能可作为自定义附加包的一部分。"
+msgstr "此功能是 自定义附加项 的一部分"
 
 msgid "This feature is unavailable on Windows XP."
-msgstr "此功能在 Windows Xp 上不可用。"
+msgstr "此功能在 Windows XP 上不可用"
 
 msgid "This feature requires Windows 7 or better."
-msgstr "此功能需要 Windows 7 或以上版本。"
+msgstr "此功能需要 Windows 7 或以上版本"
 
 #, fuzzy
 msgid "This Fence will be reset to match the rest of your Fence groups."
-msgstr "该栅栏将被重置，以与其他栅栏组相匹配。"
+msgstr "该分区将被重置，以与其他桌面分区组相匹配"
 
 msgid "This will reset {0} to its default factory settings. Continue?"
-msgstr "这将使 {0} 重置为默认出厂设置。要继续吗？"
+msgstr "这将使 {0} 重置为默认出厂设置，是否继续"
 
 #, fuzzy
 msgid "Tidle"
@@ -2293,71 +2293,71 @@ msgstr "标题："
 
 #, fuzzy
 msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
-msgstr "要调整某个栅栏的外观，请从上面标有 \"所有组 \"的下拉菜单中选择一个栅栏，然后使用常用的控件编辑其颜色设置。"
+msgstr "要调整某个桌面分区的外观，请从上面标有“所有分区”的下拉菜单中选择一个分区，然后再更改其颜色"
 
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
-msgstr "要调整特定桌面分区的外观，请访问桌面分区设置的“自定义”区域。在此处，从下拉列表中选择一个桌面分区，并使用常规控件编辑其颜色设置。"
+msgstr "要调整特定桌面分区的外观，请访问桌面分区设置的“自定义”区域。在那里的下拉列表中选择某个桌面分区，然后再更改其颜色"
 
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
-msgstr "要更改Folder Portal中图标的顺序，请右键单击视图，然后从“排序方式”菜单中进行选择。"
+msgstr "要更改 映射文件夹 中图标的顺序，请右键单击该文件夹，然后从“排序方式”菜单中进行选择"
 
 msgid ""
 "To change the style of a Folder Portal, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it.\n"
 "\n"
 "From the \"View\" menu, you can choose from a variety of views including \"Details\" and \"List\"."
 msgstr ""
-"要更改Folder Portal的样式，请单击鼠标悬停在桌面分区时其左上角显示的菜单图标。\n"
+"要更改 映射文件夹 的样式，请单击该桌面分区上方标题栏左侧显示的菜单图标\n"
 "\n"
-"在“视图”菜单中，您可以从各种视图中进行选择，包括“详细信息”和“列表”。"
+"在“视图”菜单中，您可以从各种视图中进行选择，包括“详细信息”和“列表”"
 
 msgid "To change which Fence groups remain visible during a quick-hide, right click blank space in a Fence group and choose the option \"Exclude this Fence group from quick-hide\" from its \"View\" menu. This can also be done for any individual icon on the desktop."
-msgstr "要更改快速隐藏期间哪些桌面分区保持可见，请右键单击桌面分区中的空白处，并从其“视图”菜单中选择“从快速隐藏中排除此桌面分区”选项。还可对桌面上的任何单个图标上完成此操作。"
+msgstr "要更改“速隐”期间哪些桌面分区保持可见，请右键单击该桌面分区中的空白处，选择“从“速隐”中排除此桌面分区”选项。您也可以对桌面上的任何单个图标执行此操作"
 
 msgid "To create a new desktop page, drag an icon or a Fence group to the edge of your screen. Hold it there a moment, and your desktop will switch pages. Drop the icon or Fence to place it on this new page."
-msgstr "要创建新的桌面页面，请将图标或桌面分区拖动到屏幕边缘。让其在此处停留片刻，您的桌面将切换页面。拖动图标或桌面分区以将其放在这个新的页面上。"
+msgstr "要创建新的桌面页，请将图标或桌面分区拖动到屏幕边缘并让其在此处停留片刻，在您的桌面页切换后，将刚才的图标或桌面分区放在新的页面上即可"
 
 msgid "To customize this rule, please create a new rule using the \"Choose from more icon types\" link on the previous screen."
-msgstr "要自定义此规则，请使用上一屏幕上的“从更多图标类型中选择”链接创建新规则。"
+msgstr "要自定义此规则，请使用上一选项卡中的“从更多图标类型中选择”选项创建新规则以对其进行覆盖"
 
 msgid "To hide the header in a details view, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it, and choose \"Hide details header\" from the \"View\" menu."
-msgstr "要隐藏详细信息视图中的标题，请单击鼠标悬停在桌面分区时出现在其左上角的菜单图标，然后在“视图”菜单中选择“隐藏详细信息标题”。"
+msgstr "要隐藏详细信息视图中的标题栏，请单击该桌面分区上方标题栏左侧显示的菜单图标，然后在“视图”菜单中选择“隐藏标题栏”"
 
 msgid "To lock the desktop, please authorize the following prompt as an administrator."
-msgstr "要锁定桌面，请以管理员身份授权以下提示。"
+msgstr "要锁定桌面，请授权管理员权限"
 
 msgid "To make icons on your desktop semi-transparent, place them into a Fence, and then choose an opacity from the \"View\" menu of that Fence. To access a Fence group's menu, click the menu icon in the top left corner of the Fence."
-msgstr "要使您的桌面上的图标半透明，将它们放入一个桌面分区，然后在此桌面分区的“视图”菜单中选择不透明度。要访问桌面分区的菜单，请单击桌面分区左上角的菜单图标。"
+msgstr "要设置桌面图标的透明度，您可以将它们放入一个桌面分区，然后在此桌面分区的“视图”菜单中选择透明度。要访问桌面分区的菜单，请单击桌面分区左上角的菜单图标。"
 
 msgid "To make individual Fence groups on your desktop semi-transparent, choose an opacity level from the \"View\" menu of that Fence. To access a Fence group's menu, click the menu icon in the top left corner of the Fence."
-msgstr "要使桌面上的各个桌面分区半透明，请在此桌面分区的“视图”菜单中选择不透明度级别。要访问桌面分区的菜单，请单击桌面分区左上角的菜单图标。"
+msgstr "要单独设置某桌面分区内图标的透明度，您可以在此桌面分区的“视图”菜单中选择透明度级别。要访问桌面分区的菜单，请单击桌面分区左上角的菜单图标。"
 
 msgid "To move an icon or a Fence group between pages, drag the icon or Fence to the left or right edge of the screen, and hold it there for a moment. The desktop will switch pages so that you may drop it there. You may create as many pages left/right as you wish."
-msgstr "要在页面之间移动图标或桌面分区，请将图标或桌面分区拖动到屏幕的左边缘或右边缘，然后让它们在此处停留片刻。桌面将切换页面，以便您可将其放在此处。您可根据需要在左边/右边创建尽可能多的页面。"
+msgstr "要在页面之间移动图标或桌面分区，请将图标或桌面分区拖动到屏幕边缘并让其在此处停留片刻。自动切换页面后，您便可以将它们其放在此处。您可以随心所欲地根据需要在左边或右边创建页面"
 
 msgid "To open the folder associated with a Folder Portal quickly, hold control and double click the Folder Portal's titlebar, or blank space within the Folder Portal itself."
-msgstr "要快速打开与Folder Portal相关联的文件夹，请按住空间并双击Folder Portal的标题栏，或Folder Portal内部的空白处。"
+msgstr "要快速打开与 映射文件夹 相关联的原始文件夹，请按住 Ctrl 键并双击 映射文件夹 的空白处或标题栏"
 
 msgid "To quickly open the folder shown in a Folder Portal, hold Control while double clicking the Fence group's titlebar, or double click empty space within the Fence group."
-msgstr "要快速打开Folder Portal中显示的文件夹，请按住控件并同时双击桌面分区的标题栏，或双击桌面分区内的空白处。"
+msgstr "要快速打开 映射文件夹 中显示的文件夹，请按住 Ctrl 键并同时双击桌面分区组的空白处或标题栏"
 
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
-msgstr "要解锁桌面，请以管理员身份授权以下提示。"
+msgstr "要解锁桌面，请授权管理员权限"
 
 #, fuzzy
 msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
 msgstr "要更新您的订阅设置，请访问 https://redirects.stardock.com/subscriptions/fences5"
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
-msgstr "要使用桌面分区的快速隐藏功能，请双击桌面上任何位置的空白处，您的图标将消失。再次双击，它们将重新出现。"
+msgstr "要使用 Fences 的“速隐”功能，请双击桌面的空白处，您的图标将被“迅速隐藏”；再次双击以重新显示"
 
 msgid "Touch-based layout abilities"
-msgstr "基于触摸的布局能力"
+msgstr "基于触摸的布局方式"
 
 msgid "Traditionally, Fences appear as shaded areas on your desktop. To apply a custom look to your Fence groups, visit the \"Customize\" area of Fences' settings and click the link \"Change Fence style...\"."
-msgstr "传统上，桌面分区在桌面上显示为阴影区域。要将自定义外观应用到您的桌面分区，请访问桌面分区设置的“自定义”区域，然后单击链接“更改桌面分区样式...”。"
+msgstr "一般来说，桌面分区将显示为一个阴影区域。要将自定义外观应用到您的桌面分区，请访问桌面分区设置的“自定义”区域，然后单击“更改桌面分区样式”选项"
 
 msgid "Translucent Fence backgrounds (Windows 10 only)"
-msgstr "半透明桌面分区背景（仅限 Windows 10）"
+msgstr "使桌面分区背景透明（仅限 Windows 10）"
 
 msgid "Transparency:"
 msgstr "透明度："
@@ -2367,13 +2367,13 @@ msgid "Troubleshooting"
 msgstr "故障排除"
 
 msgid "Turn off sorting?"
-msgstr "要关闭排序吗？"
+msgstr "是否关闭排序"
 
 msgid "Type-based rules"
 msgstr "基于类型的规则"
 
 msgid "Unable to create folder. Please try again."
-msgstr "无法创建文件夹。请重试。"
+msgstr "无法创建文件夹，请重试"
 
 msgid "Unlock desktop"
 msgstr "解锁桌面"
@@ -2383,56 +2383,56 @@ msgid "Unlock Desktop"
 msgstr "解锁桌面"
 
 msgid "Unlock previous purchase"
-msgstr "解锁以前的购买"
+msgstr "恢复以前的购买的许可"
 
 msgid "Unnamed Fence"
 msgstr "未命名的桌面分区"
 
 msgid "Unnamed Fence with"
-msgstr "的未命名的桌面分区"
+msgstr "未命名的桌面分区"
 
 msgid "Unnamed Folder Portal"
-msgstr "未命名的Folder Portal"
+msgstr "未命名的 映射文件夹"
 
 msgid "Unspecified"
 msgstr "未指定"
 
 msgid "Upgrade your desktop's look and feel"
-msgstr "升级桌面的外观和感觉"
+msgstr "升级您的桌面使其整洁有序，提升效率"
 
 msgid "Usage"
-msgstr "使用"
+msgstr "用法"
 
 msgid "Use system language"
-msgstr "使用系统语言"
+msgstr "使用系统的默认语言"
 
 msgid "Use these hotkeys to access your desktop quickly – much faster than the built-in WinKey+D. You can even replace it entirely."
-msgstr "使用这些热键快速访问您的桌面 – 比内置的 WinKey+D 快得多。 您甚至可以完全更换它。"
+msgstr "使用这些热键以快速访问您的桌面（比内置的 Win + D 快得多），您甚至可以完全替换它"
 
 msgid "Using desktop pages"
-msgstr "使用桌面页面"
+msgstr "使用桌面页"
 
 msgid "Using Folder Portals"
-msgstr "使用Folder Portals"
+msgstr "使用 映射文件夹"
 
 msgid "Using kiosk mode"
-msgstr "使用信息亭模式"
+msgstr "使用 Kiosk 模式"
 
 msgid "Using quick-hide"
-msgstr "使用快速隐藏"
+msgstr "使用“速隐”"
 
 msgid "Using Roll-up Fences"
-msgstr "使用卷起桌面分区"
+msgstr "使用“卷折”功能"
 
 #, fuzzy
 msgid "Vanish"
-msgstr "消失"
+msgstr "“速隐”"
 
 msgid "Version "
 msgstr "版本 "
 
 msgid "Version {0}"
-msgstr "版本 {0}"
+msgstr "{0} 版本"
 
 msgid "Video file"
 msgstr "视频文件"
@@ -2442,7 +2442,7 @@ msgstr "仅在鼠标悬停时可见"
 
 #, fuzzy
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
-msgstr "等待 Windows 注册表键值 {0} 中指定的配置文件存在"
+msgstr "正在查询注册表项｛0｝中指定的配置文件是否存在"
 
 msgid ""
 "Warning: Enabling/disabling Fences is not recommended. If you\n"
@@ -2453,25 +2453,23 @@ msgid ""
 "\n"
 "Continue anyways?"
 msgstr ""
-"警告：不推荐启用/禁用桌面分区。如果您\n"
-"在桌面分区未运行的情况下重新排列桌面图标，\n"
-"然后重新启用桌面分区，您的图标将被重置到\n"
-"禁用桌面分区之前的位置。另外，可能会因此\n"
-"造成不稳定性。\n"
+"警告：如果您在 Fences 未运行的情况下手动重新排列了桌面图标，\n"
+"在 Fences 重启后，您的图标将被重置到禁用 Fences 之前的位置。\n"
+"另外，程序可能因此崩溃。因此，不推荐在此时启用/禁用桌面分区。\n"
 "\n"
-"仍要继续吗？"
+"确认继续？"
 
 msgid "WARNING: Fences was recently uninstalled. It is HIGHLY RECOMMENDED that you reboot before re-installing Fences, or Fences may not load properly."
-msgstr "警告：桌面分区最近被卸载。强烈建议您在重新安装桌面分区之前重启，否则桌面分区可能无法正常加载。"
+msgstr "警告：Fences 上次卸载后未清理干净。强烈建议您在重新安装 Fences 之前重启，否则 Fences 可能无法正常加载。"
 
 msgid ""
 "Warning: you have selected to condense your desktop to less screens than you are currently using. Icons will be moved to your current desktop as needed.\n"
 "\n"
 "Continue?"
 msgstr ""
-"警告：您选择将桌面缩小到比目前使用的屏幕少。图标将根据需要移动到您当前的桌面。\n"
+"警告：您选择将桌面分辨率缩小到比目前使用的屏幕更小。图标将根据需要移动到您当前的桌面。\n"
 "\n"
-"要继续吗？"
+"是否继续"
 
 msgid "Was modified"
 msgstr "已修改"
@@ -2487,43 +2485,43 @@ msgid "Welcome"
 msgstr "欢迎"
 
 msgid "Welcome to Fences®"
-msgstr "欢迎来到桌面分区"
+msgstr "欢迎来到 Fences"
 
 msgid "What is kiosk mode?"
-msgstr "什么是信息亭模式？"
+msgstr "什么是 Kiosk 模式？"
 
 msgid "When I plug in a new primary monitor, move my icons to it."
-msgstr "当我插上一台新的主显示器时，将我的图标移动到其上。"
+msgstr "当我插入一台新的主显示器时，将我的图标自动转移到其上"
 
 msgid ""
 "When you installed Fences, a snapshot of your desktop's layout was taken.\n"
 "\n"
 "Would you like to restore your desktop icons' positions to before Fences was installed?"
 msgstr ""
-"当您安装桌面分区时，会拍摄桌面布局的快照。\n"
+"当您安装 Fences 时，程序自动创建了一个当时桌面布局的快照。\n"
 "\n"
-"您是否希望将桌面图标的位置恢复到安装桌面分区之前的位置？"
+"您是否希望将桌面图标的位置恢复到安装 Fences 之前的位置？"
 
 msgid "Where did my icons go?"
-msgstr "我的图标去了哪里？"
+msgstr "我的图标哪里去了？"
 
 msgid "Where did my icons go? No need to worry."
-msgstr "我的图标去了哪里？无需担心。"
+msgstr "我的图标哪里去了？它们只是折叠起来了。"
 
 #, fuzzy
 msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
-msgstr "有了 Fences，你可以对桌面上的图标进行分组，从桌面访问文件夹，等等。点击左侧的功能，了解有关 Fences 功能的更多信息。"
+msgstr "有了 Fences，您可以对桌面上的图标进行分组，从桌面访问其他路径的文件夹……点击左侧的面板，了解有关 Fences 功能的更多信息。"
 
 #, fuzzy
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
-msgstr "使用 “卷轴” 功能，你可以将栅栏折叠到标题栏中，使图标隐藏起来。"
+msgstr "使用“卷折”功能，您可以将桌面分区折叠到标题栏中，使图标隐藏起来。"
 
 #, fuzzy
 msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
-msgstr "有了 Vanish，你只需双击桌面上的空白处，就能快速隐藏和显示桌面图标。"
+msgstr "启用“速隐功能”后，您只需双击桌面上的空白处，就能快速隐藏和显示桌面图标。"
 
 msgid "Work better with Fences"
-msgstr "借助桌面分区更好地完成工作"
+msgstr "Fences，静·净之选"
 
 #, fuzzy
 msgid ""
@@ -2531,42 +2529,42 @@ msgid ""
 "\n"
 "You can re-enable it later from Fences Settings in the Quick Access area."
 msgstr ""
-"您想禁止在任务栏中显示栅栏吗？\n"
+"您想禁止在任务栏中显示 Fences 吗？\n"
 "\n"
-"您可以稍后通过快速访问区域中的 \"Fences设置 \"重新启用。"
+"您可以稍后通过快速访问区域中的 Fences 设置 重新启用它"
 
 msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
-msgstr "您是否要在应用自动布局之前拍摄当前配置的快照？"
+msgstr "您是否希望在应用自动布局之前创建当前配置的快照？"
 
 msgid "Would you like to take a snapshot of your current configuration before loading this snapshot?"
-msgstr "您是否要在加载此快照之前拍摄当前配置的快照？"
+msgstr "您是否要在加载此快照之前创建当前配置的快照？"
 
 msgid "Would you like to take a snapshot of your current configuration before performing an auto-layout?"
-msgstr "您是否要在执行自动布局之前拍摄当前配置的快照？"
+msgstr "您是否要在执行自动布局之前创建当前配置的快照？"
 
 msgid "Yes"
 msgstr "是"
 
 msgid "You can change the size of icons in a Folder Portal by selecting an option from its \"View\" right-click menu, or by clicking anywhere on it, and then holding control while using your mouse's scroll-wheel."
-msgstr "您可以通过从其“视图”右键菜单中选择一个选项，或通过单击任意位置，然后按住控件的同时使用鼠标滚轮，以更改Folder Portal中的图标的大小。"
+msgstr "您可以通过从在“视图”右键菜单中选择一个选项；或单击文件夹的任意位置，然后按住 Ctrl 并滑动鼠标滚轮，以更改 映射文件夹 中的图标的大小"
 
 msgid "You must give the snapshot a name"
-msgstr "您必须给快照命名"
+msgstr "请为快照命名"
 
 msgid "You must unlock the desktop to edit Fences."
-msgstr "您必须解锁桌面才能编辑桌面分区。"
+msgstr "请解锁桌面以编辑桌面分区。"
 
 msgid "Your Fences trial has been deactivated."
-msgstr "您的 Fences 试用版已停用。"
+msgstr "您的 Fences 试用版已被停用。"
 
 msgid "Your Fences trial has expired."
-msgstr "您的 Fences 试用期已过期。"
+msgstr "您的 Fences 试用已过期"
 
 msgid "Your files will not be deleted."
-msgstr "您的文件不会被删除。"
+msgstr "您的文件不会被删除"
 
 msgid "Your settings have been reset."
-msgstr "您的设置已重置。"
+msgstr "您的设置已重置"
 
 msgid " go to "
 msgstr " 前往 "
@@ -2579,24 +2577,24 @@ msgid ""
 "\n"
 "Would you like them to go to the Fence '%s' instead?"
 msgstr ""
-"%s'已经设置为前往桌面分区'%s’ \n"
+"'%s' 已被设置为前往桌面分区 '%s’\n"
 "\n"
-"您想要它们前往桌面分区 '%s’ 吗？"
+"您希望将其更改为它们前往桌面分区 '%s' 吗？"
 
 msgid ""
 "'%s' are already set to go to the Fence '%s'\n"
 "\n"
 "Would you like to disable this rule?"
 msgstr ""
-"%s'已经设置为前往桌面分区'%s’ \n"
+"'%s'已被设置为前往桌面分区 '%s' \n"
 "\n"
-"您想要禁用此规则吗？"
+"您希望禁用此规则吗？"
 
 msgid "%s is unavailable in classic mode and may display improperly."
-msgstr "%s 在经典模式中不可用，并且可能显示不正确。"
+msgstr "%s 在经典模式中不可用，并且可能显示错误。"
 
 msgid "&View"
-msgstr "视图(&V)"
+msgstr "视图 (&View)"
 
 #, fuzzy
 msgid "(default)"
@@ -2620,21 +2618,21 @@ msgstr "（带有 %i 图标的无标题桌面分区）"
 
 #, fuzzy
 msgid "* Header bar will still show for Folder Portals upon mouseover"
-msgstr "* 鼠标移过时，文件夹门户的标题栏仍会显示"
+msgstr "* 鼠标悬停时，映射文件夹 的标题栏将始终显示"
 
 #, fuzzy
 msgid "* Labels will still show for Folder Portals upon mouseover"
-msgstr "* 鼠标移至文件夹门户时，标签仍会显示"
+msgstr "* 鼠标悬停时，映射文件夹 的标签将始终显示"
 
 msgid "* Labels will still show on Folder Portals on mouseover"
-msgstr "*标签仍将在鼠标悬停时显示在Folder Portals上"
+msgstr "* 鼠标悬停时，标签将仍然显示在 映射文件夹 上"
 
 msgid "* Log out for language change to take effect"
-msgstr "* 注销语言更改才能生效"
+msgstr "* 注销后，程序的语言更改才能生效"
 
 #, fuzzy
 msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
-msgstr "** 即将发布的 Fences 5 Release Preview - 改进了对管理多显示器配置和停靠/解停靠场景的支持。"
+msgstr "** 即将发布的 Fences 5 预览版：改进了对管理多显示器配置、贴边吸附/取消吸附场景的支持。"
 
 #, fuzzy
 msgid "{0} are Registered Trademarks of {1}."
@@ -2645,20 +2643,20 @@ msgid "{0} are Trademarks of {1}."
 msgstr "{0} 是 {1} 的商标。"
 
 msgid "{0} days left in your free trial"
-msgstr "{0} 免费试用的剩余天数"
+msgstr "免费试用剩余 {0} 天"
 
 msgid "{0} days remain before deactivation"
-msgstr "{0} 距离停用还有几天"
+msgstr "距离停用期限还有 {0} 天"
 
 #, fuzzy
 msgid "{0} is a Registered Trademark of {1}."
 msgstr "{0} 是 {1} 的注册商标。"
 
 msgid "●  Double click on a Fence group's titlebar to roll it up"
-msgstr "●双击桌面分区的标题栏以将其卷起"
+msgstr "●  双击桌面分区的标题栏以将其“卷折”"
 
 msgid "●  Move mouse over to reveal"
-msgstr "●将鼠标移动到上方以显示"
+msgstr "●  将鼠标移动到上方以显示"
 
 msgid "●  Or, move to the top or bottom edges of screen to dock automatically"
-msgstr "●或者，移动到屏幕的顶部或底部边缘以自动停靠"
+msgstr "●  当然，您也可以将其移动到屏幕的顶部或底部边缘以自动吸附"
