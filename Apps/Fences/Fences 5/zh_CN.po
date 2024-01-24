@@ -1919,7 +1919,7 @@ msgid "Rules in use:"
 msgstr "生效的规则："
 
 msgid "S&ort by"
-msgstr "排序方式 (&O)"
+msgstr "排序&方式"
 
 msgid "Saturation:"
 msgstr "饱和度："
