@@ -782,7 +782,7 @@ msgid "Enable crash reporting"
 msgstr "启用崩溃报告"
 
 msgid "Enable Fences"
-msgstr "启用桌面分区"
+msgstr "启用 Fences"
 
 #, fuzzy
 msgid "Enable Pages"
@@ -1527,12 +1527,12 @@ msgid ""
 msgstr ""
 "并非所有文件都可以被移除\n"
 "\n"
-"怎样移除此桌面分区？"
+"确认移除此桌面分区？"
 
 msgid ""
 "Note, your current icon positions will be\n"
 "backed up before any layout is applied."
-msgstr "请注意，您当前的图标位置将在应用任何布局之前备份。"
+msgstr "您当前的图标布局将在应用任何更改之前备份"
 
 msgid "Notepad"
 msgstr "记事本"
@@ -1544,7 +1544,7 @@ msgid "Number of times opened"
 msgstr "打开次数"
 
 msgid "OK"
-msgstr "确定"
+msgstr "确认"
 
 msgid "on"
 msgstr "在"
@@ -1556,13 +1556,13 @@ msgid "on a weekend"
 msgstr "在周末"
 
 msgid "On first run, Fences gave the opportunity to automatically sort your desktop icons into a few basic categories, to make it easier to start using the program. Would you like to perform this auto-layout again?"
-msgstr "首次运行时，桌面分区可让您自动将桌面图标分为几个基本类别，以便更轻松地开始使用程序。您要再次执行此自动布局吗？"
+msgstr "在首次运行时，Fences 可让您的桌面图标自动分为几个基本类别，以便更轻松地开始使用程序。您需要执行此自动布局吗？"
 
 msgid "On Mouseover"
-msgstr "鼠标悬停"
+msgstr "在鼠标悬停时"
 
 msgid "On screen resolution changes..."
-msgstr "屏幕分辨率更改..."
+msgstr "在屏幕分辨率更改时"
 
 msgid "on the Desktop"
 msgstr "在桌面上"
@@ -1572,21 +1572,21 @@ msgid ""
 "\n"
 "Please choose another font."
 msgstr ""
-"只可使用 TrueType 字体。\n"
+"仅允许使用 TrueType 字体\n"
 "\n"
-"请选择其他字体。"
+"请选择其他字体"
 
 msgid "Opacity"
 msgstr "不透明度"
 
 msgid "Open Fences Settings"
-msgstr "打开桌面分区设置"
+msgstr "打开 Fences 设置"
 
 msgid "Open folder"
 msgstr "打开文件夹"
 
 msgid "Open Folder Portal quickly by double-clicking"
-msgstr "双击以快速打开Folder Portal"
+msgstr "双击以快速打开 映射文件夹"
 
 msgid "Open this folder"
 msgstr "打开此文件夹"
@@ -1599,19 +1599,19 @@ msgid "or"
 msgstr "或"
 
 msgid "Organize"
-msgstr "组织"
+msgstr "分类"
 
 msgid "Organize icons based on custom rules"
-msgstr "根据自定义规则组织图标"
+msgstr "根据自定义规则分类图标"
 
 msgid "Organize icons based on their link's target"
-msgstr "根据链接的目标组织图标"
+msgstr "根据链接的目标分类图标"
 
 msgid "Organize icons based on their name"
-msgstr "根据名称组织图标"
+msgstr "根据名称分类图标"
 
 msgid "Organize icons based on time"
-msgstr "根据时间组织图标"
+msgstr "根据时间分类图标"
 
 msgid "Other (enter the executable's filename)"
 msgstr "其他（输入可执行文件名）"
@@ -1623,7 +1623,7 @@ msgid "other types"
 msgstr "其他类型"
 
 msgid "Outline Fence areas"
-msgstr "桌面分区区域略图"
+msgstr "桌面分区缩略图"
 
 #, fuzzy
 msgid "Output multi-monitor debug report"
@@ -1640,10 +1640,10 @@ msgid "Pages"
 msgstr "页面"
 
 msgid "Panels on left edge"
-msgstr "左边缘面板"
+msgstr "左 侧边面板"
 
 msgid "Panels on right edge"
-msgstr "右边缘面板"
+msgstr "右 侧边面板"
 
 #, fuzzy
 msgid "Paste color"
@@ -1651,18 +1651,18 @@ msgstr "粘贴颜色"
 
 #, fuzzy
 msgid "Paste Fence color"
-msgstr "粘贴栅栏颜色"
+msgstr "粘贴 Fence 颜色"
 
 #, fuzzy
 msgid "Peek"
-msgstr "闪入/闪出"
+msgstr "“浮空”"
 
 #, fuzzy
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
-msgstr "通过任务栏、热角或热键，Peek 可立即将你的 Fence 群组置顶。"
+msgstr "“浮空” 可以通过任务栏或热键，立即将你的 Fence 桌面分组置顶"
 
 msgid "Per-Fence Customization"
-msgstr "每个桌面分区自定义"
+msgstr "自定义全部桌面分区"
 
 msgid "Perform automatic layout"
 msgstr "执行自动布局"
@@ -1678,25 +1678,25 @@ msgid "Photos"
 msgstr "相片"
 
 msgid "pixels apart when moving"
-msgstr "移动时像素分开"
+msgstr "在移动时留出（）像素"
 
 msgid "Place all new icons in the general desktop area by default"
-msgstr "默认情况下，将所有新图标放在通用桌面区域"
+msgstr "默认情况下，将所有新图标放在普通桌面上"
 
 msgid "Place all new icons in this Fence by default"
 msgstr "默认情况下，将所有新图标放在此桌面分区"
 
 msgid "Place folders first"
-msgstr "首先放置文件夹"
+msgstr "请先放置文件夹"
 
 msgid "Place new icons based on the file's size..."
-msgstr "根据文件大小放置新图标..."
+msgstr "根据文件大小放置新图标"
 
 msgid "Place new icons based on what program created it..."
-msgstr "根据创建程序放置新图标..."
+msgstr "根据程序初始化时的样式放置新图标"
 
 msgid "Please limit title length to 500 characters or less."
-msgstr "请将标题长度限制在 500 个字符以内。"
+msgstr "请将标题长度限制在 500 个字符以内"
 
 msgid "Please navigate up to root folder to rename this Fence"
 msgstr "请导航到根文件夹以重命名此桌面分区"
@@ -1705,13 +1705,13 @@ msgid "Please note:"
 msgstr "请注意："
 
 msgid "Please pick which option best suits your needs:"
-msgstr "请选择最适合您需求的选项："
+msgstr "请选择最符合您需求的选项："
 
 msgid "Please recreate the issue, and *be sure to include your name* in the crash-report dialog that appears. Share this name with customer support so that they can find your report. Thank you!"
-msgstr "请重新创建问题，并*确保在出现的崩溃报告对话框中包含您的姓名*. 与客户支持共享此名称，以便他们可以找到您的报告。 谢谢！"
+msgstr "请重新创建问题，并确保在出现的崩溃报告对话框中包含【您的姓名】。告知客户支持中心您的姓名，以便使他们迅速定位到您报告的问题。谢谢！"
 
 msgid "Please select another theme to restore your Fence group' appareance."
-msgstr "请选择其他主题以恢复您桌面分区的外观。"
+msgstr "请选择其他主题以恢复您桌面分区的外观"
 
 msgid "Power-up your desktop"
 msgstr "启动桌面"
@@ -1720,22 +1720,22 @@ msgid "Pre-Install Snapshot"
 msgstr "预安装快照"
 
 msgid "Pre-Install snapshot not found."
-msgstr "预安装快照未找到。"
+msgstr "未找到预安装快照"
 
 msgid "Preserve my desktop layout by scaling my Fence groups"
-msgstr "缩放我的桌面分区以保留桌面布局"
+msgstr "通过缩放我的桌面分区以保留桌面布局"
 
 msgid "Pro tip! The quickest way edit Fences' settings is to right-click the desktop and choose \"Configure Fences\"."
-msgstr "专业提示！编辑桌面分区设置的最快方法是右键单击桌面并选择“配置桌面分区”。"
+msgstr "进阶提示：编辑桌面分区设置的最快方法是右键单击桌面并选择“配置 Fences”。"
 
 msgid "Problem deleting snapshot."
-msgstr "删除快照时出现问题。"
+msgstr "删除快照时出错"
 
 msgid "Problem during installation:"
-msgstr "安装期间出现问题："
+msgstr "安装时出错："
 
 msgid "Problem restoring snapshot."
-msgstr "恢复快照时出现问题。"
+msgstr "恢复快照时出错"
 
 msgid "Program Shortcuts"
 msgstr "程序快捷方式"
@@ -1754,10 +1754,10 @@ msgstr "购买"
 
 #, fuzzy
 msgid "Purchase ({0})"
-msgstr "购买 ({0})"
+msgstr "购买（{0}）"
 
 msgid "quick-hide activated"
-msgstr "快速隐藏已激活"
+msgstr "“速隐”已被激活"
 
 msgid "Recommended for advanced users"
 msgstr "推荐给高级用户"
@@ -1766,7 +1766,7 @@ msgid "Refresh"
 msgstr "刷新"
 
 msgid "Remove a Folder Portal like you would any other Fence group; put your mouse over the Fence group, and click the \"x\" that appears. The folder will not be deleted."
-msgstr "像移除任何其他桌面分区一样移除一个Folder Portal；将鼠标放在桌面分区上，然后单击出现的“x”。此文件夹不会被删除。"
+msgstr "像移除任何其他桌面分区一样移除一个 映射文件夹：将鼠标放在桌面分区上，然后单击出现的“X”。原始文件夹的内容不会被删除。"
 
 msgid "Remove Fence"
 msgstr "移除桌面分区"
@@ -1775,19 +1775,19 @@ msgid "Remove Fence and delete files"
 msgstr "移除桌面分区并删除文件"
 
 msgid "Remove Fence and move files to a folder"
-msgstr "移除桌面分区并将文件移动到文件夹"
+msgstr "移除桌面分区并将文件移动到指定的文件夹"
 
 msgid "Remove Fence from desktop and delete the folder it represents"
-msgstr "移除桌面上的桌面分区，并删除其所代表的文件夹"
+msgstr "移除桌面上的分区，并删除其代表的文件夹"
 
 msgid "Remove rule?"
-msgstr "要移除规则吗？"
+msgstr "是否删除规则"
 
 msgid "Remove this Folder Portal"
-msgstr "移除此Folder Portal"
+msgstr "移除这个 映射文件夹"
 
 msgid "Remove your Fences settings?"
-msgstr "要移除您的桌面分区设置吗？"
+msgstr "要删除您的 Fences 设置吗？"
 
 msgid "Rename"
 msgstr "重命名"
@@ -1802,16 +1802,16 @@ msgid "Rename rule"
 msgstr "重命名规则"
 
 msgid "Rename rule..."
-msgstr "重命名规则..."
+msgstr "重命名规则"
 
 msgid "Rename Snapshot"
 msgstr "重命名快照"
 
 msgid "Rename..."
-msgstr "重命名..."
+msgstr "重命名"
 
 msgid "Re-order your Fence groups here by choosing a Fence group and using the up/down arrows."
-msgstr "选择桌面分区并使用向上/向下箭头，以重新排列您的桌面分区。"
+msgstr "使用 上/下箭头 选择桌面分区，以自行重新排列"
 
 msgid "Re-order your Rules"
 msgstr "重新排列您的规则"
@@ -1832,23 +1832,23 @@ msgstr "重置颜色"
 
 #, fuzzy
 msgid "Reset Fence color"
-msgstr "重置Fences颜色"
+msgstr "重置 Fences 颜色"
 
 msgid "Reset rule to default"
 msgstr "将规则重置为默认值"
 
 msgid "Reset rule to default..."
-msgstr "将规则重置为默认值..."
+msgstr "将规则重置为默认值"
 
 msgid "Reset rule?"
-msgstr "要重置规则吗？"
+msgstr "是否重置规则"
 
 msgid "Reset saved settings for other screen resolutions"
-msgstr "针对其他屏幕分辨率重置保存的设置"
+msgstr "针对其他屏幕分辨率重置已保存的设置"
 
 #, fuzzy
 msgid "Reset this group's customization"
-msgstr "重置该组的自定义设置"
+msgstr "重置该分区组的自定义设置"
 
 msgid "Reset to default"
 msgstr "重置为默认值"
@@ -1858,25 +1858,25 @@ msgstr "重置为默认值"
 
 #, fuzzy
 msgid "Restore color when desktop is active"
-msgstr "桌面激活时恢复颜色"
+msgstr "在桌面被激活时自动恢复颜色"
 
 #, fuzzy
 msgid "Restore color when desktop is in use"
-msgstr "使用桌面时恢复颜色"
+msgstr "使用桌面时自动恢复颜色"
 
 #, fuzzy
 msgid "Restore color when mouse is over a Fence group"
-msgstr "当鼠标移到栅栏组上时恢复颜色"
+msgstr "当鼠标移动至桌面分区时自动恢复颜色"
 
 #, fuzzy
 msgid "Restore color when mouse is over group"
-msgstr "当鼠标移至组上时恢复颜色"
+msgstr "当鼠标移至桌面分区组时恢复颜色"
 
 msgid "Restore Snapshot"
 msgstr "恢复快照"
 
 msgid "Re-take snapshot..."
-msgstr "重新拍摄快照..."
+msgstr "重新创建快照"
 
 msgid "Reverse order"
 msgstr "倒序"
@@ -1886,49 +1886,49 @@ msgid "Right-click the bottom right corner of the taskbar to"
 msgstr "右键单击任务栏右下角，以"
 
 msgid "Roll up Fence groups placed on edge of screen"
-msgstr "卷起放置在屏幕边缘的桌面分区"
+msgstr "自动卷起屏幕边缘的桌面分区"
 
 msgid "Roll up Fence groups to just their titlebars and show on mouseover, to keep your desktop nice and tidy."
-msgstr "将桌面分区卷起到其标题栏，并在鼠标悬停时显示，以保持桌面的漂亮整洁。"
+msgstr "卷起桌面分区使其仅显示其标题栏。其在鼠标悬停时将自动显示，以保持桌面的干净整洁。"
 
 msgid "Roll up Fences"
 msgstr "卷起桌面分区"
 
 #, fuzzy
 msgid "Rollup"
-msgstr "卷轴"
+msgstr "“卷轴”"
 
 msgid "Roll-up Fence"
 msgstr "卷起桌面分区"
 
 #, fuzzy
 msgid "Round corner of Fence areas"
-msgstr "Fences区域的圆角"
+msgstr "Fences 分区的圆角"
 
 msgid "Round corners of Fence areas"
-msgstr "Fences区域的圆角"
+msgstr "Fences 分区的圆角"
 
 msgid "Rule names must be less than 255 characters long"
-msgstr "规则名称必须小于 255 个字符的长度"
+msgstr "规则名称长度必须小于 255 个字符"
 
 #, fuzzy
 msgid "Rules"
 msgstr "规则"
 
 msgid "Rules in use:"
-msgstr "使用的规则："
+msgstr "生效的规则："
 
 msgid "S&ort by"
 msgstr "排序方式 (&O)"
 
 msgid "Saturation:"
-msgstr "饱和："
+msgstr "饱和度："
 
 msgid "Save"
 msgstr "保存"
 
 msgid "Saving of snapshot failed."
-msgstr "保存快照失败。"
+msgstr "保存快照失败"
 
 msgid "Screens"
 msgstr "屏幕"
@@ -1946,20 +1946,20 @@ msgid "Sensitivity:"
 msgstr "灵敏度："
 
 msgid "Set a fixed number of pages, and wrap around upon reaching the end"
-msgstr "设置固定数量的页面，并在到达结尾时卷起"
+msgstr "设置合适数量的页面，它们将在你设置完成后自动卷起"
 
 msgid "Settings"
 msgstr "设置"
 
 #, fuzzy
 msgid "Shift"
-msgstr "班次"
+msgstr "Shift"
 
 msgid "Shortcut (Link)"
 msgstr "快捷方式（链接）"
 
 msgid "Show desktop (press & hold)"
-msgstr "显示桌面 (按下并按住不动)"
+msgstr "显示桌面 (持续按下)"
 
 msgid "Show desktop (toggle)"
 msgstr "显示桌面 (切换)"
@@ -1969,36 +1969,36 @@ msgstr "显示桌面图标"
 
 #, fuzzy
 msgid "Show desktop in full color when in use"
-msgstr "使用时以全彩显示桌面"
+msgstr "使用桌面时自动以全彩显示"
 
 #, fuzzy
 msgid "Show Fence groups in full color on mouseover"
-msgstr "鼠标移动时以全彩显示栅栏组"
+msgstr "鼠标移动时自动以全彩显示桌面分区"
 
 #, fuzzy
 msgid "Show Fences"
-msgstr "表演Fences"
+msgstr "显示 桌面分区"
 
 msgid "Show Fences (press & hold)"
-msgstr "显示Fences (按下并按住不动)"
+msgstr "显示 桌面分区（持续按下）"
 
 msgid "Show Fences (toggle)"
-msgstr "显示Fences (切换)"
+msgstr "显示 桌面分区（切换）"
 
 msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
-msgstr "显示Fences (切换): 将 Fences 留在顶部直到下一次按下热键，即使在切换应用程序时也是如此."
+msgstr "显示 桌面分区（切换）: 将 Fences 置顶直到自行使用快捷键取消，即使切换应用时也仍然置顶"
 
 #, fuzzy
 msgid "Show Fences by clicking the far right edge of your taskbar"
-msgstr "点击任务栏最右侧边缘显示栅栏"
+msgstr "点击任务栏最右侧边缘显示桌面分区"
 
 #, fuzzy
 msgid "Show Fences with hotkeys"
-msgstr "使用热键显示Fences"
+msgstr "使用热键显示 桌面分区"
 
 #, fuzzy
 msgid "Show Headers"
-msgstr "显示页眉"
+msgstr "显示分区标题"
 
 #, fuzzy
 msgid "Show icon as a running task"
@@ -2006,7 +2006,7 @@ msgstr "将图标显示为正在运行的任务"
 
 #, fuzzy
 msgid "Show on all pages"
-msgstr "显示在所有页面"
+msgstr "显示所有页面"
 
 #, fuzzy
 msgid "Show the full desktop"
@@ -2022,18 +2022,18 @@ msgstr "显示整个桌面（快速）"
 
 #, fuzzy
 msgid "Show this Fence group on all pages"
-msgstr "在所有页面上显示此栅栏组"
+msgstr "在所有页面上显示此桌面分区"
 
 msgid "Show this folder on the desktop"
-msgstr "创建 映射文件夹 到桌面"
+msgstr "创建此 映射文件夹 到桌面"
 
 #, fuzzy
 msgid "Show title bars on Fence areas"
-msgstr "在栅栏区域显示标题栏"
+msgstr "在桌面分区显示标题栏"
 
 #, fuzzy
 msgid "Show titlebar buttons on Fence areas on mouseover"
-msgstr "鼠标移动时在栅栏区域显示标题栏按钮"
+msgstr "鼠标悬停时在桌面分区显示标题栏按钮"
 
 #, fuzzy
 msgid "Show titlebar controls on mouseover"
@@ -2043,7 +2043,7 @@ msgid "Size"
 msgstr "大小"
 
 msgid "Snapping is enabled in the free version of Fences. Purchasing this feature allows you to customize snapping."
-msgstr "在免费版桌面分区中启用快照。购买此功能后可自定义快照。"
+msgstr "在免费版 Fences 中启用快照。购买此功能后可自定义快照。"
 
 msgid "Snapshot deleted"
 msgstr "快照已删除"
@@ -2052,7 +2052,7 @@ msgid "Snapshot Name:"
 msgstr "快照名称："
 
 msgid "Snapshot taken!"
-msgstr "已拍摄快照！"
+msgstr "已创建快照"
 
 msgid "Snapshot Title"
 msgstr "快照标题"
@@ -2063,16 +2063,16 @@ msgstr "快照"
 
 #, fuzzy
 msgid "Snapshots && layout"
-msgstr "快照和布局"
+msgstr "快照与布局"
 
 msgid "Snapshot-taking canceled."
-msgstr "快照拍摄已取消。"
+msgstr "已取消创建快照"
 
 msgid "Sorry a Fence cannot be created for this folder. Please choose another folder."
 msgstr "抱歉，无法为此文件夹创建桌面分区。请选择其他文件夹。"
 
 msgid "Sorry, but background blur is not compatible with dynamic desktop content. To use translucent Fence backgrounds, disable DeskScapes by choosing a plain wallpaper."
-msgstr "抱歉，背景模糊与动态桌面内容不兼容。要使用半透明桌面分区背景，请通过选择普通壁纸来禁用 DeskScapes。"
+msgstr "抱歉，背景模糊与动态桌面不兼容。要使用半透明桌面分区背景，请禁用 DeskScapes并选择普通壁纸"
 
 msgid "Sort out my icons"
 msgstr "整理我的图标"
@@ -2083,92 +2083,92 @@ msgstr "间距"
 
 #, fuzzy
 msgid "Speed up Windows' built-in Show Desktop functionality (\"WinKey+D\")"
-msgstr "加速 Windows 内置的显示桌面功能（\"WinKey+D）"
+msgstr "加速 Windows 内置的桌面速览功能（\"Win+D\"）"
 
 msgid "Stardock Application Services was unable to start. (Unable to register callback.) You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
-msgstr "Stardock 应用服务无法启动。（无法注册回调。）您可能需要重新安装桌面分区。如果此问题仍然存在，请联系 Stardock 客户支持。"
+msgstr "Stardock 应用程序服务无法启动（Unable to register callback），您可能需要重新安装 Fences。如果此问题仍然存在，请联系 Stardock 客户支持。"
 
 msgid "Stardock Application Services was unable to start. You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
-msgstr "Stardock 应用服务无法启动。您可能需要重新安装桌面分区。如果此问题仍然存在，请联系 Stardock 客户支持。"
+msgstr "Stardock 应用服务无法启动。您可能需要重新安装 Fences。如果此问题仍然存在，请联系 Stardock 客户支持。"
 
 msgid "Start using Fences"
-msgstr "开始使用栅栏"
+msgstr "开始使用 Fences"
 
 msgid "Start using Fences!"
-msgstr "开始使用桌面分区！"
+msgstr "开始使用 Fences！"
 
 msgid "starts with"
-msgstr "以 开头"
+msgstr "以（）开头"
 
 msgid "Store my Fence group positions on a per-screen-resolution basis"
-msgstr "基于每个屏幕分辨率存储我的桌面分区位置"
+msgstr "基于不同屏幕分辨率分别存储我的桌面分区位置设置"
 
 msgid ""
 "Stored screen-resolution information has been reset.\n"
 "\n"
 "Your Fence groups will be scaled to the new screen resolution the next time you change screen resolutions, after which their new positions will be stored."
 msgstr ""
-"存储的屏幕分辨率信息已被重置。\n"
+"存储的屏幕分辨率信息已被重置\n"
 "\n"
-"下一次更改屏幕分辨率时，您的桌面分区将根据新的屏幕分辨率调整，之后将存储其新的位置。"
+"下一次更改屏幕分辨率时，您的 Fence 桌面分区将自动根据新的屏幕分辨率缩放、调整，之后程序将自动存储调整后的新位置"
 
 msgid ""
 "Stored screen-resolution information has been reset.\n"
 "\n"
 "Your Fence groups will be scaled to the new screen resolution the next time you change screen resolutions."
 msgstr ""
-"存储的屏幕分辨率信息已被重置。\n"
+"存储的屏幕分辨率信息已被重置\n"
 "\n"
-"下一次更改屏幕分辨率时，您的桌面分区将根据新的屏幕分辨率调整。"
+"下一次更改屏幕分辨率时，您的 Fence 桌面分区将自动根据新的屏幕分辨率缩放、调整"
 
 msgid "Suffix"
 msgstr "后缀"
 
 msgid "Switch pages by pulling edge of screen with mouse"
-msgstr "用鼠标拉动屏幕边缘以切换页面"
+msgstr "用鼠标拖拽屏幕边缘以切换页面"
 
 msgid "Switch pages with Alt+Left / Alt+Right, or Alt+MouseWheel"
-msgstr "用 Alt + 左键/ Alt + 右键或Alt + 鼠标滚轮以切换页面"
+msgstr "用 Alt + “←”、Alt + “→” 或 Alt + 鼠标滚轮 以切换页面"
 
 msgid "Switch pages with left+right mouse button drag"
-msgstr "用鼠标左键+右键拖动以切换页面"
+msgstr "用 鼠标左键 + 右键 拖动以切换页面"
 
 msgid "Switch pages with middle mouse button drag"
 msgstr "用鼠标中键拖动以切换页面"
 
 msgid "Switch pages with two-finger drag (touch-systems)"
-msgstr "用双指拖动（触摸系统）以切换页面"
+msgstr "用双指拖动（仅适用于触控式系统）以切换页面"
 
 msgid "Switch to another page on your touch-enabled system, drag your desktop left or right using two-fingers."
-msgstr "在您的触控式系统上切换到另一个页面，使用双指向左或向右拖动桌面。"
+msgstr "使用双指向左或向右拖动桌面，以在您的触控式系统上切换到另一个页面"
 
 msgid "Switch to another page using your keyboard, activate the desktop by clicking on it, and then press the left or right arrow keys while holding Alt. Alternatively, you can also hold Alt and use your mouse wheel while the desktop is activated."
-msgstr "使用键盘切换到另一个页面，并在其上点击以激活桌面，然后按住 Alt 键并按向左或向右箭头键。或者，您也可在桌面激活的同时按住 Alt 键并使用鼠标滚轮。"
+msgstr "按住 Alt 键的同时按下 “←” 或 “→” 以使用键盘切换到另一个页面，通过单击激活。您也可以在桌面激活时按住 Alt 键并使用鼠标滚轮。"
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
-msgstr "用鼠标切换到另一个页面，抓住并拉动桌面的左边缘或右边缘。或者，您也可同时按下鼠标左右键，并从桌面上的任意位置拖动，也可以用鼠标中键拖动。"
+msgstr "拖拽桌面的左侧或右侧以使用鼠标切换到另一个页面。或者，您也可以在任意位置同时按下鼠标左右键或鼠标中键并拖动以切换。"
 
 msgid "Take a new snapshot before performing auto-layout"
-msgstr "执行自动布局之前拍摄新的快照"
+msgstr "执行自动布局之前创建新的快照"
 
 msgid "Take a new snapshot before restoring this snapshot"
-msgstr "恢复此快照之前拍摄新的快照"
+msgstr "恢复此快照之前创建一个新的快照"
 
 msgid "Take snapshot"
-msgstr "拍摄快照"
+msgstr "创建快照"
 
 msgid "Take snapshot before applying?"
-msgstr "应用之前拍摄快照？"
+msgstr "是否在应用新设置之前创建快照"
 
 msgid "Take snapshot before restoring?"
-msgstr "恢复之前拍摄快照？"
+msgstr "是否在恢复6之前创建一个快照？"
 
 msgid "Target-based rules"
 msgstr "基于目标的规则"
 
 #, fuzzy
 msgid "Taskbar Hot-Corner"
-msgstr "任务栏热角"
+msgstr "任务栏触发角"
 
 #, fuzzy
 msgid "Taskbar Icon"
@@ -2178,7 +2178,7 @@ msgid "Text file"
 msgstr "文本文件"
 
 msgid "the general desktop"
-msgstr "一般桌面"
+msgstr "普通桌面"
 
 msgid "The icon's name"
 msgstr "图标名称"
@@ -2516,7 +2516,7 @@ msgstr "有了 Fences，你可以对桌面上的图标进行分组，从桌面�
 
 #, fuzzy
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
-msgstr "使用 Rollup 功能，你可以将栅栏折叠到标题栏中，使图标隐藏起来。"
+msgstr "使用 “卷轴” 功能，你可以将栅栏折叠到标题栏中，使图标隐藏起来。"
 
 #, fuzzy
 msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
