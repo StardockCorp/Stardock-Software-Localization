@@ -1,0 +1,3 @@
+files:
+  - source: /Apps/Start-Products/Start11 v2/en.lng
+    translation: '%original_path%/%two_letters_code%/*.lng'
