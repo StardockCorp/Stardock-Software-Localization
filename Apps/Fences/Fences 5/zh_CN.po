@@ -22,7 +22,7 @@ msgid "A folder cannot be created inside of this folder. Please try again."
 msgstr "无法在此文件夹内创建文件夹。请重试。"
 
 msgid "A Folder Portal's title always shows the name of the folder it contains. To set a custom title, navigate to the root folder of the portal and try again. Your customization will stick."
-msgstr "Folder Portal的标题总是显示其中包含的文件夹的名称。要设置自定义标题，请导航到快捷入口的根目录，然后设置。您的偏好设置将保持固定。"
+msgstr "Folder Portal 的标题总是显示其中包含的文件夹的名称。要设置自定义标题，请导航到快捷入口的根目录，然后设置。您的偏好设置将保持固定。"
 
 msgid "A newer version is already installed"
 msgstr "已安装较新版本"
@@ -549,13 +549,13 @@ msgid "Create Folder"
 msgstr "创建文件夹"
 
 msgid "Create Folder Portal™ %1"
-msgstr "创建 映射文件夹 %1"
+msgstr "创建 Folder Portal %1"
 
 msgid "Create Folder Portal™ groups with Alt + Drag/Drop"
-msgstr "使用 Alt + 拖放 来创建 映射文件夹"
+msgstr "使用 Alt + 拖放 来创建 Folder Portal"
 
 msgid "Create Folder Portal™ here"
-msgstr "在此处创建 映射文件夹"
+msgstr "在此处创建 Folder Portal"
 
 msgid "Create new Fence from these icons"
 msgstr "从这些图标创建新的桌面分区"
@@ -594,7 +594,7 @@ msgid "Customize..."
 msgstr "自定义"
 
 msgid "Customizing your Folder Portal groups"
-msgstr "自定义您的 映射文件夹"
+msgstr "自定义您的 Folder Portal"
 
 msgid "Daily Snapshot"
 msgstr "每日快照"
@@ -695,7 +695,7 @@ msgid "Documents"
 msgstr "文档"
 
 msgid "Does not apply to Folder Portals"
-msgstr "不适用于 映射文件夹"
+msgstr "不适用于 Folder Portal"
 
 msgid "does not contain"
 msgstr "不包含"
@@ -768,7 +768,7 @@ msgid "Edit title font color"
 msgstr "编辑标题的字体颜色"
 
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
-msgstr "在桌面分区启用 “闪入”功能以支持触控式系统"
+msgstr "在桌面分区启用 “闪入” 功能以支持触控式系统"
 
 msgid "Enable advanced crash reporting"
 msgstr "启用崩溃报告（专业）"
@@ -895,7 +895,7 @@ msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
 msgstr ""
-"桌面分区的 映射文件夹 功能在经典模式下不可用\n"
+"桌面分区的 Folder Portal 功能在经典模式下不可用\n"
 "请启用 Aero 以使用此功能。"
 
 #, fuzzy
@@ -1107,7 +1107,7 @@ msgid "Hide text on desktop icons"
 msgstr "隐藏桌面图标上的文字"
 
 msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
-msgstr "按住 Alt 并将任何文件夹拖放到桌面上以快速创建 映射文件夹。您也可右键单击任何文件夹，然后选择“创建 映射文件夹 到桌面”"
+msgstr "按住 Alt 并将任何文件夹拖放到桌面上以快速创建 Folder Portal。您也可右键单击任何文件夹，然后选择“创建一个 Folder Portal 到桌面”"
 
 msgid "Hot Keys"
 msgstr "热键"
@@ -1116,19 +1116,19 @@ msgid "How to adjust the appearance of individual Fence groups"
 msgstr "如何调整各个桌面分区的外观"
 
 msgid "How to change the order of the icons in a Folder Portal"
-msgstr "如何更改 映射文件夹 中图标的顺序"
+msgstr "如何更改 Folder Portal 中图标的顺序"
 
 msgid "How to change the size of the icons in a Folder Portal"
-msgstr "如何更改 映射文件夹 中图标的大小"
+msgstr "如何更改 Folder Portal 中图标的大小"
 
 msgid "How to change the view style of the Folder Portal"
-msgstr "如何更改 映射文件夹 的视图"
+msgstr "如何更改 Folder Portal 的视图"
 
 msgid "How to Configure Fences"
 msgstr "如何配置 Fences"
 
 msgid "How to create a Folder Portal™ group"
-msgstr "如何创建 映射文件夹"
+msgstr "如何创建 Folder Portal"
 
 msgid "How to create a new desktop page"
 msgstr "如何创建新的桌面页"
@@ -1137,7 +1137,7 @@ msgid "How to exclude individual Fence groups"
 msgstr "如何排除各桌面分区"
 
 msgid "How to hide/show the header on a 'details view' Folder Portal"
-msgstr "如何在“详细信息视图”中隐藏/显示 映射文件夹 的名称"
+msgstr "如何在“详细信息视图”中隐藏/显示 Folder Portal 的名称"
 
 msgid "How to move icons or Fence groups between desktops"
 msgstr "如何在多桌面之间移动图标或桌面分区"
@@ -1146,7 +1146,7 @@ msgid "How to quickly open the folder in a window"
 msgstr "如何快速打开窗口中的文件夹"
 
 msgid "How to remove a Folder Portal group"
-msgstr "如何移除 映射文件夹"
+msgstr "如何移除 Folder Portal"
 
 msgid "How to use"
 msgstr "如何使用"
@@ -1204,10 +1204,10 @@ msgid "Icons created on certain days of the week..."
 msgstr "图标在一周中的某几天创建"
 
 msgid "Icons in a Folder Portal cannot be manually repositioned. To change the order of icons in a Folder Portal, right-click in an empty part of the Fence, select Sort By, and choose an option."
-msgstr "映射文件夹 中的图标无法手动重新定位。要更改 映射文件夹 中图标的顺序，请右键单击桌面分区的空白部分，选择“排序方式”菜单，然后选择一个选项。"
+msgstr "Folder Portal 中的图标无法手动重新定位。要更改 Folder Portal 中图标的顺序，请右键单击桌面分区的空白部分，选择“排序方式”菜单，然后选择一个选项。"
 
 msgid "Icons in Folder Portals cannot be repositioned."
-msgstr "映射文件夹 中的图标无法重新定位"
+msgstr "Folder Portal 中的图标无法重新定位"
 
 msgid "Icons last modified"
 msgstr "上次修改的图标"
@@ -1487,7 +1487,7 @@ msgid "New %s currently go to this Fence"
 msgstr "新的 %s 现在将被分类到此桌面分区"
 
 msgid "New Folder Panel"
-msgstr "新 映射文件夹"
+msgstr "新 Folder Portal"
 
 msgid "New Icons && Rules"
 msgstr "新图标和规则"
@@ -1586,7 +1586,7 @@ msgid "Open folder"
 msgstr "打开文件夹"
 
 msgid "Open Folder Portal quickly by double-clicking"
-msgstr "双击以快速打开 映射文件夹"
+msgstr "双击以快速打开 Folder Portal"
 
 msgid "Open this folder"
 msgstr "打开此文件夹"
@@ -1766,7 +1766,7 @@ msgid "Refresh"
 msgstr "刷新"
 
 msgid "Remove a Folder Portal like you would any other Fence group; put your mouse over the Fence group, and click the \"x\" that appears. The folder will not be deleted."
-msgstr "像移除任何其他桌面分区一样移除一个 映射文件夹：将鼠标放在桌面分区上，然后单击出现的“X”。原始文件夹的内容不会被删除。"
+msgstr "像移除任何其他桌面分区一样移除一个 Folder Portal：将鼠标放在桌面分区上，然后单击出现的“X”。原始文件夹的内容不会被删除。"
 
 msgid "Remove Fence"
 msgstr "移除桌面分区"
@@ -1784,7 +1784,7 @@ msgid "Remove rule?"
 msgstr "是否删除规则"
 
 msgid "Remove this Folder Portal"
-msgstr "移除这个 映射文件夹"
+msgstr "移除这个 Folder Portal"
 
 msgid "Remove your Fences settings?"
 msgstr "要删除您的 Fences 设置吗？"
@@ -2025,7 +2025,7 @@ msgid "Show this Fence group on all pages"
 msgstr "在所有页面上显示此桌面分区"
 
 msgid "Show this folder on the desktop"
-msgstr "创建此 映射文件夹 到桌面"
+msgstr "创建一个 Folder Portal 到桌面"
 
 #, fuzzy
 msgid "Show title bars on Fence areas"
@@ -2213,13 +2213,13 @@ msgid ""
 "\n"
 "3. Right click any folder and choose the option \"Show this folder on the desktop\"."
 msgstr ""
-"创建 映射文件夹 有几种方法：\n"
+"创建 Folder Portal 有几种方法：\n"
 "\n"
 "1.按住 Alt 键的同时将文件夹拖放到桌面上；\n"
 "\n"
-"2.在桌面上绘制一个矩形。在显示的菜单中选择“创建 映射文件夹”；\n"
+"2.在桌面上绘制一个矩形。在显示的菜单中选择“在此处创建 Folder Portal”；\n"
 "\n"
-"3.右键单击一个文件夹，然后选择“创建 映射文件夹 到桌面”选项。"
+"3.右键单击一个文件夹，然后选择“创建一个 Folder Portal 到桌面”。"
 
 msgid "There was a problem resetting your settings. Please try again."
 msgstr "重置设置为初始值时出现问题，请重试"
@@ -2299,19 +2299,19 @@ msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" a
 msgstr "要调整特定桌面分区的外观，请访问桌面分区设置的“自定义”区域。在那里的下拉列表中选择某个桌面分区，然后再更改其颜色"
 
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
-msgstr "要更改 映射文件夹 中图标的顺序，请右键单击该文件夹，然后从“排序方式”菜单中进行选择"
+msgstr "要更改 Folder Portal 中图标的顺序，请右键单击该文件夹，然后从“排序方式”菜单中进行选择"
 
 msgid ""
 "To change the style of a Folder Portal, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it.\n"
 "\n"
 "From the \"View\" menu, you can choose from a variety of views including \"Details\" and \"List\"."
 msgstr ""
-"要更改 映射文件夹 的样式，请单击该桌面分区上方标题栏左侧显示的菜单图标\n"
+"要更改 Folder Portal 的样式，请单击该桌面分区上方标题栏左侧显示的菜单图标\n"
 "\n"
 "在“视图”菜单中，您可以从各种视图中进行选择，包括“详细信息”和“列表”"
 
 msgid "To change which Fence groups remain visible during a quick-hide, right click blank space in a Fence group and choose the option \"Exclude this Fence group from quick-hide\" from its \"View\" menu. This can also be done for any individual icon on the desktop."
-msgstr "要更改“速隐”期间哪些桌面分区保持可见，请右键单击该桌面分区中的空白处，选择“从“速隐”中排除此桌面分区”选项。您也可以对桌面上的任何单个图标执行此操作"
+msgstr "要更改“速隐”期间哪些桌面分区保持可见，请右键单击该桌面分区中的空白处，选择“从‘速隐”中排除此桌面分区’选项。您也可以对桌面上的任何单个图标执行此操作"
 
 msgid "To create a new desktop page, drag an icon or a Fence group to the edge of your screen. Hold it there a moment, and your desktop will switch pages. Drop the icon or Fence to place it on this new page."
 msgstr "要创建新的桌面页，请将图标或桌面分区拖动到屏幕边缘并让其在此处停留片刻，在您的桌面页切换后，将刚才的图标或桌面分区放在新的页面上即可"
@@ -2335,10 +2335,10 @@ msgid "To move an icon or a Fence group between pages, drag the icon or Fence to
 msgstr "要在页面之间移动图标或桌面分区，请将图标或桌面分区拖动到屏幕边缘并让其在此处停留片刻。自动切换页面后，您便可以将它们其放在此处。您可以随心所欲地根据需要在左边或右边创建页面"
 
 msgid "To open the folder associated with a Folder Portal quickly, hold control and double click the Folder Portal's titlebar, or blank space within the Folder Portal itself."
-msgstr "要快速打开与 映射文件夹 相关联的原始文件夹，请按住 Ctrl 键并双击 映射文件夹 的空白处或标题栏"
+msgstr "要快速打开与 Folder Portal 相关联的原始文件夹，请按住 Ctrl 键并双击 Folder Portal 的空白处或标题栏"
 
 msgid "To quickly open the folder shown in a Folder Portal, hold Control while double clicking the Fence group's titlebar, or double click empty space within the Fence group."
-msgstr "要快速打开 映射文件夹 中显示的文件夹，请按住 Ctrl 键并同时双击桌面分区组的空白处或标题栏"
+msgstr "要快速打开 Folder Portal 中显示的文件夹，请按住 Ctrl 键并同时双击桌面分区组的空白处或标题栏"
 
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
 msgstr "要解锁桌面，请授权管理员权限"
@@ -2392,7 +2392,7 @@ msgid "Unnamed Fence with"
 msgstr "未命名的桌面分区"
 
 msgid "Unnamed Folder Portal"
-msgstr "未命名的 映射文件夹"
+msgstr "未命名的 Folder Portal"
 
 msgid "Unspecified"
 msgstr "未指定"
@@ -2413,13 +2413,13 @@ msgid "Using desktop pages"
 msgstr "使用桌面页"
 
 msgid "Using Folder Portals"
-msgstr "使用 映射文件夹"
+msgstr "使用 Folder Portal"
 
 msgid "Using kiosk mode"
 msgstr "使用 Kiosk 模式"
 
 msgid "Using quick-hide"
-msgstr "使用“速隐”"
+msgstr "使用“速隐”功能"
 
 msgid "Using Roll-up Fences"
 msgstr "使用“卷折”功能"
@@ -2518,7 +2518,7 @@ msgstr "使用“卷折”功能，您可以将桌面分区折叠到标题栏中
 
 #, fuzzy
 msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
-msgstr "启用“速隐功能”后，您只需双击桌面上的空白处，就能快速隐藏和显示桌面图标。"
+msgstr "启用“速隐”功能后，您只需双击桌面上的空白处，就能快速隐藏和显示桌面图标。"
 
 msgid "Work better with Fences"
 msgstr "Fences，静·净之选"
@@ -2546,7 +2546,7 @@ msgid "Yes"
 msgstr "是"
 
 msgid "You can change the size of icons in a Folder Portal by selecting an option from its \"View\" right-click menu, or by clicking anywhere on it, and then holding control while using your mouse's scroll-wheel."
-msgstr "您可以通过从在“视图”右键菜单中选择一个选项；或单击文件夹的任意位置，然后按住 Ctrl 并滑动鼠标滚轮，以更改 映射文件夹 中的图标的大小"
+msgstr "您可以通过从在“视图”右键菜单中选择一个选项；或单击文件夹的任意位置，然后按住 Ctrl 并滑动鼠标滚轮，以更改 Folder Portal 中的图标的大小"
 
 msgid "You must give the snapshot a name"
 msgstr "请为快照命名"
@@ -2618,14 +2618,14 @@ msgstr "（带有 %i 图标的无标题桌面分区）"
 
 #, fuzzy
 msgid "* Header bar will still show for Folder Portals upon mouseover"
-msgstr "* 鼠标悬停时，映射文件夹 的标题栏将始终显示"
+msgstr "* 鼠标悬停时，Folder Portal 的标题栏将始终显示"
 
 #, fuzzy
 msgid "* Labels will still show for Folder Portals upon mouseover"
-msgstr "* 鼠标悬停时，映射文件夹 的标签将始终显示"
+msgstr "* 鼠标悬停时，Folder Portal 的标签将始终显示"
 
 msgid "* Labels will still show on Folder Portals on mouseover"
-msgstr "* 鼠标悬停时，标签将仍然显示在 映射文件夹 上"
+msgstr "* 鼠标悬停时，标签将仍然显示在 Folder Portal 上"
 
 msgid "* Log out for language change to take effect"
 msgstr "* 注销后，程序的语言更改才能生效"
