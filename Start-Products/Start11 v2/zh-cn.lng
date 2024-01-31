@@ -873,3 +873,13 @@ Exist=1
 "Show search on taskbar"="在任务栏显示搜索"
 "Task Manager"="任务管理器"
 "Pick custom tile image..."="选择自定义磁贴图片"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="当屏幕大于1时的辅助显示"
+"Pin website..."="固定网站..."
+"Pin website"="固定网站"
+"Enter the URL for the website you want to pin :"="输入您想要固定的网站的URL："
+"Enter the display name :"="输入显示名称："
+"Ok"="确定"
+"Website links"="网站链接"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="固定到开始菜单的网页链接应获取网站图标（favicon）图片（ 将连接到谷歌网站 **）"
