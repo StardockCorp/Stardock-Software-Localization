@@ -892,3 +892,11 @@ Exist=1
 "Open your personal folder."="打开你的个人文件夹。"
 "Change settings and customize the functionality of your computer."="更改设置并自定义电脑功能。"
 "Opens a program, folder, document or web site."="打开程序、文件夹、文档或网站。"
+
+;2.06版本新增
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11检测到您正在使用StartAllIsBack管理任务栏，因兼容性原因这些功能已被禁用。"
+"StartAllIsBack detected"="检测到StartAllIsBack"
+"Always open on this tab index"="总是打开此标签索引"
+"Clear default tab index" = "清除默认标签索引"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="出于兼容性考虑，在屏幕边缘保留一个像素（需要重启）"
+"Recent documents"="最近的文件"
