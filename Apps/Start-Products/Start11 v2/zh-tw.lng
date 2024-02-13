@@ -877,3 +877,11 @@ Exist=1
 "Ok"="確定"
 "Website links"="網站連結"
 "Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="釘選到開始菜單的網頁連結應獲取網站圖標（favicon）圖片（ 將連接到谷歌網站 **）"
+
+;2.06加入
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11偵測到您正在使用StartAllIsBack管理任務欄，因此出於兼容性原因這些功能被禁用。"
+"StartAllIsBack detected"="偵測到StartAllIsBack"
+"Always open on this tab index"="總是在此標籤索引上打開"
+"Clear default tab index" = "清除預設標籤索引"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="出於兼容性原因，在屏幕邊緣保留一個像素（需要重新啟動）"
+"Recent documents"="最近文件"
