@@ -326,3 +326,7 @@ Exist=1
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Sie können die Tabs für ein Fenster über das Groupy-Menü ein- oder ausschalten. Bei ungruppierten Fenstern erscheint ein Tab, wenn Sie mit der Maus über das Fenster fahren."
 "Groupy disabled" = "Groupy ist nicht aktiv"
 "Groupy enabled" = "Groupy ist aktiv"
+
+;2.15
+"Enable if maximized window is clipped by tab bar"="Aktivieren, wenn maximiertes Fenster von der Tableiste abgeschnitten wird"
+"Do not show mouseover bar when ungrouped for this app"="Mauszeigerleiste nicht anzeigen, wenn für diese App nicht gruppiert"
