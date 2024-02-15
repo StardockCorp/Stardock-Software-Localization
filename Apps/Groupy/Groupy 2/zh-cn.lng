@@ -326,3 +326,7 @@ Exist=1
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="您可以使用 Groupy 选项卡右键单击菜单启用或禁用窗口上的选项卡。 对于未分组的窗口，如果默认情况下将鼠标悬停在窗口顶部，则会显示 Groupy 选项卡。"
 "Groupy disabled" = "禁用"
 "Groupy enabled" = "启用"
+
+;2.15
+"Enable if maximized window is clipped by tab bar"="如果最大化窗口被标签栏截断，则启用"
+"Do not show mouseover bar when ungrouped for this app"="此应用未分组时不显示鼠标悬停栏"
