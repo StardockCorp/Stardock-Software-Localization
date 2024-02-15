@@ -327,3 +327,6 @@ Exist=1
 "Groupy disabled" = "Groupy desativado"
 "Groupy enabled" = "Groupy ativado"
 
+;2.15
+"Enable if maximized window is clipped by tab bar"="Ativar se a janela maximizada for cortada pela barra de abas"
+"Do not show mouseover bar when ungrouped for this app"="Não mostrar barra de mouseover quando desagrupado para este aplicativo"
