@@ -330,3 +330,5 @@ Exist=1
 ;2.15
 "Enable if maximized window is clipped by tab bar"="Aktivieren, wenn maximiertes Fenster von der Tableiste abgeschnitten wird"
 "Do not show mouseover bar when ungrouped for this app"="Mauszeigerleiste nicht anzeigen, wenn für diese App nicht gruppiert"
+"Do not draw line under integrated tab bar"="Keine Linie unter der integrierten Tableiste zeichnen"
+"Do not animate tabs"="Tabs nicht animieren"
