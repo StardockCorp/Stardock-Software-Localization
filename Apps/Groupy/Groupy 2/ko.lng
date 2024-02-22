@@ -330,3 +330,5 @@ Exist=1
 ;2.15
 "Enable if maximized window is clipped by tab bar"="최대화된 창이 탭 바에 의해 잘릴 경우 활성화"
 "Do not show mouseover bar when ungrouped for this app"="이 앱이 그룹해제된 경우 마우스오버 바 표시 안 함"
+"Do not draw line under integrated tab bar"="통합된 탭 바 아래 선 그리지 않기"
+"Do not animate tabs"="탭 애니메이션 사용 안 함"
