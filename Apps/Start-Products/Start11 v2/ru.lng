@@ -884,3 +884,4 @@ Exist=1
 "Clear default tab index" = "Очистить индекс вкладки по умолчанию"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Зарезервировать один пиксель на краю экрана по причинам совместимости (Требуется перезагрузка)"
 "Recent documents"="Недавние документы"
+"page"="страница"
