@@ -330,3 +330,5 @@ Exist=1
 ;2.15
 "Enable if maximized window is clipped by tab bar"="如果最大化窗口被标签栏截断，则启用"
 "Do not show mouseover bar when ungrouped for this app"="此应用未分组时不显示鼠标悬停栏"
+"Do not draw line under integrated tab bar"="不要在集成的标签栏下画线"
+"Do not animate tabs"="不要对标签进行动画处理"
