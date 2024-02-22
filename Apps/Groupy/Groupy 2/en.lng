@@ -343,43 +343,5 @@ Exist = 1
 ;2.15
 "Enable if maximized window is clipped by tab bar"="Enable if maximized window is clipped by tab bar"
 "Do not show mouseover bar when ungrouped for this app"="Do not show mouseover bar when ungrouped for this app"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Do not draw line under integrated tab bar"="Do not draw line under integrated tab bar"
+"Do not animate tabs"="Do not animate tabs"
