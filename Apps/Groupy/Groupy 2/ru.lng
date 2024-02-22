@@ -330,3 +330,5 @@ Exist=1
 ;2.15
 "Enable if maximized window is clipped by tab bar"="Включить, если максимизированное окно обрезается панелью вкладок"
 "Do not show mouseover bar when ungrouped for this app"="Не показывать панель при наведении курсора, когда приложение не сгруппировано"
+"Do not draw line under integrated tab bar"="Не рисовать линию под интегрированной панелью вкладок"
+"Do not animate tabs"="Не анимировать вкладки"
