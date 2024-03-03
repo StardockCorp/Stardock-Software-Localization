@@ -1696,7 +1696,7 @@ msgid "Place new icons based on what program created it..."
 msgstr "根据程序初始化时的样式放置新图标"
 
 msgid "Please limit title length to 500 characters or less."
-msgstr "请将标题长度限制在 500 个字符以内"
+msgstr "请将标题长度限制在 250 个中文字符以内"
 
 msgid "Please navigate up to root folder to rename this Fence"
 msgstr "请导航到根文件夹以重命名此桌面分区"
