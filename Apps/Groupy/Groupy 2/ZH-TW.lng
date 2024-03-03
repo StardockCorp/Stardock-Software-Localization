@@ -327,3 +327,8 @@ Exist=1
 "Groupy disabled" = "禁用"
 "Groupy enabled" = "啟用"
 
+;2.15
+"Enable if maximized window is clipped by tab bar"="如果最大化視窗被標籤列裁切則啟用"
+"Do not show mouseover bar when ungrouped for this app"="此應用程式未分組時不顯示滑鼠懸停列"
+"Do not draw line under integrated tab bar"="不要在整合的標籤欄下畫線"
+"Do not animate tabs"="不要對標籤進行動畫處理"

@@ -882,3 +882,12 @@ Exist=1
 "Ok"="확인"
 "Website links"="웹사이트 링크"
 "Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="시작 메뉴에 고정된 웹 링크는 파비콘 이미지를 가져야 합니다 ( 구글 웹사이트와 연결됩니다 **)"
+
+;2.06으로 추가됨
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11이 작업 표시줄을 관리하는 StartAllIsBack이(가) 있는 것을 감지하여 호환성 문제로 이 기능들이 비활성화되었습니다."
+"StartAllIsBack detected"="StartAllIsBack 감지됨"
+"Always open on this tab index"="항상 이 탭 인덱스에서 열기"
+"Clear default tab index" = "기본 탭 인덱스 지우기"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="호환성을 위해 화면 가장자리에 한 픽셀 예약하기 (재시작 필요)"
+"Recent documents"="최근 문서들"
+"page"="페이지"

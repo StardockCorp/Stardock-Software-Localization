@@ -326,3 +326,9 @@ Exist=1
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Vous pouvez activer ou désactiver les onglets d’une fenêtre à l’aide du menu contextuel de l’onglet Groupy.  Pour les fenêtres non groupées, un onglet Groupy apparaîtra si vous survolez le haut de la fenêtre par défaut."
 "Groupy disabled" = "Groupy désactivé"
 "Groupy enabled" = "Groupy activé"
+
+;2.15
+"Enable if maximized window is clipped by tab bar"="Activer si la fenêtre maximisée est coupée par la barre d'onglets"
+"Do not show mouseover bar when ungrouped for this app"="Ne pas afficher la barre au survol de la souris lorsque non groupé pour cette application"
+"Do not draw line under integrated tab bar"="Ne pas tracer de ligne sous la barre d'onglets intégrée"
+"Do not animate tabs"="Ne pas animer les onglets"

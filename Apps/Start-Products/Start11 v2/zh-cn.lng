@@ -882,4 +882,22 @@ Exist=1
 "Enter the display name :"="输入显示名称："
 "Ok"="确定"
 "Website links"="网站链接"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="固定到开始菜单的网页链接应获取网站图标（favicon）图片（ 将连接到谷歌网站 **）"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="固定到开始菜单的网页链接应获取网站图标（favicon）图片（ 将连接到谷歌网站 ）"
+
+； Added by chyanbo
+"Access Letters, reports, notes, and other kinds of documents."="访问信件、报告、笔记以及其他类型的文档。"
+"Find Internet downloads and links to favorite websites."="查找互联网下载内容和收藏网站的链接。"
+"Play music and other audio files."="播放音乐及其他音频文件。"
+"View and organize digital pictures."="查看和组织数字图片。"
+"Open your personal folder."="打开你的个人文件夹。"
+"Change settings and customize the functionality of your computer."="更改设置并自定义电脑功能。"
+"Opens a program, folder, document or web site."="打开程序、文件夹、文档或网站。"
+
+;2.06版本新增
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11检测到您正在使用StartAllIsBack管理任务栏，因兼容性原因这些功能已被禁用。"
+"StartAllIsBack detected"="检测到StartAllIsBack"
+"Always open on this tab index"="总是打开此标签索引"
+"Clear default tab index" = "清除默认标签索引"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="出于兼容性考虑，在屏幕边缘保留一个像素（需要重启）"
+"Recent documents"="最近的文件"
+"page"="页"

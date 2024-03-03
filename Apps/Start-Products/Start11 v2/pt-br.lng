@@ -878,3 +878,12 @@ Exist=1
 "Ok"="Ok"
 "Website links"="Links de sites"
 "Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Links da web fixados no menu iniciar devem obter a imagem favicon ( Fará conexões com um site do Google **)"
+
+;Adicionado com 2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="O Start11 detectou que você tem o StartAllIsBack gerenciando sua barra de tarefas, portanto, esses recursos estão desabilitados por motivos de compatibilidade."
+"StartAllIsBack detected"="StartAllIsBack detectado"
+"Always open on this tab index"="Sempre abrir neste índice de abas"
+"Clear default tab index" = "Limpar índice de aba padrão"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reservar um pixel na borda da tela por motivos de compatibilidade (Reinicialização necessária)"
+"Recent documents"="Documentos recentes"
+"page"="página"

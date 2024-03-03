@@ -327,3 +327,9 @@ Exist=1
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Puede activar o desactivar las pestañas en una ventana utilizando el menú contextual de la pestaña Groupy.  Para las ventanas no agrupadas, aparecerá una pestaña Groupy si coloca el cursor sobre la parte superior de la ventana de forma predeterminada."
 "Groupy disabled" = "Groupy deshabilitado"
 "Groupy enabled" = "Groupy habilitado"
+
+;2.15
+"Enable if maximized window is clipped by tab bar"="Activar si la ventana maximizada es recortada por la barra de pestañas"
+"Do not show mouseover bar when ungrouped for this app"="No mostrar la barra al pasar el ratón cuando no está agrupado para esta aplicación"
+"Do not draw line under integrated tab bar"="No dibujar línea bajo la barra de pestañas integrada"
+"Do not animate tabs"="No animar las pestañas"

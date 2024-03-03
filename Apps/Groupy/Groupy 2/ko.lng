@@ -326,3 +326,9 @@ Exist=1
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Groupy 탭 오른쪽 클릭 메뉴를 사용하여 창에서 탭을 활성화하거나 비활성화할 수 있습니다.  그룹화되지 않은 창의 경우 기본적으로 창 위쪽으로 마우스를 가져가면 그룹 탭이 나타납니다."
 "Groupy disabled" = "Groupy 비활성화"
 "Groupy enabled" = "Groupy 사용"
+
+;2.15
+"Enable if maximized window is clipped by tab bar"="최대화된 창이 탭 바에 의해 잘릴 경우 활성화"
+"Do not show mouseover bar when ungrouped for this app"="이 앱이 그룹해제된 경우 마우스오버 바 표시 안 함"
+"Do not draw line under integrated tab bar"="통합된 탭 바 아래 선 그리지 않기"
+"Do not animate tabs"="탭 애니메이션 사용 안 함"
