@@ -886,3 +886,6 @@ Exist=1
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="出於兼容性原因，在屏幕邊緣保留一個像素（需要重新啟動）"
 "Recent documents"="最近文件"
 "page"="頁"
+
+;Added in 2.07
+"Show autohide toggle on taskbar menu"="在任務欄菜單上顯示自動隱藏切換"
