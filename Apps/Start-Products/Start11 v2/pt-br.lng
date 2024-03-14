@@ -887,3 +887,6 @@ Exist=1
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reservar um pixel na borda da tela por motivos de compatibilidade (Reinicialização necessária)"
 "Recent documents"="Documentos recentes"
 "page"="página"
+
+;Added in 2.07
+"Show autohide toggle on taskbar menu"="Mostrar alternância de autoesconder no menu da barra de tarefas"
