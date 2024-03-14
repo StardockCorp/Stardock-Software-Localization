@@ -890,3 +890,6 @@ Exist=1
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Aus Kompatibilitätsgründen einen Pixel am Bildschirmrand reservieren (Neustart erforderlich)"
 "Recent documents"="Aktuelle Dokumente"
 "page"="Seite"
+
+;Added in 2.07
+"Show autohide toggle on taskbar menu"="Autoausblenden-Umschalter im Taskleistenmenü anzeigen"
