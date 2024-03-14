@@ -903,3 +903,6 @@ Exist=1
 "Recent documents"="Documentos recientes"
 "All applications"="Todas las aplicaciones"
 "page"="página"
+
+;Added in 2.07
+"Show autohide toggle on taskbar menu"="Mostrar conmutador de ocultación automática en el menú de la barra de tareas"
