@@ -885,3 +885,6 @@ Exist=1
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Зарезервировать один пиксель на краю экрана по причинам совместимости (Требуется перезагрузка)"
 "Recent documents"="Недавние документы"
 "page"="страница"
+
+;Added in 2.07
+"Show autohide toggle on taskbar menu"="Показать переключатель автоскрытия в меню панели задач"
