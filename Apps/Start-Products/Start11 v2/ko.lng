@@ -891,3 +891,6 @@ Exist=1
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="호환성을 위해 화면 가장자리에 한 픽셀 예약하기 (재시작 필요)"
 "Recent documents"="최근 문서들"
 "page"="페이지"
+
+;Added in 2.07
+"Show autohide toggle on taskbar menu"="작업 표시줄 메뉴에서 자동 숨기기 전환 표시"
