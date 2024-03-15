@@ -296,6 +296,8 @@ Exist = 1
 "Ungroup this group"="このグループ化を解除する"
 "Unpin Groupy Tabs"="Groupyタブのピン留めを解除する"
 "Pin Groupy Tabs"="Groupyタブをピン留めする"
+"Close tab"="タブを閉じる"
+"Alt + F4"="Alt + F4"
 "Always show tabs for this type of window"="このタイプのウィンドウでは常にタブを表示する"
 "Unlock group"="グループをアンロックする"
 "Lock group"="グループをロックする"
@@ -306,9 +308,7 @@ Exist = 1
 "Unpin group from taskbar"="タスクバーのグループのピン留めを解除する"
 "Pin group to taskbar"="タスクバーにグループをピン留めする"
 "Unpin group from Start"="スタートからグループのピン留めを解除する"
-"Pin group to Start"="スタートにグループをピン留めする"
-												 
-										 
+"Pin group to Start"="スタートにグループをピン留めする"									 
 "Exclude from Ctrl-N support"="Ctrl-Nの対象から除外する"
 "Enter a new name for this colour"="この色の新しい名前を入力してください"
 "OK"="OK"
