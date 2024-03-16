@@ -259,7 +259,7 @@ Exist = 1
 "All ungrouped windows from '%s'"="グループ化されていない '%s' のウィンドウ"
 "All ungrouped windows from '%s' on this monitor"="このモニタ上のグループ化されていない '%s' のウィンドウ"
 "All ungrouped windows of class '%s'"="グループ化されていないclassが '%s' のウィンドウ"
-"All ungrouped windows of class '%s' on this monitor"="All ungrouped windows of class '%s'"="このモニタ上のグループ化されていないclassが '%s' のウィンドウ"
+"All ungrouped windows of class '%s' on this monitor"="このモニタ上のグループ化されていないclassが '%s' のウィンドウ"
 "All ungrouped windows on this monitor"="このモニタ上のグループ化されていないウィンドウ"
 "Manage saved groups"="グループを管理する"
 "Add to group"="グループに追加する"
