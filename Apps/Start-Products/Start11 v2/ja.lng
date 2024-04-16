@@ -146,6 +146,7 @@ Exist=1
 "Designed to match the square edges of Windows 10"="Windows 10のスクエアエッジに合わせたデザイン"
 "Default theme with black edges"="エッジが黒いデフォルトのテーマ"
 "As default, but with black selection edges"="デフォルトと同じですが、選択エッジが黒くなります"
+"Customize menu visual appearance"="メニューの視覚的な外観をカスタマイズする" 
 "Change the colour, background texture, animations and more."="色や背景のテクスチャ、アニメーションなどを変更することができる"
 "Left hand side shortcuts"="左側のショートカット"
 "Decide how shortcut icons look and which shortcuts to show."="ショートカットアイコンの見た目と表示するショートカットを設定"
@@ -424,7 +425,7 @@ Exist=1
 "Reset to default"="デフォルトに戻す"
 "Run as administrator"="管理者として実行"
 "Create shortcut on desktop"="デスクトップにショートカットを作成"
-"Open file location"="ファイルを開く場所"
+"Open file location"="ファイルの場所を開く"
 "Hide icon text"="アイコンテキストの非表示"
 "Hide caption"="キャプションを非表示"
 "New page"="新規ページ"
@@ -474,10 +475,8 @@ Exist=1
 "Show windows side by side"="ウィンドウを並べて表示"
 "Cascade windows"="カスケードウィンドウ"
 "Show windows stacked"="ウィンドウを重ねて表示"
-"Task Manager"="タスクマネージャー"
 
 ;Start11v2
-"Customize menu visual appearance"="メニューの視覚的な外観をカスタマイズする"
 "Display as a link"="リンクとして表示する"
 "Display as a menu"="メニューとして表示する"
 "Taskbar pins"="タスクバーのピン留め"
@@ -873,3 +872,29 @@ Exist=1
 "Show start button on secondary monitor taskbars"="セカンダリモニタのタスクバーにスタートボタンを表示"
 "Taskbar search"="タスクバー検索"
 "Show search on taskbar"="タスクバーに検索を表示"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="ウェブサイトをピン留め..."
+"Pin website"="ウェブサイトをピン留めする"
+"Enter the URL for the website you want to pin :"="ピン留めしたいウェブサイトのURLを入力してください :"
+"Enter the display name :"="表示名を入力 :"
+"Ok"="Ok"
+"Website links"="ウェブサイトのリンク"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="スタートメニューにピン留めされたウェブリンクはファビコン画像を取得する必要があります (** Google ウェブサイトに接続します **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11がStartAllIsBackがタスクバーを管理していることを検出したため、互換性の理由からこれらの機能は無効になっています。"
+"StartAllIsBack detected"="StartAllIsBackが検出されました"
+"Always open on this tab index"="常にこのタブインデックスを開く"
+"Clear default tab index" = "デフォルトのタブインデックスを消去"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="互換性のために画面の端に1ピクセルを確保する (再起動が必要)"
+"Recent documents"="最近のドキュメント"
+"page"="ページ"
+
+;2.07
+"Show autohide toggle on taskbar menu"="タスクバーメニューに自動非表示トグルを表示"
+
+;additional
+"Task Manager"="タスクマネージャー"
+"Autohide taskbar"="タスクバーを自動的に隠す"
