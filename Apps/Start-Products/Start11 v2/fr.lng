@@ -470,7 +470,7 @@ Exist=1
 "(Empty)"="(Vide)"
 "Recently installed"="Récemment installé"
 "Taskbar settings"="Paramètres de la barre des tâches"
-"Lock all taskbars"="Verrouiller tous les barres des tâches"
+"Lock all taskbars"="Verrouiller toutes les barres des tâches"
 "Show the desktop"="Afficher le Bureau"
 "Show windows side by side"="Afficher les fenêtres côte à côte"
 "Cascade windows"="Fenêtres en cascade"
@@ -896,3 +896,7 @@ Exist=1
 
 ;Added in 2.07
 "Show autohide toggle on taskbar menu"="Afficher le basculement d'auto-masquage dans le menu de la barre des tâches"
+
+;Missing translation in taskbar menu 28/05/2024 / Traductions manquantes dans le menu de la barre des tâches
+"Task manager"="Gestionnaire des tâches"
+"Autohide taskbar"="Masquer automatiquement la barre des tâches"
