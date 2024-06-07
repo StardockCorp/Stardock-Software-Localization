@@ -548,7 +548,11 @@
 “Be a Primary computer"="Be a Primary computer"
 “Be a Secondary computer"="Be a Secondary computer"
 
-
+; Adding missing initial network warning message
+"Your network has been set to a public network and this will usually block Multiplicity from working correctly."="Your network has been set to a public network and this will usually block Multiplicity from working correctly."
+"Should Multiplicity hide future notifications about this?"="Should Multiplicity hide future notifications about this?"
+"You may need to change settings"="You may need to change settings"
+"Network rules may block Multiplicity"="Network rules may block Multiplicity"
 
 
 
