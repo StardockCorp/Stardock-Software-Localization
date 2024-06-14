@@ -1,5 +1,6 @@
 [Strings]
 Exist=1
+; MultiPLV strings
 "KVM connection initiated by unknown address due to getpeername lookup failure"="KVM 连接由于 getpeername 命令查找失败而被未知地址发起"
 "KVM connection initiated by %s, internal port: %d"="KVM 连接发起者：%s，内部端口：%d"
 "A user on computer %S would like to remote control your computer."="%S 用户想远程控制您的电脑。"
@@ -12,6 +13,8 @@ Exist=1
 "Delete"="删除"
 "Cancel"="取消"
 "Dismiss"="忽略"
+
+; Multi2.dll strings
 "Multiplicity (disconnected)"="Multiplicity（断连）"
 "Multiplicity"="Multiplicity"
 "A connection to "="连接至"
@@ -43,6 +46,8 @@ Exist=1
 "Are you sure you want to unload Multiplicity?"="确定要退出 Multiplicity 吗？"
 "To restart it you will need to run Multiplicity again or reboot."="重启电脑或重新运行可以再次使用 Multiplicity。"
 "(Requires Administrator rights)"="(需要管理员权限)"
+
+; MPRDP strings
 "Close this KVM window."="关闭此 KVM 窗口。"
 "Switch back to showing the primary computer on this monitor."="切换回在此显示器上显示主控端。"
 "Toggle between 1:1 (if smaller than local resolution) and stretch / shrink to fit mode."="在1:1（若小于本地分辨率）与拉伸/缩放模式间切换。"
@@ -88,8 +93,11 @@ Exist=1
 "The connection to this computer has been lost as the computer is restarting"="此电脑的连接已丢失，因为电脑正在重启。"
 "The connection to this computer has been lost and Multiplicity was unable to reconnect to it"="此电脑的连接已丢失，Multiplicity 无法重新连接。"
 "Switch to another monitor."="切换至另一显示器。"
+"Switch this from fullscreen mode to windowed mode."="从全屏模式切换至窗口模式。"
 "Open another Multiplicity KVM window."="打开另一个 Multiplicity KVM 窗口。"
 "Open another Multiplicity KVM window. (KVM Pro or higher)"="打开另一个 Multiplicity KVM 窗口。（需要 KVM Pro 或更高版本）"
+
+; Multiconfig.exe
 "Keyboard shortcut"="键盘快捷键"
 "Mouse button 4"="鼠标键4"
 "Mouse button 5"="鼠标键5"
@@ -104,7 +112,7 @@ Exist=1
 "No computers with that name were found on your network.  You may want to enter an IP address instead."="在您的网络上没有找到该名称的计算机，您还可以输入IP地址。"
 "Do you want to continue with this name?"="要继续使用该名称吗？"
 "Unable to locate computer"="无法找到计算机"
-"--= Scanning =--"="扫描中"
+"--= Scanning =--"="--= 扫描中 =--"
 "Are you sure you want to lock the settings?"="确定要锁定设置吗？"
 "Once locked you will need administrator rights to unlock."="一旦锁定，您需要管理员权限解锁。"
 "Lock settings?"="锁定设置？"
@@ -297,6 +305,8 @@ Exist=1
 "Passcode :"="密码:"
 "Display name :"="显示名称："
 "Always use the IP address (192.168.135.131)"="始终使用IP地址(192.168.135.131)"
+"Yes"="是"
+"No"="否"
 "Control other computers"="控制其他电脑"
 "Be controlled by other computers"="被其他电脑控制"
 "Advanced KVM settings"="高级 KVM 设置"
@@ -354,6 +364,7 @@ Exist=1
 "Each hotkey can also specify a position on the computer to put the mouse."="每个热键均可指定鼠标的初始位置。"
 "Add hotkey"="增加热键"
 "Disable hotkey"="禁用此热键"
+"Cancel"="取消"
 "Hotkey to press :"="按下热键："
 "Switch to this computer :"="切换至此被控端电脑："
 "Position the mouse cursor at :"="点击设定鼠标默认位置："
@@ -437,6 +448,8 @@ Exist=1
 "On screen indicators..."="屏幕提示……"
 "Show a coloured line on the computer with focus"="鼠标静止时，在被控屏幕上显示彩框"
 "Pick colour..."="选取颜色"
+
+; MPBar strings
 "The Multiplicity Bar requires Windows 7 or higher."="Multiplicity Bar 需要 Windows 7 或更高版本。"
 "Windows 7 or higher required"="需要 Windows 7 或更高版本"
 "Monitor %d - (%d, %d - %d, %d)"="显示器 %d - (%d, %d - %d, %d)"
@@ -448,6 +461,11 @@ Exist=1
 "Increase delay on auto-hide opening"="增加淡入延迟"
 "Make bar wider when needed in auto-hide mode"="自动隐藏时自动加宽工具栏"
 "Automatically start at login"="登录后自动启动 KVM"
+"Configure Multiplicity..."="打开主界面"
+"Close"="关闭"
+"Connect"="连接"
+
+; 3.3 additions
 "Allow Secondary to control KVM computers (activation needed)"="允许被控端控制 KVM 电脑（需激活）"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="是否要禁用从该计算机控制被控端 KVM 的选项？"
 "Disable features which require activation?"="是否禁用需要激活的功能？"
@@ -490,6 +508,8 @@ Exist=1
 "Save window location per connection"="保存窗口位置"
 "You cannot overlap a monitor"="不能重叠显示器"
 "Use advanced grid layout mode"="使用高级网格布局模式"
+
+; Missing
 "Flush DNS cache"="刷新 DNS 缓存"
 "Prevent secondary computers auto sleeping whilst using this computer"="使用此电脑时阻止被控端自动休眠"
 "Restart Multiplicity processes"="重启 Multiplicity"
@@ -497,8 +517,18 @@ Exist=1
 "* Computer on LEFT"="* 左侧电脑"
 "* Computer on RIGHT"="* 右侧电脑"
 "* PRIMARY computer"="* 主控端电脑"
+"Presets :"="预设："
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="注意：VirtualBox 网络适配器会破坏 WOL 广播"
+
+; Fixed
 "Would you like to deactivate your primary license on this computer (not needed for a secondary)?"="要反激活此电脑的主控端许可吗（被控端无需许可）？"
 "This is a licensed copy of Multiplicity"="此 Multiplicity 已激活"
 “Be a Primary computer"="成为主控端"
 “Be a Secondary computer"="成为被控端"
+
+; Adding missing initial network warning message
+"Your network has been set to a public network and this will usually block Multiplicity from working correctly."="您的网络已设置为公共网络，这通常会阻止 Multiplicity 正常工作。"
+"Should Multiplicity hide future notifications about this?"="是否需要隐藏 Multiplicity 有关此类事件的所有通知？"
+"You may need to change settings"="您可能需要更改设置"
+"Network rules may block Multiplicity"="网络规则可能会阻止 Multiplicity 正常工作"
+
