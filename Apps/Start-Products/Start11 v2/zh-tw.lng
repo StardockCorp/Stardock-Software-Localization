@@ -889,3 +889,6 @@ Exist=1
 
 ;Added in 2.07
 "Show autohide toggle on taskbar menu"="在任務欄菜單上顯示自動隱藏切換"
+
+;Added in 2.11
+"Task Manager"="工作管理員"
