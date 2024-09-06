@@ -888,3 +888,6 @@ Exist=1
 
 ;Added in 2.07
 "Show autohide toggle on taskbar menu"="Показать переключатель автоскрытия в меню панели задач"
+
+;Added in 2.11
+"Task Manager"="Диспетчер задач"
