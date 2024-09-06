@@ -890,3 +890,6 @@ Exist=1
 
 ;Added in 2.07
 "Show autohide toggle on taskbar menu"="Mostrar alternância de autoesconder no menu da barra de tarefas"
+
+;Added in 2.11
+"Task Manager"="Gerenciador de Tarefas"
