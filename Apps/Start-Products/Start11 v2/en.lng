@@ -892,3 +892,6 @@ Exist=1
 
 ;2.07
 "Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task-Manager"
