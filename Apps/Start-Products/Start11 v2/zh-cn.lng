@@ -904,3 +904,6 @@ Exist=1
 
 ;Added in 2.07
 "Show autohide toggle on taskbar menu"="在任务栏菜单上显示自动隐藏切换"
+
+;Added in 2.11
+"Task Manager"="任务管理器"
