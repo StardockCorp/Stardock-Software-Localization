@@ -905,4 +905,8 @@ Exist=1
 "page"="página"
 
 ;Added in 2.07
-"Show autohide toggle on taskbar menu"="Mostrar conmutador de ocultación automática en el menú de la barra de tareas"
+"Show autohide toggle on taskbar menu"="Mostrar conmutador de ocultación automática en el menú de la barra de areas"
+
+;Added in 2.11
+"Task Manager"="Administrador de tareas"
+
