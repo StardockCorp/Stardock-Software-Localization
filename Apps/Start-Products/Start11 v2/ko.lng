@@ -894,3 +894,6 @@ Exist=1
 
 ;Added in 2.07
 "Show autohide toggle on taskbar menu"="작업 표시줄 메뉴에서 자동 숨기기 전환 표시"
+
+;Added in 2.11
+"Task Manager"="작업 관리자"
