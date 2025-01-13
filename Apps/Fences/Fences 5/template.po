@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2023-11-22 00:10-08:00\n"
-"PO-Revision-Date: 2023-11-22 00:10-08:00\n"
+"POT-Creation-Date: 2025-01-12 16:20-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"POT-Revision-Date: 2025-01-12 16:20-08:00\n"
+"X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
 msgstr ""
@@ -19,9 +19,6 @@ msgid "a folder"
 msgstr ""
 
 msgid "A folder cannot be created inside of this folder. Please try again."
-msgstr ""
-
-msgid "A Folder Portal's title always shows the name of the folder it contains. To set a custom title, navigate to the root folder of the portal and try again. Your customization will stick."
 msgstr ""
 
 msgid "A newer version is already installed"
@@ -65,6 +62,9 @@ msgstr ""
 msgid "Add a Custom Rule..."
 msgstr ""
 
+msgid "Add a non Folder Portal group to use rules."
+msgstr ""
+
 msgid "Add additional criteria..."
 msgstr ""
 
@@ -87,6 +87,9 @@ msgid "Additional Tweaks"
 msgstr ""
 
 msgid "Adjust a Fence"
+msgstr ""
+
+msgid "Adjust displays"
 msgstr ""
 
 msgid "Adjust the appearance of individual Fence groups"
@@ -131,13 +134,13 @@ msgstr ""
 msgid "All new icons"
 msgstr ""
 
-msgid "Allow drag && drop from the desktop"
-msgstr ""
-
 msgid "Allow me to place icons on as many pages as I want"
 msgstr ""
 
 msgid "Allow navigation"
+msgstr ""
+
+msgid "Allow users to \"have their own Fence\" by unlocking specific Fence groups that you have created/deployed."
 msgstr ""
 
 msgid "Alt"
@@ -167,6 +170,9 @@ msgstr ""
 msgid "Animate the page-switching"
 msgstr ""
 
+msgid "Any group you select, the user will be able to add their own icons. We recommend you use an empty group."
+msgstr ""
+
 msgid "Apply a custom look to your Fence groups"
 msgstr ""
 
@@ -190,7 +196,7 @@ msgid ""
 "Continue?"
 msgstr ""
 
-msgid "Are you sure you want to delete this snapshot?"
+msgid "Are you sure you want to delete this backup?"
 msgstr ""
 
 msgid "Are you sure you want to remove this Fence and send its contents to the Recycle Bin?"
@@ -252,7 +258,7 @@ msgstr ""
 msgid "Automatically sort icons into groups based on their name, file type, or other criteria."
 msgstr ""
 
-msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
+msgid "Automatically take daily backups (most recent 3 days will be kept)"
 msgstr ""
 
 msgid "Available rules:"
@@ -270,6 +276,18 @@ msgstr ""
 msgid "Background Style"
 msgstr ""
 
+msgid "Backup captured"
+msgstr ""
+
+msgid "Backup deleted"
+msgstr ""
+
+msgid "Backup Name:"
+msgstr ""
+
+msgid "Backup Title"
+msgstr ""
+
 msgid "Basic options"
 msgstr ""
 
@@ -279,6 +297,9 @@ msgstr ""
 msgid ""
 "Below, you can define rules that will govern where new icons are placed.\n"
 "Sample rules are provided or you can create your own - click \"Add rule...\" to get started!"
+msgstr ""
+
+msgid "Beta {0}"
 msgstr ""
 
 msgid "between"
@@ -311,7 +332,16 @@ msgstr ""
 msgid "Blur group area background"
 msgstr ""
 
+msgid "Book 15-30min call"
+msgstr ""
+
 msgid "Brightness:"
+msgstr ""
+
+msgid "Business Edition"
+msgstr ""
+
+msgid "Business License Management"
 msgstr ""
 
 msgid "By creating program..."
@@ -321,6 +351,9 @@ msgid "By Default,"
 msgstr ""
 
 msgid "By default..."
+msgstr ""
+
+msgid "By double-clicking blank space on your desktop, you have activated a feature of Fences called Quick-Hide.\n"
 msgstr ""
 
 msgid "By file-size..."
@@ -356,13 +389,16 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cannot make a backup while Fences is not enabled."
+msgstr ""
+
 msgid "Cannot perform an auto-layout while Fences is not enabled."
 msgstr ""
 
-msgid "Cannot restore snapshots while Fences is not enabled."
+msgid "Cannot restore a backup while Fences is not enabled."
 msgstr ""
 
-msgid "Cannot take snapshot while Fences is not enabled."
+msgid "Chameleon auto-disabled"
 msgstr ""
 
 msgid "Change / resize the font used in Fences' labels"
@@ -372,6 +408,9 @@ msgid "Change color"
 msgstr ""
 
 msgid "Change Fence Order"
+msgstr ""
+
+msgid "Change folder..."
 msgstr ""
 
 msgid "Change font"
@@ -390,6 +429,11 @@ msgid "Check for updates"
 msgstr ""
 
 msgid "Choose a color for your Fence groups, and adjust Fence labels to suit your tastes."
+msgstr ""
+
+msgid ""
+"Choose a color from your wallpaper\n"
+"to find the accent color for you"
 msgstr ""
 
 msgid "Choose a default Fence for new icons, or automatically place icons in Fences by name, size, filetype, or a variety of customizable criteria."
@@ -413,6 +457,9 @@ msgstr ""
 msgid ""
 "Choose a layout to help get me started\n"
 "(Recommended for most users, easy to undo)"
+msgstr ""
+
+msgid "Choose an existing layout, or start new. Configure your desktop how it should look for the customer on first-boot, including which icons should appear in which Fences, and in what order. Please note the customer may not have all of the icons that you do."
 msgstr ""
 
 msgid "Choose folder"
@@ -442,10 +489,16 @@ msgstr ""
 msgid "Color intensity:"
 msgstr ""
 
+msgid "Color picker"
+msgstr ""
+
 msgid "Compatibility issue found..."
 msgstr ""
 
 msgid "Compatibiliy issue found..."
+msgstr ""
+
+msgid "Complex multi-monitor deployments"
 msgstr ""
 
 msgid "Compressed file"
@@ -454,13 +507,34 @@ msgstr ""
 msgid "Config Import / Export"
 msgstr ""
 
+msgid "Configuration Management"
+msgstr ""
+
 msgid "Configure Fences"
 msgstr ""
 
 msgid "Configure Fences..."
 msgstr ""
 
+msgid "Contact deployment team to learn more."
+msgstr ""
+
+msgid "Contact our deployment team to learn more."
+msgstr ""
+
+msgid "Contact our deployments team to help plan your deployment."
+msgstr ""
+
+msgid "Contact our deployment-support team to discuss your deployment needs."
+msgstr ""
+
+msgid "Contact Sales"
+msgstr ""
+
 msgid "contains"
+msgstr ""
+
+msgid "Continue?"
 msgstr ""
 
 msgid "Control"
@@ -475,11 +549,26 @@ msgstr ""
 msgid "Copy Fence color"
 msgstr ""
 
+msgid "Copy from Fence background color"
+msgstr ""
+
+msgid "Copy group style"
+msgstr ""
+
+msgid "Copy/paste/reset group style"
+msgstr ""
+
 msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr ""
 
 msgid "Create a Fence™"
 msgstr "Create a Fence"
+
+msgid "Create an empty Fence and then return here to select it."
+msgstr ""
+
+msgid "Create error report package for technical support"
+msgstr ""
 
 msgid "Create Fence from a Folder"
 msgstr ""
@@ -517,6 +606,9 @@ msgstr ""
 msgid "Create new Fence here"
 msgstr ""
 
+msgid "Create Report Package"
+msgstr ""
+
 msgid ""
 "Creates 2 empty Fence groups for you to start using\n"
 "(Recommended for most casual users)"
@@ -546,13 +638,22 @@ msgstr ""
 msgid "Customizing your Folder Portal groups"
 msgstr ""
 
+msgid "Daily Backup"
+msgstr ""
+
 msgid "Daily Snapshot"
+msgstr ""
+
+msgid "Dark"
 msgstr ""
 
 msgid "Darken Fence area title bars"
 msgstr ""
 
 msgid "Darken titlebar areas"
+msgstr ""
+
+msgid "Darker"
 msgstr ""
 
 msgid "Date added to Fence"
@@ -570,13 +671,34 @@ msgstr ""
 msgid "days left in your free trial"
 msgstr ""
 
+msgid "Delete Backup"
+msgstr ""
+
 msgid "Delete rule..."
 msgstr ""
 
-msgid "Delete Snapshot"
+msgid "Delete this rule"
 msgstr ""
 
-msgid "Delete this rule"
+msgid "Deployment"
+msgstr ""
+
+msgid "Deployment options"
+msgstr ""
+
+msgid "Deployment Planning & Support (Recommended to start)"
+msgstr ""
+
+msgid "Deployment Planning & Support (Start here)"
+msgstr ""
+
+msgid "Deployment style"
+msgstr ""
+
+msgid "Deployment Target"
+msgstr ""
+
+msgid "Deployments"
 msgstr ""
 
 msgid "Description:"
@@ -621,6 +743,9 @@ msgstr ""
 msgid "Details (Large)"
 msgstr ""
 
+msgid "Device management"
+msgstr ""
+
 msgid "Disable per-Fence transparency"
 msgstr ""
 
@@ -630,6 +755,12 @@ msgstr ""
 msgid "Disabled"
 msgstr ""
 
+msgid "Distribution tools"
+msgstr ""
+
+msgid "Do not show this again"
+msgstr ""
+
 msgid "Do nothing"
 msgstr ""
 
@@ -637,6 +768,9 @@ msgid "Do you want to remove all of your Fences settings and saved backups?"
 msgstr ""
 
 msgid "Document"
+msgstr ""
+
+msgid "Documentation"
 msgstr ""
 
 msgid "Documents"
@@ -663,7 +797,7 @@ msgstr ""
 msgid "Don't show this message again"
 msgstr ""
 
-msgid "Double click Fence titlebar to roll up"
+msgid "Double click Fence titlebar to toggle roll-up"
 msgstr ""
 
 msgid ""
@@ -673,6 +807,9 @@ msgid ""
 msgstr ""
 
 msgid "Double clicking will roll-up your Fence!"
+msgstr ""
+
+msgid "Double-click blank space on your desktop at any time to quickly hide / reveal your desktop icons."
 msgstr ""
 
 msgid "Downloads"
@@ -705,10 +842,16 @@ msgstr ""
 msgid "Edit title font color"
 msgstr ""
 
+msgid "Email Address"
+msgstr ""
+
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
 msgstr ""
 
 msgid "Enable advanced crash reporting"
+msgstr ""
+
+msgid "Enable advanced logging"
 msgstr ""
 
 msgid "Enable Chameleon"
@@ -735,6 +878,9 @@ msgstr ""
 msgid "Enter title"
 msgstr ""
 
+msgid "Enterprise Distribution"
+msgstr ""
+
 msgid "Enterprise Distribution Testing Tools"
 msgstr ""
 
@@ -750,7 +896,7 @@ msgstr ""
 msgid "Exclude this Fence group from quick-hide"
 msgstr ""
 
-msgid "Exclude this icon from Fences' quick-hide"
+msgid "Exclude this icon from Fences quick-hide"
 msgstr ""
 
 msgid "Executable file"
@@ -759,7 +905,13 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
+msgid "Export config to file"
+msgstr ""
+
 msgid "Export Config to File"
+msgstr ""
+
+msgid "Export your configuration for distribution with installer, on network share, or any preferred method."
 msgstr ""
 
 msgid "Extra large icons"
@@ -772,6 +924,9 @@ msgid ""
 "Failed to deactivate the local machine.\n"
 "\n"
 "If you need assistance, please contact us at support@stardock.com"
+msgstr ""
+
+msgid "Fence groups"
 msgstr ""
 
 msgid "Fence Name"
@@ -805,9 +960,21 @@ msgid ""
 "You may need to reinstall Fences."
 msgstr ""
 
+msgid "Fences Error Report"
+msgstr ""
+
 msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
+msgstr ""
+
+msgid "Fences for Business"
+msgstr ""
+
+msgid "Fences for Business allows you to buy licenses in bulk, manage your licenses and assign multiple licenses to a single key, while deploying standardized flexibly-locked configurations across your organization."
+msgstr ""
+
+msgid "Fences for Business helps you deploy managed layouts across your organization, suitable for both small-business and complex multi-department enterprise rollouts."
 msgstr ""
 
 msgid ""
@@ -832,6 +999,9 @@ msgstr ""
 msgid "Fences has not been activated."
 msgstr ""
 
+msgid "Fences has updated its App Compatibility settings, so that you will no longer see User Account Control prompts while using Fences. Please log off & log on or reboot for this change to take effect."
+msgstr ""
+
 msgid ""
 "Fences is currently disabled.\n"
 "\n"
@@ -849,14 +1019,6 @@ msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"To
 msgstr ""
 
 msgid "Fences is not yet loaded."
-msgstr ""
-
-msgid ""
-"Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
-"\n"
-"Kiosk Mode works on a per-user basis and will lock the desktop through reboots, until it is next unlocked. Fences will ask for administrator access when locking and unlocking the desktop, ensuring that only authorized users have access to control the desktop.\n"
-"\n"
-"Kiosk Mode should be used as part of your complete system lock-down plan, and should not replace proper file system access controls and other such protections."
 msgstr ""
 
 msgid "Fences license validation failed. Try again?"
@@ -921,7 +1083,16 @@ msgstr ""
 msgid "Fine tune the look, feel and behavior of your Fence groups"
 msgstr ""
 
+msgid "First-Use Backup"
+msgstr ""
+
 msgid "First-Use Snapshot"
+msgstr ""
+
+msgid "Fix desktop icon spacing"
+msgstr ""
+
+msgid "Flat"
 msgstr ""
 
 msgid "FlickSensitivity"
@@ -942,19 +1113,54 @@ msgstr ""
 msgid "General Desktop (No Fence)"
 msgstr ""
 
+msgid "Generate"
+msgstr ""
+
+msgid "Generate distributable license file"
+msgstr ""
+
+msgid "Generate license file"
+msgstr ""
+
 msgid "Getting started"
 msgstr ""
 
 msgid "Getting started with Fences"
 msgstr ""
 
-msgid "Give snapshot a name"
+msgid "Give backup a name"
 msgstr ""
 
 msgid "go to"
 msgstr ""
 
 msgid "Go to Website"
+msgstr ""
+
+msgid "Group Placements"
+msgstr ""
+
+msgid "Group Properties"
+msgstr ""
+
+msgid "Group spacing & snapping"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "Handle your more complex distribution needs with simple notation, trackable in version control and adaptable to a variety of deployment scenarios."
+msgstr ""
+
+msgid ""
+"Hi\n"
+"Test"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Hide \"Fences for Business\""
 msgstr ""
 
 msgid "Hide and show your desktop icons instantly with a double-click."
@@ -990,7 +1196,16 @@ msgstr ""
 msgid "Hide text on desktop icons"
 msgstr ""
 
+msgid "Hide titlebar when navigating"
+msgstr ""
+
 msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Hot Corner"
 msgstr ""
 
 msgid "Hot Keys"
@@ -1011,7 +1226,7 @@ msgstr ""
 msgid "How to Configure Fences"
 msgstr ""
 
-msgid "How to create a Folder Portal™ group"
+msgid "How to create a Folder Portal group"
 msgstr ""
 
 msgid "How to create a new desktop page"
@@ -1057,6 +1272,12 @@ msgid "Icon opacity"
 msgstr ""
 
 msgid "Icon Opacity"
+msgstr ""
+
+msgid "Icon Order and Placement"
+msgstr ""
+
+msgid "Icon spacing"
 msgstr ""
 
 msgid "Icon transparency && fading Fence groups"
@@ -1128,6 +1349,12 @@ msgstr ""
 msgid "If hidden, unhide my desktop icons when switching pages"
 msgstr ""
 
+msgid "If you have not yet used the option \"Enable advanced logging\" from this menu, we recommend you selecting this and following those instructions first."
+msgstr ""
+
+msgid "If you have several different multi-monitor/multi-resolution layout you'd like to deploy, we're here to help."
+msgstr ""
+
 msgid "Ignore for now"
 msgstr ""
 
@@ -1143,13 +1370,25 @@ msgstr ""
 msgid "Immediately"
 msgstr ""
 
+msgid "Import config from file"
+msgstr ""
+
 msgid "Import Config from File"
+msgstr ""
+
+msgid "Inherit view mode from parent"
+msgstr ""
+
+msgid "Inside-group icon spacing"
 msgstr ""
 
 msgid "Installation complete!"
 msgstr ""
 
 msgid "is"
+msgstr ""
+
+msgid "is now available"
 msgstr ""
 
 msgid "Item type"
@@ -1164,7 +1403,7 @@ msgstr ""
 msgid "Just perform auto-layout"
 msgstr ""
 
-msgid "Just restore snapshot"
+msgid "Just restore backup"
 msgstr ""
 
 msgid "Keep groups lined up when moving"
@@ -1179,12 +1418,6 @@ msgstr ""
 msgid "Keep rules applied at all times"
 msgstr ""
 
-msgid "Kiosk mode"
-msgstr ""
-
-msgid "Kiosk Mode"
-msgstr ""
-
 msgid "Kiosk Mode (Lock Desktop)"
 msgstr ""
 
@@ -1197,13 +1430,22 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
+msgid "Layout & settings distribution"
+msgstr ""
+
 msgid "Layout & style"
 msgstr ""
 
 msgid "Layout auto-adjustments"
 msgstr ""
 
+msgid "Layout backups"
+msgstr ""
+
 msgid "Layout Builder"
+msgstr ""
+
+msgid "Layout management"
 msgstr ""
 
 msgid "Layout Name:"
@@ -1212,13 +1454,13 @@ msgstr ""
 msgid "Layout snapshots"
 msgstr ""
 
-msgid "Layout spacing & snapping"
-msgstr ""
-
 msgid "Layout tools and snapshots"
 msgstr ""
 
-msgid "Left-click the bottom right corner of the taskbar to"
+msgid "Learn More"
+msgstr ""
+
+msgid "Left click"
 msgstr ""
 
 msgid "Legal Information"
@@ -1230,7 +1472,19 @@ msgstr ""
 msgid "less than"
 msgstr ""
 
+msgid "License distribution"
+msgstr ""
+
+msgid "License Information, Invoicing and Purchasing"
+msgstr ""
+
+msgid "License Management"
+msgstr ""
+
 msgid "License not yet validated"
+msgstr ""
+
+msgid "Licensing"
 msgstr ""
 
 msgid "Lightly bounce after switching pages"
@@ -1269,25 +1523,45 @@ msgstr ""
 msgid "Loading List..."
 msgstr ""
 
+msgid "Local testing tools"
+msgstr ""
+
 msgid "Lock desktop"
 msgstr ""
 
 msgid "Lock Desktop"
 msgstr ""
 
+msgid "Lock desktop upon deployment"
+msgstr ""
+
 msgid "Lock Fences"
 msgstr ""
 
-msgid "Lock your desktop to protect others from modifying it."
+msgid ""
+"Logging will begin the next time you log in.\n"
+"\n"
+"Please log off and log on or reboot, reproduce the issue at least twice (rebooting again as necessary to show the issue at least a couple of times; the more you can show the issue the better), and then use the \"Create error report package\" menu item to submit a report. Thank you!\n"
+"\n"
+"Once your issue is resolved, don't forget to turn this setting back off for best performance."
+msgstr ""
+
+msgid "Maintain backups and adjust layout settings."
 msgstr ""
 
 msgid "Maintain backups and adjust your layout settings."
+msgstr ""
+
+msgid "Maintain daily backups (most recent 3 days will be kept)"
 msgstr ""
 
 msgid "Maintain sorting"
 msgstr ""
 
 msgid "Make laying out your desktop a snap ; snapping helps keep your Fence groups in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
+msgstr ""
+
+msgid "Make laying out your desktop a snap ; snapping helps keep your Fences in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
 msgstr ""
 
 msgid "Manage product key"
@@ -1299,7 +1573,13 @@ msgstr ""
 msgid "Manage subscription"
 msgstr ""
 
+msgid "Managed Deployments"
+msgstr ""
+
 msgid "Medium icons"
+msgstr ""
+
+msgid "Menu Only"
 msgstr ""
 
 msgid "Midnight"
@@ -1308,10 +1588,15 @@ msgstr ""
 msgid "minutes ago"
 msgstr ""
 
+msgid ""
+"Mismatching file versions detected.\n"
+"A reboot may be required to complete installation."
+msgstr ""
+
 msgid "More"
 msgstr ""
 
-msgid "More adjustments"
+msgid "More options"
 msgstr ""
 
 msgid "More options..."
@@ -1321,6 +1606,9 @@ msgid "more than"
 msgstr ""
 
 msgid "Mouse over the title of a Fence group and click to rename."
+msgstr ""
+
+msgid "Move titlebar to the bottom when near the top of the screen"
 msgstr ""
 
 msgid "Music & Video"
@@ -1339,6 +1627,15 @@ msgid "Name-based rules"
 msgstr ""
 
 msgid "Navigate back"
+msgstr ""
+
+msgid "Navigate to root"
+msgstr ""
+
+msgid "Navigate to root folder to rename this Fence"
+msgstr ""
+
+msgid "Navigate up"
 msgstr ""
 
 msgid "Never"
@@ -1374,7 +1671,16 @@ msgstr ""
 msgid "New Rule"
 msgstr ""
 
+msgid "Next steps"
+msgstr ""
+
 msgid "No"
+msgstr ""
+
+msgid "No groups found"
+msgstr ""
+
+msgid "No groups found."
 msgstr ""
 
 msgid "None"
@@ -1409,6 +1715,12 @@ msgstr ""
 msgid "Number of times opened"
 msgstr ""
 
+msgid "Off"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
 msgid "OK"
 msgstr ""
 
@@ -1424,13 +1736,16 @@ msgstr ""
 msgid "On first run, Fences gave the opportunity to automatically sort your desktop icons into a few basic categories, to make it easier to start using the program. Would you like to perform this auto-layout again?"
 msgstr ""
 
+msgid "On monitor configuration changes..."
+msgstr ""
+
 msgid "On Mouseover"
 msgstr ""
 
-msgid "On screen resolution changes..."
+msgid "on the Desktop"
 msgstr ""
 
-msgid "on the Desktop"
+msgid "Only Folder Portal groups found."
 msgstr ""
 
 msgid ""
@@ -1493,6 +1808,9 @@ msgstr ""
 msgid "outside of"
 msgstr ""
 
+msgid "Packaged for distribution with installer, on network share, or any preferred method."
+msgstr ""
+
 msgid "Page switching"
 msgstr ""
 
@@ -1509,6 +1827,9 @@ msgid "Paste color"
 msgstr ""
 
 msgid "Paste Fence color"
+msgstr ""
+
+msgid "Paste group style"
 msgstr ""
 
 msgid "Peek"
@@ -1532,6 +1853,9 @@ msgstr ""
 msgid "Photos"
 msgstr ""
 
+msgid "Pick color from screen"
+msgstr ""
+
 msgid "pixels apart when moving"
 msgstr ""
 
@@ -1550,10 +1874,13 @@ msgstr ""
 msgid "Place new icons based on what program created it..."
 msgstr ""
 
+msgid "Please click here to be in touch with our deployments team."
+msgstr ""
+
 msgid "Please limit title length to 500 characters or less."
 msgstr ""
 
-msgid "Please navigate up to root folder to rename this Fence"
+msgid "Please log off and log on to see the changed effect."
 msgstr ""
 
 msgid "Please note:"
@@ -1568,7 +1895,20 @@ msgstr ""
 msgid "Please select another theme to restore your Fence group' appareance."
 msgstr ""
 
+msgid ""
+"Please upload the file \"{0}\" at \"{1}\" to our web upload at \"{2}\", and then let our team know the upload is complete.\n"
+"\n"
+"Thank you for your help and patience while we look in to your issue.\n"
+"- The Stardock Fences Team"
+msgstr ""
+
+msgid "Positions"
+msgstr ""
+
 msgid "Power-up your desktop"
+msgstr ""
+
+msgid "Pre-Install Backup"
 msgstr ""
 
 msgid "Pre-Install Snapshot"
@@ -1577,13 +1917,16 @@ msgstr ""
 msgid "Pre-Install snapshot not found."
 msgstr ""
 
-msgid "Preserve my desktop layout by scaling my Fence groups"
+msgid "Preserve my layout by scaling my Fence groups (legacy)"
 msgstr ""
 
 msgid "Pro tip! The quickest way edit Fences' settings is to right-click the desktop and choose \"Configure Fences\"."
 msgstr ""
 
-msgid "Problem deleting snapshot."
+msgid "Problem deleting backup."
+msgstr ""
+
+msgid "Problem description"
 msgstr ""
 
 msgid "Problem during installation:"
@@ -1610,10 +1953,25 @@ msgstr ""
 msgid "Purchase ({0})"
 msgstr ""
 
+msgid "Purchase additional licenses"
+msgstr ""
+
+msgid "Purchaser email"
+msgstr ""
+
+msgid "Quick-hide"
+msgstr ""
+
 msgid "quick-hide activated"
 msgstr ""
 
+msgid "Re-capture..."
+msgstr ""
+
 msgid "Recommended for advanced users"
+msgstr ""
+
+msgid "Recommended for use on all systems, single or multi-monitor. Remembers your Fence group positions on a per-resolution/per-monitor-configuration basis, so that your layout is always just how you left it."
 msgstr ""
 
 msgid "Refresh"
@@ -1649,6 +2007,9 @@ msgstr ""
 msgid "Rename a Fence"
 msgstr ""
 
+msgid "Rename Backup"
+msgstr ""
+
 msgid "Rename Fence"
 msgstr ""
 
@@ -1658,9 +2019,6 @@ msgstr ""
 msgid "Rename rule..."
 msgstr ""
 
-msgid "Rename Snapshot"
-msgstr ""
-
 msgid "Rename..."
 msgstr ""
 
@@ -1668,6 +2026,12 @@ msgid "Re-order your Fence groups here by choosing a Fence group and using the u
 msgstr ""
 
 msgid "Re-order your Rules"
+msgstr ""
+
+msgid "Require clicking headerbar to expand group"
+msgstr ""
+
+msgid "Require slight delay over headerbar to expand group"
 msgstr ""
 
 msgid "Reset"
@@ -1694,16 +2058,22 @@ msgstr ""
 msgid "Reset rule?"
 msgstr ""
 
-msgid "Reset saved settings for other screen resolutions"
+msgid "Reset this group's customization"
 msgstr ""
 
-msgid "Reset this group's customization"
+msgid "Reset this group's style"
 msgstr ""
 
 msgid "Reset to default"
 msgstr ""
 
 msgid "Reset to defaults"
+msgstr ""
+
+msgid "Reset view to inherit parent"
+msgstr ""
+
+msgid "Restore Backup"
 msgstr ""
 
 msgid "Restore color when desktop is active"
@@ -1718,16 +2088,10 @@ msgstr ""
 msgid "Restore color when mouse is over group"
 msgstr ""
 
-msgid "Restore Snapshot"
-msgstr ""
-
-msgid "Re-take snapshot..."
-msgstr ""
-
 msgid "Reverse order"
 msgstr ""
 
-msgid "Right-click the bottom right corner of the taskbar to"
+msgid "Right click"
 msgstr ""
 
 msgid "Roll up Fence groups placed on edge of screen"
@@ -1751,6 +2115,9 @@ msgstr ""
 msgid "Round corners of Fence areas"
 msgstr ""
 
+msgid "Rounded"
+msgstr ""
+
 msgid "Rule names must be less than 255 characters long"
 msgstr ""
 
@@ -1769,13 +2136,31 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+msgid "Save / Restore a backup"
+msgstr ""
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Saving of backup failed."
+msgstr ""
+
 msgid "Saving of snapshot failed."
+msgstr ""
+
+msgid "Schedule an introduction call"
 msgstr ""
 
 msgid "Screens"
 msgstr ""
 
+msgid "Segmented"
+msgstr ""
+
 msgid "Send certain file types to different places"
+msgstr ""
+
+msgid "Send inquiry"
 msgstr ""
 
 msgid "Send new %s to a particular Fence"
@@ -1784,10 +2169,28 @@ msgstr ""
 msgid "Send new %s to this Fence"
 msgstr ""
 
+msgid "Send us a message"
+msgstr ""
+
 msgid "Sensitivity:"
 msgstr ""
 
+msgid "Serial number"
+msgstr ""
+
 msgid "Set a fixed number of pages, and wrap around upon reaching the end"
+msgstr ""
+
+msgid ""
+"Setting updated.\n"
+"\n"
+"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+msgstr ""
+
+msgid ""
+"Setting updated.\n"
+"\n"
+"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
 msgstr ""
 
 msgid "Settings"
@@ -1797,6 +2200,9 @@ msgid "Shift"
 msgstr ""
 
 msgid "Shortcut (Link)"
+msgstr ""
+
+msgid "Show controls in header on mouseover"
 msgstr ""
 
 msgid "Show desktop (press & hold)"
@@ -1823,10 +2229,7 @@ msgstr ""
 msgid "Show Fences (toggle)"
 msgstr ""
 
-msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
-msgstr ""
-
-msgid "Show Fences by clicking the far right edge of your taskbar"
+msgid "Show Fences by clicking the lower right corner of your screen"
 msgstr ""
 
 msgid "Show Fences with hotkeys"
@@ -1839,6 +2242,9 @@ msgid "Show icon as a running task"
 msgstr ""
 
 msgid "Show on all pages"
+msgstr ""
+
+msgid "Show per-Fence custom colors in segment view"
 msgstr ""
 
 msgid "Show the full desktop"
@@ -1865,28 +2271,16 @@ msgstr ""
 msgid "Show titlebar controls on mouseover"
 msgstr ""
 
+msgid "Simplified configuration notation is available to plan and maintain more complex distributions for your organization, trackable in version control and adaptable to a variety of scenarios."
+msgstr ""
+
 msgid "Size"
 msgstr ""
 
+msgid "Small Business Distribution"
+msgstr ""
+
 msgid "Snapping is enabled in the free version of Fences. Purchasing this feature allows you to customize snapping."
-msgstr ""
-
-msgid "Snapshot deleted"
-msgstr ""
-
-msgid "Snapshot Name:"
-msgstr ""
-
-msgid "Snapshot taken!"
-msgstr ""
-
-msgid "Snapshot Title"
-msgstr ""
-
-msgid "Snapshots"
-msgstr ""
-
-msgid "Snapshots && layout"
 msgstr ""
 
 msgid "Snapshot-taking canceled."
@@ -1913,6 +2307,9 @@ msgstr ""
 msgid "Stardock Application Services was unable to start. You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
 msgstr ""
 
+msgid "Stardock Fences: File version mismatch"
+msgstr ""
+
 msgid "Start using Fences"
 msgstr ""
 
@@ -1922,7 +2319,10 @@ msgstr ""
 msgid "starts with"
 msgstr ""
 
-msgid "Store my Fence group positions on a per-screen-resolution basis"
+msgid "Store my Fence group positions on a per-screen-resolution basis (legacy)"
+msgstr ""
+
+msgid "Store my layout on a per-monitor-configuration basis"
 msgstr ""
 
 msgid ""
@@ -1937,7 +2337,16 @@ msgid ""
 "Your Fence groups will be scaled to the new screen resolution the next time you change screen resolutions."
 msgstr ""
 
+msgid "Subfolders inherit view mode from parent"
+msgstr ""
+
 msgid "Suffix"
+msgstr ""
+
+msgid "Support Forums"
+msgstr ""
+
+msgid "Swap contents of Monitors {0} and {1}"
 msgstr ""
 
 msgid "Switch pages by pulling edge of screen with mouse"
@@ -1964,10 +2373,13 @@ msgstr ""
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr ""
 
+msgid "Take a new backup before restoring this configuration"
+msgstr ""
+
 msgid "Take a new snapshot before performing auto-layout"
 msgstr ""
 
-msgid "Take a new snapshot before restoring this snapshot"
+msgid "Take backup before restoring?"
 msgstr ""
 
 msgid "Take snapshot"
@@ -1976,22 +2388,25 @@ msgstr ""
 msgid "Take snapshot before applying?"
 msgstr ""
 
-msgid "Take snapshot before restoring?"
-msgstr ""
-
 msgid "Target-based rules"
 msgstr ""
 
-msgid "Taskbar Hot-Corner"
+msgid "Taskbar Icon"
 msgstr ""
 
-msgid "Taskbar Icon"
+msgid "Test lock desktop"
+msgstr ""
+
+msgid "Testing"
 msgstr ""
 
 msgid "Text file"
 msgstr ""
 
 msgid "the general desktop"
+msgstr ""
+
+msgid "The group's placement on the desktop and other properties will remain locked."
 msgstr ""
 
 msgid "The icon's name"
@@ -2015,17 +2430,23 @@ msgstr ""
 msgid "The snapshots title must be less than 255 characters long"
 msgstr ""
 
+msgid "There appears to be an issue with your installation. You may need to reinstall Fences."
+msgstr ""
+
 msgid ""
-"There are several ways to create a Folder Portal™ group:\n"
+"There are several ways to create a Folder Portal group:\n"
 "\n"
-"1. Hold Alt while drag/dropping a folder on to your desktop.\n"
+"1. Draw a rectangle on your desktop. Choose \"Create Folder Portal Here\" from the menu that appears.\n"
 "\n"
-"2. Draw a rectangle on your desktop. Choose \"Create Folder Portal™ Here\" from the menu that appears.\n"
+"2. Right click any folder and choose the option \"Show this folder on the desktop\" from \"More options\".\n"
 "\n"
-"3. Right click any folder and choose the option \"Show this folder on the desktop\"."
+"3. Drag/drop a folder on to your desktop while holding Alt."
 msgstr ""
 
 msgid "There was a problem resetting your settings. Please try again."
+msgstr ""
+
+msgid "There was an issue opening the link. Please visit:"
 msgstr ""
 
 msgid ""
@@ -2042,7 +2463,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"This action will update this snapshot to reflect your current desktop setup.\n"
+"This action will update this backup to reflect your current desktop configuration.\n"
 "\n"
 "Continue?"
 msgstr ""
@@ -2065,13 +2486,25 @@ msgstr ""
 msgid "This feature requires Windows 7 or better."
 msgstr ""
 
+msgid "This Fence group's contents will be locked when deployed"
+msgstr ""
+
+msgid "This Fence group's contents will now be unlocked when deployed"
+msgstr ""
+
 msgid "This Fence will be reset to match the rest of your Fence groups."
+msgstr ""
+
+msgid "This setting was designed for single monitor systems, and is not recommended for use. We recommend switching to our new per-monitor-configuration system."
+msgstr ""
+
+msgid "This will create a package of your current Fences settings, Fences error logs, Fences layout backups, and any Fences crash captures so that you may upload it to technical support."
 msgstr ""
 
 msgid "This will reset {0} to its default factory settings. Continue?"
 msgstr ""
 
-msgid "Tidle"
+msgid "Tilde"
 msgstr ""
 
 msgid "Time-based rules"
@@ -2080,7 +2513,16 @@ msgstr ""
 msgid "times"
 msgstr ""
 
+msgid "Tip: Double click blank space in a Folder Portal, or hold shift and double click its titlebar to quickly open a Folder Portal in Explorer."
+msgstr ""
+
+msgid "Tip: Hold shift when clicking \"Up\" to navigate to the root folder quickly."
+msgstr ""
+
 msgid "Title:"
+msgstr ""
+
+msgid "Titlebar position"
 msgstr ""
 
 msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
@@ -2107,6 +2549,9 @@ msgstr ""
 msgid "To customize this rule, please create a new rule using the \"Choose from more icon types\" link on the previous screen."
 msgstr ""
 
+msgid "To fine tune, please contact support with your needs."
+msgstr ""
+
 msgid "To hide the header in a details view, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it, and choose \"Hide details header\" from the \"View\" menu."
 msgstr ""
 
@@ -2129,9 +2574,6 @@ msgid "To quickly open the folder shown in a Folder Portal, hold Control while d
 msgstr ""
 
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
-msgstr ""
-
-msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
 msgstr ""
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
@@ -2170,6 +2612,12 @@ msgstr ""
 msgid "Unlock previous purchase"
 msgstr ""
 
+msgid "Unlock the contents of select Fence groups"
+msgstr ""
+
+msgid "Unlock this Fence group's contents in locked deployments"
+msgstr ""
+
 msgid "Unnamed Fence"
 msgstr ""
 
@@ -2188,10 +2636,49 @@ msgstr ""
 msgid "Usage"
 msgstr ""
 
+msgid "Use custom color"
+msgstr ""
+
+msgid "Use Fence background color"
+msgstr ""
+
+msgid "Use of this option will have a minor impact on performance, and so should only be used if you're experiencing an issue with the program. Continue?"
+msgstr ""
+
+msgid "Use of this setting is not recommended."
+msgstr ""
+
+msgid "Use of this setting should be limited to single monitor systems only."
+msgstr ""
+
+msgid "Use same spacing inside and outside of Fence groups"
+msgstr ""
+
+msgid "Use system accent color"
+msgstr ""
+
 msgid "Use system language"
 msgstr ""
 
 msgid "Use these hotkeys to access your desktop quickly – much faster than the built-in WinKey+D. You can even replace it entirely."
+msgstr ""
+
+msgid "Use this setting to better support changing multi-monitor configurations, and docking/undocking scenarios."
+msgstr ""
+
+msgid "Use this to reset your icon spacing if you've already rebooted and they do not appear to be correct. This setting can be found in {0}"
+msgstr ""
+
+msgid "Used to swap contents of monitors when 2 or more displays are in use."
+msgstr ""
+
+msgid "Username on"
+msgstr ""
+
+msgid "Users will no longer be able add their own icons to the group"
+msgstr ""
+
+msgid "Users will now be able to add their own icons to the group"
 msgstr ""
 
 msgid "Using desktop pages"
@@ -2200,16 +2687,10 @@ msgstr ""
 msgid "Using Folder Portals"
 msgstr "Using Folder Portal"
 
-msgid "Using kiosk mode"
-msgstr ""
-
 msgid "Using quick-hide"
 msgstr ""
 
 msgid "Using Roll-up Fences"
-msgstr ""
-
-msgid "Vanish"
 msgstr ""
 
 msgid "Version "
@@ -2218,10 +2699,31 @@ msgstr ""
 msgid "Version {0}"
 msgstr ""
 
+msgid "Vertical"
+msgstr ""
+
 msgid "Video file"
 msgstr ""
 
+msgid "View \"How to deploy\""
+msgstr ""
+
+msgid "View \"how to deploy\" documentation"
+msgstr ""
+
+msgid "View my account"
+msgstr ""
+
+msgid "View my licenses"
+msgstr ""
+
+msgid "View Pricing / Buy"
+msgstr ""
+
 msgid "Visible only on mouseover"
+msgstr ""
+
+msgid "Visit Customer Support Forums"
 msgstr ""
 
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
@@ -2249,6 +2751,9 @@ msgstr ""
 msgid "Was modified"
 msgstr ""
 
+msgid "We hope you enjoy this new super-charged multi-monitor experience and welcome any feedback to our support forums."
+msgstr ""
+
 msgid "Web Links"
 msgstr ""
 
@@ -2261,10 +2766,13 @@ msgstr ""
 msgid "Welcome to Fences®"
 msgstr "Welcome to Fences"
 
-msgid "What is kiosk mode?"
+msgid "We've moved you to our new multi-monitor friendly layout auto-adjustment system first introduced in Fences v5.50, which better handles changes to your monitor configurations. The positions of your Fence groups and ungrouped icons are stored on a per-monitor-configuration basis, so that your groups and icons will always be right where you left them as conditions change."
 msgstr ""
 
 msgid "When I plug in a new primary monitor, move my icons to it."
+msgstr ""
+
+msgid "When navigated to a subfolder, a Folder Portal's title always shows the name of the folder being viewed. To set a custom title, navigate to the root folder of the portal and try again. Your customization at the root folder level will be saved."
 msgstr ""
 
 msgid ""
@@ -2282,10 +2790,10 @@ msgstr ""
 msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
 msgstr ""
 
-msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
+msgid "With Quick-hide, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
 msgstr ""
 
-msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
+msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
 msgstr ""
 
 msgid "Work better with Fences"
@@ -2297,10 +2805,10 @@ msgid ""
 "You can re-enable it later from Fences Settings in the Quick Access area."
 msgstr ""
 
-msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
+msgid "Would you like to take a backup of your current configuration before loading this configuration?"
 msgstr ""
 
-msgid "Would you like to take a snapshot of your current configuration before loading this snapshot?"
+msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
 msgstr ""
 
 msgid "Would you like to take a snapshot of your current configuration before performing an auto-layout?"
@@ -2328,6 +2836,12 @@ msgid "Your files will not be deleted."
 msgstr ""
 
 msgid "Your settings have been reset."
+msgstr ""
+
+msgid "You've been upgraded!"
+msgstr ""
+
+msgid "You've selected to sort this Fence by \"number of times opened\". A tip, Fences only knows about times the icon was opened since Fences was installed, and only when opened from the desktop by double-clicking or using the keyboard. Until then the Fence will just appear to be sorted alphabetically. So get clicking!"
 msgstr ""
 
 msgid " go to "
@@ -2360,6 +2874,9 @@ msgstr ""
 msgid "(None)"
 msgstr ""
 
+msgid "(Or link to your forum post with problem details.)"
+msgstr ""
+
 msgid "(Recommended for advanced users)"
 msgstr ""
 
@@ -2384,7 +2901,22 @@ msgstr ""
 msgid "* Log out for language change to take effect"
 msgstr ""
 
-msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
+msgid "* You can right click the header of a Fence group to access its menu"
+msgstr ""
+
+msgid ""
+"[Flexible deployment]\n"
+"Deploy standard locked groups, but allow users to customize one or more of the groups."
+msgstr ""
+
+msgid ""
+"[Locked deployment]\n"
+"Deploy a standard locked configuration. User cannot customize. (Default)"
+msgstr ""
+
+msgid ""
+"[Unlocked deployment]\n"
+"Deploy and allow users to customize freely from there."
 msgstr ""
 
 msgid "{0} are Registered Trademarks of {1}."
@@ -2402,11 +2934,32 @@ msgstr ""
 msgid "{0} is a Registered Trademark of {1}."
 msgstr ""
 
+msgid "●  Deployment support available."
+msgstr ""
+
+msgid "●  Deployment support available. We have accomodations for environments big and small, from 10000 seats to 10."
+msgstr ""
+
 msgid "●  Double click on a Fence group's titlebar to roll it up"
+msgstr ""
+
+msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments."
+msgstr ""
+
+msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
+msgstr ""
+
+msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr ""
 
 msgid "●  Move mouse over to reveal"
 msgstr ""
 
+msgid "●  MSI Installer available."
+msgstr ""
+
 msgid "●  Or, move to the top or bottom edges of screen to dock automatically"
+msgstr ""
+
+msgid "●  Support contracts available; one time purchase or annual."
 msgstr ""
