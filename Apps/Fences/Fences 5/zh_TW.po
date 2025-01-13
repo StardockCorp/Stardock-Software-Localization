@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2023-11-22 00:10-08:00\n"
-"PO-Revision-Date: 2023-11-22 22:01-0800\n"
+"POT-Creation-Date: 2025-01-12 16:20-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"POT-Revision-Date: 2025-01-12 16:20-08:00\n"
+"X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
 msgstr "檔案"
@@ -20,9 +20,6 @@ msgstr "資料夾"
 
 msgid "A folder cannot be created inside of this folder. Please try again."
 msgstr "無法在此資料夾內建立資料夾。請再試一次。"
-
-msgid "A Folder Portal's title always shows the name of the folder it contains. To set a custom title, navigate to the root folder of the portal and try again. Your customization will stick."
-msgstr "Folder Portal的標題一律會顯示包含的資料夾名稱。若要設定客製化標題，請前往入口的根資料夾，然後再試一次。您的客製化將會保留。"
 
 msgid "A newer version is already installed"
 msgstr "電腦已安裝此軟體的較新版本。"
@@ -39,7 +36,6 @@ msgstr "提示…"
 msgid "About"
 msgstr "關於"
 
-#, fuzzy
 msgid ""
 "Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
 "\n"
@@ -47,7 +43,6 @@ msgstr ""
 "透過抓住並拉動螢幕邊緣來存取多個圖標螢幕，就像在手機上一樣。使用它們將計算生活的不同部分分開。\n"
 "\n"
 
-#, fuzzy
 msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
 msgstr "在完全可自訂的即時視圖中直接從桌面存取任何資料夾的內容。"
 
@@ -60,7 +55,6 @@ msgstr "啟用企業授權"
 msgid "Activation successful."
 msgstr "啟動成功。"
 
-#, fuzzy
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "將「顯示 Fences」圖示新增至我的工作列"
 
@@ -69,6 +63,9 @@ msgstr "加入/移除"
 
 msgid "Add a Custom Rule..."
 msgstr "加入客製化規則…"
+
+msgid "Add a non Folder Portal group to use rules."
+msgstr "將非資料夾入口組新增至使用規則中。"
 
 msgid "Add additional criteria..."
 msgstr "加入其他條件…"
@@ -94,6 +91,9 @@ msgstr "其他調整"
 msgid "Adjust a Fence"
 msgstr "調整分類區"
 
+msgid "Adjust displays"
+msgstr "調整顯示器"
+
 msgid "Adjust the appearance of individual Fence groups"
 msgstr "調整個別分類區的外觀"
 
@@ -103,11 +103,9 @@ msgstr "調整個別分類區的透明度"
 msgid "Adjust the transparency of desktop icons"
 msgstr "調整桌面圖示的透明度"
 
-#, fuzzy
 msgid "Adjust title font color"
 msgstr "調整標題字體顏色"
 
-#, fuzzy
 msgid "Adjust title text font/color"
 msgstr "調整標題文字字體/顏色"
 
@@ -132,21 +130,20 @@ msgstr "將圖示對齊網格"
 msgid "All Fence groups"
 msgstr "所有分類區"
 
-#, fuzzy
 msgid "All groups"
 msgstr "所有群組"
 
 msgid "All new icons"
 msgstr "所有新圖示。"
 
-msgid "Allow drag && drop from the desktop"
-msgstr "允許從桌面拖放"
-
 msgid "Allow me to place icons on as many pages as I want"
 msgstr "允許我依照我的想法在多個頁面放置圖示"
 
 msgid "Allow navigation"
 msgstr "允許瀏覽"
+
+msgid "Allow users to \"have their own Fence\" by unlocking specific Fence groups that you have created/deployed."
+msgstr ""
 
 msgid "Alt"
 msgstr "Alt 鍵"
@@ -174,6 +171,9 @@ msgstr "在移動圖示時產生動畫效果"
 
 msgid "Animate the page-switching"
 msgstr "頁面切換動畫"
+
+msgid "Any group you select, the user will be able to add their own icons. We recommend you use an empty group."
+msgstr ""
 
 msgid "Apply a custom look to your Fence groups"
 msgstr "套用客製化外觀到您的 Fences。"
@@ -206,8 +206,8 @@ msgstr ""
 "\n"
 "要繼續嗎？"
 
-msgid "Are you sure you want to delete this snapshot?"
-msgstr "您確定要刪除此快照嗎？"
+msgid "Are you sure you want to delete this backup?"
+msgstr "您確定要刪除這個備份嗎？"
 
 msgid "Are you sure you want to remove this Fence and send its contents to the Recycle Bin?"
 msgstr "您確定要移除此分類區並將其內容傳送至資源回收筒嗎？"
@@ -221,7 +221,6 @@ msgstr "您確定要移除此規則？"
 msgid "Are you sure you want to reset the appearance of all Fence groups?"
 msgstr "您確定要重設所有分類區的外觀？"
 
-#, fuzzy
 msgid "Are you sure you want to reset this group's custom color?"
 msgstr "您確定要重設該組的自訂顏色嗎？"
 
@@ -271,30 +270,38 @@ msgstr "當使用桌面時自動顯示圖示"
 msgid "Automatically show icons when drag/dropping to the desktop"
 msgstr "當拖/放到桌面時自動顯示圖示"
 
-#, fuzzy
 msgid "Automatically sort icons into groups based on their name, file type, or other criteria."
 msgstr "根據圖示的名稱、文件類型或其他條件自動將圖示分組。"
 
-msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
-msgstr "自動拍攝每日備份快照 (保留最近 3 天)"
+msgid "Automatically take daily backups (most recent 3 days will be kept)"
+msgstr "自動每日備份（將保留最近的3天）"
 
 msgid "Available rules:"
 msgstr "可用規則："
 
-#, fuzzy
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
 msgstr "等待在 {0} 中指定設定檔路徑，或等待透過 {1} 應用設定"
 
-#, fuzzy
 msgid "Awaiting license file in {0}"
 msgstr "正在等待 {0} 中的許可證文件"
 
 msgid "Background Color"
 msgstr "背景色彩"
 
-#, fuzzy
 msgid "Background Style"
 msgstr "背景樣式"
+
+msgid "Backup captured"
+msgstr "備份捕獲"
+
+msgid "Backup deleted"
+msgstr "備份已刪除"
+
+msgid "Backup Name:"
+msgstr "備份名稱:"
+
+msgid "Backup Title"
+msgstr "備份標題"
 
 msgid "Basic options"
 msgstr "基本選項"
@@ -309,48 +316,50 @@ msgstr ""
 "您可在下面定義規則，來控制放置新圖示的位置。\n"
 "提供規則範例，或者您可建立自己的規則 - 按一下「加入規則…」開始！"
 
+msgid "Beta {0}"
+msgstr "Beta {0} 的翻譯是：Beta {0}"
+
 msgid "between"
 msgstr "介於"
 
-#, fuzzy
 msgid "Blend"
 msgstr "混合"
 
-#, fuzzy
 msgid "Blend background into wallpaper with Chameleon"
 msgstr "使用 Chameleon 將背景混合到壁紙中"
 
-#, fuzzy
 msgid "Blend icons into wallpaper"
 msgstr "將圖示融入桌布"
 
-#, fuzzy
 msgid "Blend icons into wallpaper with Chameleon"
 msgstr "使用 Chameleon 將圖標混合到壁紙中"
 
-#, fuzzy
 msgid "Blend into wallpaper with Chameleon"
 msgstr "使用 Chameleon 融入壁紙"
 
-#, fuzzy
 msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
 msgstr "將您的圖示融入您的桌布中，享受全新的安心。"
 
-#, fuzzy
 msgid "Blue Fence area backgrounds"
 msgstr "藍色柵欄區域背景"
 
-#, fuzzy
 msgid "Blur background"
 msgstr "模糊背景"
 
-#, fuzzy
 msgid "Blur group area background"
 msgstr "模糊組區域背景"
 
-#, fuzzy
+msgid "Book 15-30min call"
+msgstr ""
+
 msgid "Brightness:"
 msgstr "亮度："
+
+msgid "Business Edition"
+msgstr "商業版"
+
+msgid "Business License Management"
+msgstr ""
 
 msgid "By creating program..."
 msgstr "透過建立程式…"
@@ -360,6 +369,9 @@ msgstr "在預設情況下，"
 
 msgid "By default..."
 msgstr "根據預設…"
+
+msgid "By double-clicking blank space on your desktop, you have activated a feature of Fences called Quick-Hide.\n"
+msgstr "透過在您的桌面空白處雙擊，您已啟用了一個名為Quick-Hide的Fences功能。"
 
 msgid "By file-size..."
 msgstr "根據檔案大小…"
@@ -394,14 +406,17 @@ msgstr "位元組"
 msgid "Cancel"
 msgstr "取消"
 
+msgid "Cannot make a backup while Fences is not enabled."
+msgstr "無法在未啟用 Fences 時進行備份。"
+
 msgid "Cannot perform an auto-layout while Fences is not enabled."
 msgstr "當未啟用 Fences 時，無法執行自動版面配置。"
 
-msgid "Cannot restore snapshots while Fences is not enabled."
-msgstr "當未啟用 Fences 時，無法還原快照。"
+msgid "Cannot restore a backup while Fences is not enabled."
+msgstr "無法在未啟用 Fences 時還原備份。"
 
-msgid "Cannot take snapshot while Fences is not enabled."
-msgstr "當未啟用 Fences 時，無法拍攝快照。"
+msgid "Chameleon auto-disabled"
+msgstr "Chameleon 自動停用"
 
 msgid "Change / resize the font used in Fences' labels"
 msgstr "變更/調整分類區標籤使用的字體"
@@ -411,6 +426,9 @@ msgstr "變更顏色"
 
 msgid "Change Fence Order"
 msgstr "變更分類區順序"
+
+msgid "Change folder..."
+msgstr "更改資料夾..."
 
 msgid "Change font"
 msgstr "變更字型"
@@ -429,6 +447,11 @@ msgstr "檢查更新"
 
 msgid "Choose a color for your Fence groups, and adjust Fence labels to suit your tastes."
 msgstr "為您的分類區選擇顏色，調整分類區標籤符合您的喜好。"
+
+msgid ""
+"Choose a color from your wallpaper\n"
+"to find the accent color for you"
+msgstr "從你的桌布中選擇一種顏色，以幫你找到突出色彩。"
 
 msgid "Choose a default Fence for new icons, or automatically place icons in Fences by name, size, filetype, or a variety of customizable criteria."
 msgstr "為新圖示選擇預設分類區，或依照名稱、大小、檔案類型或各種客製化條件自動在分類區放置圖示。"
@@ -455,6 +478,9 @@ msgstr ""
 "選擇版面配置來幫我上手\n"
 "(建議大多數使用者，易於復原)"
 
+msgid "Choose an existing layout, or start new. Configure your desktop how it should look for the customer on first-boot, including which icons should appear in which Fences, and in what order. Please note the customer may not have all of the icons that you do."
+msgstr "選擇一種現有的佈局，或開始新建。配置您的桌面，以讓客戶在首次啟動時看到這種外觀，包括哪些圖標應該出現在哪些Fences中，並按照什麼順序。請注意，客戶可能並不具有您所擁有的所有圖標。"
+
 msgid "Choose folder"
 msgstr "選擇資料夾"
 
@@ -476,12 +502,14 @@ msgstr "按一下並拖曳分類區邊緣或標題列來移動或調整大小。
 msgid "Close"
 msgstr "關閉"
 
-#, fuzzy
 msgid "Color customization is unavailable with Chameleon"
 msgstr "Chameleon 不支援顏色自訂"
 
 msgid "Color intensity:"
 msgstr "顏色強度："
+
+msgid "Color picker"
+msgstr "顏色選擇器"
 
 msgid "Compatibility issue found..."
 msgstr "發現相容性問題…"
@@ -489,22 +517,44 @@ msgstr "發現相容性問題…"
 msgid "Compatibiliy issue found..."
 msgstr "發現相容性問題…"
 
+msgid "Complex multi-monitor deployments"
+msgstr ""
+
 msgid "Compressed file"
 msgstr "壓縮檔"
 
-#, fuzzy
 msgid "Config Import / Export"
 msgstr "配置導入/匯出"
+
+msgid "Configuration Management"
+msgstr ""
 
 msgid "Configure Fences"
 msgstr "設定 Fences"
 
-#, fuzzy
 msgid "Configure Fences..."
 msgstr "配置Fences..."
 
+msgid "Contact deployment team to learn more."
+msgstr ""
+
+msgid "Contact our deployment team to learn more."
+msgstr ""
+
+msgid "Contact our deployments team to help plan your deployment."
+msgstr ""
+
+msgid "Contact our deployment-support team to discuss your deployment needs."
+msgstr ""
+
+msgid "Contact Sales"
+msgstr ""
+
 msgid "contains"
 msgstr "包含"
+
+msgid "Continue?"
+msgstr "繼續？"
 
 msgid "Control"
 msgstr "控制"
@@ -512,19 +562,32 @@ msgstr "控制"
 msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
 msgstr "利用您選擇的檢視樣式從分類區方便存取任何資料夾。"
 
-#, fuzzy
 msgid "Copy color"
 msgstr "複印顏色"
 
-#, fuzzy
 msgid "Copy Fence color"
 msgstr "複製柵欄顏色"
+
+msgid "Copy from Fence background color"
+msgstr "從Fence背景色複製"
+
+msgid "Copy group style"
+msgstr "複製群組風格"
+
+msgid "Copy/paste/reset group style"
+msgstr "複製/貼上/重設群組樣式"
 
 msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "Copyright © {0}-{1} {2}.版權所有。"
 
 msgid "Create a Fence™"
 msgstr "建立分類區"
+
+msgid "Create an empty Fence and then return here to select it."
+msgstr ""
+
+msgid "Create error report package for technical support"
+msgstr "為技術支持創建錯誤報告套件"
 
 msgid "Create Fence from a Folder"
 msgstr "從資料夾建立分類區"
@@ -562,6 +625,9 @@ msgstr "從這些圖示建立新分類區"
 msgid "Create new Fence here"
 msgstr "在此建立新分類區"
 
+msgid "Create Report Package"
+msgstr "創建報告包裹"
+
 msgid ""
 "Creates 2 empty Fence groups for you to start using\n"
 "(Recommended for most casual users)"
@@ -578,14 +644,12 @@ msgstr "自訂附加功能"
 msgid "Customize"
 msgstr "自訂"
 
-#, fuzzy
 msgid "Customize icon"
 msgstr "自訂圖示"
 
 msgid "Customize your Fence groups"
 msgstr "客製化您的分類區"
 
-#, fuzzy
 msgid "Customize your Fence groups' background color & style."
 msgstr "自訂您的 Fence 群組的背景顏色和样式。"
 
@@ -595,15 +659,23 @@ msgstr "客製化…"
 msgid "Customizing your Folder Portal groups"
 msgstr "客製化Folder Portals"
 
+msgid "Daily Backup"
+msgstr "每日備份"
+
 msgid "Daily Snapshot"
 msgstr "每日快照"
+
+msgid "Dark"
+msgstr "暗色"
 
 msgid "Darken Fence area title bars"
 msgstr "加深分類區區域的標題列"
 
-#, fuzzy
 msgid "Darken titlebar areas"
 msgstr "使標題列區域變暗"
+
+msgid "Darker"
+msgstr "較暗"
 
 msgid "Date added to Fence"
 msgstr "加入分類區的日期"
@@ -620,14 +692,35 @@ msgstr "拍攝日期："
 msgid "days left in your free trial"
 msgstr "免費試用期剩餘天數"
 
+msgid "Delete Backup"
+msgstr "刪除備份"
+
 msgid "Delete rule..."
 msgstr "刪除規則…"
 
-msgid "Delete Snapshot"
-msgstr "刪除快照"
-
 msgid "Delete this rule"
 msgstr "刪除此規則"
+
+msgid "Deployment"
+msgstr ""
+
+msgid "Deployment options"
+msgstr ""
+
+msgid "Deployment Planning & Support (Recommended to start)"
+msgstr ""
+
+msgid "Deployment Planning & Support (Start here)"
+msgstr ""
+
+msgid "Deployment style"
+msgstr ""
+
+msgid "Deployment Target"
+msgstr ""
+
+msgid "Deployments"
+msgstr "部署"
 
 msgid "Description:"
 msgstr "說明："
@@ -671,6 +764,9 @@ msgstr "詳細資訊"
 msgid "Details (Large)"
 msgstr "詳細資訊 (較大)"
 
+msgid "Device management"
+msgstr ""
+
 msgid "Disable per-Fence transparency"
 msgstr "停用個別分類區透明度"
 
@@ -680,7 +776,12 @@ msgstr "按住 shift 可隨時停止捕捉"
 msgid "Disabled"
 msgstr "停用"
 
-#, fuzzy
+msgid "Distribution tools"
+msgstr ""
+
+msgid "Do not show this again"
+msgstr "不再顯示此訊息"
+
 msgid "Do nothing"
 msgstr "什麼也不做"
 
@@ -689,6 +790,9 @@ msgstr "您要刪除分類區的所有設定及儲存的備份嗎？"
 
 msgid "Document"
 msgstr "文件"
+
+msgid "Documentation"
+msgstr ""
 
 msgid "Documents"
 msgstr "文件"
@@ -714,8 +818,8 @@ msgstr "不保存我的桌面配置"
 msgid "Don't show this message again"
 msgstr "不要再顯示這個訊息"
 
-msgid "Double click Fence titlebar to roll up"
-msgstr "在分類區標題列按二下以縮合"
+msgid "Double click Fence titlebar to toggle roll-up"
+msgstr "雙擊 Fence 標題欄以切換卷起功能。"
 
 msgid ""
 "Double clicking a Fence group's titlebar will cause it to roll-up into its titlebar, saving you space.\n"
@@ -729,6 +833,9 @@ msgstr ""
 msgid "Double clicking will roll-up your Fence!"
 msgstr "按兩下縮合您的分類區！"
 
+msgid "Double-click blank space on your desktop at any time to quickly hide / reveal your desktop icons."
+msgstr "隨時在桌面的空白處雙擊，可以快速隱藏/顯示您的桌面圖示。"
+
 msgid "Downloads"
 msgstr "下載"
 
@@ -738,33 +845,29 @@ msgstr "在桌面繪製矩形，然後選擇「建立分類區」。"
 msgid "Edit a Rule"
 msgstr "編輯規則"
 
-#, fuzzy
 msgid "Edit background color"
 msgstr "編輯背景顏色"
 
-#, fuzzy
 msgid "Edit Background Color"
 msgstr "編輯背景顏色"
 
-#, fuzzy
 msgid "Edit color..."
 msgstr "編輯顏色..."
 
-#, fuzzy
 msgid "Edit Fence color..."
 msgstr "編輯柵欄顏色..."
 
-#, fuzzy
 msgid "Edit Fence Style"
 msgstr "編輯柵欄樣式"
 
-#, fuzzy
 msgid "Edit title font"
 msgstr "編輯標題字體"
 
-#, fuzzy
 msgid "Edit title font color"
 msgstr "編輯標題字體顏色"
+
+msgid "Email Address"
+msgstr "電子郵件地址"
 
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
 msgstr "啟用「輕彈」圖示到分類區 (觸控系統適用)"
@@ -772,18 +875,18 @@ msgstr "啟用「輕彈」圖示到分類區 (觸控系統適用)"
 msgid "Enable advanced crash reporting"
 msgstr "啟用進階當機報告"
 
-#, fuzzy
+msgid "Enable advanced logging"
+msgstr "啟用進階日誌記錄"
+
 msgid "Enable Chameleon"
 msgstr "啟用 Chameleon"
 
-#, fuzzy
 msgid "Enable crash reporting"
 msgstr "啟用崩潰報告"
 
 msgid "Enable Fences"
 msgstr "啟用 Fences"
 
-#, fuzzy
 msgid "Enable Pages"
 msgstr "啟用頁面"
 
@@ -799,26 +902,26 @@ msgstr "結尾是"
 msgid "Enter title"
 msgstr "輸入標題"
 
-#, fuzzy
+msgid "Enterprise Distribution"
+msgstr ""
+
 msgid "Enterprise Distribution Testing Tools"
 msgstr "企業分發測試工具"
 
-#, fuzzy
 msgid "Enterprise Edition"
 msgstr "企業版"
 
 msgid "Exclude Fence groups docked to edge of the screen"
 msgstr "排除固定在螢幕邊緣的分類區"
 
-#, fuzzy
 msgid "Exclude from quick-hide"
 msgstr "從快速隱藏中排除"
 
 msgid "Exclude this Fence group from quick-hide"
 msgstr "從快速隱藏排除此分類區"
 
-msgid "Exclude this icon from Fences' quick-hide"
-msgstr "從 Fences 快速隱藏排除此圖示"
+msgid "Exclude this icon from Fences quick-hide"
+msgstr "從Fences快速隱藏中排除此圖示"
 
 msgid "Executable file"
 msgstr "執行檔"
@@ -826,9 +929,14 @@ msgstr "執行檔"
 msgid "Exit"
 msgstr "退出"
 
-#, fuzzy
+msgid "Export config to file"
+msgstr ""
+
 msgid "Export Config to File"
 msgstr "將配置匯出到文件"
+
+msgid "Export your configuration for distribution with installer, on network share, or any preferred method."
+msgstr ""
 
 msgid "Extra large icons"
 msgstr "特大圖示"
@@ -844,6 +952,9 @@ msgstr ""
 "無法停用本機電腦。\n"
 "\n"
 "如果您需要協助，請透過 support@stardock.com 聯絡我們"
+
+msgid "Fence groups"
+msgstr ""
 
 msgid "Fence Name"
 msgstr "分類區名稱"
@@ -889,6 +1000,9 @@ msgstr ""
 "\n"
 "您可能需要重新安裝 Fences。"
 
+msgid "Fences Error Report"
+msgstr "Fences 錯誤報告"
+
 msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
@@ -896,7 +1010,15 @@ msgstr ""
 "Fences Folder Portals™功能無法在傳統模式下使用。\n"
 "請啟用 Aero 以使用此功能。"
 
-#, fuzzy
+msgid "Fences for Business"
+msgstr "Fences 用於商業"
+
+msgid "Fences for Business allows you to buy licenses in bulk, manage your licenses and assign multiple licenses to a single key, while deploying standardized flexibly-locked configurations across your organization."
+msgstr ""
+
+msgid "Fences for Business helps you deploy managed layouts across your organization, suitable for both small-business and complex multi-department enterprise rollouts."
+msgstr ""
+
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
 "As a precaution, Fences has been temporarily disabled.\n"
@@ -929,6 +1051,9 @@ msgstr "Fences 偵測到完整性遭入侵。您的 Fences 安裝可能發生問
 msgid "Fences has not been activated."
 msgstr "Fences 尚未啟動。"
 
+msgid "Fences has updated its App Compatibility settings, so that you will no longer see User Account Control prompts while using Fences. Please log off & log on or reboot for this change to take effect."
+msgstr "Fences已更新其應用程式相容性設定，因此您使用Fences時將不再看到使用者帳戶控制提示。請登出並重新登入或重啓電腦以使此變更生效。"
+
 msgid ""
 "Fences is currently disabled.\n"
 "\n"
@@ -952,22 +1077,8 @@ msgstr ""
 msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"Tools\", press the link for \"More Tools...\", and uncheck \"Enable Fences\" then reboot."
 msgstr "Fences 與 Windows XP 的 DeskScapes 不相容。請前往「工具」，按下「更多工具…」，並取消選取「啟用 Fences」，然後重新開機。"
 
-#, fuzzy
 msgid "Fences is not yet loaded."
 msgstr "柵欄尚未載入。"
-
-msgid ""
-"Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
-"\n"
-"Kiosk Mode works on a per-user basis and will lock the desktop through reboots, until it is next unlocked. Fences will ask for administrator access when locking and unlocking the desktop, ensuring that only authorized users have access to control the desktop.\n"
-"\n"
-"Kiosk Mode should be used as part of your complete system lock-down plan, and should not replace proper file system access controls and other such protections."
-msgstr ""
-"Fences 的 Kiosk 模式可幫助您保護桌面配置及內容不會變更，這在多使用者環境很有幫助。\n"
-"\n"
-"Kiosk 模式的運作以個別使用者為基礎，會透過重新開機來鎖定桌面，直到下次解除鎖定為止。Fences 會在鎖定及解除鎖定桌面時要求管理員存取權限，確保只有授權的使用者才能存取桌面。\n"
-"\n"
-"Kiosk 模式的使用應該作為完整系統鎖定計畫的一部分，並且不應取代適當檔案系統存取控制以及其他類似保護措施。"
 
 msgid "Fences license validation failed. Try again?"
 msgstr "Fences 授權驗證失敗。重試？"
@@ -1009,7 +1120,6 @@ msgstr "Fences：發現相容性問題…"
 msgid "Fences: Turn off sorting?"
 msgstr "Fences：要關閉排序嗎？"
 
-#, fuzzy
 msgid "Fence™ is a Trademark of {0}."
 msgstr "Fence™ 是 {0} 的商標。"
 
@@ -1034,8 +1144,17 @@ msgstr "微調 Fences 規則，滿足您的真實需求。"
 msgid "Fine tune the look, feel and behavior of your Fence groups"
 msgstr "微調分類區外觀、質感及行為"
 
+msgid "First-Use Backup"
+msgstr "首次使用備份"
+
 msgid "First-Use Snapshot"
 msgstr "首次使用快照"
+
+msgid "Fix desktop icon spacing"
+msgstr "修復桌面圖示間距"
+
+msgid "Flat"
+msgstr "平坦"
 
 msgid "FlickSensitivity"
 msgstr "輕彈敏感度"
@@ -1055,20 +1174,55 @@ msgstr "完全可見"
 msgid "General Desktop (No Fence)"
 msgstr "一般桌面 (無分類區)"
 
+msgid "Generate"
+msgstr ""
+
+msgid "Generate distributable license file"
+msgstr ""
+
+msgid "Generate license file"
+msgstr ""
+
 msgid "Getting started"
 msgstr "開始使用"
 
 msgid "Getting started with Fences"
 msgstr "開始使用 Fences"
 
-msgid "Give snapshot a name"
-msgstr "為快照命名"
+msgid "Give backup a name"
+msgstr "給備份命名"
 
 msgid "go to"
 msgstr "前往"
 
 msgid "Go to Website"
 msgstr "前往網站"
+
+msgid "Group Placements"
+msgstr ""
+
+msgid "Group Properties"
+msgstr ""
+
+msgid "Group spacing & snapping"
+msgstr "群組間距和吸附"
+
+msgid "Groups"
+msgstr ""
+
+msgid "Handle your more complex distribution needs with simple notation, trackable in version control and adaptable to a variety of deployment scenarios."
+msgstr ""
+
+msgid ""
+"Hi\n"
+"Test"
+msgstr ""
+
+msgid "Hide"
+msgstr "隱藏"
+
+msgid "Hide \"Fences for Business\""
+msgstr "隱藏 \"Fences for Business\""
 
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "按兩下即可立即隱藏及顯示桌面圖示。"
@@ -1091,7 +1245,6 @@ msgstr "隱藏程式連結"
 msgid "Hide for web links"
 msgstr "隱藏網頁連結"
 
-#, fuzzy
 msgid "Hide scrollbars when inactive"
 msgstr "不活動時隱藏捲軸"
 
@@ -1104,8 +1257,17 @@ msgstr "隱藏桌面圖示的捷徑箭頭"
 msgid "Hide text on desktop icons"
 msgstr "隱藏桌面圖示的文字"
 
+msgid "Hide titlebar when navigating"
+msgstr "在導航時隱藏標題欄"
+
 msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
 msgstr "按住 Alt 鍵並將資料夾拖放到桌面，快速建立Folder Portal。您可在資料夾上按一下右鍵，然後選擇「在桌面顯示此資料夾」。"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Hot Corner"
+msgstr "熱點角落"
 
 msgid "Hot Keys"
 msgstr "快速鍵"
@@ -1125,7 +1287,7 @@ msgstr "如何變更Folder Portal的檢視樣式"
 msgid "How to Configure Fences"
 msgstr "如何設定 Fences"
 
-msgid "How to create a Folder Portal™ group"
+msgid "How to create a Folder Portal group"
 msgstr "如何建立Folder Portal"
 
 msgid "How to create a new desktop page"
@@ -1149,7 +1311,6 @@ msgstr "如何移除Folder Portal"
 msgid "How to use"
 msgstr "使用方法"
 
-#, fuzzy
 msgid "How to use desktop pages"
 msgstr "如何使用桌面頁面"
 
@@ -1162,20 +1323,23 @@ msgstr "如何使用滑鼠"
 msgid "How to use with a touch-enabled system"
 msgstr "如何搭配觸控系統使用"
 
-#, fuzzy
 msgid "Hue:"
 msgstr "色調："
 
 msgid "icon"
 msgstr "圖示"
 
-#, fuzzy
 msgid "Icon opacity"
 msgstr "圖標不透明度"
 
-#, fuzzy
 msgid "Icon Opacity"
 msgstr "圖示不透明度"
+
+msgid "Icon Order and Placement"
+msgstr ""
+
+msgid "Icon spacing"
+msgstr "圖標間距"
 
 msgid "Icon transparency && fading Fence groups"
 msgstr "圖示透明度與淡化分類區"
@@ -1246,6 +1410,12 @@ msgstr "圖示檔案大小超過…"
 msgid "If hidden, unhide my desktop icons when switching pages"
 msgstr "如果隱藏，在切換頁面時取消隱藏我的桌面圖示"
 
+msgid "If you have not yet used the option \"Enable advanced logging\" from this menu, we recommend you selecting this and following those instructions first."
+msgstr "如果您尚未從此選單中使用“Enable advanced logging”選項，我們建議您先選擇此選項並依照那些指示進行操作。"
+
+msgid "If you have several different multi-monitor/multi-resolution layout you'd like to deploy, we're here to help."
+msgstr ""
+
 msgid "Ignore for now"
 msgstr "暫時忽略"
 
@@ -1261,15 +1431,26 @@ msgstr "影像"
 msgid "Immediately"
 msgstr "立即"
 
-#, fuzzy
+msgid "Import config from file"
+msgstr ""
+
 msgid "Import Config from File"
 msgstr "從檔案導入配置"
+
+msgid "Inherit view mode from parent"
+msgstr "從父項目繼承視圖模式"
+
+msgid "Inside-group icon spacing"
+msgstr "在組內的圖示間距"
 
 msgid "Installation complete!"
 msgstr "安裝完成！"
 
 msgid "is"
 msgstr "是"
+
+msgid "is now available"
+msgstr "現已提供"
 
 msgid "Item type"
 msgstr "項目類型"
@@ -1283,8 +1464,8 @@ msgstr "只需建立一些分類區"
 msgid "Just perform auto-layout"
 msgstr "只需執行自動版面配置"
 
-msgid "Just restore snapshot"
-msgstr "只需還原快照"
+msgid "Just restore backup"
+msgstr "只需恢復備份"
 
 msgid "Keep groups lined up when moving"
 msgstr "當移動時維持分類區貼齊"
@@ -1298,13 +1479,6 @@ msgstr "維持分類區保持間隔"
 msgid "Keep rules applied at all times"
 msgstr "總是套用規則"
 
-msgid "Kiosk mode"
-msgstr "Kiosk 模式"
-
-msgid "Kiosk Mode"
-msgstr "Kiosk 模式"
-
-#, fuzzy
 msgid "Kiosk Mode (Lock Desktop)"
 msgstr "Kiosk 模式（鎖定桌面）"
 
@@ -1317,14 +1491,23 @@ msgstr "大圖示"
 msgid "Layout"
 msgstr "版面配置"
 
+msgid "Layout & settings distribution"
+msgstr ""
+
 msgid "Layout & style"
 msgstr "版面配置與樣式"
 
 msgid "Layout auto-adjustments"
 msgstr "版面配置自動調整"
 
+msgid "Layout backups"
+msgstr "佈局備份"
+
 msgid "Layout Builder"
 msgstr "版面配置建立器"
+
+msgid "Layout management"
+msgstr "版面管理"
 
 msgid "Layout Name:"
 msgstr "版面配置名稱："
@@ -1332,16 +1515,14 @@ msgstr "版面配置名稱："
 msgid "Layout snapshots"
 msgstr "版面配置快照"
 
-#, fuzzy
-msgid "Layout spacing & snapping"
-msgstr "版面間距和對齊"
-
 msgid "Layout tools and snapshots"
 msgstr "版面配置工具和快照"
 
-#, fuzzy
-msgid "Left-click the bottom right corner of the taskbar to"
-msgstr "左鍵點選任務欄右下角即可"
+msgid "Learn More"
+msgstr ""
+
+msgid "Left click"
+msgstr "點擊左鍵"
 
 msgid "Legal Information"
 msgstr "法律資訊"
@@ -1352,13 +1533,24 @@ msgstr "較少"
 msgid "less than"
 msgstr "少於"
 
+msgid "License distribution"
+msgstr ""
+
+msgid "License Information, Invoicing and Purchasing"
+msgstr ""
+
+msgid "License Management"
+msgstr ""
+
 msgid "License not yet validated"
 msgstr "授權尚未驗證"
+
+msgid "Licensing"
+msgstr "授權"
 
 msgid "Lightly bounce after switching pages"
 msgstr "切換頁面後輕輕彈起"
 
-#, fuzzy
 msgid "Lightness:"
 msgstr "亮度："
 
@@ -1392,22 +1584,42 @@ msgstr "載入"
 msgid "Loading List..."
 msgstr "正在載入清單…"
 
+msgid "Local testing tools"
+msgstr ""
+
 msgid "Lock desktop"
 msgstr "鎖定桌面"
 
-#, fuzzy
 msgid "Lock Desktop"
 msgstr "鎖定桌面"
+
+msgid "Lock desktop upon deployment"
+msgstr ""
 
 msgid "Lock Fences"
 msgstr "鎖定分類區"
 
-msgid "Lock your desktop to protect others from modifying it."
-msgstr "鎖定您的桌面以避免其他人修改桌面。"
+msgid ""
+"Logging will begin the next time you log in.\n"
+"\n"
+"Please log off and log on or reboot, reproduce the issue at least twice (rebooting again as necessary to show the issue at least a couple of times; the more you can show the issue the better), and then use the \"Create error report package\" menu item to submit a report. Thank you!\n"
+"\n"
+"Once your issue is resolved, don't forget to turn this setting back off for best performance."
+msgstr ""
+"翻譯文字：下次您登入時，日誌記錄將開始。\n"
+"\n"
+"請登出並重新登入或重新啟動，至少再現問題兩次（如必要，再次重新啟動以至少顯示問題兩次；顯示問題的次數越多越好），然後使用\"創建錯誤報告包\"菜單項提交報告。謝謝！\n"
+"\n"
+"一旦您的問題解決，請別忘了關閉此設定以獲得最佳效能。"
 
-#, fuzzy
+msgid "Maintain backups and adjust layout settings."
+msgstr "保持備份並調整布局設置。"
+
 msgid "Maintain backups and adjust your layout settings."
 msgstr "維護備份並調整佈局設定。"
+
+msgid "Maintain daily backups (most recent 3 days will be kept)"
+msgstr "維護每日備份（將保留最近3天的備份）"
 
 msgid "Maintain sorting"
 msgstr "維持排序"
@@ -1415,18 +1627,26 @@ msgstr "維持排序"
 msgid "Make laying out your desktop a snap ; snapping helps keep your Fence groups in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
 msgstr "讓桌面採取貼齊的版面配置；貼齊有助讓您的分類區維持整潔，大小甚至可以容納多個圖示。Fences 的版面配置工具還可在變更螢幕解析度和插入新顯示器時幫助您保留桌面配置。"
 
+msgid "Make laying out your desktop a snap ; snapping helps keep your Fences in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
+msgstr "將您的桌面布局變得輕而易舉；吸附功能可讓你的Fences整齊劃一，且大小對齊圖示的倍數。 Fences的布局工具也能在螢幕解析度變動或是連接新的監視器時，保持桌面佈局不變。"
+
 msgid "Manage product key"
 msgstr "管理產品金鑰"
 
 msgid "Manage sorting rules"
 msgstr "管理排序規則"
 
-#, fuzzy
 msgid "Manage subscription"
 msgstr "管理訂閱"
 
+msgid "Managed Deployments"
+msgstr ""
+
 msgid "Medium icons"
 msgstr "中圖示"
+
+msgid "Menu Only"
+msgstr "只有選單"
 
 msgid "Midnight"
 msgstr "午夜"
@@ -1434,12 +1654,18 @@ msgstr "午夜"
 msgid "minutes ago"
 msgstr "分鐘之前"
 
+msgid ""
+"Mismatching file versions detected.\n"
+"A reboot may be required to complete installation."
+msgstr ""
+"檢測到檔案版本不匹配。\n"
+"可能需要重新啟動以完成安裝。"
+
 msgid "More"
 msgstr "更多"
 
-#, fuzzy
-msgid "More adjustments"
-msgstr "更多調整"
+msgid "More options"
+msgstr "更多選項"
 
 msgid "More options..."
 msgstr "更多選項…"
@@ -1449,6 +1675,9 @@ msgstr "超過"
 
 msgid "Mouse over the title of a Fence group and click to rename."
 msgstr "將滑鼠游標移到分類區標題，然後按一下來重新命名。"
+
+msgid "Move titlebar to the bottom when near the top of the screen"
+msgstr "當接近螢幕頂部時，將標題欄移至底部"
 
 msgid "Music & Video"
 msgstr "音樂與影片"
@@ -1467,6 +1696,15 @@ msgstr "基於名稱的規則"
 
 msgid "Navigate back"
 msgstr "往前瀏覽"
+
+msgid "Navigate to root"
+msgstr "導航至根目錄"
+
+msgid "Navigate to root folder to rename this Fence"
+msgstr "導航至根文件夾以重新命名此 Fence"
+
+msgid "Navigate up"
+msgstr "向上導航"
 
 msgid "Never"
 msgstr "從不"
@@ -1492,7 +1730,6 @@ msgstr "新圖示與規則"
 msgid "new icons should be placed in this Fence: "
 msgstr "新圖示應該放在此分類區： "
 
-#, fuzzy
 msgid "New in Fences 5! Reduce visual clutter by blending your icons with the wallpaper."
 msgstr "《柵欄 5》的新功能！透過將圖標與壁紙混合來減少視覺混亂。"
 
@@ -1502,8 +1739,17 @@ msgstr "新名稱："
 msgid "New Rule"
 msgstr "新規則"
 
+msgid "Next steps"
+msgstr ""
+
 msgid "No"
 msgstr "編號"
+
+msgid "No groups found"
+msgstr "找不到群組"
+
+msgid "No groups found."
+msgstr ""
 
 msgid "None"
 msgstr "無"
@@ -1542,7 +1788,12 @@ msgstr "螢幕數"
 msgid "Number of times opened"
 msgstr "開啟次數"
 
-#, fuzzy
+msgid "Off"
+msgstr "關閉"
+
+msgid "Ok"
+msgstr ""
+
 msgid "OK"
 msgstr "確定"
 
@@ -1558,14 +1809,17 @@ msgstr "週末"
 msgid "On first run, Fences gave the opportunity to automatically sort your desktop icons into a few basic categories, to make it easier to start using the program. Would you like to perform this auto-layout again?"
 msgstr "在第一次執行時，Fences 讓您有機會自動把桌面圖示分類為幾個基本類別，讓您更容易開始使用程式。您要再次執行此自動版面配置嗎？"
 
+msgid "On monitor configuration changes..."
+msgstr "在監視器配置變更時..."
+
 msgid "On Mouseover"
 msgstr "在滑鼠移至上方時"
 
-msgid "On screen resolution changes..."
-msgstr "在螢幕解析度變更時…"
-
 msgid "on the Desktop"
 msgstr "在桌面"
+
+msgid "Only Folder Portal groups found."
+msgstr "只找到 Folder Portal 群組。"
 
 msgid ""
 "Only TrueType fonts can be used.\n"
@@ -1591,7 +1845,6 @@ msgstr "按兩下快速開啟Folder Portal"
 msgid "Open this folder"
 msgstr "開啟此資料夾"
 
-#, fuzzy
 msgid "Options"
 msgstr "選項"
 
@@ -1625,17 +1878,18 @@ msgstr "其他類型"
 msgid "Outline Fence areas"
 msgstr "框出分類區"
 
-#, fuzzy
 msgid "Output multi-monitor debug report"
 msgstr "輸出多顯示器調試報告"
 
 msgid "outside of"
 msgstr "之外"
 
+msgid "Packaged for distribution with installer, on network share, or any preferred method."
+msgstr ""
+
 msgid "Page switching"
 msgstr "頁面切換"
 
-#, fuzzy
 msgid "Pages"
 msgstr "頁面"
 
@@ -1645,19 +1899,18 @@ msgstr "左側邊緣的面板"
 msgid "Panels on right edge"
 msgstr "右側邊緣的面板"
 
-#, fuzzy
 msgid "Paste color"
 msgstr "貼上顏色"
 
-#, fuzzy
 msgid "Paste Fence color"
 msgstr "貼上柵欄顏色"
 
-#, fuzzy
+msgid "Paste group style"
+msgstr "貼上群組樣式"
+
 msgid "Peek"
 msgstr "懸浮風"
 
-#, fuzzy
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
 msgstr "Peek 使用工作列、熱角或熱鍵立即將您的 Fence 群組帶到頂部。"
 
@@ -1667,7 +1920,6 @@ msgstr "客製化個別分類區"
 msgid "Perform automatic layout"
 msgstr "執行自動版面配置"
 
-#, fuzzy
 msgid "Personalization"
 msgstr "個人化"
 
@@ -1676,6 +1928,9 @@ msgstr "個人化"
 
 msgid "Photos"
 msgstr "相片"
+
+msgid "Pick color from screen"
+msgstr "從螢幕選擇顏色"
 
 msgid "pixels apart when moving"
 msgstr "移動時像素分開"
@@ -1695,11 +1950,14 @@ msgstr "根據檔案大小放置新圖示…"
 msgid "Place new icons based on what program created it..."
 msgstr "根據建立的程式放置新圖示…"
 
+msgid "Please click here to be in touch with our deployments team."
+msgstr ""
+
 msgid "Please limit title length to 500 characters or less."
 msgstr "標題長度請限制在 500 個字元以內。"
 
-msgid "Please navigate up to root folder to rename this Fence"
-msgstr "請找到根資料夾以重新命名此分類區"
+msgid "Please log off and log on to see the changed effect."
+msgstr "請登出並重新登入以查看更改後的效果。"
 
 msgid "Please note:"
 msgstr "請注意："
@@ -1713,8 +1971,25 @@ msgstr "請重新建立問題，* 確保在出現的當機報告對話框包含�
 msgid "Please select another theme to restore your Fence group' appareance."
 msgstr "請選擇另一主題來還原您的分類區外觀。"
 
+msgid ""
+"Please upload the file \"{0}\" at \"{1}\" to our web upload at \"{2}\", and then let our team know the upload is complete.\n"
+"\n"
+"Thank you for your help and patience while we look in to your issue.\n"
+"- The Stardock Fences Team"
+msgstr ""
+"請將 \"{0}\" 檔案上傳至 \"{1}\" 的我們的網路上傳系統 \"{2}\"，然後通知我們的團隊上傳完成。\n"
+"\n"
+"感謝您的協助和耐心等待，我們正在檢查您的問題。\n"
+"- Stardock Fences 團隊"
+
+msgid "Positions"
+msgstr ""
+
 msgid "Power-up your desktop"
 msgstr "啟動桌面"
+
+msgid "Pre-Install Backup"
+msgstr "安裝前備份"
 
 msgid "Pre-Install Snapshot"
 msgstr "預先安裝快照"
@@ -1722,14 +1997,17 @@ msgstr "預先安裝快照"
 msgid "Pre-Install snapshot not found."
 msgstr "找不到預先安裝的快照。"
 
-msgid "Preserve my desktop layout by scaling my Fence groups"
-msgstr "縮放我的分類區來保留桌面配置"
+msgid "Preserve my layout by scaling my Fence groups (legacy)"
+msgstr "保留我的Fence群組（舊版）的佈局比例"
 
 msgid "Pro tip! The quickest way edit Fences' settings is to right-click the desktop and choose \"Configure Fences\"."
 msgstr "專業提示！若要編輯 Fences 設定，最快的方法是在桌面按一下右鍵，然後選擇「設定 Fences」。"
 
-msgid "Problem deleting snapshot."
-msgstr "刪除快照時發生問題。"
+msgid "Problem deleting backup."
+msgstr "刪除備份時出現問題。"
+
+msgid "Problem description"
+msgstr "問題描述"
 
 msgid "Problem during installation:"
 msgstr "安裝過程的問題："
@@ -1755,11 +2033,26 @@ msgstr "購買"
 msgid "Purchase ({0})"
 msgstr "購買 ({0})"
 
+msgid "Purchase additional licenses"
+msgstr ""
+
+msgid "Purchaser email"
+msgstr ""
+
+msgid "Quick-hide"
+msgstr "快速隱藏"
+
 msgid "quick-hide activated"
 msgstr "快速隱藏啟用"
 
+msgid "Re-capture..."
+msgstr "重新捕捉..."
+
 msgid "Recommended for advanced users"
 msgstr "建議進階使用者"
+
+msgid "Recommended for use on all systems, single or multi-monitor. Remembers your Fence group positions on a per-resolution/per-monitor-configuration basis, so that your layout is always just how you left it."
+msgstr "推薦在所有系統上使用，無論是單一或多監視器。Fence群組的位置會根據每種解析度/每種監視器配置記住，這樣你的佈局總是如你所留的一樣。"
 
 msgid "Refresh"
 msgstr "重新整理"
@@ -1794,6 +2087,9 @@ msgstr "重新命名"
 msgid "Rename a Fence"
 msgstr "重新命名分類區"
 
+msgid "Rename Backup"
+msgstr "重新命名備份"
+
 msgid "Rename Fence"
 msgstr "重新命名分類區"
 
@@ -1802,9 +2098,6 @@ msgstr "重新命名規則"
 
 msgid "Rename rule..."
 msgstr "重新命名規則…"
-
-msgid "Rename Snapshot"
-msgstr "重新命名快照"
 
 msgid "Rename..."
 msgstr "重新命名..."
@@ -1815,21 +2108,24 @@ msgstr "選擇分類區並利用向上/向下箭頭在此重新排序 Fences。"
 msgid "Re-order your Rules"
 msgstr "重新排序您的規則"
 
+msgid "Require clicking headerbar to expand group"
+msgstr "需要點擊頭部欄位以展開群組"
+
+msgid "Require slight delay over headerbar to expand group"
+msgstr "需要在 headerbar 上稍作延遲以展開群組"
+
 msgid "Reset"
 msgstr "重設"
 
 msgid "Reset all individually-customized Fences"
 msgstr "重設所有個別客製化分類區"
 
-#, fuzzy
 msgid "Reset all to default"
 msgstr "全部重設為預設值"
 
-#, fuzzy
 msgid "Reset color"
 msgstr "重置顏色"
 
-#, fuzzy
 msgid "Reset Fence color"
 msgstr "重置柵欄顏色"
 
@@ -1842,12 +2138,11 @@ msgstr "重設規則為預設值…"
 msgid "Reset rule?"
 msgstr "重設規則？"
 
-msgid "Reset saved settings for other screen resolutions"
-msgstr "重設在其他螢幕解析度下儲存的設定"
-
-#, fuzzy
 msgid "Reset this group's customization"
 msgstr "重置該組的自訂"
+
+msgid "Reset this group's style"
+msgstr "重設此群組的風格"
 
 msgid "Reset to default"
 msgstr "重設為預設值"
@@ -1855,34 +2150,29 @@ msgstr "重設為預設值"
 msgid "Reset to defaults"
 msgstr "重設為預設值"
 
-#, fuzzy
+msgid "Reset view to inherit parent"
+msgstr "將視圖重設為繼承父項"
+
+msgid "Restore Backup"
+msgstr "恢復備份"
+
 msgid "Restore color when desktop is active"
 msgstr "桌面處於活動狀態時恢復顏色"
 
-#, fuzzy
 msgid "Restore color when desktop is in use"
 msgstr "使用桌面時恢復顏色"
 
-#, fuzzy
 msgid "Restore color when mouse is over a Fence group"
 msgstr "當滑鼠懸停在 Fence 組上時恢復顏色"
 
-#, fuzzy
 msgid "Restore color when mouse is over group"
 msgstr "當滑鼠懸停在群組上時恢復顏色"
-
-msgid "Restore Snapshot"
-msgstr "還原快照"
-
-msgid "Re-take snapshot..."
-msgstr "重新拍攝快照…"
 
 msgid "Reverse order"
 msgstr "反向順序"
 
-#, fuzzy
-msgid "Right-click the bottom right corner of the taskbar to"
-msgstr "右鍵點選任務欄右下角即可"
+msgid "Right click"
+msgstr "要翻譯的文字：右鍵點擊"
 
 msgid "Roll up Fence groups placed on edge of screen"
 msgstr "縮合放置在螢幕邊緣的分類區"
@@ -1893,24 +2183,24 @@ msgstr "縮合分類區置標題列，在滑鼠移至上方時才會顯示，維
 msgid "Roll up Fences"
 msgstr "縮合分類區"
 
-#, fuzzy
 msgid "Rollup"
 msgstr "捲起"
 
 msgid "Roll-up Fence"
 msgstr "縮合分類區"
 
-#, fuzzy
 msgid "Round corner of Fence areas"
 msgstr "Fences區域的圓角"
 
 msgid "Round corners of Fence areas"
 msgstr "分類區的圓角"
 
+msgid "Rounded"
+msgstr "圓角"
+
 msgid "Rule names must be less than 255 characters long"
 msgstr "規則名稱長度必須少於 255 個字元"
 
-#, fuzzy
 msgid "Rules"
 msgstr "規則"
 
@@ -1926,14 +2216,32 @@ msgstr "飽和度："
 msgid "Save"
 msgstr "儲存"
 
+msgid "Save / Restore a backup"
+msgstr "儲存/恢復備份"
+
+msgid "Save backup"
+msgstr "儲存備份"
+
+msgid "Saving of backup failed."
+msgstr "儲存備份失敗。"
+
 msgid "Saving of snapshot failed."
 msgstr "儲存快照失敗。"
+
+msgid "Schedule an introduction call"
+msgstr ""
 
 msgid "Screens"
 msgstr "螢幕"
 
+msgid "Segmented"
+msgstr "分段的"
+
 msgid "Send certain file types to different places"
 msgstr "將特定檔案類型傳送到不同位置"
+
+msgid "Send inquiry"
+msgstr ""
 
 msgid "Send new %s to a particular Fence"
 msgstr "傳送新 %s 至特定分類區"
@@ -1941,11 +2249,35 @@ msgstr "傳送新 %s 至特定分類區"
 msgid "Send new %s to this Fence"
 msgstr "傳送新 %s 至此分類區"
 
+msgid "Send us a message"
+msgstr ""
+
 msgid "Sensitivity:"
 msgstr "靈敏度："
 
+msgid "Serial number"
+msgstr ""
+
 msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "設定固定頁數，並在結尾換行"
+
+msgid ""
+"Setting updated.\n"
+"\n"
+"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+msgstr ""
+"翻譯的文字: 設定已更新。\n"
+"\n"
+"若要將一組的標題欄移回頂部，請將該組向上端移開，然後再移回。"
+
+msgid ""
+"Setting updated.\n"
+"\n"
+"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
+msgstr ""
+"翻譯的文字：設定已更新。\n"
+"\n"
+"若要將此群組的標題欄移回頂部，請將此群組遠離頂部邊緣，然後再移回來。"
 
 msgid "Settings"
 msgstr "設定"
@@ -1956,6 +2288,9 @@ msgstr "Shift 鍵"
 msgid "Shortcut (Link)"
 msgstr "捷徑 (連結)"
 
+msgid "Show controls in header on mouseover"
+msgstr "在滑鼠移至標頭時顯示控制項"
+
 msgid "Show desktop (press & hold)"
 msgstr "顯示桌面 (按住)"
 
@@ -1965,15 +2300,12 @@ msgstr "顯示桌面 (切換)"
 msgid "Show desktop icons"
 msgstr "顯示桌面圖示"
 
-#, fuzzy
 msgid "Show desktop in full color when in use"
 msgstr "使用時以全彩顯示桌面"
 
-#, fuzzy
 msgid "Show Fence groups in full color on mouseover"
 msgstr "滑鼠懸停時以全彩顯示柵欄組"
 
-#, fuzzy
 msgid "Show Fences"
 msgstr "顯示 Fences"
 
@@ -1983,85 +2315,59 @@ msgstr "顯示 Fences（按住）"
 msgid "Show Fences (toggle)"
 msgstr "顯示 ASDSAD（切換）"
 
-msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
-msgstr "顯示分類區 (切換)：即使在切換應用程式時，讓分類區維持在最上方，直到下次按下快速鍵。"
+msgid "Show Fences by clicking the lower right corner of your screen"
+msgstr "點擊螢幕右下角來顯示 Fences"
 
-#, fuzzy
-msgid "Show Fences by clicking the far right edge of your taskbar"
-msgstr "點選工作列的最右邊緣即可顯示 Fences"
+msgid "Show Fences with hotkeys"
+msgstr "使用熱鍵顯示 Fences"
 
-#, fuzzy
-msgid "使用熱鍵顯示 Fences"
-msgstr "使用熱鍵顯示柵欄"
-
-#, fuzzy
 msgid "Show Headers"
 msgstr "顯示標題"
 
-#, fuzzy
 msgid "Show icon as a running task"
 msgstr "將圖示顯示為正在運行的任務"
 
-#, fuzzy
 msgid "Show on all pages"
 msgstr "在所有頁面上顯示"
 
-#, fuzzy
+msgid "Show per-Fence custom colors in segment view"
+msgstr "在區段視圖中顯示每個Fence的自訂顏色"
+
 msgid "Show the full desktop"
 msgstr "顯示完整桌面"
 
-#, fuzzy
 msgid "Show the full desktop (classic)"
 msgstr "顯示完整桌面（經典）"
 
-#, fuzzy
 msgid "Show the full desktop (fast)"
 msgstr "顯示完整桌面（快速）"
 
-#, fuzzy
 msgid "Show this Fence group on all pages"
 msgstr "在所有頁面上顯示此 Fence 群組"
 
 msgid "Show this folder on the desktop"
 msgstr "在桌面顯示此資料夾"
 
-#, fuzzy
 msgid "Show title bars on Fence areas"
 msgstr "在柵欄區域顯示標題欄"
 
-#, fuzzy
 msgid "Show titlebar buttons on Fence areas on mouseover"
 msgstr "滑鼠懸停時在柵欄區域上顯示標題列按鈕"
 
-#, fuzzy
 msgid "Show titlebar controls on mouseover"
 msgstr "滑鼠懸停時顯示標題列控件"
+
+msgid "Simplified configuration notation is available to plan and maintain more complex distributions for your organization, trackable in version control and adaptable to a variety of scenarios."
+msgstr ""
 
 msgid "Size"
 msgstr "大小"
 
+msgid "Small Business Distribution"
+msgstr ""
+
 msgid "Snapping is enabled in the free version of Fences. Purchasing this feature allows you to customize snapping."
 msgstr "Fences 的免費版本可啟用貼齊功能。購買此功能可讓您客製化貼齊功能。"
-
-msgid "Snapshot deleted"
-msgstr "已刪除快照"
-
-msgid "Snapshot Name:"
-msgstr "快照名稱："
-
-msgid "Snapshot taken!"
-msgstr "已拍攝快照！"
-
-msgid "Snapshot Title"
-msgstr "快照標題"
-
-#, fuzzy
-msgid "Snapshots"
-msgstr "Snapshots 版"
-
-#, fuzzy
-msgid "Snapshots && layout"
-msgstr "快照&&佈局"
 
 msgid "Snapshot-taking canceled."
 msgstr "已取消拍攝快照。"
@@ -2075,11 +2381,9 @@ msgstr "抱歉，背景模糊效果與動態桌面內容不相容。若要套用
 msgid "Sort out my icons"
 msgstr "整理我的圖示"
 
-#, fuzzy
 msgid "Space"
 msgstr "空間"
 
-#, fuzzy
 msgid "Speed up Windows' built-in Show Desktop functionality (\"WinKey+D\")"
 msgstr "加速 Windows 內建的顯示桌面功能（「WinKey+D」）"
 
@@ -2088,6 +2392,9 @@ msgstr "Stardock 應用程式服務無法啟動。(無法登錄回撥。)您可�
 
 msgid "Stardock Application Services was unable to start. You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
 msgstr "Stardock 應用程式服務無法啟動。您可能需要重新安裝 Fences。如果此問題仍然存在，請聯絡 Stardock 客戶支援部門。"
+
+msgid "Stardock Fences: File version mismatch"
+msgstr "Stardock Fences：檔案版本不匹配"
 
 msgid "Start using Fences"
 msgstr "開始使用 Fences"
@@ -2098,8 +2405,11 @@ msgstr "開始使用 Fences！"
 msgid "starts with"
 msgstr "由此開始"
 
-msgid "Store my Fence group positions on a per-screen-resolution basis"
-msgstr "根據螢幕解析度來保存我的分類區位置"
+msgid "Store my Fence group positions on a per-screen-resolution basis (legacy)"
+msgstr "在每個螢幕解析度基礎上儲存我的Fence群組位置（舊版本）"
+
+msgid "Store my layout on a per-monitor-configuration basis"
+msgstr "以每個監視器配置為基礎儲存我的版面配置"
 
 msgid ""
 "Stored screen-resolution information has been reset.\n"
@@ -2119,8 +2429,17 @@ msgstr ""
 "\n"
 "下次變更螢幕解析度時，您的分類區會縮放至新的螢幕解析度。"
 
+msgid "Subfolders inherit view mode from parent"
+msgstr "子資料夾繼承父資料夾的檢視模式"
+
 msgid "Suffix"
 msgstr "結尾"
+
+msgid "Support Forums"
+msgstr "支援論壇"
+
+msgid "Swap contents of Monitors {0} and {1}"
+msgstr "交換監視器 {0} 與 {1} 的內容"
 
 msgid "Switch pages by pulling edge of screen with mouse"
 msgstr "利用滑鼠拉動螢幕邊緣來切換頁面"
@@ -2146,11 +2465,14 @@ msgstr "若要利用鍵盤切換頁面，按一下桌面啟動，然後按住 Al
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "利用滑鼠切換頁面時，請抓取並拉動桌面的左側或右側邊緣。或者，您也可同時按下滑鼠的左右鍵並從桌面的任何位置拖曳，或者利用滑鼠中鍵拖曳。"
 
+msgid "Take a new backup before restoring this configuration"
+msgstr "在恢復此設定之前，請進行新的備份。"
+
 msgid "Take a new snapshot before performing auto-layout"
 msgstr "在執行自動版面配置之前拍攝新快照"
 
-msgid "Take a new snapshot before restoring this snapshot"
-msgstr "請先拍攝新的快照，再還原此快照"
+msgid "Take backup before restoring?"
+msgstr "在恢復前先進行備份？"
 
 msgid "Take snapshot"
 msgstr "拍攝快照"
@@ -2158,25 +2480,26 @@ msgstr "拍攝快照"
 msgid "Take snapshot before applying?"
 msgstr "套用之前要拍攝快照嗎？"
 
-msgid "Take snapshot before restoring?"
-msgstr "還原之前要拍攝快照嗎？"
-
 msgid "Target-based rules"
 msgstr "基於目標的規則"
 
-#, fuzzy
-msgid "Taskbar Hot-Corner"
-msgstr "工作列熱角"
-
-#, fuzzy
 msgid "Taskbar Icon"
 msgstr "工作列圖示"
+
+msgid "Test lock desktop"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
 
 msgid "Text file"
 msgstr "文字檔"
 
 msgid "the general desktop"
 msgstr "一般桌面"
+
+msgid "The group's placement on the desktop and other properties will remain locked."
+msgstr ""
 
 msgid "The icon's name"
 msgstr "圖示名稱"
@@ -2202,25 +2525,31 @@ msgstr "建立的規則已達最大數量 (%i)。請先刪除規則，再建立�
 msgid "The snapshots title must be less than 255 characters long"
 msgstr "快照標題長度必須少於 255 個字元"
 
-msgid ""
-"There are several ways to create a Folder Portal™ group:\n"
-"\n"
-"1. Hold Alt while drag/dropping a folder on to your desktop.\n"
-"\n"
-"2. Draw a rectangle on your desktop. Choose \"Create Folder Portal™ Here\" from the menu that appears.\n"
-"\n"
-"3. Right click any folder and choose the option \"Show this folder on the desktop\"."
+msgid "There appears to be an issue with your installation. You may need to reinstall Fences."
 msgstr ""
-"下列方法可建立Folder Portal™：\n"
+
+msgid ""
+"There are several ways to create a Folder Portal group:\n"
 "\n"
-"1.按住 Alt 鍵並將資料夾拖放到桌面。\n"
+"1. Draw a rectangle on your desktop. Choose \"Create Folder Portal Here\" from the menu that appears.\n"
 "\n"
-"2.在桌面繪製方框從出現的功能表選取「在此建立Folder Portal™」。\n"
+"2. Right click any folder and choose the option \"Show this folder on the desktop\" from \"More options\".\n"
 "\n"
-"3.以右鍵按一下資料夾，然後選取「在桌面顯示此資料夾」選項。"
+"3. Drag/drop a folder on to your desktop while holding Alt."
+msgstr ""
+"創建資料夾入口群組有幾種方法：\n"
+"\n"
+"1. 在您的桌面上繪製一個矩形。從出現的選單中選擇 \"在此創建Folder Portal\"。\n"
+"\n"
+"2. 按右鍵點擊任何資料夾，並從 \"更多選項\" 中選擇 \"在桌面上顯示此資料夾\" 的選項。\n"
+"\n"
+"3. 按住Alt，將資料夾拖放到您的桌面上。"
 
 msgid "There was a problem resetting your settings. Please try again."
 msgstr "重設您的設定時發生問題。請再試一次。"
+
+msgid "There was an issue opening the link. Please visit:"
+msgstr ""
 
 msgid ""
 "They're still here! Double clicking blank space on your desktop will make your icons appear and disappear. Double click again to reveal.\n"
@@ -2243,11 +2572,11 @@ msgstr ""
 "要繼續嗎？"
 
 msgid ""
-"This action will update this snapshot to reflect your current desktop setup.\n"
+"This action will update this backup to reflect your current desktop configuration.\n"
 "\n"
 "Continue?"
 msgstr ""
-"此動作會更新快照以反映您目前的桌面設定。\n"
+"這個動作將更新此備份以反映您目前的桌面配置。\n"
 "\n"
 "要繼續嗎？"
 
@@ -2269,14 +2598,25 @@ msgstr "此功能不適用 Windows XP。"
 msgid "This feature requires Windows 7 or better."
 msgstr "此功能適用 Windows 7 或更高版本。"
 
-#, fuzzy
+msgid "This Fence group's contents will be locked when deployed"
+msgstr ""
+
+msgid "This Fence group's contents will now be unlocked when deployed"
+msgstr ""
+
 msgid "This Fence will be reset to match the rest of your Fence groups."
 msgstr "該柵欄將被重設以符合您的柵欄組的其餘部分。"
+
+msgid "This setting was designed for single monitor systems, and is not recommended for use. We recommend switching to our new per-monitor-configuration system."
+msgstr "此設定是為單螢幕系統設計的，並且不建議使用。我們建議切換到我們的新的每螢幕配置系統。"
+
+msgid "This will create a package of your current Fences settings, Fences error logs, Fences layout backups, and any Fences crash captures so that you may upload it to technical support."
+msgstr "這將建立一個包含您當前的Fences設定，Fences錯誤日誌，Fences版面配置備份和任何Fences當機捕捉的包，以便您可以上傳至技術支援。"
 
 msgid "This will reset {0} to its default factory settings. Continue?"
 msgstr "這會把 {0} 重設為出廠預設設定。要繼續嗎？"
 
-msgid "Tidle"
+msgid "Tilde"
 msgstr "閒置時間"
 
 msgid "Time-based rules"
@@ -2285,10 +2625,18 @@ msgstr "基於時間的規則"
 msgid "times"
 msgstr "時間"
 
+msgid "Tip: Double click blank space in a Folder Portal, or hold shift and double click its titlebar to quickly open a Folder Portal in Explorer."
+msgstr "提示：雙擊Folder Portal的空白處，或者按住shift並雙擊其標題欄，可以快速在Explorer中打開Folder Portal。"
+
+msgid "Tip: Hold shift when clicking \"Up\" to navigate to the root folder quickly."
+msgstr "提示：按住 shift 鍵並點擊 \"Up\" 可快速導航至根資料夾。"
+
 msgid "Title:"
 msgstr "標題："
 
-#, fuzzy
+msgid "Titlebar position"
+msgstr "標題欄位置"
+
 msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
 msgstr "若要調整特定Fences的外觀，請從上面標記為「所有群組」的下拉清單中選擇一個Fences，然後使用常用控制項編輯其顏色設定。"
 
@@ -2316,6 +2664,9 @@ msgstr "若要建立新桌面頁，請將圖示或分類區拖曳至螢幕邊緣
 msgid "To customize this rule, please create a new rule using the \"Choose from more icon types\" link on the previous screen."
 msgstr "若要客製化此規則，請利用先前畫面的「從更多圖示類型選取」連結來建立新規則。"
 
+msgid "To fine tune, please contact support with your needs."
+msgstr ""
+
 msgid "To hide the header in a details view, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it, and choose \"Hide details header\" from the \"View\" menu."
 msgstr "若要在詳細資訊檢視表隱藏標題，把滑鼠停留在分類區左上角，按一下出現的功能表圖示，然後從「檢視」功能表選取「隱藏詳細資訊標題」。"
 
@@ -2340,10 +2691,6 @@ msgstr "若要快速開啟Folder Portal內顯示的資料夾，請按住 Control
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
 msgstr "若要解除鎖定桌面，請以管理員身份授權以下提示。"
 
-#, fuzzy
-msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
-msgstr "若要更新您的訂閱設置，請造訪 https://redirects.stardock.com/subscriptions/fences5"
-
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "若要使用 Fences 快速隱藏功能，請在桌面的任何空白處按兩下，圖示便會消失。再次按兩下，圖示便會重現。"
 
@@ -2359,7 +2706,6 @@ msgstr "半透明分類區背景 (僅適用 Windows 10)"
 msgid "Transparency:"
 msgstr "透明度："
 
-#, fuzzy
 msgid "Troubleshooting"
 msgstr "故障排除"
 
@@ -2375,12 +2721,17 @@ msgstr "無法建立資料夾。請再試一次。"
 msgid "Unlock desktop"
 msgstr "解除鎖定桌面"
 
-#, fuzzy
 msgid "Unlock Desktop"
 msgstr "解鎖桌面"
 
 msgid "Unlock previous purchase"
 msgstr "解除鎖定先前的購買"
+
+msgid "Unlock the contents of select Fence groups"
+msgstr ""
+
+msgid "Unlock this Fence group's contents in locked deployments"
+msgstr ""
 
 msgid "Unnamed Fence"
 msgstr "未命名分類區"
@@ -2400,11 +2751,50 @@ msgstr "升級桌面外觀與操作方式"
 msgid "Usage"
 msgstr "使用情形"
 
+msgid "Use custom color"
+msgstr "使用自訂顏色"
+
+msgid "Use Fence background color"
+msgstr "使用Fence背景顏色"
+
+msgid "Use of this option will have a minor impact on performance, and so should only be used if you're experiencing an issue with the program. Continue?"
+msgstr "使用此選項可能會對效能產生輕微影響，因此只有在您遇到程序問題時才應使用。繼續嗎？"
+
+msgid "Use of this setting is not recommended."
+msgstr "不建議使用此設定。"
+
+msgid "Use of this setting should be limited to single monitor systems only."
+msgstr "此設定的使用應僅限於單一監視器系統。"
+
+msgid "Use same spacing inside and outside of Fence groups"
+msgstr "在 Fence 群組內外使用相同的間距"
+
+msgid "Use system accent color"
+msgstr "使用系統強調色彩"
+
 msgid "Use system language"
 msgstr "使用系統語言"
 
 msgid "Use these hotkeys to access your desktop quickly – much faster than the built-in WinKey+D. You can even replace it entirely."
 msgstr "使用快速鍵來快速存取您的桌面，比內建 WinKey+D 快速許多。甚至可以將它完全取代。"
+
+msgid "Use this setting to better support changing multi-monitor configurations, and docking/undocking scenarios."
+msgstr "使用此設定以更好地支援變更多螢幕配置，以及停靠/取下情境。"
+
+msgid "Use this to reset your icon spacing if you've already rebooted and they do not appear to be correct. This setting can be found in {0}"
+msgstr "如果您已經重新啟動並且圖示間距看起來仍不正確，請使用此來重設圖示間距。此設定可以在 {0} 中找到。"
+
+msgid "Used to swap contents of monitors when 2 or more displays are in use."
+msgstr "用於在使用2個或更多顯示器時切換螢幕內容。"
+
+msgid "Username on"
+msgstr "在上的使用者名稱"
+
+msgid "Users will no longer be able add their own icons to the group"
+msgstr ""
+
+msgid "Users will now be able to add their own icons to the group"
+msgstr ""
 
 msgid "Using desktop pages"
 msgstr "使用桌面頁"
@@ -2412,18 +2802,11 @@ msgstr "使用桌面頁"
 msgid "Using Folder Portals"
 msgstr "使用Folder Portals"
 
-msgid "Using kiosk mode"
-msgstr "使用 kiosk 模式"
-
 msgid "Using quick-hide"
 msgstr "使用快速隱藏"
 
 msgid "Using Roll-up Fences"
 msgstr "使用縮合分類區"
-
-#, fuzzy
-msgid "Vanish"
-msgstr "消失"
 
 msgid "Version "
 msgstr "版本 "
@@ -2431,13 +2814,33 @@ msgstr "版本 "
 msgid "Version {0}"
 msgstr "{0} 版"
 
+msgid "Vertical"
+msgstr "垂直"
+
 msgid "Video file"
 msgstr "影片檔"
+
+msgid "View \"How to deploy\""
+msgstr ""
+
+msgid "View \"how to deploy\" documentation"
+msgstr ""
+
+msgid "View my account"
+msgstr ""
+
+msgid "View my licenses"
+msgstr ""
+
+msgid "View Pricing / Buy"
+msgstr ""
 
 msgid "Visible only on mouseover"
 msgstr "僅在滑鼠移至上方時可見"
 
-#, fuzzy
+msgid "Visit Customer Support Forums"
+msgstr ""
+
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
 msgstr "等待 Windows 登錄項目 {0} 中指定的設定檔存在"
 
@@ -2473,24 +2876,29 @@ msgstr ""
 msgid "Was modified"
 msgstr "已修改"
 
+msgid "We hope you enjoy this new super-charged multi-monitor experience and welcome any feedback to our support forums."
+msgstr "我們希望您喜歡這種全新的增強版多螢幕體驗，並歡迎您將任何反饋提供給我們的支援論壇。"
+
 msgid "Web Links"
 msgstr "網站連結"
 
 msgid "Web page file"
 msgstr "網頁檔案"
 
-#, fuzzy
 msgid "Welcome"
 msgstr "歡迎"
 
 msgid "Welcome to Fences®"
 msgstr "歡迎來到 Fences®"
 
-msgid "What is kiosk mode?"
-msgstr "什麼是 kiosk 模式？"
+msgid "We've moved you to our new multi-monitor friendly layout auto-adjustment system first introduced in Fences v5.50, which better handles changes to your monitor configurations. The positions of your Fence groups and ungrouped icons are stored on a per-monitor-configuration basis, so that your groups and icons will always be right where you left them as conditions change."
+msgstr "我們已將您轉移到我們新的多螢幕友善佈局自動調整系統，這一系統首次在Fences v5.50中引進，能更好地處理您的螢幕配置變更。您的Fence組別和未分組的圖示位置會根據每一種螢幕配置儲存，因此無論情況如何變動，您的組別和圖示始終會出現在您預期的位置。"
 
 msgid "When I plug in a new primary monitor, move my icons to it."
 msgstr "當我插入新的主螢幕時，我的圖示也一併移動。"
+
+msgid "When navigated to a subfolder, a Folder Portal's title always shows the name of the folder being viewed. To set a custom title, navigate to the root folder of the portal and try again. Your customization at the root folder level will be saved."
+msgstr "當導航至子資料夾時，Folder Portal的標題總是顯示正在查看的資料夾的名稱。若要設定自定義標題，請導航至Portal的根資料夾並再試一次。您在根資料夾級別的自定義將會被儲存。"
 
 msgid ""
 "When you installed Fences, a snapshot of your desktop's layout was taken.\n"
@@ -2507,22 +2915,18 @@ msgstr "我的圖示在哪裡？"
 msgid "Where did my icons go? No need to worry."
 msgstr "我的圖示在哪裡？請無需擔心。"
 
-#, fuzzy
 msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
 msgstr "使用 Fences，您可以將桌面上的圖示分組、從桌面存取資料夾等等。點擊左側的功能以了解有關 Fences 功能的更多資訊。"
 
-#, fuzzy
+msgid "With Quick-hide, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
+msgstr "使用快速隱藏，您可以通過在桌面上雙擊空白處快速隱藏&&顯示您的桌面圖標。"
+
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
 msgstr "使用 Rollup，您可以將 Fence 折疊到其標題列中，以將圖示隱藏起來。"
-
-#, fuzzy
-msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
-msgstr "使用 Vanish，您可以透過雙擊桌面上的空白區域來快速隱藏和顯示桌面圖示。"
 
 msgid "Work better with Fences"
 msgstr "利用 Fences 提高工作效能"
 
-#, fuzzy
 msgid ""
 "Would you like to disable showing Fences in the taskbar?\n"
 "\n"
@@ -2532,11 +2936,11 @@ msgstr ""
 "\n"
 "您可以稍後從“快速訪問”區域的“Fences設定”重新啟用它。"
 
+msgid "Would you like to take a backup of your current configuration before loading this configuration?"
+msgstr "您是否想在加載此配置前備份您現有的配置？"
+
 msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
 msgstr "在套用自動版面配置之前，要拍攝目前設定的快照嗎？"
-
-msgid "Would you like to take a snapshot of your current configuration before loading this snapshot?"
-msgstr "在載入此快照之前，要拍攝目前設定的快照嗎？"
 
 msgid "Would you like to take a snapshot of your current configuration before performing an auto-layout?"
 msgstr "在執行自動版面配置之前，要拍攝目前設定的快照嗎？"
@@ -2564,6 +2968,12 @@ msgstr "不會刪除您的檔案。"
 
 msgid "Your settings have been reset."
 msgstr "已重設您的設定。"
+
+msgid "You've been upgraded!"
+msgstr "您已經升級了！"
+
+msgid "You've selected to sort this Fence by \"number of times opened\". A tip, Fences only knows about times the icon was opened since Fences was installed, and only when opened from the desktop by double-clicking or using the keyboard. Until then the Fence will just appear to be sorted alphabetically. So get clicking!"
+msgstr "您已選擇按照\"開啟次數\"對 Fence 進行排序。提示，Fences 只能識別自Fences安裝以來圖標被開啟的次數，並且只有在透過雙擊或使用鍵盤從桌面打開時才會記錄。在此之前，Fence 將只顯示為字母排序。所以请开始点击吧！"
 
 msgid " go to "
 msgstr " 前往 "
@@ -2595,17 +3005,18 @@ msgstr "%s 不適用於傳統模式，並且可能造成顯示不當。"
 msgid "&View"
 msgstr "檢視"
 
-#, fuzzy
 msgid "(default)"
 msgstr "(預設)"
 
 msgid "(None)"
 msgstr "(無)"
 
+msgid "(Or link to your forum post with problem details.)"
+msgstr "(或者連結到您的論壇帖子並詳述問題。)"
+
 msgid "(Recommended for advanced users)"
 msgstr "(建議進階使用者)"
 
-#, fuzzy
 msgid "(recommended)"
 msgstr "（推薦的）"
 
@@ -2615,11 +3026,9 @@ msgstr "(選擇條件類型)"
 msgid "(Untitled Fence with %i icons)"
 msgstr "(包含 %i 個圖示的無標題分類區)"
 
-#, fuzzy
 msgid "* Header bar will still show for Folder Portals upon mouseover"
 msgstr "* 滑鼠懸停時，標題列仍會顯示資料夾門戶"
 
-#, fuzzy
 msgid "* Labels will still show for Folder Portals upon mouseover"
 msgstr "* 滑鼠懸停時仍會顯示資料夾入口網站的標籤"
 
@@ -2629,15 +3038,27 @@ msgstr "* 在滑鼠移至上方時，Folder Portals仍會顯示標籤"
 msgid "* Log out for language change to take effect"
 msgstr "* 登出以使語言變更生效"
 
-#, fuzzy
-msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
-msgstr "** 即將推出 Fences 5 發布預覽版 – 改進了對管理多顯示器配置以及對接/斷開對接場景的支援。"
+msgid "* You can right click the header of a Fence group to access its menu"
+msgstr "* 您可以右鍵點擊Fence群組的標題以訪問其選單"
 
-#, fuzzy
+msgid ""
+"[Flexible deployment]\n"
+"Deploy standard locked groups, but allow users to customize one or more of the groups."
+msgstr ""
+
+msgid ""
+"[Locked deployment]\n"
+"Deploy a standard locked configuration. User cannot customize. (Default)"
+msgstr ""
+
+msgid ""
+"[Unlocked deployment]\n"
+"Deploy and allow users to customize freely from there."
+msgstr ""
+
 msgid "{0} are Registered Trademarks of {1}."
 msgstr "{0} 是{1} 的註冊商標。"
 
-#, fuzzy
 msgid "{0} are Trademarks of {1}."
 msgstr "{0} 是 {1} 的商標。"
 
@@ -2647,15 +3068,35 @@ msgstr "免費試用期尚有 {0} 天"
 msgid "{0} days remain before deactivation"
 msgstr "距離停用尚有 {0} 天"
 
-#, fuzzy
 msgid "{0} is a Registered Trademark of {1}."
 msgstr "{0} 是{1} 的註冊商標。"
+
+msgid "●  Deployment support available."
+msgstr ""
+
+msgid "●  Deployment support available. We have accomodations for environments big and small, from 10000 seats to 10."
+msgstr ""
 
 msgid "●  Double click on a Fence group's titlebar to roll it up"
 msgstr "●  按兩下分類區標題列即可縮放"
 
+msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments."
+msgstr ""
+
+msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
+msgstr ""
+
+msgid "●  Invoicing for POs available. Compliance assistance available."
+msgstr ""
+
 msgid "●  Move mouse over to reveal"
 msgstr "● 將滑鼠移至上方即可顯示"
 
+msgid "●  MSI Installer available."
+msgstr ""
+
 msgid "●  Or, move to the top or bottom edges of screen to dock automatically"
 msgstr "● 或者移至螢幕頂端或底部邊緣即可自動停靠"
+
+msgid "●  Support contracts available; one time purchase or annual."
+msgstr ""
