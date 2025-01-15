@@ -510,7 +510,7 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="¿Estás seguro de querer restablecer todas tus configuraciones a las configuraciones predeterminadas?"
 "  "="Por favor, proporciona el texto en inglés que deseas traducir al español."
 "Open all apps list as a menu"="Abre la lista de todos los programas como un menú"
-"Show Desktop and Stardock Fences  folders"="Mostrar Escritorio y carpetas de Stardock Fences"
+"Show Desktop and Stardock Fences® folders"="Mostrar Escritorio y carpetas de Stardock Fences®"
 "Show Desktop and Stardock Fences  folders in the all programs list"="Muestra el escritorio y las carpetas de Stardock Fences en la lista de todos los programas"
 "Item font :"="Fuente de los elementos"
 "Header font :"="Fuente del encabezado:"
@@ -613,7 +613,7 @@ Exist=1
 "Y offset : XXX Large"="Desplazamiento en Y: Grande XXX"
 "Give the taskbar rounded corners"="Dar esquinas redondeadas a la barra de tareas"
 "Sync settings"="Sincronizar configuración"
-"These taskbar options use functionality built into Windows  11 which is not exposed in settings and they may change in future versions of Windows  11 or experience unexpected behaviours."="Estas opciones de la barra de tareas utilizan funcionalidades incorporadas en Windows 11 que no se muestran en la configuración y pueden cambiar en futuras versiones de Windows 11 o experimentar comportamientos inesperados."
+"These taskbar options use functionality built into Windows® 11 which is not exposed in settings and they may change in future versions of Windows® 11 or experience unexpected behaviours."="Estas opciones de la barra de tareas utilizan funcionalidades incorporadas en Windows® 11 que no se muestran en la configuración y pueden cambiar en futuras versiones de Windows® 11 o experimentar comportamientos inesperados."
 "Automatic mode (recommended)"="Modo automático (recomendado)"
 "Force not touch mode device"="Forzar sin modo táctil en el dispositivo"
 "Force touch mode device"="Forzar con modo táctil en el dispositivo"
@@ -629,7 +629,7 @@ Exist=1
 "Start8"="Start8"
 "Triangle One"="Triángulo Uno"
 "Triangle Two"="Triángulo Dos"
-"Replace the limited taskbar right click menu on Windows  11 with a more powerful one."="Reemplace el menú limitado de clic derecho en la barra de tareas de Windows 11 con uno más potente."
+"Replace the limited taskbar right click menu on Windows® 11 with a more powerful one."="Reemplace el menú limitado de clic derecho en la barra de tareas de Windows® 11 con uno más potente."
 "This feature requires enhanced taskbar enabled"="Esta funcionalidad requiere tener activada la barra de tareas mejorada"
 "Start11 allows you to pin documents or folders to your taskbar for easy access"="Start11 te permite anclar archivos o carpetas a tu barra de tareas para un fácil acceso"
 "Folder menu options"="Opciones carpeta menú"
@@ -887,7 +887,7 @@ Exist=1
 "Enter the display name :"="Introduce el nombre a mostrar:"
 "Ok"="Aceptar"
 "Website links"="Enlaces de sitios web"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Los enlaces web anclados al menú de inicio deben obtener la imagen favicon ( Se realizarán conexiones a un sitio web de Google **)"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Los enlaces web anclados al menú de inicio deben obtener la imagen favicon ( Se realizarán conexiones a un sitio web de Google **)"
 "Task Manager"="Administrador de tareas"
 "Autohide taskbar"="Ocultar automáticamente la barra de tareas"
 "Uninstall"="Desinstalar"
@@ -910,3 +910,13 @@ Exist=1
 ;Added in 2.11
 "Task Manager"="Administrador de tareas"
 
+;Adden in 2.49
+"- File Explorer"="- Explorador de archivos"
+"Icon size :"="Tamaño de icono :"
+"Button width :"="Ancho de botón :"
+"Button height :"="Alto de botón :"
+"Colour"="Color"
+
+;Added in 2.50
+"Align Right (Experimental - will enable enhanced taskbar)"="Alinear a la derecha - habilitará la barra de tareas mejorada"
+"Align Left (Experimental - will enable enhanced taskbar)"="Alinear a la izquierda - habilitará la barra de tareas mejorada"
