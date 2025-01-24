@@ -7,9 +7,9 @@ https://github.com/StardockCorp/Stardock-Software-Localization#language-file-for
 
 As noted there, the en.lng file is the root of all others.  
 
-> ;Multiplicity 4
+Comments are started with a semi-colon, for example:
 
-Separator (line 477).
+;Multiplicity 4
 
 All other languages provided have been organized in the same fashion. 
 
