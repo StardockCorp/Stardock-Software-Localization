@@ -390,6 +390,7 @@ Exist=1
 "Deactivate license"="Inaktivera licens"
 "Centre aligned (** Experimental **)"="Mittjusterad (** Experimentellt **)"
 "All apps"="Alla program"
+"All applications"="Alla program"
 "Use WindowBlinds button"="Använd WindowBlinds knapp"
 "Use Curtains button"="Använd Curtains knapp"
 "Someone else is still using this PC.  Do you still want to shutdown now as they could lose unsaved work?"="Någon annan använder fortfarande den här datorn. Vill du fortfarande stänga av (trots att de kan förlora osparat arbete?"
