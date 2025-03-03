@@ -1,9 +1,8 @@
 [UI]
-Name="简体中文"
-
 [Strings]
-"System Default Language"="系统默认"
 Exist=1
+Name="Chinese-Simplified"
+"System Default Language"="系统默认"
 "Stardock Groupy 2 Configuration"="Stardock Groupy 2 设置"
 "General"="总览"
 "Tab appearance"="标签外观"
