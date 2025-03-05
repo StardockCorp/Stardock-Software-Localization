@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2023-11-22 00:10-08:00\n"
-"PO-Revision-Date: 2023-11-22 22:01-0800\n"
+"POT-Creation-Date: 2025-03-05 08:50-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"POT-Revision-Date: 2025-03-05 08:50-08:00\n"
+"X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
 msgstr "파일"
@@ -20,9 +20,6 @@ msgstr "폴더"
 
 msgid "A folder cannot be created inside of this folder. Please try again."
 msgstr "이 폴더 내부에 폴더를 생성할 수 없습니다. 다시 시도해 주십시오."
-
-msgid "A Folder Portal's title always shows the name of the folder it contains. To set a custom title, navigate to the root folder of the portal and try again. Your customization will stick."
-msgstr "Folder Portal 의 제목은 항상 포함된 폴더의 이름을 보여줍니다. 사용자 지정 제목으로 변경하려면 포털의 최상위 폴더로 이동한 후 다시 시도하십시오. 사용자 지정 사항이 적용됩니다."
 
 msgid "A newer version is already installed"
 msgstr "새 버전을 이미 설치했습니다"
@@ -39,7 +36,6 @@ msgstr "팁..."
 msgid "About"
 msgstr "소개"
 
-#, fuzzy
 msgid ""
 "Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
 "\n"
@@ -47,7 +43,6 @@ msgstr ""
 "휴대폰처럼 화면 가장자리를 잡아당겨 여러 화면의 아이콘에 액세스할 수 있습니다. 이를 사용하여 컴퓨팅 생활의 여러 부분을 분리하여 사용할 수 있습니다.\n"
 "\n"
 
-#, fuzzy
 msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
 msgstr "완전히 사용자 지정 가능한 라이브 뷰에서 데스크톱에서 바로 폴더의 콘텐츠에 액세스할 수 있습니다."
 
@@ -57,18 +52,23 @@ msgstr "활성화"
 msgid "Activate enterprise license"
 msgstr "기업 라이선스 활성화"
 
+msgid "Activate tab mouse is over when showing a group docked to the edge of the screen"
+msgstr ""
+
 msgid "Activation successful."
 msgstr "활성화 성공."
 
-#, fuzzy
-msgid "내 작업 표시줄에 \"Fences 표시\" 아이콘 추가"
-msgstr "작업 표시줄에 '울타리 표시' 아이콘 추가하기"
+msgid "Add \"Show Fences\" icon to my taskbar"
+msgstr "나의 작업 표시줄에 \"Show Fences\" 아이콘 추가"
 
 msgid "Add / Remove"
 msgstr "추가/제거"
 
 msgid "Add a Custom Rule..."
 msgstr "사용자 지정 규칙 추가..."
+
+msgid "Add a non Folder Portal group to use rules."
+msgstr "규칙을 사용하려면 비 Folder Portal 그룹을 추가하십시오."
 
 msgid "Add additional criteria..."
 msgstr "추가 기준 추가..."
@@ -82,6 +82,12 @@ msgstr "대상 Fence에 첫 아이콘으로 새 아이콘 추가"
 msgid "Add rule..."
 msgstr "규칙 추가..."
 
+msgid "Add to tab group"
+msgstr ""
+
+msgid "Add to tab group?"
+msgstr ""
+
 msgid "Additional options"
 msgstr "추가 옵션"
 
@@ -94,6 +100,9 @@ msgstr "추가 수정"
 msgid "Adjust a Fence"
 msgstr "Fence 조정"
 
+msgid "Adjust displays"
+msgstr "디스플레이 조정"
+
 msgid "Adjust the appearance of individual Fence groups"
 msgstr "개별 Fence의 외형 조정"
 
@@ -103,11 +112,9 @@ msgstr "개별 Fence의 투명도 조정"
 msgid "Adjust the transparency of desktop icons"
 msgstr "데스크톱 아이콘의 투명도 조정"
 
-#, fuzzy
 msgid "Adjust title font color"
 msgstr "제목 글꼴 색상 조정"
 
-#, fuzzy
 msgid "Adjust title text font/color"
 msgstr "제목 텍스트 글꼴/색상 조정"
 
@@ -132,15 +139,11 @@ msgstr "아이콘을 그리드에 정렬"
 msgid "All Fence groups"
 msgstr "모든 Fences"
 
-#, fuzzy
 msgid "All groups"
 msgstr "모든 그룹"
 
 msgid "All new icons"
 msgstr "모든 새 아이콘"
-
-msgid "Allow drag && drop from the desktop"
-msgstr "데스크톱에서 드래그 앤 드롭 허용"
 
 msgid "Allow me to place icons on as many pages as I want"
 msgstr "원하는 만큼의 페이지에 아이콘 놓기 허용"
@@ -148,7 +151,9 @@ msgstr "원하는 만큼의 페이지에 아이콘 놓기 허용"
 msgid "Allow navigation"
 msgstr "탐색 허용"
 
-#, fuzzy
+msgid "Allow users to \"have their own Fence\" by unlocking specific Fence groups that you have created/deployed."
+msgstr ""
+
 msgid "Alt"
 msgstr "알트"
 
@@ -176,6 +181,9 @@ msgstr "이동 시 아이콘 애니메이션 효과"
 msgid "Animate the page-switching"
 msgstr "페이지 넘기기 애니메이션 효과"
 
+msgid "Any group you select, the user will be able to add their own icons. We recommend you use an empty group."
+msgstr ""
+
 msgid "Apply a custom look to your Fence groups"
 msgstr "Fences에 사용자 지정 효과 적용"
 
@@ -185,6 +193,12 @@ msgid ""
 msgstr ""
 "시작을 돕는 레이아웃을 적용합니다.\n"
 "대부분의 사용자에게 추천하며 되돌리기가 쉽습니다."
+
+msgid "Apply custom tint to icons"
+msgstr ""
+
+msgid "Apply custom tint to icons in this group"
+msgstr ""
 
 msgid "Apply rules now"
 msgstr "규칙 지금 적용"
@@ -207,8 +221,8 @@ msgstr ""
 "\n"
 "계속하시겠습니까?"
 
-msgid "Are you sure you want to delete this snapshot?"
-msgstr "이 스냅샷을 삭제하시겠습니까?"
+msgid "Are you sure you want to delete this backup?"
+msgstr "이 백업을 삭제하시겠습니까?"
 
 msgid "Are you sure you want to remove this Fence and send its contents to the Recycle Bin?"
 msgstr "이 Fence를 삭제한 후 콘텐츠를 휴지통으로 이동하시겠습니까?"
@@ -222,7 +236,6 @@ msgstr "이 규칙을 삭제하시겠습니까?"
 msgid "Are you sure you want to reset the appearance of all Fence groups?"
 msgstr "모든 Fences의 외형을 초기화하시겠습니까?"
 
-#, fuzzy
 msgid "Are you sure you want to reset this group's custom color?"
 msgstr "이 그룹의 사용자 지정 색상을 재설정하시겠습니까?"
 
@@ -272,30 +285,38 @@ msgstr "데스크톱 사용 시 자동으로 아이콘 표시"
 msgid "Automatically show icons when drag/dropping to the desktop"
 msgstr "데스크톱에 드래그 앤 드롭 시 자동으로 아이콘 표시"
 
-#, fuzzy
 msgid "Automatically sort icons into groups based on their name, file type, or other criteria."
 msgstr "이름, 파일 유형 또는 기타 기준에 따라 아이콘을 그룹으로 자동 정렬합니다."
 
-msgid "Automatically take daily backup snapshots (most recent 3 days will be kept)"
-msgstr "매일 백업용 스냅샷 자동으로 촬영(최근 3일 저장 유지)"
+msgid "Automatically take daily backups (most recent 3 days will be kept)"
+msgstr "자동으로 매일 백업을 가져옵니다 (가장 최근 3일 동안 저장됩니다)"
 
 msgid "Available rules:"
 msgstr "적용 가능한 규칙:"
 
-#, fuzzy
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
 msgstr "구성 파일 경로가 {0}에 지정되거나 {1}을 통해 구성이 적용되기를 기다리는 중입니다"
 
-#, fuzzy
 msgid "Awaiting license file in {0}"
 msgstr "0]에서 라이선스 파일 대기 중"
 
 msgid "Background Color"
 msgstr "배경 색상"
 
-#, fuzzy
 msgid "Background Style"
 msgstr "백그라운드 스타일"
+
+msgid "Backup captured"
+msgstr "번역할 텍스트: 백업 캡처됨"
+
+msgid "Backup deleted"
+msgstr "삭제된 백업"
+
+msgid "Backup Name:"
+msgstr "백업 이름:"
+
+msgid "Backup Title"
+msgstr "백업 제목"
 
 msgid "Basic options"
 msgstr "기본 옵션"
@@ -310,48 +331,50 @@ msgstr ""
 "아래에서 새 아이콘을 배치할 위치를 통제하는 규칙을 정의할 수 있습니다.\n"
 "샘플 규칙을 사용하거나 \"규칙 추가...\"를 클릭하여 나만의 규칙을 생성하여 시작할 수 있습니다!"
 
+msgid "Beta {0}"
+msgstr "베타 {0}"
+
 msgid "between"
 msgstr "사이"
 
-#, fuzzy
 msgid "Blend"
 msgstr "섞기"
 
-#, fuzzy
 msgid "Blend background into wallpaper with Chameleon"
 msgstr "Chameleon 활성화"
 
-#, fuzzy
 msgid "Blend icons into wallpaper"
 msgstr "아이콘을 배경 화면에 혼합"
 
-#, fuzzy
 msgid "Blend icons into wallpaper with Chameleon"
 msgstr "Chameleon 사용하여 아이콘을 배경화면에 혼합하세요"
 
-#, fuzzy
 msgid "Blend into wallpaper with Chameleon"
 msgstr "Chameleon 로 벽지에 섞으세요"
 
-#, fuzzy
 msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
 msgstr "아이콘을 배경화면에 혼합하고 완전히 새로운 마음의 평화를 즐겨보세요."
 
-#, fuzzy
 msgid "Blue Fence area backgrounds"
 msgstr "파란색 울타리 영역 배경"
 
-#, fuzzy
 msgid "Blur background"
 msgstr "배경 흐림"
 
-#, fuzzy
 msgid "Blur group area background"
 msgstr "그룹 영역 배경 흐림"
 
-#, fuzzy
+msgid "Book 15-30min call"
+msgstr ""
+
 msgid "Brightness:"
 msgstr "명도:"
+
+msgid "Business Edition"
+msgstr "번역할 텍스트: 비즈니스 에디션"
+
+msgid "Business License Management"
+msgstr ""
 
 msgid "By creating program..."
 msgstr "프로그램 생성별..."
@@ -361,6 +384,9 @@ msgstr "기본으로,"
 
 msgid "By default..."
 msgstr "기본별..."
+
+msgid "By double-clicking blank space on your desktop, you have activated a feature of Fences called Quick-Hide.\n"
+msgstr "데스크톱의 빈 공간을 더블 클릭함으로써, Fences의 Quick-Hide라는 기능을 활성화하셨습니다."
 
 msgid "By file-size..."
 msgstr "파일 크기별..."
@@ -395,14 +421,17 @@ msgstr "바이트"
 msgid "Cancel"
 msgstr "취소"
 
+msgid "Cannot make a backup while Fences is not enabled."
+msgstr "Fences가 활성화되지 않은 상태에서는 백업을 생성할 수 없습니다."
+
 msgid "Cannot perform an auto-layout while Fences is not enabled."
 msgstr "Fences가 활성화되지 않은 경우 자동 레이아웃을 실행할 수 없습니다."
 
-msgid "Cannot restore snapshots while Fences is not enabled."
-msgstr "Fences가 활성화되지 않은 경우 스냅샷을 복원할 수 없습니다."
+msgid "Cannot restore a backup while Fences is not enabled."
+msgstr "Fences가 활성화되지 않은 상태에서는 백업을 복원할 수 없습니다."
 
-msgid "Cannot take snapshot while Fences is not enabled."
-msgstr "Fences가 활성화되지 않은 경우 스냅샷을 촬영할 수 없습니다."
+msgid "Chameleon auto-disabled"
+msgstr "번역할 텍스트: Chameleon 자동 비활성화"
 
 msgid "Change / resize the font used in Fences' labels"
 msgstr "Fences 라벨에 사용한 폰트 변경/크기 조정"
@@ -413,8 +442,14 @@ msgstr "색상 변경"
 msgid "Change Fence Order"
 msgstr "Fence 순서 변경"
 
+msgid "Change folder..."
+msgstr "폴더 변경..."
+
 msgid "Change font"
 msgstr "폰트 변경"
+
+msgid "Change icon tint color..."
+msgstr ""
 
 msgid "Change Rules Order"
 msgstr "규칙 순서 변경"
@@ -425,11 +460,24 @@ msgstr "규칙이 적용되는 순서를 변경"
 msgid "Change the order in which your rules are applies by choosing a rule below and using the up/down arrows."
 msgstr "아래 규칙을 선택한 후 위/아래 화살표를 사용하여 적용할 규칙의 순서를 변경합니다."
 
+msgid ""
+"Changing the background or tint color will disable Chameleon when the option \"Show Fence groups in full color on mouseover\" or \"when desktop is active\" is not enabled.\n"
+"\n"
+"If you'd like to turn it back on, click here."
+msgstr ""
+
 msgid "Check for updates"
 msgstr "업데이트 확인"
 
 msgid "Choose a color for your Fence groups, and adjust Fence labels to suit your tastes."
 msgstr "Fences에 사용할 색상을 선택한 후 Fences의 라벨을 취향대로 조정합니다."
+
+msgid ""
+"Choose a color from your wallpaper\n"
+"to find the accent color for you"
+msgstr ""
+"배경화면에서 색상을 선택하여\n"
+"당신을 위한 강조 색상을 찾으세요."
 
 msgid "Choose a default Fence for new icons, or automatically place icons in Fences by name, size, filetype, or a variety of customizable criteria."
 msgstr "새 아이콘으로 기본 Fence를 선택하거나, Fences의 아이콘을 이름, 크기, 파일 유형 혹은 다양한 사용자 지정 기준으로 하여 자동으로 배치합니다."
@@ -456,6 +504,9 @@ msgstr ""
 "시작에 도움이 되는 레이아웃 선택\n"
 "(대부분의 사용자에게 추천하며 되돌리기가 쉽습니다)"
 
+msgid "Choose an existing layout, or start new. Configure your desktop how it should look for the customer on first-boot, including which icons should appear in which Fences, and in what order. Please note the customer may not have all of the icons that you do."
+msgstr "기존 레이아웃을 선택하거나 새로 시작하세요. 첫 부팅시 고객이 어떻게 데스크탑을 보게 될지 설정하십시오, 어떤 아이콘이 어떤 Fences에 어떤 순서로 나타날지를 포함하여. 고객이 당신이 가지고 있는 모든 아이콘을 가지고 있지 않을 수 있다는 것을 유의하십시오."
+
 msgid "Choose folder"
 msgstr "폴더 선택"
 
@@ -477,12 +528,14 @@ msgstr "Fence의 가장자리나 제목 표시줄을 클릭하고 드래그하�
 msgid "Close"
 msgstr "닫기"
 
-#, fuzzy
 msgid "Color customization is unavailable with Chameleon"
 msgstr "Chameleon 에서는 색상 맞춤화가 불가능합니다."
 
 msgid "Color intensity:"
 msgstr "색상 강도:"
+
+msgid "Color picker"
+msgstr "색상 선택기"
 
 msgid "Compatibility issue found..."
 msgstr "호환성 문제 발견..."
@@ -490,22 +543,44 @@ msgstr "호환성 문제 발견..."
 msgid "Compatibiliy issue found..."
 msgstr "호환성 문제 발견..."
 
+msgid "Complex multi-monitor deployments"
+msgstr ""
+
 msgid "Compressed file"
 msgstr "압축 파일"
 
-#, fuzzy
 msgid "Config Import / Export"
 msgstr "구성 가져오기/내보내기"
+
+msgid "Configuration Management"
+msgstr ""
 
 msgid "Configure Fences"
 msgstr "Fences 환경설정"
 
-#, fuzzy
 msgid "Configure Fences..."
 msgstr "Fences の構成..."
 
+msgid "Contact deployment team to learn more."
+msgstr ""
+
+msgid "Contact our deployment team to learn more."
+msgstr ""
+
+msgid "Contact our deployments team to help plan your deployment."
+msgstr ""
+
+msgid "Contact our deployment-support team to discuss your deployment needs."
+msgstr ""
+
+msgid "Contact Sales"
+msgstr ""
+
 msgid "contains"
 msgstr "내용"
+
+msgid "Continue?"
+msgstr "계속하시겠습니까?"
 
 msgid "Control"
 msgstr "제어"
@@ -513,20 +588,35 @@ msgstr "제어"
 msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
 msgstr "보기 스타일 선택에 따라 Fence에서 바로 모든 폴더에 편리하게 액세스합니다."
 
-#, fuzzy
 msgid "Copy color"
 msgstr "색상 복사"
 
-#, fuzzy
 msgid "Copy Fence color"
 msgstr "울타리 색상 복사"
 
-#, fuzzy
+msgid "Copy from Fence background color"
+msgstr "Fence 배경색상에서 복사하세요."
+
+msgid "Copy from icon tint color"
+msgstr ""
+
+msgid "Copy group style"
+msgstr "그룹 스타일 복사"
+
+msgid "Copy/paste/reset group style"
+msgstr "그룹 스타일을 복사/붙여넣기/재설정합니다."
+
 msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "저작권 © {0}-{1} {2}. 모든 권리 보유."
 
 msgid "Create a Fence™"
 msgstr "Fence 생성"
+
+msgid "Create an empty Fence and then return here to select it."
+msgstr ""
+
+msgid "Create error report package for technical support"
+msgstr "기술 지원을 위한 에러 보고 패키지 생성"
 
 msgid "Create Fence from a Folder"
 msgstr "폴더에서 Fence 생성"
@@ -564,6 +654,15 @@ msgstr "이 아이콘에서 새 Fence 생성"
 msgid "Create new Fence here"
 msgstr "여기에 새 Fence 생성"
 
+msgid "Create Report Package"
+msgstr "보고서 패키지 생성"
+
+msgid "Create tab group"
+msgstr ""
+
+msgid "Create tab group?"
+msgstr ""
+
 msgid ""
 "Creates 2 empty Fence groups for you to start using\n"
 "(Recommended for most casual users)"
@@ -580,14 +679,12 @@ msgstr "추가 사용자 지정"
 msgid "Customize"
 msgstr "사용자 지정"
 
-#, fuzzy
 msgid "Customize icon"
 msgstr "사용자 지정 아이콘"
 
 msgid "Customize your Fence groups"
 msgstr "내 Fences 사용자 지정"
 
-#, fuzzy
 msgid "Customize your Fence groups' background color & style."
 msgstr "울타리 그룹의 배경색 및 스타일을 사용자 지정하세요."
 
@@ -597,15 +694,23 @@ msgstr "사용자 지정..."
 msgid "Customizing your Folder Portal groups"
 msgstr "내 Folder Portals 사용자 지정"
 
+msgid "Daily Backup"
+msgstr "매일 백업"
+
 msgid "Daily Snapshot"
 msgstr "일일 스냅샷"
+
+msgid "Dark"
+msgstr "번역할 텍스트: 어둠"
 
 msgid "Darken Fence area title bars"
 msgstr "타이틀바 Fence 영역 어둡게 하기"
 
-#, fuzzy
 msgid "Darken titlebar areas"
 msgstr "제목 표시줄 영역 어둡게 하기"
+
+msgid "Darker"
+msgstr "번역할 텍스트: 더 어두운"
 
 msgid "Date added to Fence"
 msgstr "Fence에 일자 추가"
@@ -622,14 +727,35 @@ msgstr "촬영일:"
 msgid "days left in your free trial"
 msgstr "무료 체험판 남은 일자:"
 
+msgid "Delete Backup"
+msgstr "백업 삭제"
+
 msgid "Delete rule..."
 msgstr "규칙 삭제..."
 
-msgid "Delete Snapshot"
-msgstr "스냅샷 삭제"
-
 msgid "Delete this rule"
 msgstr "이 규칙 삭제"
+
+msgid "Deployment"
+msgstr ""
+
+msgid "Deployment options"
+msgstr ""
+
+msgid "Deployment Planning & Support (Recommended to start)"
+msgstr ""
+
+msgid "Deployment Planning & Support (Start here)"
+msgstr ""
+
+msgid "Deployment style"
+msgstr ""
+
+msgid "Deployment Target"
+msgstr ""
+
+msgid "Deployments"
+msgstr "배포"
 
 msgid "Description:"
 msgstr "설명:"
@@ -673,6 +799,12 @@ msgstr "세부 정보"
 msgid "Details (Large)"
 msgstr "세부 정보(대형)"
 
+msgid "Device management"
+msgstr ""
+
+msgid "Disable icon tint"
+msgstr ""
+
 msgid "Disable per-Fence transparency"
 msgstr "Fence별 투명도 비활성화"
 
@@ -682,7 +814,12 @@ msgstr "Shift 키를 눌러 언제든지 스냅샷 촬영 비활성화"
 msgid "Disabled"
 msgstr "비활성화"
 
-#, fuzzy
+msgid "Distribution tools"
+msgstr ""
+
+msgid "Do not show this again"
+msgstr "다시 보지 않도록 하십시오"
+
 msgid "Do nothing"
 msgstr "아무것도 안함"
 
@@ -716,8 +853,8 @@ msgstr "내 데스크톱 레이아웃 보존하지 않음"
 msgid "Don't show this message again"
 msgstr "이 메시지 다시 보지 않기"
 
-msgid "Double click Fence titlebar to roll up"
-msgstr "Fence 제목 표시줄 더블 클릭하여 올리기"
+msgid "Double click Fence titlebar to toggle roll-up"
+msgstr "Fence 제목 표시 줄을 더블 클릭하여 롤업을 전환합니다."
 
 msgid ""
 "Double clicking a Fence group's titlebar will cause it to roll-up into its titlebar, saving you space.\n"
@@ -731,42 +868,56 @@ msgstr ""
 msgid "Double clicking will roll-up your Fence!"
 msgstr "더블 클릭하면 Fence가 위로 올라가죠!"
 
+msgid "Double-click blank space on your desktop at any time to quickly hide / reveal your desktop icons."
+msgstr "언제든지 데스크탑의 빈 공간을 더블 클릭하여 빠르게 데스크탑 아이콘을 숨기거나 / 드러내십시오."
+
 msgid "Downloads"
 msgstr "다운로드"
+
+msgid "Drag to combine multiple Fence groups into one, and switch between them quickly and easily with Tabs. Hold shift to re-order or detach."
+msgstr ""
 
 msgid "Draw a rectangle on your desktop and choose \"Create Fence\"."
 msgstr "데스크톱에 사각형을 그리고 \"Fence 생성\"을 선택하십시오."
 
+msgid "Drop to add tab"
+msgstr ""
+
+msgid "Drop to create tab group"
+msgstr ""
+
+msgid "Drop to merge tab groups"
+msgstr ""
+
 msgid "Edit a Rule"
 msgstr "규칙 편집"
 
-#, fuzzy
 msgid "Edit background color"
 msgstr "배경색 편집"
 
-#, fuzzy
 msgid "Edit Background Color"
 msgstr "배경색 편집"
 
-#, fuzzy
 msgid "Edit color..."
 msgstr "색상 편집..."
 
-#, fuzzy
 msgid "Edit Fence color..."
 msgstr "울타리 색상 편집..."
 
-#, fuzzy
 msgid "Edit Fence Style"
 msgstr "울타리 스타일 편집"
 
-#, fuzzy
+msgid "Edit Icon Tint"
+msgstr ""
+
 msgid "Edit title font"
 msgstr "제목 글꼴 편집"
 
-#, fuzzy
 msgid "Edit title font color"
 msgstr "제목 글꼴 색상 편집"
+
+msgid "Email Address"
+msgstr "이메일 주소"
 
 msgid "Enable \"flicking\" icons into Fence groups (intended for touch-enabled systems)"
 msgstr "Fences에 \"깜빡이는\" 아이콘 활성화(터치 활성화 시스템용)"
@@ -774,18 +925,21 @@ msgstr "Fences에 \"깜빡이는\" 아이콘 활성화(터치 활성화 시스�
 msgid "Enable advanced crash reporting"
 msgstr "고급 충돌 보고 활성화"
 
-#, fuzzy
+msgid "Enable advanced logging"
+msgstr "고급 로깅 활성화"
+
 msgid "Enable Chameleon"
 msgstr "Chameleon 활성화"
 
-#, fuzzy
 msgid "Enable crash reporting"
 msgstr "충돌 보고 활성화"
+
+msgid "Enable creating new tabs"
+msgstr ""
 
 msgid "Enable Fences"
 msgstr "Fences 활성화"
 
-#, fuzzy
 msgid "Enable Pages"
 msgstr "페이지 사용"
 
@@ -801,26 +955,29 @@ msgstr "종료"
 msgid "Enter title"
 msgstr "제목 입력"
 
-#, fuzzy
+msgid "Enterprise Distribution"
+msgstr ""
+
 msgid "Enterprise Distribution Testing Tools"
 msgstr "엔터프라이즈 배포 테스트 도구"
 
-#, fuzzy
 msgid "Enterprise Edition"
 msgstr "엔터프라이즈 에디션"
+
+msgid "Exclude (always show) icons not in groups"
+msgstr ""
 
 msgid "Exclude Fence groups docked to edge of the screen"
 msgstr "화면 가장자리에 도킹된 Fence 제외"
 
-#, fuzzy
 msgid "Exclude from quick-hide"
 msgstr "빠른 숨김에서 제외"
 
 msgid "Exclude this Fence group from quick-hide"
 msgstr "이 Fence를 빠른 숨김에서 제외"
 
-msgid "Exclude this icon from Fences' quick-hide"
-msgstr "이 아이콘을 Fences의 빠른 숨김에서 제외"
+msgid "Exclude this icon from Fences quick-hide"
+msgstr "이 아이콘을 Fences 빠른 숨김에서 제외하세요"
 
 msgid "Executable file"
 msgstr "실행 가능 파일"
@@ -828,9 +985,14 @@ msgstr "실행 가능 파일"
 msgid "Exit"
 msgstr "나가기"
 
-#, fuzzy
 msgid "Export Config to File"
 msgstr "파일로 구성 내보내기"
+
+msgid "Export layout & settings to file"
+msgstr ""
+
+msgid "Export your configuration for distribution with installer, on network share, or any preferred method."
+msgstr ""
 
 msgid "Extra large icons"
 msgstr "추가 대형 아이콘"
@@ -846,6 +1008,9 @@ msgstr ""
 "로컬 장치에서 비활성화 실패.\n"
 "\n"
 "도움이 필요하다면 support@stardock.com으로 문의해주시기 바랍니다."
+
+msgid "Fence groups"
+msgstr ""
 
 msgid "Fence Name"
 msgstr "Fence 이름"
@@ -891,6 +1056,9 @@ msgstr ""
 "\n"
 "Fences를 재설치해야 할 수도 있습니다."
 
+msgid "Fences Error Report"
+msgstr "Fences 에러 보고서"
+
 msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
@@ -898,7 +1066,15 @@ msgstr ""
 "Fences의 Folder Portal™ 은 클래식 모드에서 사용할 수 없습니다.\n"
 "Aero를 활성화하여 이 기능을 사용하십시오."
 
-#, fuzzy
+msgid "Fences for Business"
+msgstr "비즈니스용 Fences"
+
+msgid "Fences for Business allows you to buy licenses in bulk, manage your licenses and assign multiple licenses to a single key, while deploying standardized flexibly-locked configurations across your organization."
+msgstr ""
+
+msgid "Fences for Business helps you deploy managed layouts across your organization, suitable for both small-business and complex multi-department enterprise rollouts."
+msgstr ""
+
 msgid ""
 "Fences has detected that Explorer was not closed properly.\n"
 "As a precaution, Fences has been temporarily disabled.\n"
@@ -931,6 +1107,9 @@ msgstr "Fences가 무결성에 문제가 발생했음을 감지했습니다. Fen
 msgid "Fences has not been activated."
 msgstr "Fences가 활성화되지 않았습니다."
 
+msgid "Fences has updated its App Compatibility settings, so that you will no longer see User Account Control prompts while using Fences. Please log off & log on or reboot for this change to take effect."
+msgstr "Fences가 앱 호환성 설정을 업데이트하여 Fences 사용 중에 더 이상 사용자 계정 제어 프롬프트가 표시되지 않습니다. 이 변경 사항이 적용되려면 로그 오프하고 다시 로그온하거나 재부팅해야 합니다."
+
 msgid ""
 "Fences is currently disabled.\n"
 "\n"
@@ -954,22 +1133,8 @@ msgstr ""
 msgid "Fences is not compatible with DeskScapes on Windows XP. Please go to \"Tools\", press the link for \"More Tools...\", and uncheck \"Enable Fences\" then reboot."
 msgstr "Fences는 Windows XP의 DeskScapes와 호환되지 않습니다. \"도구\"로 이동한 후 \"도구 더보기...\" 링크를 눌러 \"Fences 활성화\"의 체크를 해제한 후 재부팅하십시오."
 
-#, fuzzy
 msgid "Fences is not yet loaded."
 msgstr "울타리가 아직 로드되지 않았습니다."
-
-msgid ""
-"Fences' Kiosk Mode helps you protect your desktop's layout & contents from change, which can be helpful in multi-user environments.\n"
-"\n"
-"Kiosk Mode works on a per-user basis and will lock the desktop through reboots, until it is next unlocked. Fences will ask for administrator access when locking and unlocking the desktop, ensuring that only authorized users have access to control the desktop.\n"
-"\n"
-"Kiosk Mode should be used as part of your complete system lock-down plan, and should not replace proper file system access controls and other such protections."
-msgstr ""
-"Fences의 키오스크 모드는 데스크톱 레이아웃과 내용물이 변경되지 않도록 보호해 다중 사용자 환경에서 유용하게 사용됩니다.\n"
-"\n"
-"키오스크 모드는 사용자당 기반으로 작용하며 재부팅을 통해 데스크톱을 잠그며 잠긴 데스크톱은 다음 해제까지 풀리지 않습니다. Fences는 데스크톱을 잠그거나 해제할 때 관리자 액세스를 요청하여 승인된 사용자만 데스크톱 제어에 액세스할 수 있도록 합니다.\n"
-"\n"
-"키오스크 모드는 완전한 시스템 락다운 플랜의 일환으로 사용되어야 하며, 적합한 파일 시스템 액세스 제어나 기타 보호를 대체하지 않습니다."
 
 msgid "Fences license validation failed. Try again?"
 msgstr "Fences 라이선스 인증에 실패했습니다. 다시 시도하시겠습니까?"
@@ -1011,7 +1176,6 @@ msgstr "Fences: 호환성 문제 발견..."
 msgid "Fences: Turn off sorting?"
 msgstr "Fences: 분류를 종료하시겠습니까?"
 
-#, fuzzy
 msgid "Fence™ is a Trademark of {0}."
 msgstr "Fence™는 {0}의 상표입니다."
 
@@ -1036,8 +1200,17 @@ msgstr "필요에 맞게 정확한 기준으로 Fences 규칙을 조정하십시
 msgid "Fine tune the look, feel and behavior of your Fence groups"
 msgstr "Fence의 외형, 느낌과 행동을 미세하게 조정"
 
+msgid "First-Use Backup"
+msgstr "첫 사용 백업"
+
 msgid "First-Use Snapshot"
 msgstr "최초 사용 스냅샷 "
+
+msgid "Fix desktop icon spacing"
+msgstr "바탕화면 아이콘 간격 조정"
+
+msgid "Flat"
+msgstr "평평한"
 
 msgid "FlickSensitivity"
 msgstr "깜빡임 민감도"
@@ -1057,20 +1230,55 @@ msgstr "완전한 시야"
 msgid "General Desktop (No Fence)"
 msgstr "일반 데스크톱(Fence 없음)"
 
+msgid "Generate"
+msgstr ""
+
+msgid "Generate license distributable file"
+msgstr ""
+
+msgid "Generate license file"
+msgstr ""
+
 msgid "Getting started"
 msgstr "시작하기"
 
 msgid "Getting started with Fences"
 msgstr "Fences 시작하기"
 
-msgid "Give snapshot a name"
-msgstr "스냅샷에 이름 지정"
+msgid "Give backup a name"
+msgstr "백업에 이름을 부여하십시오"
 
 msgid "go to"
 msgstr "이동"
 
 msgid "Go to Website"
 msgstr "웹사이트 이동"
+
+msgid "Group Placements"
+msgstr ""
+
+msgid "Group Properties"
+msgstr ""
+
+msgid "Group spacing & snapping"
+msgstr "번역할 텍스트: 그룹 간격 및 스냅핑"
+
+msgid "Groups"
+msgstr ""
+
+msgid "Handle your more complex distribution needs with simple notation, trackable in version control and adaptable to a variety of deployment scenarios."
+msgstr ""
+
+msgid ""
+"Hi\n"
+"Test"
+msgstr ""
+
+msgid "Hide"
+msgstr "숨기기"
+
+msgid "Hide \"Fences for Business\""
+msgstr "\"비즈니스용 Fences\" 숨기기"
 
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "더블 클릭을 통해 바로바로 데스크톱을 숨기고 볼 수 있습니다."
@@ -1093,7 +1301,6 @@ msgstr "프로그램 링크 숨기기"
 msgid "Hide for web links"
 msgstr "웹 링크 숨기기"
 
-#, fuzzy
 msgid "Hide scrollbars when inactive"
 msgstr "비활성 상태일 때 스크롤바 숨기기"
 
@@ -1106,8 +1313,17 @@ msgstr "데스크톱 아이콘에서 바로가기 화살표 숨기기"
 msgid "Hide text on desktop icons"
 msgstr "데스크톱 아이콘에서 텍스트 숨기기"
 
+msgid "Hide titlebar when navigating"
+msgstr "탐색할 때 타이틀바 숨기기"
+
 msgid "Hold Alt and drag/drop any folder onto your desktop to quickly create a Folder Portal. You can also right click any folder and choose \"Show this folder on the desktop\"."
 msgstr "Alt를 누르고 폴더를 드래그 앤 드롭하여 데스크톱에 두면 Folder Portal 을 빠르게 생성합니다. 폴더를 마우스 우측 버튼으로 클릭하고 \"데스크톱에서 이 폴더 보기\"를 선택합니다."
+
+msgid "Horizontal"
+msgstr "수평적"
+
+msgid "Hot Corner"
+msgstr "번역할 텍스트: 핫 코너"
 
 msgid "Hot Keys"
 msgstr "단축키"
@@ -1127,11 +1343,14 @@ msgstr "Folder Portal 보기 스타일을 변경하는 방법"
 msgid "How to Configure Fences"
 msgstr "Fences 환경설정 방법"
 
-msgid "How to create a Folder Portal™ group"
+msgid "How to create a Folder Portal group"
 msgstr "Folder Portal 생성 방법"
 
 msgid "How to create a new desktop page"
 msgstr "새 데스크톱 페이지 생성 방법"
+
+msgid "How to distribute license/settings"
+msgstr ""
 
 msgid "How to exclude individual Fence groups"
 msgstr "개별 Fences 제외 방법"
@@ -1142,6 +1361,9 @@ msgstr "'자세히 보기' Folder Portal 에서 헤더를 숨기거나 표시하
 msgid "How to move icons or Fence groups between desktops"
 msgstr "데스크톱 사이에서 아이콘과 Fences를 이동하는 방법"
 
+msgid "How to quickly navigate up to the root folder"
+msgstr ""
+
 msgid "How to quickly open the folder in a window"
 msgstr "창에서 폴더를 빠르게 여는 방법"
 
@@ -1151,7 +1373,6 @@ msgstr "Folder Portal 제거 방법"
 msgid "How to use"
 msgstr "사용 방법"
 
-#, fuzzy
 msgid "How to use desktop pages"
 msgstr "데스크톱 페이지 사용 방법"
 
@@ -1164,20 +1385,26 @@ msgstr "마우스로 사용하는 방법"
 msgid "How to use with a touch-enabled system"
 msgstr "터치 활성화 시스템으로 사용하는 방법"
 
-#, fuzzy
 msgid "Hue:"
 msgstr "색조:"
 
 msgid "icon"
 msgstr "아이콘"
 
-#, fuzzy
 msgid "Icon opacity"
 msgstr "아이콘 불투명도"
 
-#, fuzzy
 msgid "Icon Opacity"
 msgstr "아이콘 불투명도"
+
+msgid "Icon Order and Placement"
+msgstr ""
+
+msgid "Icon spacing"
+msgstr "아이콘 간격"
+
+msgid "Icon Tint"
+msgstr ""
 
 msgid "Icon transparency && fading Fence groups"
 msgstr "아이콘 투명도 및 Fence 페이딩"
@@ -1248,6 +1475,12 @@ msgstr "...보다 큰 파일 크기의 아이콘"
 msgid "If hidden, unhide my desktop icons when switching pages"
 msgstr "숨길 경우, 페이지 전환 시 데스크톱 아이콘을 숨길 수 없습니다"
 
+msgid "If you have not yet used the option \"Enable advanced logging\" from this menu, we recommend you selecting this and following those instructions first."
+msgstr "만약 당신이 아직 이 메뉴에서 \"고급 로깅 활성화\" 옵션을 사용하지 않았다면, 우리는 먼저 이를 선택하고 그 지시사항을 따르는 것을 권장합니다."
+
+msgid "If you have several different multi-monitor/multi-resolution layout you'd like to deploy, we're here to help."
+msgstr ""
+
 msgid "Ignore for now"
 msgstr "지금 무시하기"
 
@@ -1263,15 +1496,29 @@ msgstr "이미지"
 msgid "Immediately"
 msgstr "즉시"
 
-#, fuzzy
 msgid "Import Config from File"
 msgstr "파일에서 구성 가져오기"
+
+msgid "Import layout & settings from file"
+msgstr ""
+
+msgid "Inherit view mode from parent"
+msgstr "부모로부터 뷰 모드 상속"
+
+msgid "Inside-group icon spacing"
+msgstr "그룹 내 아이콘 간격"
 
 msgid "Installation complete!"
 msgstr "설치 완료!"
 
+msgid "Instructions"
+msgstr ""
+
 msgid "is"
 msgstr "은(는)"
+
+msgid "is now available"
+msgstr "이제 사용 가능합니다"
 
 msgid "Item type"
 msgstr "항목 유형"
@@ -1285,8 +1532,8 @@ msgstr "Fences 2개 생성하기"
 msgid "Just perform auto-layout"
 msgstr "자동 레이아웃 수행"
 
-msgid "Just restore snapshot"
-msgstr "스냅샷 복원"
+msgid "Just restore backup"
+msgstr "그냥 백업 복원하세요"
 
 msgid "Keep groups lined up when moving"
 msgstr "이동 시 Fences 정렬 유지"
@@ -1300,13 +1547,6 @@ msgstr "Fences 여백 유지"
 msgid "Keep rules applied at all times"
 msgstr "항상 규칙이 적용되도록 유지"
 
-msgid "Kiosk mode"
-msgstr "키오스크 모드"
-
-msgid "Kiosk Mode"
-msgstr "키오스크 모드"
-
-#, fuzzy
 msgid "Kiosk Mode (Lock Desktop)"
 msgstr "키오스크 모드(데스크톱 잠금)"
 
@@ -1319,14 +1559,23 @@ msgstr "대형 아이콘"
 msgid "Layout"
 msgstr "레이아웃"
 
+msgid "Layout & settings distribution"
+msgstr ""
+
 msgid "Layout & style"
 msgstr "레이아웃 및 스타일"
 
 msgid "Layout auto-adjustments"
 msgstr "레이아웃 자동 조정 "
 
+msgid "Layout backups"
+msgstr "레이아웃 백업"
+
 msgid "Layout Builder"
 msgstr "레이아웃 빌더"
+
+msgid "Layout management"
+msgstr "레이아웃 관리"
 
 msgid "Layout Name:"
 msgstr "레이아웃 이름:"
@@ -1334,16 +1583,14 @@ msgstr "레이아웃 이름:"
 msgid "Layout snapshots"
 msgstr "레이아웃 스냅샷"
 
-#, fuzzy
-msgid "Layout spacing & snapping"
-msgstr "레이아웃 간격 및 스냅"
-
 msgid "Layout tools and snapshots"
 msgstr "레이아웃 도구 및 스냅샷"
 
-#, fuzzy
-msgid "Left-click the bottom right corner of the taskbar to"
-msgstr "작업 표시줄의 오른쪽 아래 모서리를 마우스 왼쪽 버튼으로 클릭합니다"
+msgid "Learn More"
+msgstr ""
+
+msgid "Left click"
+msgstr "번역할 텍스트: 왼쪽 클릭"
 
 msgid "Legal Information"
 msgstr "법률 정보"
@@ -1354,13 +1601,24 @@ msgstr "적게"
 msgid "less than"
 msgstr "미만"
 
+msgid "License distribution"
+msgstr ""
+
+msgid "License Information, Invoicing and Purchasing"
+msgstr ""
+
+msgid "License Management"
+msgstr ""
+
 msgid "License not yet validated"
 msgstr "라이선스 미인증"
+
+msgid "Licensing"
+msgstr "라이선싱"
 
 msgid "Lightly bounce after switching pages"
 msgstr "페이지 전환 후 가볍게 바운싱"
 
-#, fuzzy
 msgid "Lightness:"
 msgstr "가벼움:"
 
@@ -1394,22 +1652,42 @@ msgstr "불러오기"
 msgid "Loading List..."
 msgstr "목록을 불러오는 중..."
 
+msgid "Local testing tools"
+msgstr ""
+
 msgid "Lock desktop"
 msgstr "데스크톱 잠금"
 
-#, fuzzy
 msgid "Lock Desktop"
 msgstr "데스크톱 잠금"
+
+msgid "Lock desktop upon deployment"
+msgstr ""
 
 msgid "Lock Fences"
 msgstr "Fences 잠금"
 
-msgid "Lock your desktop to protect others from modifying it."
-msgstr "타인이 수정할 수 없도록 데스크톱을 잠가서 보호합니다."
+msgid ""
+"Logging will begin the next time you log in.\n"
+"\n"
+"Please log off and log on or reboot, reproduce the issue at least twice (rebooting again as necessary to show the issue at least a couple of times; the more you can show the issue the better), and then use the \"Create error report package\" menu item to submit a report. Thank you!\n"
+"\n"
+"Once your issue is resolved, don't forget to turn this setting back off for best performance."
+msgstr ""
+"번역할 텍스트: 로깅은 다음 로그인 때 시작됩니다.\n"
+"\n"
+"로그오프 후에 다시 로그인하시거나 재부팅한 다음, 적어도 두 번 이상 문제를 재현해 주세요(문제를 보여주기 위해 필요하다면 다시 재부팅하면 됩니다. 문제를 많이 보여주실수록 더 좋습니다), 그리고 \"오류 보고 패키지 생성\" 메뉴 항목을 사용하여 보고서를 제출해 주세요. 감사합니다!\n"
+"\n"
+"문제가 해결되면, 최상의 성능을 위해 이 설정을 다시 끄는 것을 잊지 마세요."
 
-#, fuzzy
+msgid "Maintain backups and adjust layout settings."
+msgstr "백업을 유지하고 레이아웃 설정을 조정하십시오."
+
 msgid "Maintain backups and adjust your layout settings."
 msgstr "백업을 유지하고 레이아웃 설정을 조정하세요."
+
+msgid "Maintain daily backups (most recent 3 days will be kept)"
+msgstr "번역할 텍스트: 일일 백업 유지 (가장 최근 3일 동안 보관)"
 
 msgid "Maintain sorting"
 msgstr "분류 유지"
@@ -1417,18 +1695,32 @@ msgstr "분류 유지"
 msgid "Make laying out your desktop a snap ; snapping helps keep your Fence groups in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
 msgstr "스냅으로 데스크톱 레이아웃을 실행합니다. 스내핑은 Fences의 열을 유지하고, 여러 아이콘의 크기도 유지합니다. Fences의 레이아웃 도구는 또한 화면 해상도 변경 및 새 모니터를 플러깅했을 때 데스크톱 레이아웃을 유지할 수 있도록 돕습니다."
 
+msgid "Make laying out your desktop a snap ; snapping helps keep your Fences in line, and sized to even multiples of icons. Fences' layout tools also help you preserve your desktop's layout through screen resolution changes and when plugging in new monitors."
+msgstr "당신의 배경화면 레이아웃을 쉽게 만드세요 ; snapping 기능은 Fences을 일렬로 유지하고 아이콘의 정수 배의 크기로 조정하는데 도움이 됩니다. Fences의 레이아웃 도구는 화면 해상도 변경이나 새 모니터를 꽂을 때의 배경화면 레이아웃을 보존하는데도 도움이 됩니다."
+
 msgid "Manage product key"
 msgstr "제품 키 관리"
 
 msgid "Manage sorting rules"
 msgstr "분류 규칙 관리"
 
-#, fuzzy
 msgid "Manage subscription"
 msgstr "구독 관리"
 
+msgid "Managed Deployments"
+msgstr ""
+
 msgid "Medium icons"
 msgstr "중형 아이콘"
+
+msgid "Menu Only"
+msgstr "번역할 텍스트: 메뉴 전용"
+
+msgid "Merge tab groups"
+msgstr ""
+
+msgid "Merge tab groups?"
+msgstr ""
 
 msgid "Midnight"
 msgstr "자정"
@@ -1436,12 +1728,18 @@ msgstr "자정"
 msgid "minutes ago"
 msgstr "분 전"
 
+msgid ""
+"Mismatching file versions detected.\n"
+"A reboot may be required to complete installation."
+msgstr ""
+"일치하지 않는 파일 버전이 감지되었습니다.\n"
+"설치를 완료하려면 재부팅이 필요할 수 있습니다."
+
 msgid "More"
 msgstr "더 보기"
 
-#, fuzzy
-msgid "More adjustments"
-msgstr "추가 조정"
+msgid "More options"
+msgstr "더 많은 옵션"
 
 msgid "More options..."
 msgstr "옵션 더 보기..."
@@ -1451,6 +1749,15 @@ msgstr "이상"
 
 msgid "Mouse over the title of a Fence group and click to rename."
 msgstr "Fence 제목에 마우스를 올려둔 후 클릭해 이름을 변경합니다."
+
+msgid "Move tab to the left"
+msgstr ""
+
+msgid "Move tab to the right"
+msgstr ""
+
+msgid "Move titlebar to the bottom when near the top of the screen"
+msgstr "화면 상단에 가까울 때 제목 표시 줄을 아래로 이동하세요."
 
 msgid "Music & Video"
 msgstr "음악 및 영상"
@@ -1469,6 +1776,15 @@ msgstr "이름 기반 규칙"
 
 msgid "Navigate back"
 msgstr "뒤로 탐색"
+
+msgid "Navigate to root"
+msgstr "루트로 이동하세요"
+
+msgid "Navigate to root folder to rename this Fence"
+msgstr "이 Fence의 이름을 변경하려면 루트 폴더로 이동하세요."
+
+msgid "Navigate up"
+msgstr "위로 이동"
 
 msgid "Never"
 msgstr "없음"
@@ -1494,7 +1810,6 @@ msgstr "새로운 아이콘 및 규칙"
 msgid "new icons should be placed in this Fence: "
 msgstr "새로운 아이콘은 이 Fence에 배치되어야 합니다: "
 
-#, fuzzy
 msgid "New in Fences 5! Reduce visual clutter by blending your icons with the wallpaper."
 msgstr "펜스 5의 새로운 기능! 아이콘을 배경화면과 혼합하여 시각적 혼란을 줄이세요."
 
@@ -1504,8 +1819,17 @@ msgstr "새 이름:"
 msgid "New Rule"
 msgstr "새 규칙"
 
+msgid "Next steps"
+msgstr ""
+
 msgid "No"
 msgstr "아니요"
+
+msgid "No groups found"
+msgstr "그룹이 없습니다"
+
+msgid "No groups found."
+msgstr ""
 
 msgid "None"
 msgstr "없음"
@@ -1544,6 +1868,12 @@ msgstr "화면 수"
 msgid "Number of times opened"
 msgstr "열린 시간 수"
 
+msgid "Off"
+msgstr "꺼짐"
+
+msgid "Ok"
+msgstr ""
+
 msgid "OK"
 msgstr "확인"
 
@@ -1559,14 +1889,17 @@ msgstr "주말"
 msgid "On first run, Fences gave the opportunity to automatically sort your desktop icons into a few basic categories, to make it easier to start using the program. Would you like to perform this auto-layout again?"
 msgstr "최초 실행 시 Fences는 자동으로 데스크톱 아이콘을 몇 가지 기본 카테고리로 분류하여 프로그램 활용을 더욱 간편하게 만들어 드립니다. 이 레이아웃을 다시 실행하시겠습니까?"
 
+msgid "On monitor configuration changes..."
+msgstr "모니터 설정 변경 시..."
+
 msgid "On Mouseover"
 msgstr "마우스 갖다 대기"
 
-msgid "On screen resolution changes..."
-msgstr "화면 해상도 변경..."
-
 msgid "on the Desktop"
 msgstr "데스크톱에서"
+
+msgid "Only Folder Portal groups found."
+msgstr "번역할 텍스트: Folder Portal 그룹만 발견되었습니다."
 
 msgid ""
 "Only TrueType fonts can be used.\n"
@@ -1592,7 +1925,6 @@ msgstr "더블 클릭하여 Folder Portal 빠르게 열기"
 msgid "Open this folder"
 msgstr "이 폴더 열기"
 
-#, fuzzy
 msgid "Options"
 msgstr "옵션"
 
@@ -1626,17 +1958,18 @@ msgstr "기타 유형"
 msgid "Outline Fence areas"
 msgstr "Fence 영역 아웃라인"
 
-#, fuzzy
 msgid "Output multi-monitor debug report"
 msgstr "멀티 모니터 디버그 보고서 출력"
 
 msgid "outside of"
 msgstr "의 외부"
 
+msgid "Packaged for distribution with installer, on network share, or any preferred method."
+msgstr ""
+
 msgid "Page switching"
 msgstr "페이지 전환"
 
-#, fuzzy
 msgid "Pages"
 msgstr "페이지"
 
@@ -1646,19 +1979,18 @@ msgstr "왼쪽 가장자리 패널"
 msgid "Panels on right edge"
 msgstr "오른쪽 가장자리 패널"
 
-#, fuzzy
 msgid "Paste color"
 msgstr "색상 붙여넣기"
 
-#, fuzzy
 msgid "Paste Fence color"
 msgstr "울타리 색상 붙여넣기"
 
-#, fuzzy
-msgid "Peek"
-msgstr "Peek"
+msgid "Paste group style"
+msgstr "번역할 텍스트: 그룹 스타일 붙여넣기"
 
-#, fuzzy
+msgid "Peek"
+msgstr "번역할 텍스트: 피크"
+
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
 msgstr "작업 표시줄, 핫코너 또는 단축키를 사용해 펜스 그룹을 즉시 상단으로 불러올 수 있습니다."
 
@@ -1668,7 +2000,6 @@ msgstr "Fence별 사용자 지정"
 msgid "Perform automatic layout"
 msgstr "자동 레이아웃 수행"
 
-#, fuzzy
 msgid "Personalization"
 msgstr "개인화"
 
@@ -1677,6 +2008,9 @@ msgstr "개인화"
 
 msgid "Photos"
 msgstr "사진"
+
+msgid "Pick color from screen"
+msgstr "화면에서 색상 선택"
 
 msgid "pixels apart when moving"
 msgstr "이동 시 픽셀 분할"
@@ -1696,11 +2030,14 @@ msgstr "파일 크기에 기반해 새로운 아이콘 배치..."
 msgid "Place new icons based on what program created it..."
 msgstr "아이콘 생성 프로그램에 기반하여 새로운 아이콘 배치..."
 
+msgid "Please click here to be in touch with our deployments team."
+msgstr ""
+
 msgid "Please limit title length to 500 characters or less."
 msgstr "제목은 500자 미만으로 제한해 주십시오."
 
-msgid "Please navigate up to root folder to rename this Fence"
-msgstr "최상위 폴더를 탐색하여 이 Fence의 이름을 다시 설정하십시오"
+msgid "Please log off and log on to see the changed effect."
+msgstr "변경된 효과를 보려면 로그 오프하고 다시 로그인하십시오."
 
 msgid "Please note:"
 msgstr "참고:"
@@ -1714,8 +2051,25 @@ msgstr "이슈를 재현할 때 나타나는 충돌 보고 대화에 *귀하의 
 msgid "Please select another theme to restore your Fence group' appareance."
 msgstr "Fences의 외형을 복원할 또다른 테마를 선택해 주십시오."
 
+msgid ""
+"Please upload the file \"{0}\" at \"{1}\" to our web upload at \"{2}\", and then let our team know the upload is complete.\n"
+"\n"
+"Thank you for your help and patience while we look in to your issue.\n"
+"- The Stardock Fences Team"
+msgstr ""
+"다음 위치 \"{1}\"에서 파일 \"{0}\"을 저희 웹 업로드 위치 \"{2}\"에 업로드 해주시고, 업로드 완료를 우리 팀에 알려 주시기 바랍니다.\n"
+"\n"
+"문제를 조사하는 동안 도와주시고 기다려 주셔서 감사합니다.\n"
+"- Stardock Fences 팀"
+
+msgid "Positions"
+msgstr ""
+
 msgid "Power-up your desktop"
 msgstr "데스크톱 전원 켜기"
+
+msgid "Pre-Install Backup"
+msgstr "설치 전 백업"
 
 msgid "Pre-Install Snapshot"
 msgstr "사전 설치 스냅샷"
@@ -1723,14 +2077,17 @@ msgstr "사전 설치 스냅샷"
 msgid "Pre-Install snapshot not found."
 msgstr "사전 설치 스냅샷을 찾을 수 없습니다."
 
-msgid "Preserve my desktop layout by scaling my Fence groups"
-msgstr "내 Fences를 확장해 데스크톱 레이아웃을 유지"
+msgid "Preserve my layout by scaling my Fence groups (legacy)"
+msgstr "나의 Fence 그룹을 스케일링하여 레이아웃을 보존하십시오 (레거시)"
 
 msgid "Pro tip! The quickest way edit Fences' settings is to right-click the desktop and choose \"Configure Fences\"."
 msgstr "프로 팁! Fences 설정을 가장 빠르게 편집하는 방법은 데스크톱을 마우스 오른쪽 버튼으로 클릭한 후 \"Fences 환경설정\"을 선택하는 것입니다."
 
-msgid "Problem deleting snapshot."
-msgstr "스냅샷 삭제 중 문제 발생."
+msgid "Problem deleting backup."
+msgstr "백업 삭제 문제."
+
+msgid "Problem description"
+msgstr "문제 설명"
 
 msgid "Problem during installation:"
 msgstr "설치 중 문제 발생:"
@@ -1756,11 +2113,26 @@ msgstr "구매"
 msgid "Purchase ({0})"
 msgstr "구매 ({0})"
 
+msgid "Purchase additional licenses"
+msgstr ""
+
+msgid "Purchaser email"
+msgstr ""
+
+msgid "Quick-hide"
+msgstr "빠른 숨기기"
+
 msgid "quick-hide activated"
 msgstr "빠른 숨김 활성화"
 
+msgid "Re-capture..."
+msgstr "다시 캡처..."
+
 msgid "Recommended for advanced users"
 msgstr "전문 사용자들에게 권장"
+
+msgid "Recommended for use on all systems, single or multi-monitor. Remembers your Fence group positions on a per-resolution/per-monitor-configuration basis, so that your layout is always just how you left it."
+msgstr "모든 시스테므, 단일 또는 멀티 모니터에서 사용하기를 추천합니다. 해상도/모니터 구성별로 Fence 그룹 위치를 기억하여 배치가 항상 마지막에 남겨둔 그대로 유지됩니다."
 
 msgid "Refresh"
 msgstr "새로고침"
@@ -1783,6 +2155,9 @@ msgstr "데스크톱에서 Fence를 제거하고 대표 폴더를 삭제"
 msgid "Remove rule?"
 msgstr "규칙을 제거하시겠습니까? "
 
+msgid "Remove tab from group"
+msgstr ""
+
 msgid "Remove this Folder Portal"
 msgstr "이 Folder Portal 제거"
 
@@ -1795,6 +2170,9 @@ msgstr "다시 이름 짓기"
 msgid "Rename a Fence"
 msgstr "Fence 이름 다시 짓기"
 
+msgid "Rename Backup"
+msgstr "백업 이름 변경"
+
 msgid "Rename Fence"
 msgstr "Fence 이름 다시 짓기"
 
@@ -1803,9 +2181,6 @@ msgstr "규칙 이름 다시 짓기"
 
 msgid "Rename rule..."
 msgstr "규칙 이름 다시 짓기..."
-
-msgid "Rename Snapshot"
-msgstr "스냅샷 이름 다시 짓기"
 
 msgid "Rename..."
 msgstr "다시 이름 짓기..."
@@ -1816,23 +2191,32 @@ msgstr "Fence를 선택한 후 위/아래 화살표를 사용해 Fences의 순�
 msgid "Re-order your Rules"
 msgstr "내 규칙 재정리"
 
+msgid "Require clicking headerbar to expand group"
+msgstr "그룹을 확장하려면 헤더바를 클릭해야 합니다."
+
+msgid "Require confirmation before creating new tabs"
+msgstr ""
+
+msgid "Require slight delay over headerbar to expand group"
+msgstr "헤더바 위에서 그룹을 확장하기 위해 약간의 지연이 필요합니다"
+
 msgid "Reset"
 msgstr "초기화"
 
 msgid "Reset all individually-customized Fences"
 msgstr "개별 사용자 지정된 모든 Fences 초기화"
 
-#, fuzzy
 msgid "Reset all to default"
 msgstr "모두 기본값으로 재설정"
 
-#, fuzzy
 msgid "Reset color"
 msgstr "색깔 바꾸기"
 
-#, fuzzy
 msgid "Reset Fence color"
 msgstr "울타리 색상 재설정"
+
+msgid "Reset icon tint"
+msgstr ""
 
 msgid "Reset rule to default"
 msgstr "규칙을 기본으로 초기화"
@@ -1843,12 +2227,11 @@ msgstr "규칙을 기본으로 초기화..."
 msgid "Reset rule?"
 msgstr "규칙을 초기화하시겠습니까?"
 
-msgid "Reset saved settings for other screen resolutions"
-msgstr "저장된 설정을 다른 화면 해상도로 초기화"
-
-#, fuzzy
 msgid "Reset this group's customization"
 msgstr "이 그룹의 사용자 지정 재설정"
+
+msgid "Reset this group's style"
+msgstr "이 그룹의 스타일을 재설정하세요."
 
 msgid "Reset to default"
 msgstr "기본으로 초기화"
@@ -1856,34 +2239,29 @@ msgstr "기본으로 초기화"
 msgid "Reset to defaults"
 msgstr "기본으로 초기화"
 
-#, fuzzy
+msgid "Reset view to inherit parent"
+msgstr "부모로부터 상속하는 뷰를 재설정하세요."
+
+msgid "Restore Backup"
+msgstr "백업 복원"
+
 msgid "Restore color when desktop is active"
 msgstr "데스크톱이 활성화되어 있을 때 색상 복원"
 
-#, fuzzy
 msgid "Restore color when desktop is in use"
 msgstr "데스크톱 사용 시 색상 복원"
 
-#, fuzzy
 msgid "Restore color when mouse is over a Fence group"
 msgstr "마우스가 울타리 그룹 위에 있을 때 색상 복원하기"
 
-#, fuzzy
 msgid "Restore color when mouse is over group"
 msgstr "마우스가 그룹 위에 있을 때 색상 복원"
-
-msgid "Restore Snapshot"
-msgstr "스냅샷 복원"
-
-msgid "Re-take snapshot..."
-msgstr "스냅샷 재촬영..."
 
 msgid "Reverse order"
 msgstr "역순"
 
-#, fuzzy
-msgid "Right-click the bottom right corner of the taskbar to"
-msgstr "작업 표시줄의 오른쪽 아래 모서리를 마우스 오른쪽 버튼으로 클릭합니다"
+msgid "Right click"
+msgstr "번역할 텍스트: 마우스 오른쪽 버튼을 클릭"
 
 msgid "Roll up Fence groups placed on edge of screen"
 msgstr "화면 가장자리에 위치한 Fences 올리기"
@@ -1894,24 +2272,24 @@ msgstr "Fences를 타이틀바로 올리고 마우스를 갖다댈 때만 보이
 msgid "Roll up Fences"
 msgstr "Fences 올리기"
 
-#, fuzzy
 msgid "Rollup"
 msgstr "롤업"
 
 msgid "Roll-up Fence"
 msgstr "Fences 올리기"
 
-#, fuzzy
 msgid "Round corner of Fence areas"
 msgstr "울타리 영역의 둥근 모서리"
 
 msgid "Round corners of Fence areas"
 msgstr "Fence 영역의 둥근 코너"
 
+msgid "Rounded"
+msgstr "번역할 텍스트: 둥근"
+
 msgid "Rule names must be less than 255 characters long"
 msgstr "규칙 이름은 255자 이하여야 합니다."
 
-#, fuzzy
 msgid "Rules"
 msgstr "규칙"
 
@@ -1927,14 +2305,35 @@ msgstr "포화도:"
 msgid "Save"
 msgstr "저장"
 
+msgid "Save / Restore a backup"
+msgstr "백업 저장 / 복원"
+
+msgid "Save backup"
+msgstr "백업 저장"
+
+msgid "Saving of backup failed."
+msgstr "백업 저장에 실패했습니다."
+
 msgid "Saving of snapshot failed."
 msgstr "스냅샷 저장 실패."
+
+msgid "Schedule an introduction call"
+msgstr ""
 
 msgid "Screens"
 msgstr "화면"
 
+msgid "Segmented"
+msgstr "분할된"
+
+msgid "Select icon tint color"
+msgstr ""
+
 msgid "Send certain file types to different places"
 msgstr "특정 파일 유형을 다른 위치로 전송"
+
+msgid "Send inquiry"
+msgstr ""
 
 msgid "Send new %s to a particular Fence"
 msgstr "새로운 %s를(을) 특정 Fence로 전송"
@@ -1942,21 +2341,47 @@ msgstr "새로운 %s를(을) 특정 Fence로 전송"
 msgid "Send new %s to this Fence"
 msgstr "새로운 %s를(을) 이 Fence로 전송"
 
+msgid "Send us a message"
+msgstr ""
+
 msgid "Sensitivity:"
 msgstr "민감도:"
+
+msgid "Serial number"
+msgstr ""
 
 msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "페이지의 고정된 숫자를 설정하여 마지막에 도달하도록 행갈이 수행"
 
+msgid ""
+"Setting updated.\n"
+"\n"
+"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+msgstr ""
+"번역할 텍스트: 설정이 업데이트되었습니다.\n"
+"\n"
+"그룹의 제목 표시 줄을 다시 상단으로 이동시키려면, 그룹을 상단 가장자리에서 떨어뜨린 후 다시 갖다 놓으십시오."
+
+msgid ""
+"Setting updated.\n"
+"\n"
+"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
+msgstr ""
+"설정이 업데이트되었습니다.\n"
+"\n"
+"이 그룹의 타이틀바를 다시 상단으로 이동시키려면, 이 그룹을 상단 가장자리에서 떨어트린 후 다시 이동시키십시오."
+
 msgid "Settings"
 msgstr "설정"
 
-#, fuzzy
 msgid "Shift"
 msgstr "쉬프트"
 
 msgid "Shortcut (Link)"
 msgstr "바로가기(링크)"
+
+msgid "Show controls in header on mouseover"
+msgstr "마우스오버시 헤더에 컨트롤 표시"
 
 msgid "Show desktop (press & hold)"
 msgstr "데스크톱 표시(길게 누르기)"
@@ -1967,15 +2392,12 @@ msgstr "데스크톱 표시(토글)"
 msgid "Show desktop icons"
 msgstr "데스크톱 아이콘 표시"
 
-#, fuzzy
 msgid "Show desktop in full color when in use"
 msgstr "사용 중일 때 바탕 화면을 풀 컬러로 표시"
 
-#, fuzzy
 msgid "Show Fence groups in full color on mouseover"
 msgstr "마우스 오버 시 울타리 그룹을 풀 컬러로 표시"
 
-#, fuzzy
 msgid "Show Fences"
 msgstr "Fences 표시"
 
@@ -1985,85 +2407,62 @@ msgstr "Fences 표시(길게 누르기)"
 msgid "Show Fences (toggle)"
 msgstr "Fences 표시(토글)"
 
-msgid "Show Fences (toggle): Leave Fences on top until next hotkey press, even when switching apps."
-msgstr "Fences 표시(토글): 다음 단축키를 누를 때까지 앱을 전환해도 Fences가 상단에 뜨도록 합니다."
+msgid "Show Fences by clicking the lower right corner of your screen"
+msgstr "화면의 오른쪽 하단 모서리를 클릭하여 Fences를 표시하세요."
 
-#, fuzzy
-msgid "Show Fences by clicking the far right edge of your taskbar"
-msgstr "작업 표시줄의 맨 오른쪽 가장자리를 클릭하여 Fences를 표시하세요."
-
-#, fuzzy
 msgid "Show Fences with hotkeys"
 msgstr "단축키로 Fences 표시"
 
-#, fuzzy
 msgid "Show Headers"
 msgstr "헤더 표시"
 
-#, fuzzy
 msgid "Show icon as a running task"
 msgstr "실행 중인 작업으로 아이콘 표시"
 
-#, fuzzy
 msgid "Show on all pages"
 msgstr "모든 페이지에 표시"
 
-#, fuzzy
+msgid "Show per-Fence custom colors in segment view"
+msgstr "세그먼트 뷰에서 Fence별 사용자 정의 색상 표시"
+
 msgid "Show the full desktop"
 msgstr "전체 데스크톱 표시"
 
-#, fuzzy
 msgid "Show the full desktop (classic)"
 msgstr "전체 데스크톱 표시(클래식)"
 
-#, fuzzy
 msgid "Show the full desktop (fast)"
 msgstr "전체 데스크톱 표시(빠른)"
 
-#, fuzzy
 msgid "Show this Fence group on all pages"
 msgstr "모든 페이지에 이 울타리 그룹 표시"
 
 msgid "Show this folder on the desktop"
 msgstr "데스크톱에서 이 폴더 보기"
 
-#, fuzzy
 msgid "Show title bars on Fence areas"
 msgstr "울타리 영역에 제목 표시줄 표시"
 
-#, fuzzy
 msgid "Show titlebar buttons on Fence areas on mouseover"
 msgstr "마우스 오버 시 울타리 영역에 제목 표시줄 버튼 표시"
 
-#, fuzzy
+msgid "Show titlebar controls on inactive tabs"
+msgstr ""
+
 msgid "Show titlebar controls on mouseover"
 msgstr "마우스 오버 시 제목 표시줄 컨트롤 표시"
+
+msgid "Simplified configuration notation is available to plan and maintain more complex distributions for your organization, trackable in version control and adaptable to a variety of scenarios."
+msgstr ""
 
 msgid "Size"
 msgstr "크기"
 
+msgid "Small Business Distribution"
+msgstr ""
+
 msgid "Snapping is enabled in the free version of Fences. Purchasing this feature allows you to customize snapping."
 msgstr "스내핑은 Fences 무료 버전에서 활성화할 수 있습니다. 이 기능을 구매하면 스내핑을 사용자 지정할 수 있습니다."
-
-msgid "Snapshot deleted"
-msgstr "스냅샷 제거됨"
-
-msgid "Snapshot Name:"
-msgstr "스냅샷 이름:"
-
-msgid "Snapshot taken!"
-msgstr "스냅샷 촬영 완료!"
-
-msgid "Snapshot Title"
-msgstr "스냅샷 제목"
-
-#, fuzzy
-msgid "Snapshots"
-msgstr "스냅샷"
-
-#, fuzzy
-msgid "Snapshots && layout"
-msgstr "스냅샷 및 레이아웃"
 
 msgid "Snapshot-taking canceled."
 msgstr "스냅샷 촬영을 취소했습니다."
@@ -2080,7 +2479,6 @@ msgstr "내 아이콘 분류"
 msgid "Space"
 msgstr "공간"
 
-#, fuzzy
 msgid "Speed up Windows' built-in Show Desktop functionality (\"WinKey+D\")"
 msgstr "Windows의 기본 제공 데스크톱 표시 기능(\"WinKey+D\") 속도 향상"
 
@@ -2089,6 +2487,9 @@ msgstr "Stardock Application Services를 시작할 수 없습니다. (등록 콜
 
 msgid "Stardock Application Services was unable to start. You may need to reinstall Fences. If this problem persists, please contact Stardock customer support."
 msgstr "Stardock Application Services를 시작할 수 없습니다. Fences를 재설치해야 할 수도 있습니다. 이 문제가 지속된다면, Stardock 고객 지원팀으로 문의해 주십시오."
+
+msgid "Stardock Fences: File version mismatch"
+msgstr "Stardock Fences: 파일 버전 불일치"
 
 msgid "Start using Fences"
 msgstr "Fences 시작하기"
@@ -2099,8 +2500,11 @@ msgstr "Fences를 시작하세요!"
 msgid "starts with"
 msgstr "시작하기"
 
-msgid "Store my Fence group positions on a per-screen-resolution basis"
-msgstr "스크린별 해상도 기반으로 내 Fences 위치 저장"
+msgid "Store my Fence group positions on a per-screen-resolution basis (legacy)"
+msgstr "화면 해상도별로 나의 Fence 그룹 위치를 저장하세요 (레거시)"
+
+msgid "Store my layout on a per-monitor-configuration basis"
+msgstr "각 모니터 구성마다 내 레이아웃을 저장하세요."
 
 msgid ""
 "Stored screen-resolution information has been reset.\n"
@@ -2120,8 +2524,17 @@ msgstr ""
 "\n"
 "화면 해상도를 변경한 다음에는 Fences가 새로운 화면 해상도에 맞추어 조정됩니다."
 
+msgid "Subfolders inherit view mode from parent"
+msgstr "번역할 텍스트: 하위폴더는 부모에서 보기 모드를 상속합니다."
+
 msgid "Suffix"
 msgstr "접미"
+
+msgid "Support Forums"
+msgstr "지원 포럼"
+
+msgid "Swap contents of Monitors {0} and {1}"
+msgstr "모니터 {0}와 {1}의 내용을 교환하세요."
 
 msgid "Switch pages by pulling edge of screen with mouse"
 msgstr "마우스로 화면 가장자리를 당겨 페이지 전환"
@@ -2138,6 +2551,12 @@ msgstr "마우스 중앙 버튼 드래그로 페이지 전환"
 msgid "Switch pages with two-finger drag (touch-systems)"
 msgstr "손가락 두 개를 사용한 드래그로 페이지 전환(터치 시스템)"
 
+msgid "Switch tabs on mouseover"
+msgstr ""
+
+msgid "Switch tabs on mouseover after a short delay"
+msgstr ""
+
 msgid "Switch to another page on your touch-enabled system, drag your desktop left or right using two-fingers."
 msgstr "터치 활성화 시스템에서 다른 페이지로 전환하려면, 손가락 두 개를 사용하여 데스크톱을 왼쪽이나 오른쪽으로 드래그합니다."
 
@@ -2147,11 +2566,26 @@ msgstr "키보드를 사용하여 다른 페이지로 전환하려면, 클릭하
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "마우스를 사용하여 다른 페이지로 전환하고, 데스크톱의 왼쪽 또는 오른쪽 가장자리를 잡아 당깁니다. 또는 마우스 버튼 두 개를 누른 후 데스크톱 아무 곳이나 드래그하거나, 비슷하게 마우스 중앙 버튼을 사용하여 드래그할 수 있습니다."
 
+msgid "Tab groups"
+msgstr ""
+
+msgid "Tab Style"
+msgstr ""
+
+msgid "Tabs"
+msgstr ""
+
+msgid "Tabs help keep your desktop tidy, organized and quickly accessible."
+msgstr ""
+
+msgid "Take a new backup before restoring this configuration"
+msgstr "이 구성을 복원하기 전에 새로운 백업을 가져오십시오."
+
 msgid "Take a new snapshot before performing auto-layout"
 msgstr "자동 레이아웃 수행 전 새로운 스냅샷 촬영"
 
-msgid "Take a new snapshot before restoring this snapshot"
-msgstr "이 스냅샷 복원 전 새로운 스냅샷 촬영"
+msgid "Take backup before restoring?"
+msgstr "복원하기 전에 백업을 받으시겠습니까?"
 
 msgid "Take snapshot"
 msgstr "스냅샷 촬영"
@@ -2159,25 +2593,26 @@ msgstr "스냅샷 촬영"
 msgid "Take snapshot before applying?"
 msgstr "적용하기 전에 스냅샷을 촬영하시겠습니까?"
 
-msgid "Take snapshot before restoring?"
-msgstr "복원하기 전에 스냅샷을 촬영하시겠습니까?"
-
 msgid "Target-based rules"
 msgstr "대상 기반 규칙"
 
-#, fuzzy
-msgid "Taskbar Hot-Corner"
-msgstr "작업 표시줄 핫 코너"
-
-#, fuzzy
 msgid "Taskbar Icon"
 msgstr "작업 표시줄 아이콘"
+
+msgid "Test lock desktop"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
 
 msgid "Text file"
 msgstr "텍스트 파일"
 
 msgid "the general desktop"
 msgstr "일반 데스크톱"
+
+msgid "The group's placement on the desktop and other properties will remain locked."
+msgstr ""
 
 msgid "The icon's name"
 msgstr "아이콘 이름"
@@ -2203,25 +2638,31 @@ msgstr "규칙을 생성할 수 있는 최대 수(%i)에 도달했습니다. 다
 msgid "The snapshots title must be less than 255 characters long"
 msgstr "스냅샷 제목은 255자 이하여야 합니다."
 
-msgid ""
-"There are several ways to create a Folder Portal™ group:\n"
-"\n"
-"1. Hold Alt while drag/dropping a folder on to your desktop.\n"
-"\n"
-"2. Draw a rectangle on your desktop. Choose \"Create Folder Portal™ Here\" from the menu that appears.\n"
-"\n"
-"3. Right click any folder and choose the option \"Show this folder on the desktop\"."
+msgid "There appears to be an issue with your installation. You may need to reinstall Fences."
 msgstr ""
-"Folder Portal™ 은 다양한 방법으로 생성할 수 있습니다:\n"
+
+msgid ""
+"There are several ways to create a Folder Portal group:\n"
 "\n"
-"1. Alt 키를 누른 상태에서 데스크탑으로 폴더를 드래그 앤 드롭합니다.\n"
+"1. Draw a rectangle on your desktop. Choose \"Create Folder Portal Here\" from the menu that appears.\n"
 "\n"
-"2. 데스크톱에 사각형을 그립니다. 나타나는 메뉴에서 \"여기에 Folder Portal™ 생성\"을 선택합니다.\n"
+"2. Right click any folder and choose the option \"Show this folder on the desktop\" from \"More options\".\n"
 "\n"
-"3. 폴더를 마우스 우측 버튼으로 클릭하고 \"데스크톱에서 이 폴더 보기\" 옵션을 선택합니다."
+"3. Drag/drop a folder on to your desktop while holding Alt."
+msgstr ""
+"폴더 포털 그룹을 생성하는 몇 가지 방법이 있습니다:\n"
+"\n"
+"1. 데스크톱에서 사각형을 그립니다. 나타나는 메뉴에서 \"여기에 Folder Portal 생성\"을 선택합니다.\n"
+"\n"
+"2. 어떤 폴더든 오른쪽 클릭하고 \"더 많은 옵션\"에서 \"이 폴더를 데스크톱에 표시\" 옵션을 선택합니다.\n"
+"\n"
+"3. Alt를 누른 상태에서 폴더를 데스크톱에 드래그 앤 드롭합니다."
 
 msgid "There was a problem resetting your settings. Please try again."
 msgstr "설정 초기화 중 문제가 발생했습니다. 다시 시도해 주십시오."
+
+msgid "There was an issue opening the link. Please visit:"
+msgstr ""
 
 msgid ""
 "They're still here! Double clicking blank space on your desktop will make your icons appear and disappear. Double click again to reveal.\n"
@@ -2244,11 +2685,11 @@ msgstr ""
 "계속하시겠습니까?"
 
 msgid ""
-"This action will update this snapshot to reflect your current desktop setup.\n"
+"This action will update this backup to reflect your current desktop configuration.\n"
 "\n"
 "Continue?"
 msgstr ""
-"이 활동은 현재 데스크톱 설정을 이 스냅샷에 반영하여 업데이트합니다.\n"
+"이 작업은 현재 데스크탑 구성을 반영하여 이 백업을 업데이트할 것입니다.\n"
 "\n"
 "계속하시겠습니까?"
 
@@ -2270,16 +2711,26 @@ msgstr "이 기능은 Windows XP에서는 사용할 수 없습니다."
 msgid "This feature requires Windows 7 or better."
 msgstr "이 기능은 Windows 7 이상의 운영 체제를 필요로 합니다."
 
-#, fuzzy
+msgid "This Fence group's contents will be locked when deployed"
+msgstr ""
+
+msgid "This Fence group's contents will now be unlocked when deployed"
+msgstr ""
+
 msgid "This Fence will be reset to match the rest of your Fence groups."
 msgstr "이 울타리는 나머지 울타리 그룹과 일치하도록 재설정됩니다."
+
+msgid "This setting was designed for single monitor systems, and is not recommended for use. We recommend switching to our new per-monitor-configuration system."
+msgstr "이 설정은 단일 모니터 시스템을 위해 설계되었으며 사용하는 것을 권장하지 않습니다. 새로운 화면별 구성 설정 시스템으로 전환하는 것을 추천합니다."
+
+msgid "This will create a package of your current Fences settings, Fences error logs, Fences layout backups, and any Fences crash captures so that you may upload it to technical support."
+msgstr "이것은 현재의 Fences 설정, Fences 오류 로그, Fences 레이아웃 백업, 그리고 Fences 충돌 캡처를 패키지화하여 기술 지원에 업로드할 수 있게 해줍니다."
 
 msgid "This will reset {0} to its default factory settings. Continue?"
 msgstr "이는 {0}을(를) 기본 공장 설정으로 초기화합니다. 계속하시겠습니까?"
 
-#, fuzzy
-msgid "Tidle"
-msgstr "Tidle"
+msgid "Tilde"
+msgstr "번역할 텍스트: 틸드"
 
 msgid "Time-based rules"
 msgstr "시간 기반 규칙"
@@ -2287,10 +2738,24 @@ msgstr "시간 기반 규칙"
 msgid "times"
 msgstr "시간"
 
+msgid "Tip: Double click blank space in a Folder Portal, or hold shift and double click its titlebar to quickly open a Folder Portal in Explorer."
+msgstr "팁: Folder Portal의 빈 공간을 더블 클릭하거나, shift를 누른 채로 제목표시줄을 더블 클릭하여 Explorer에서 Folder Portal을 빠르게 열 수 있습니다."
+
+msgid "Tip: Hold shift when clicking \"Up\" to navigate to the root folder quickly."
+msgstr "팁: \"Up\"을 클릭할 때 Shift를 누르면 루트 폴더로 빠르게 이동할 수 있습니다."
+
+msgid "Tip: You can rearrange tabs by holding shift and then dragging a tab."
+msgstr ""
+
+msgid "Tip: You can remove a tab by holding shift and then dragging the tab far away from the tab group."
+msgstr ""
+
 msgid "Title:"
 msgstr "제목:"
 
-#, fuzzy
+msgid "Titlebar position"
+msgstr "제목 표시 줄 위치"
+
 msgid "To adjust the appearance of a particular Fence, choose a Fence from the dropdown labeled \"All groups\" above, and edit its color settings using the usual controls."
 msgstr "특정 울타리의 모양을 조정하려면 위의 '모든 그룹'이라고 표시된 드롭다운에서 울타리를 선택하고 일반적인 컨트롤을 사용하여 색상 설정을 편집합니다."
 
@@ -2318,6 +2783,9 @@ msgstr "새로운 데스크톱 페이지를 생성하려면, 아이콘이나 Fen
 msgid "To customize this rule, please create a new rule using the \"Choose from more icon types\" link on the previous screen."
 msgstr "이 규칙을 사용자 지정하려면, 이전 화면에서 \"더 많은 아이콘 유형에서 선택하기\"를 사용하여 새 규칙을 생성해 주십시오."
 
+msgid "To fine tune, please contact support with your needs."
+msgstr ""
+
 msgid "To hide the header in a details view, click the menu icon that appears in the top left corner of the Fence group when the mouse is over it, and choose \"Hide details header\" from the \"View\" menu."
 msgstr "세부 정보 보기의 헤더를 숨기려면, Fence에 마우스를 가져다 댈 때 좌측 상단 모서리에 나타나는 메뉴 아이콘을 클릭한 후 \"보기\" 메뉴에서 \"세부 정보 헤더 숨기기\"를 선택합니다."
 
@@ -2336,15 +2804,14 @@ msgstr "아이콘이나 Fence를 페이지간 이동이 가능하게 하려면, 
 msgid "To open the folder associated with a Folder Portal quickly, hold control and double click the Folder Portal's titlebar, or blank space within the Folder Portal itself."
 msgstr "Folder Portal 과 관련된 폴더를 빠르게 열려면, Control 키를 누르며 Folder Portal의 제목 표시줄을 더블 클릭하거나 Folder Portal 자체에서 공백을 클릭합니다."
 
+msgid "To quickly navigate upward to the root folder of a Folder Portal, hold \"Shift\" when clicking the \"Up\" icon, or right click the \"Up\" icon and click \"Navigate to root\"."
+msgstr ""
+
 msgid "To quickly open the folder shown in a Folder Portal, hold Control while double clicking the Fence group's titlebar, or double click empty space within the Fence group."
 msgstr "Folder Portal 에 나타나는 폴더를 빠르게 열려면, Control 키를 누르며 Fence의 제목 표시줄을 더블 클릭하거나 Fence의 빈 공간을 더블 클릭합니다."
 
 msgid "To unlock the desktop, please authorize the following prompt as an administrator."
 msgstr "데스크톱을 잠금 해제하려면, 관리자 역할로 다음 프롬프트를 승인하십시오."
-
-#, fuzzy
-msgid "To update your subscription settings, please visit https://redirects.stardock.com/subscriptions/fences5"
-msgstr "구독 설정을 업데이트하려면 https://redirects.stardock.com/subscriptions/fences5 를 방문하세요"
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "Fences의 빠른 숨김 기능을 사용할 때, 데스크톱의 빈 공간 아무 곳이나 더블 클릭하면 아이콘이 사라집니다. 다시 더블 클릭하면 나타납니다."
@@ -2361,9 +2828,11 @@ msgstr "투명한 Fence 배경(Windows 10만 가능)"
 msgid "Transparency:"
 msgstr "투명도:"
 
-#, fuzzy
 msgid "Troubleshooting"
 msgstr "문제 해결"
+
+msgid "Turn off icon tint"
+msgstr ""
 
 msgid "Turn off sorting?"
 msgstr "분류를 종료하시겠습니까?"
@@ -2374,15 +2843,23 @@ msgstr "유형 기반 규칙"
 msgid "Unable to create folder. Please try again."
 msgstr "폴더를 생성할 수 없습니다. 다시 시도해 주십시오."
 
+msgid "Undock tab from group"
+msgstr ""
+
 msgid "Unlock desktop"
 msgstr "데스크톱 잠금 해제"
 
-#, fuzzy
 msgid "Unlock Desktop"
 msgstr "데스크톱 잠금 해제"
 
 msgid "Unlock previous purchase"
 msgstr "이전 구매 해제"
+
+msgid "Unlock the contents of select Fence groups"
+msgstr ""
+
+msgid "Unlock this Fence group's contents in locked deployments"
+msgstr ""
 
 msgid "Unnamed Fence"
 msgstr "이름이 없는 Fence"
@@ -2402,11 +2879,53 @@ msgstr "데스크톱의 룩 앤 필을 업그레이드하십시오"
 msgid "Usage"
 msgstr "사용"
 
+msgid "Use custom color"
+msgstr "사용자 정의 색상 사용"
+
+msgid "Use Fence background color"
+msgstr "Fence 배경색을 사용하세요."
+
+msgid "Use icon tint color"
+msgstr ""
+
+msgid "Use of this option will have a minor impact on performance, and so should only be used if you're experiencing an issue with the program. Continue?"
+msgstr "이 옵션을 사용하면 성능에 약간의 영향을 미치므로, 프로그램에 문제가 발생한 경우에만 사용해야 합니다. 계속하시겠습니까?"
+
+msgid "Use of this setting is not recommended."
+msgstr "이 설정의 사용은 권장되지 않습니다."
+
+msgid "Use of this setting should be limited to single monitor systems only."
+msgstr "이 설정의 사용은 단일 모니터 시스템에만 제한되어야 합니다."
+
+msgid "Use same spacing inside and outside of Fence groups"
+msgstr "Fence 그룹 내부와 외부에서 동일한 간격을 사용하십시오."
+
+msgid "Use system accent color"
+msgstr "시스템 악센트 색상 사용"
+
 msgid "Use system language"
 msgstr "시스템 언어 사용"
 
 msgid "Use these hotkeys to access your desktop quickly – much faster than the built-in WinKey+D. You can even replace it entirely."
 msgstr "이 단축키는 데스크톱에 더 빠르게 액세스할 수 있도록 합니다. 내장된 Win키+D보다 더 빠르죠. 완전히 대체할 수도 있습니다."
+
+msgid "Use this setting to better support changing multi-monitor configurations, and docking/undocking scenarios."
+msgstr "이 설정을 사용하여 멀티모니터 구성 변경과 도킹/언도킹 시나리오를 더욱 잘 지원하십시오."
+
+msgid "Use this to reset your icon spacing if you've already rebooted and they do not appear to be correct. This setting can be found in {0}"
+msgstr "이 설정을 사용하여 이미 재시작한 후 아이콘 간격이 올바르게 표시되지 않는 경우에 재설정할 수 있습니다. 이 설정은 {0}에서 찾을 수 있습니다."
+
+msgid "Used to swap contents of monitors when 2 or more displays are in use."
+msgstr "번역할 텍스트: 2개 이상의 디스플레이가 사용될 때, 모니터의 내용을 교환하는 데 사용됩니다."
+
+msgid "Username on"
+msgstr "번역할 텍스트: 사용자 이름은"
+
+msgid "Users will no longer be able add their own icons to the group"
+msgstr ""
+
+msgid "Users will now be able to add their own icons to the group"
+msgstr ""
 
 msgid "Using desktop pages"
 msgstr "데스크톱 페이지 사용 중"
@@ -2414,18 +2933,14 @@ msgstr "데스크톱 페이지 사용 중"
 msgid "Using Folder Portals"
 msgstr "Folder Portals 사용 중"
 
-msgid "Using kiosk mode"
-msgstr "키오스크 모드 사용 중"
-
 msgid "Using quick-hide"
 msgstr "빠른 숨김 사용 중"
 
 msgid "Using Roll-up Fences"
 msgstr "Fences 올리기 사용 중"
 
-#, fuzzy
-msgid "Vanish"
-msgstr "사라짐"
+msgid "Using Tabs"
+msgstr ""
 
 msgid "Version "
 msgstr "버전 "
@@ -2433,13 +2948,30 @@ msgstr "버전 "
 msgid "Version {0}"
 msgstr "버전 {0}"
 
+msgid "Vertical"
+msgstr "수직의"
+
 msgid "Video file"
 msgstr "비디오 파일"
+
+msgid "View \"how to deploy\" documentation"
+msgstr ""
+
+msgid "View my account"
+msgstr ""
+
+msgid "View my licenses"
+msgstr ""
+
+msgid "View Pricing / Buy"
+msgstr ""
 
 msgid "Visible only on mouseover"
 msgstr "마우스를 갖다 댈 때만 보기"
 
-#, fuzzy
+msgid "Visit Customer Support Forums"
+msgstr ""
+
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
 msgstr "Windows 레지스트리 키 {0}에 지정된 구성 파일이 존재할 때까지 기다리는 중입니다"
 
@@ -2475,24 +3007,29 @@ msgstr ""
 msgid "Was modified"
 msgstr "수정됨"
 
+msgid "We hope you enjoy this new super-charged multi-monitor experience and welcome any feedback to our support forums."
+msgstr "우리는 여러분이 이 새롭고 강력한 멀티 모니터 경험을 즐기시길 바라며, 저희 지원 포럼에 대한 모든 피드백을 환영합니다."
+
 msgid "Web Links"
 msgstr "웹 링크"
 
 msgid "Web page file"
 msgstr "웹 페이지 파일"
 
-#, fuzzy
 msgid "Welcome"
 msgstr "환영합니다"
 
 msgid "Welcome to Fences®"
 msgstr "Fences®를 사용해 주셔서 감사합니다"
 
-msgid "What is kiosk mode?"
-msgstr "키오스크 모드란 무엇입니까?"
+msgid "We've moved you to our new multi-monitor friendly layout auto-adjustment system first introduced in Fences v5.50, which better handles changes to your monitor configurations. The positions of your Fence groups and ungrouped icons are stored on a per-monitor-configuration basis, so that your groups and icons will always be right where you left them as conditions change."
+msgstr "우리는 당신을 Fences v5.50에서 처음 소개된 새로운 멀티모니터 친화적 레이아웃 자동조정 시스템으로 이동시켰습니다. 이 시스템은 모니터 구성에 대한 변경 사항을 더 잘 처리합니다. Fence 그룹 및 분류되지 않은 아이콘의 위치는 모니터 구성마다 저장되므로 조건이 변해도 그룹과 아이콘은 항상 원래의 위치대로 유지됩니다."
 
 msgid "When I plug in a new primary monitor, move my icons to it."
 msgstr "새로운 주 모니터를 플러그인하자 아이콘이 이동했습니다."
+
+msgid "When navigated to a subfolder, a Folder Portal's title always shows the name of the folder being viewed. To set a custom title, navigate to the root folder of the portal and try again. Your customization at the root folder level will be saved."
+msgstr "서브 폴더로 이동했을 때, Folder Portal의 제목은 항상 보고 있는 폴더의 이름을 표시합니다. 사용자 정의 제목을 설정하려면, 포털의 루트 폴더로 이동하고 다시 시도해 보세요. 루트 폴더 수준에서의 사용자 정의 설정은 저장됩니다."
 
 msgid ""
 "When you installed Fences, a snapshot of your desktop's layout was taken.\n"
@@ -2509,22 +3046,18 @@ msgstr "제 아이콘은 어디로 이동했습니까?"
 msgid "Where did my icons go? No need to worry."
 msgstr "제 아이콘은 어디로 이동했습니까? 걱정하지 마십시오."
 
-#, fuzzy
 msgid "With Fences you can group icons on your desktop, access folders from your desktop, and much more. Click the features on the left to learn more about what Fences can do."
 msgstr "Fences를 사용하면 바탕화면의 아이콘을 그룹화하고, 바탕화면에서 폴더에 액세스하는 등의 작업을 수행할 수 있습니다. 왼쪽의 기능을 클릭하면 Fences의 기능에 대해 자세히 알아볼 수 있습니다."
 
-#, fuzzy
+msgid "With Quick-hide, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
+msgstr "Quick-hide를 사용하면 데스크톱의 빈 공간을 더블 클릭하여 데스크톱 아이콘을 빠르게 숨기고 보이게 할 수 있습니다."
+
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
 msgstr "롤업 기능을 사용하면 울타리를 제목 표시줄로 축소하여 아이콘을 숨길 수 있습니다."
-
-#, fuzzy
-msgid "With Vanish, you can quickly hide && show your desktop icons by double-clicking blank space on your desktop."
-msgstr "사라짐 기능을 사용하면 바탕화면의 빈 공간을 두 번 클릭하여 바탕화면 아이콘을 빠르게 숨기거나 표시할 수 있습니다."
 
 msgid "Work better with Fences"
 msgstr "Fences 더 잘 사용하기"
 
-#, fuzzy
 msgid ""
 "Would you like to disable showing Fences in the taskbar?\n"
 "\n"
@@ -2534,11 +3067,11 @@ msgstr ""
 "\n"
 "나중에 빠른 액세스 영역의 울타리 설정에서 다시 활성화할 수 있습니다."
 
+msgid "Would you like to take a backup of your current configuration before loading this configuration?"
+msgstr "이 구성을 불러오기 전에 현재 구성의 백업을 가져가시겠습니까?"
+
 msgid "Would you like to take a snapshot of your current configuration before applying auto-layout?"
 msgstr "자동 레이아웃 적용 전 현재 환경설정 스냅샷을 촬영하시겠습니까?"
-
-msgid "Would you like to take a snapshot of your current configuration before loading this snapshot?"
-msgstr "이 스냅샷을 불러오기 전 현재 환경설정 스냅샷을 촬영하시겠습니까?"
 
 msgid "Would you like to take a snapshot of your current configuration before performing an auto-layout?"
 msgstr "자동 레이아웃 수행 전 현재 환경설정 스냅샷을 촬영하시겠습니까?"
@@ -2566,6 +3099,12 @@ msgstr "파일은 삭제되지 않습니다."
 
 msgid "Your settings have been reset."
 msgstr "설정이 초기화됩니다."
+
+msgid "You've been upgraded!"
+msgstr "당신의 등급이 업그레이드되었습니다!"
+
+msgid "You've selected to sort this Fence by \"number of times opened\". A tip, Fences only knows about times the icon was opened since Fences was installed, and only when opened from the desktop by double-clicking or using the keyboard. Until then the Fence will just appear to be sorted alphabetically. So get clicking!"
+msgstr "\"열린 횟수\"에 따라 이 Fence를 정렬하도록 선택하셨습니다. 팁을 드리자면, Fences는 Fences가 설치된 후부터 아이콘이 더블 클릭이나 키보드를 사용하여 바탕화면에서 열린 횟수만 알고 있습니다. 그 전까지는 Fence가 알파벳순으로 정렬된 것처럼 보일 것입니다. 그러니 클릭을 시작하세요!"
 
 msgid " go to "
 msgstr " 이동 "
@@ -2597,17 +3136,18 @@ msgstr "%s은(는) 클래식 모드에서 사용할 수 없으며 제대로 디�
 msgid "&View"
 msgstr "&보기"
 
-#, fuzzy
 msgid "(default)"
 msgstr "(기본값)"
 
 msgid "(None)"
 msgstr "(없음)"
 
+msgid "(Or link to your forum post with problem details.)"
+msgstr "(또는 문제 세부 사항이 포함된 포럼 게시물 링크를 첨부하십시오.)"
+
 msgid "(Recommended for advanced users)"
 msgstr "(고급 사용자에게 권장)"
 
-#, fuzzy
 msgid "(recommended)"
 msgstr "추천"
 
@@ -2617,11 +3157,12 @@ msgstr "(기준 유형 선택)"
 msgid "(Untitled Fence with %i icons)"
 msgstr "(%i 아이콘이 있는 이름 없는 Fence)"
 
-#, fuzzy
+msgid "* Header bar will still show for Folder Portals and tab groups upon mouseover"
+msgstr ""
+
 msgid "* Header bar will still show for Folder Portals upon mouseover"
 msgstr "* 마우스 오버 시 폴더 포털에 대한 헤더 표시줄이 계속 표시됩니다"
 
-#, fuzzy
 msgid "* Labels will still show for Folder Portals upon mouseover"
 msgstr "* 마우스 오버 시 폴더 포털에 대한 레이블이 계속 표시됩니다"
 
@@ -2631,15 +3172,30 @@ msgstr "* 라벨은 마우스를 갖다 대면 Folder Portals 에서 볼 수 있
 msgid "* Log out for language change to take effect"
 msgstr "* 변경한 언어가 적용되도록 로그아웃하십시오"
 
-#, fuzzy
-msgid "** Coming soon to Fences 5 Release Preview – Improved support for managing multi-monitor configurations, and docking/undocking scenarios."
-msgstr "** Fences 5 릴리스 프리뷰 출시 예정 - 멀티 모니터 구성 관리 및 도킹/도킹 해제 시나리오에 대한 지원이 개선되었습니다."
+msgid "* You can right click the header of a Fence group to access its menu"
+msgstr "* Fence 그룹의 헤더를 마우스 오른쪽 버튼으로 클릭하여 메뉴에 접근할 수 있습니다."
 
-#, fuzzy
+msgid "* You can use the upper-left menu on the group to switch between tabs."
+msgstr ""
+
+msgid ""
+"[Flexible deployment]\n"
+"Deploy standard locked groups, but allow users to customize one or more of the groups."
+msgstr ""
+
+msgid ""
+"[Locked deployment]\n"
+"Deploy a standard locked configuration. User cannot customize. (Default)"
+msgstr ""
+
+msgid ""
+"[Unlocked deployment]\n"
+"Deploy and allow users to customize freely from there."
+msgstr ""
+
 msgid "{0} are Registered Trademarks of {1}."
 msgstr "{0}은 {1}의 등록 상표입니다."
 
-#, fuzzy
 msgid "{0} are Trademarks of {1}."
 msgstr "{0}은 {1}의 상표입니다."
 
@@ -2649,15 +3205,47 @@ msgstr "무료 체험판 남은 일자 {0}일"
 msgid "{0} days remain before deactivation"
 msgstr "비활성화 전까지 {0}일 남음"
 
-#, fuzzy
 msgid "{0} is a Registered Trademark of {1}."
 msgstr "{0}은 {1}의 등록 상표입니다."
+
+msgid "●  Deployment support available."
+msgstr ""
+
+msgid "●  Deployment support available. We have accomodations for environments big and small, from 10000 seats to 10."
+msgstr ""
 
 msgid "●  Double click on a Fence group's titlebar to roll it up"
 msgstr "● Fence 제목 표시줄 더블 클릭하여 올리기"
 
+msgid "●  Drag one Fence on top of another to create a tab group"
+msgstr ""
+
+msgid "●  Explore different tab visual styles in Personalization settings"
+msgstr ""
+
+msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments."
+msgstr ""
+
+msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
+msgstr ""
+
+msgid "●  Hold shift to drag to reposition a tab, or tear it off"
+msgstr ""
+
+msgid "●  Invoicing for POs available. Compliance assistance available."
+msgstr ""
+
 msgid "●  Move mouse over to reveal"
 msgstr "● 마우스를 가져다 대어 나타내기"
 
+msgid "●  MSI Installer available."
+msgstr ""
+
 msgid "●  Or, move to the top or bottom edges of screen to dock automatically"
 msgstr "● 또는 화면 상단이나 하단 가장자리로 이동하여 자동으로 도킹"
+
+msgid "●  Support contracts available; one time purchase or annual."
+msgstr ""
+
+msgid "●  Tab options can also be accessed from the \"Tabs\" menu of a Fence"
+msgstr ""
