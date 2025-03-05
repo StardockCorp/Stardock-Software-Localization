@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-03-05 14:27-08:00\n"
+"POT-Creation-Date: 2025-03-05 14:29-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-03-05 14:27-08:00\n"
+"POT-Revision-Date: 2025-03-05 14:29-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -266,6 +266,9 @@ msgstr "Archivo de audio"
 msgid "August 29, 1984"
 msgstr "29 Agosto 1984"
 
+msgid "Auto"
+msgstr ""
+
 msgid "Auto arrange icons"
 msgstr "Organizar iconos automáticamente"
 
@@ -359,6 +362,9 @@ msgid "Blur group area background"
 msgstr "Difuminar el fondo del área de grupo"
 
 msgid "Book 15-30min call"
+msgstr ""
+
+msgid "Bottom"
 msgstr ""
 
 msgid "Brightness:"
@@ -1741,8 +1747,14 @@ msgstr ""
 msgid "Move tab to the right"
 msgstr ""
 
+msgid "Move titlebar to bottom when near top of screen"
+msgstr ""
+
 msgid "Move titlebar to the bottom when near the top of the screen"
 msgstr "Mueva la barra de título a la parte inferior cuando esté cerca de la parte superior de la pantalla"
+
+msgid "Move to bottom when near top of screen"
+msgstr ""
 
 msgid "Music & Video"
 msgstr "Música & Vídeo"
@@ -2791,6 +2803,9 @@ msgstr "Para desbloquear el escritorio, por favor, autorice el siguiente mensaje
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "Para usar la función de ocultación rápida de Fences, haga doble clic en un espacio en blanco en cualquier lugar de su escritorio y desaparecerán sus iconos. Haga doble clic de nuevo, y volverán a aparecer."
+
+msgid "Top"
+msgstr ""
 
 msgid "Touch-based layout abilities"
 msgstr "Capacidades de diseño basadas en el tacto"

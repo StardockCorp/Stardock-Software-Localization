@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-03-05 14:27-08:00\n"
+"POT-Creation-Date: 2025-03-05 14:29-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-03-05 14:27-08:00\n"
+"POT-Revision-Date: 2025-03-05 14:29-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -270,6 +270,9 @@ msgstr "音频文件"
 msgid "August 29, 1984"
 msgstr "1984 年 8 月 29 日"
 
+msgid "Auto"
+msgstr ""
+
 msgid "Auto arrange icons"
 msgstr "自动排列图标"
 
@@ -365,6 +368,9 @@ msgid "Blur group area background"
 msgstr "模糊分区背景"
 
 msgid "Book 15-30min call"
+msgstr ""
+
+msgid "Bottom"
 msgstr ""
 
 msgid "Brightness:"
@@ -1757,8 +1763,14 @@ msgstr ""
 msgid "Move tab to the right"
 msgstr ""
 
+msgid "Move titlebar to bottom when near top of screen"
+msgstr ""
+
 msgid "Move titlebar to the bottom when near the top of the screen"
 msgstr "当接近屏幕顶部时，将标题栏移至底部"
+
+msgid "Move to bottom when near top of screen"
+msgstr ""
 
 msgid "Music & Video"
 msgstr "音乐和视频"
@@ -2814,6 +2826,9 @@ msgstr "要解锁桌面，请授权管理员权限"
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "要使用 Fences 的“速隐”功能，请双击桌面的空白处，您的图标将被“迅速隐藏”；再次双击以重新显示"
+
+msgid "Top"
+msgstr ""
 
 msgid "Touch-based layout abilities"
 msgstr "基于触摸的布局方式"
