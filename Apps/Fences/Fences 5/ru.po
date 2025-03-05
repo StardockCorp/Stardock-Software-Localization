@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-03-05 08:50-08:00\n"
+"POT-Creation-Date: 2025-03-05 14:27-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-03-05 08:50-08:00\n"
+"POT-Revision-Date: 2025-03-05 14:27-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -884,6 +884,9 @@ msgid "Drop to add tab"
 msgstr ""
 
 msgid "Drop to create tab group"
+msgstr ""
+
+msgid "Drop to detach tab from tab group"
 msgstr ""
 
 msgid "Drop to merge tab groups"
