@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-03-05 08:50-08:00\n"
+"POT-Creation-Date: 2025-03-05 14:29-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-03-05 08:50-08:00\n"
+"POT-Revision-Date: 2025-03-05 14:29-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -262,6 +262,9 @@ msgstr "オーディオファイル"
 msgid "August 29, 1984"
 msgstr "8月29日、1984年"
 
+msgid "Auto"
+msgstr ""
+
 msgid "Auto arrange icons"
 msgstr "アイコンを自動的に整列する"
 
@@ -357,6 +360,9 @@ msgid "Blur group area background"
 msgstr "グループエリアの背景をぼかす"
 
 msgid "Book 15-30min call"
+msgstr ""
+
+msgid "Bottom"
 msgstr ""
 
 msgid "Brightness:"
@@ -869,6 +875,9 @@ msgid "Drop to add tab"
 msgstr ""
 
 msgid "Drop to create tab group"
+msgstr ""
+
+msgid "Drop to detach tab from tab group"
 msgstr ""
 
 msgid "Drop to merge tab groups"
@@ -1738,8 +1747,14 @@ msgstr ""
 msgid "Move tab to the right"
 msgstr ""
 
+msgid "Move titlebar to bottom when near top of screen"
+msgstr ""
+
 msgid "Move titlebar to the bottom when near the top of the screen"
 msgstr "画面の上部に近い場合は、タイトルバーを下部に移動します"
+
+msgid "Move to bottom when near top of screen"
+msgstr ""
 
 msgid "Music & Video"
 msgstr "音楽とビデオ"
@@ -2791,6 +2806,9 @@ msgstr "デスクトップをアンロックするには、管理者として以
 
 msgid "To use Fences' quick-hide feature, double click blank space anywhere on your desktop and your icons will disappear. Double click again, and they'll return."
 msgstr "Fencesを使用するためには、デスクトップの任意の空白をダブルクリックして、アイコンが消えます。再びダブルクリックすると、アイコンが戻ります。"
+
+msgid "Top"
+msgstr ""
 
 msgid "Touch-based layout abilities"
 msgstr "タッチベースのレイアウト能力"
