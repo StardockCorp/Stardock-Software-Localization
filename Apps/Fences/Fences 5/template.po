@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-03-05 14:29-08:00\n"
+"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-03-05 14:29-08:00\n"
+"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -2307,6 +2307,9 @@ msgstr ""
 msgid "Shortcut (Link)"
 msgstr ""
 
+msgid "Show colors on all tabs when per-Fence custom colors are used"
+msgstr ""
+
 msgid "Show controls in header on mouseover"
 msgstr ""
 
@@ -2347,9 +2350,6 @@ msgid "Show icon as a running task"
 msgstr ""
 
 msgid "Show on all pages"
-msgstr ""
-
-msgid "Show per-Fence custom colors in segment view"
 msgstr ""
 
 msgid "Show the full desktop"
