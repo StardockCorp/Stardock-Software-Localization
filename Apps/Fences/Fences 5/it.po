@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
+"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
+"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -57,6 +57,9 @@ msgstr "Attiva la scheda su cui si trova il mouse quando viene mostrato un grupp
 
 msgid "Activation successful."
 msgstr "Attivazione riuscita."
+
+msgid "Add"
+msgstr ""
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "Aggiungere l'icona \"Mostra Fences\" alla barra delle applicazioni"
@@ -499,6 +502,9 @@ msgstr "Scegli un'altra cartella..."
 
 msgid "choose a Fence..."
 msgstr "scegli una Fence..."
+
+msgid "Choose a folder"
+msgstr ""
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Scegli una cartella in cui inserire questo Fence"
@@ -952,8 +958,8 @@ msgstr "Abilita la creazione di nuove schede"
 msgid "Enable Fences"
 msgstr "Abilita Fences"
 
-msgid "Enable Pages"
-msgstr "Abilitazione delle pagine"
+msgid "Enable pages"
+msgstr ""
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "Abilita l'ordinamento all'interno di gruppi Fence individuali (per nome, tipo, dimensione, ecc)"
@@ -1179,6 +1185,9 @@ msgstr "Disponibile l'aggiornamento delle Fences"
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
 msgstr "Fences è stato progettato per aiutarti a utilizzare il tuo desktop. Per aiutarti a iniziare, Fences può creare un paio di Fences di partenza e fare una pulizia veloce del tuo desktop."
 
+msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
+msgstr ""
+
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences: informazioni di ordinamento \"Volte aperte\""
 
@@ -1294,11 +1303,17 @@ msgstr "Nascondi"
 msgid "Hide \"Fences for Business\""
 msgstr "Nascondi \"Fences per Affari\""
 
+msgid "Hide all desktop icons and Fence groups"
+msgstr ""
+
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "Nascondere e mostrare le icone del desktop istantaneamente con un doppio clic."
 
 msgid "Hide details header"
 msgstr "Nascondi intestazione dettagli"
+
+msgid "Hide Fence groups only"
+msgstr ""
 
 msgid "Hide for all icons"
 msgstr "Nascondi per tutte le icone"
@@ -1314,6 +1329,9 @@ msgstr "Nascondi per i collegamenti al programma"
 
 msgid "Hide for web links"
 msgstr "Nascondi per i link web"
+
+msgid "Hide icons not in Fence groups"
+msgstr ""
 
 msgid "Hide scrollbars when inactive"
 msgstr "Nascondere le barre di scorrimento quando sono inattive"
@@ -1660,6 +1678,12 @@ msgstr "Elenco"
 msgid "List (Large)"
 msgstr "Elenco (grande)"
 
+msgid "List Horizontal"
+msgstr ""
+
+msgid "List Horizontal (Large)"
+msgstr ""
+
 msgid "Load"
 msgstr "Carica"
 
@@ -1803,6 +1827,9 @@ msgstr "Naviga alla radice"
 msgid "Navigate to root folder to rename this Fence"
 msgstr "Naviga alla cartella principale per rinominare questo Fence"
 
+msgid "Navigate to root folder upon losing focus"
+msgstr ""
+
 msgid "Navigate up"
 msgstr "Naviga su"
 
@@ -1824,6 +1851,9 @@ msgstr "Il nuovo %s attualmente va a questo Recinto"
 msgid "New Folder Panel"
 msgstr "Pannello Nuova cartella"
 
+msgid "New Folder Portal tab"
+msgstr ""
+
 msgid "New Icons && Rules"
 msgstr "Nuove icone e regole"
 
@@ -1838,6 +1868,9 @@ msgstr "Nuovo nome:"
 
 msgid "New Rule"
 msgstr "Nuova regola"
+
+msgid "New tab"
+msgstr ""
 
 msgid "Next steps"
 msgstr "Prossimi passi"
@@ -2175,9 +2208,6 @@ msgstr "Rimuovete Fence dal desktop ed eliminate la cartella che rappresenta"
 msgid "Remove rule?"
 msgstr "Rimuovere la regola?"
 
-msgid "Remove tab from group"
-msgstr "Rimuovi scheda dal gruppo"
-
 msgid "Remove this Folder Portal"
 msgstr "Rimuovi questo Folder Portal"
 
@@ -2342,6 +2372,9 @@ msgstr "Pianifica una chiamata di introduzione"
 
 msgid "Screens"
 msgstr "Schermi"
+
+msgid "Search && filter"
+msgstr ""
 
 msgid "Segmented"
 msgstr "Segmentato"
@@ -2585,6 +2618,9 @@ msgstr "Passare a un'altra pagina utilizzando la tastiera, attivare il desktop f
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "Per passare a un'altra pagina con il mouse, afferrare e tirare il bordo sinistro o destro del desktop. In alternativa, è possibile premere entrambi i pulsanti del mouse e trascinare da qualsiasi punto del desktop, oppure trascinare con il pulsante centrale del mouse."
+
+msgid "Sync pages and Windows' Virtual Desktops"
+msgstr ""
 
 msgid "Tab groups"
 msgstr "Gruppi di schede"
@@ -3258,8 +3294,8 @@ msgstr "● Fences è ampiamente utilizzato in tutto il mondo degli affari, da g
 msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
 msgstr "● Fences viene utilizzato ampiamente in tutto il mondo degli affari, da grandi istituzioni sanitarie, agenzie governative, produzione, società Fortune 100 e innumerevoli altri ambienti. Lavoriamo in uffici grandi e piccoli, da 10 posti a 10000."
 
-msgid "●  Hold shift to drag to reposition a tab, or tear it off"
-msgstr "●  Tieni premuto shift per trascinare per riposizionare una scheda, o strappala via"
+msgid "●  Hold shift to drag to re-order a tab, or tear it off"
+msgstr ""
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "● Fatturazione per ordini di acquisto disponibile. Assistenza alla conformità disponibile."

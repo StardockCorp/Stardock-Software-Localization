@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
+"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
+"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -57,6 +57,9 @@ msgstr "在显示停靠在屏幕边缘的组时，激活鼠标所在的选项卡
 
 msgid "Activation successful."
 msgstr "激活成功"
+
+msgid "Add"
+msgstr ""
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "在我的任务栏上添加 \"显示Fences\" 图标"
@@ -494,6 +497,9 @@ msgstr "选择不同的文件夹"
 
 msgid "choose a Fence..."
 msgstr "选择一个分区"
+
+msgid "Choose a folder"
+msgstr ""
 
 msgid "Choose a folder to place this Fence into"
 msgstr "选择放置此桌面分区的文件夹"
@@ -947,8 +953,8 @@ msgstr "启用创建新标签"
 msgid "Enable Fences"
 msgstr "启用 Fences"
 
-msgid "Enable Pages"
-msgstr "启用“多页桌面”"
+msgid "Enable pages"
+msgstr ""
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "允许在各个桌面分区内（按名称、类型、大小等）排序"
@@ -1174,6 +1180,9 @@ msgstr "Fences 存在更新"
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
 msgstr "Fences 旨在帮助您使用桌面。为帮助您入门，Fences 可创建两个初始默认桌面分区，并快速清理您的桌面。 "
 
+msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
+msgstr ""
+
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences：“打开次数”排序信息"
 
@@ -1289,11 +1298,17 @@ msgstr "隐藏"
 msgid "Hide \"Fences for Business\""
 msgstr "隐藏 \"Fences for Business\""
 
+msgid "Hide all desktop icons and Fence groups"
+msgstr ""
+
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "双击以立即隐藏、显示桌面图标。"
 
 msgid "Hide details header"
 msgstr "隐藏标题栏"
+
+msgid "Hide Fence groups only"
+msgstr ""
 
 msgid "Hide for all icons"
 msgstr "隐藏所有图标"
@@ -1309,6 +1324,9 @@ msgstr "隐藏程序小箭头"
 
 msgid "Hide for web links"
 msgstr "隐藏网页小箭头"
+
+msgid "Hide icons not in Fence groups"
+msgstr ""
 
 msgid "Hide scrollbars when inactive"
 msgstr "自动隐藏滚动条"
@@ -1655,6 +1673,12 @@ msgstr "列表"
 msgid "List (Large)"
 msgstr "列表（大）"
 
+msgid "List Horizontal"
+msgstr ""
+
+msgid "List Horizontal (Large)"
+msgstr ""
+
 msgid "Load"
 msgstr "加载"
 
@@ -1798,6 +1822,9 @@ msgstr "导航至根目录"
 msgid "Navigate to root folder to rename this Fence"
 msgstr "导航至根文件夹以重命名此Fence"
 
+msgid "Navigate to root folder upon losing focus"
+msgstr ""
+
 msgid "Navigate up"
 msgstr "向上导航"
 
@@ -1819,6 +1846,9 @@ msgstr "新的 %s 现在将被分类到此桌面分区"
 msgid "New Folder Panel"
 msgstr "新 Folder Portal"
 
+msgid "New Folder Portal tab"
+msgstr ""
+
 msgid "New Icons && Rules"
 msgstr "新图标和规则"
 
@@ -1833,6 +1863,9 @@ msgstr "新名称："
 
 msgid "New Rule"
 msgstr "新规则"
+
+msgid "New tab"
+msgstr ""
 
 msgid "Next steps"
 msgstr "下一步"
@@ -2168,9 +2201,6 @@ msgstr "移除桌面上的分区，并删除其代表的文件夹"
 msgid "Remove rule?"
 msgstr "是否删除规则"
 
-msgid "Remove tab from group"
-msgstr "从群组中移除标签"
-
 msgid "Remove this Folder Portal"
 msgstr "移除这个 Folder Portal"
 
@@ -2335,6 +2365,9 @@ msgstr "安排一个介绍电话会议"
 
 msgid "Screens"
 msgstr "屏幕"
+
+msgid "Search && filter"
+msgstr ""
 
 msgid "Segmented"
 msgstr "分段"
@@ -2578,6 +2611,9 @@ msgstr "按住 Alt 键的同时按下 “←” 或 “→” 以使用键盘切
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "拖拽桌面的左侧或右侧以使用鼠标切换到另一个页面。或者，您也可以在任意位置同时按下鼠标左右键或鼠标中键并拖动以切换。"
+
+msgid "Sync pages and Windows' Virtual Desktops"
+msgstr ""
 
 msgid "Tab groups"
 msgstr "标签组"
@@ -3249,8 +3285,8 @@ msgstr "●  Fences 在商业世界中被广泛使用，从大型医疗机构，
 msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
 msgstr "●  Fences在商业世界中得到了广泛应用，从大型医疗机构、政府机关、制造业、财富100强公司到"
 
-msgid "●  Hold shift to drag to reposition a tab, or tear it off"
-msgstr "●  按住shift键以拖动以重新定位标签，或将其撕下"
+msgid "●  Hold shift to drag to re-order a tab, or tear it off"
+msgstr ""
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "●  可提供采购订单的发票。可提供符合性协助。"

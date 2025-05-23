@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
+"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
+"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -57,6 +57,9 @@ msgstr "画面の端にドックされたグループを表示する際、マウ
 
 msgid "Activation successful."
 msgstr "アクティベーション成功。"
+
+msgid "Add"
+msgstr ""
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "タスクバーに「Fencesを表示」アイコンを追加"
@@ -486,6 +489,9 @@ msgstr "別のフォルダを選択してください。"
 
 msgid "choose a Fence..."
 msgstr "'Fenceを選択してください...'"
+
+msgid "Choose a folder"
+msgstr ""
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Fenceを入れるフォルダを選択してください"
@@ -934,8 +940,8 @@ msgstr "新しいタブの作成を有効にする"
 msgid "Enable Fences"
 msgstr "'Fencesを有効にする'"
 
-msgid "Enable Pages"
-msgstr "ページを有効にする"
+msgid "Enable pages"
+msgstr ""
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "個々のFences内でソートを有効にする(名前、タイプ、サイズなど)"
@@ -1158,6 +1164,9 @@ msgstr "Fencesアップデート可能"
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
 msgstr "Fencesは、デスクトップを使いやすくするためにデザインされました。はじめるために、Fencesはスターター-Fencesを作成し、デスクトップをクイッククリーンアップできます。"
 
+msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
+msgstr ""
+
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "'Fences: \"回数開封\" 並び替え情報'"
 
@@ -1273,11 +1282,17 @@ msgstr "隠す"
 msgid "Hide \"Fences for Business\""
 msgstr "「Fences for Business」を非表示にする"
 
+msgid "Hide all desktop icons and Fence groups"
+msgstr ""
+
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "デスクトップのアイコンをダブルクリックすると瞬時に隠して表示できます。"
 
 msgid "Hide details header"
 msgstr "詳細ヘッダを隠す"
+
+msgid "Hide Fence groups only"
+msgstr ""
 
 msgid "Hide for all icons"
 msgstr "すべてのアイコンを隠す"
@@ -1293,6 +1308,9 @@ msgstr "プログラムのリンクを隠す"
 
 msgid "Hide for web links"
 msgstr "ウェブリンクを隠す"
+
+msgid "Hide icons not in Fence groups"
+msgstr ""
 
 msgid "Hide scrollbars when inactive"
 msgstr "非アクティブ時にスクロールバーを隠す"
@@ -1639,6 +1657,12 @@ msgstr "リスト"
 msgid "List (Large)"
 msgstr "大きいリスト"
 
+msgid "List Horizontal"
+msgstr ""
+
+msgid "List Horizontal (Large)"
+msgstr ""
+
 msgid "Load"
 msgstr "荷物"
 
@@ -1782,6 +1806,9 @@ msgstr "ルートに移動します。"
 msgid "Navigate to root folder to rename this Fence"
 msgstr "このFenceの名前を変更するためにルートフォルダに移動してください。"
 
+msgid "Navigate to root folder upon losing focus"
+msgstr ""
+
 msgid "Navigate up"
 msgstr "上に移動"
 
@@ -1803,6 +1830,9 @@ msgstr "新しい%sは、このFenceに通っています。"
 msgid "New Folder Panel"
 msgstr "新しいフォルダパネル"
 
+msgid "New Folder Portal tab"
+msgstr ""
+
 msgid "New Icons && Rules"
 msgstr "新しいアイコンと規則"
 
@@ -1817,6 +1847,9 @@ msgstr "新しい名前:"
 
 msgid "New Rule"
 msgstr "新しい規則"
+
+msgid "New tab"
+msgstr ""
 
 msgid "Next steps"
 msgstr "次のステップ"
@@ -2155,9 +2188,6 @@ msgstr "デスクトップからFenceを削除し、それを表すフォルダ�
 msgid "Remove rule?"
 msgstr "ルールを削除しますか？"
 
-msgid "Remove tab from group"
-msgstr "グループからタブを削除する"
-
 msgid "Remove this Folder Portal"
 msgstr "この Folder Portal を削除します"
 
@@ -2322,6 +2352,9 @@ msgstr "紹介の電話をスケジュールする"
 
 msgid "Screens"
 msgstr "スクリーン"
+
+msgid "Search && filter"
+msgstr ""
 
 msgid "Segmented"
 msgstr "分割された"
@@ -2559,6 +2592,9 @@ msgstr "キーボードを使って他のページに移動し、デスクトッ
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "マウスを使って他のページに切り替えたり、デスクトップの左端か右端をグラブ＆プルしてください。または、マウスの両ボタンを押しながらデスクトップのどこかからドラッグしたり、中ボタンを使ってドラッグすることもできます。"
+
+msgid "Sync pages and Windows' Virtual Desktops"
+msgstr ""
 
 msgid "Tab groups"
 msgstr "タブグループ"
@@ -3224,8 +3260,8 @@ msgstr "●  Fencesは、大規模な医療機関、政府機関、製造業、�
 msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
 msgstr "●  Fencesは、大規模な医療機関、政府機関、製造業、フォーチュン100の企業など、ビジ"
 
-msgid "●  Hold shift to drag to reposition a tab, or tear it off"
-msgstr "●  シフトキーを押しながらタブをドラッグして位置を変更するか、タブを剥がしてください"
+msgid "●  Hold shift to drag to re-order a tab, or tear it off"
+msgstr ""
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "●  注文書用の請求書が利用可能です。コンプライアンス支援が利用可能です。"

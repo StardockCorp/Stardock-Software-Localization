@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
+"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
+"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -57,6 +57,9 @@ msgstr "Activar pestaña sobre la que está el ratón cuando se muestra un grupo
 
 msgid "Activation successful."
 msgstr "Activación correcta."
+
+msgid "Add"
+msgstr ""
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "Añadir el icono \"Mostrar Fences\" a mi barra de tareas"
@@ -490,6 +493,9 @@ msgstr "Elegir una carpeta diferente..."
 
 msgid "choose a Fence..."
 msgstr "elegir un Fence..."
+
+msgid "Choose a folder"
+msgstr ""
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Elegir una carpeta para poner en ella este Fence"
@@ -943,8 +949,8 @@ msgstr "Habilitar la creación de nuevas pestañas"
 msgid "Enable Fences"
 msgstr "Habilitar Fences"
 
-msgid "Enable Pages"
-msgstr "Habilitar páginas"
+msgid "Enable pages"
+msgstr ""
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "Habilitar la clasificación dentro de los Fences (por nombre, tipo, tamaño, etc)"
@@ -1158,6 +1164,9 @@ msgstr "Actualización de Fences Disponible"
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
 msgstr "Fences se ha diseñado para ayudarle a usar su escritorio. Para empezar, Fences puede crear un par de Fences iniciales y hacer una limpieza rápida de su escritorio. "
 
+msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
+msgstr ""
+
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences: Información de clasificación \"Veces Abiertos\""
 
@@ -1273,11 +1282,17 @@ msgstr "Ocultar"
 msgid "Hide \"Fences for Business\""
 msgstr "Oculta \"Fences for Business\""
 
+msgid "Hide all desktop icons and Fence groups"
+msgstr ""
+
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "Ocultar y mostrar al instante los iconos de su escritorio con un doble clic."
 
 msgid "Hide details header"
 msgstr "Ocultar los detalles de la cabecera"
+
+msgid "Hide Fence groups only"
+msgstr ""
 
 msgid "Hide for all icons"
 msgstr "Ocultar todos los iconos"
@@ -1293,6 +1308,9 @@ msgstr "Ocultar los enlaces a programas"
 
 msgid "Hide for web links"
 msgstr "Ocultar los enlaces a webs"
+
+msgid "Hide icons not in Fence groups"
+msgstr ""
 
 msgid "Hide scrollbars when inactive"
 msgstr "Ocultar las barras de desplazamiento cuando están inactivas"
@@ -1639,6 +1657,12 @@ msgstr "Lista"
 msgid "List (Large)"
 msgstr "Lista (Grande)"
 
+msgid "List Horizontal"
+msgstr ""
+
+msgid "List Horizontal (Large)"
+msgstr ""
+
 msgid "Load"
 msgstr "Cargar"
 
@@ -1782,6 +1806,9 @@ msgstr "Navega a la raíz"
 msgid "Navigate to root folder to rename this Fence"
 msgstr "Navega a la carpeta raíz para renombrar este Fence"
 
+msgid "Navigate to root folder upon losing focus"
+msgstr ""
+
 msgid "Navigate up"
 msgstr "Navega hacia arriba"
 
@@ -1803,6 +1830,9 @@ msgstr "Los nuevos %s actualmente van a este Fence"
 msgid "New Folder Panel"
 msgstr "Nuevo Panel de Carpetas"
 
+msgid "New Folder Portal tab"
+msgstr ""
+
 msgid "New Icons && Rules"
 msgstr "Nuevos Iconos && Reglas"
 
@@ -1817,6 +1847,9 @@ msgstr "Nuevo nombre:"
 
 msgid "New Rule"
 msgstr "Nueva Regla"
+
+msgid "New tab"
+msgstr ""
 
 msgid "Next steps"
 msgstr "Próximos pasos"
@@ -2151,9 +2184,6 @@ msgstr "Eliminar Fence del escritorio y borrar la carpeta que representa"
 msgid "Remove rule?"
 msgstr "Eliminar regla?"
 
-msgid "Remove tab from group"
-msgstr "Eliminar pestaña del grupo"
-
 msgid "Remove this Folder Portal"
 msgstr "Eliminar este Folder Portal"
 
@@ -2318,6 +2348,9 @@ msgstr "Programa una llamada de introducción"
 
 msgid "Screens"
 msgstr "Pantallas"
+
+msgid "Search && filter"
+msgstr ""
 
 msgid "Segmented"
 msgstr "Segmentado"
@@ -2558,6 +2591,9 @@ msgstr "Cambie a otra página usando su teclado, active el escritorio haciendo c
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "Cambie a otra página usando su ratón, tome y tire del borde izquierdo o derecho de su escritorio. Alternativamente, también puede presionar ambos botones del ratón y arrastrar desde cualquier lugra del escritorio, o también arrastrar usando el botón del medio del ratón."
+
+msgid "Sync pages and Windows' Virtual Desktops"
+msgstr ""
 
 msgid "Tab groups"
 msgstr "Grupos de pestañas"
@@ -3215,8 +3251,8 @@ msgstr "● Fences se utiliza ampliamente en todo el mundo empresarial, desde gr
 msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
 msgstr "●  Fences se utiliza ampliamente en todo el mundo empresarial, desde grandes instituciones de salud, agencias gubernamentales, manufactura, empresas Fortune 100 y innumerables otros entornos. Trabajamos en of"
 
-msgid "●  Hold shift to drag to reposition a tab, or tear it off"
-msgstr "● Mantén presionado shift para arrastrar y reubicar una pestaña, o arráncala"
+msgid "●  Hold shift to drag to re-order a tab, or tear it off"
+msgstr ""
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "● Facturación para POs disponible. Asistencia para el cumplimiento disponible."

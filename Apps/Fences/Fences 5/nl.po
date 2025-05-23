@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
+"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
+"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -57,6 +57,9 @@ msgstr "Activeer het tabblad waar de muis overheen gaat bij het tonen van een gr
 
 msgid "Activation successful."
 msgstr "Activering succesvol."
+
+msgid "Add"
+msgstr ""
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "Pictogram \"Fences tonen\" toevoegen aan mijn taakbalk"
@@ -494,6 +497,9 @@ msgstr "Een andere map kiezen..."
 
 msgid "choose a Fence..."
 msgstr "een Fence kiezen..."
+
+msgid "Choose a folder"
+msgstr ""
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Kies een map om dit Fence erin te plaatsen"
@@ -947,8 +953,8 @@ msgstr "Schakel het maken van nieuwe tabbladen in"
 msgid "Enable Fences"
 msgstr "Fences® activeren"
 
-msgid "Enable Pages"
-msgstr "Inschakelen Pagina's"
+msgid "Enable pages"
+msgstr ""
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "Sortering binnen afzonderlijke Fences (naam, type, grootte, enz.) activeren"
@@ -1173,6 +1179,9 @@ msgstr "Fences® Update beschikbaar"
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
 msgstr "Fences® is ontworpen om u te helpen uw bureaublad te gebruiken. Om u te helpen aan de slag te gaan, kan Fences® een paar starters-fences maken en uw bureaublad snel opschonen."
 
+msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
+msgstr ""
+
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences®: \"Keren geopend\" sorteerinformatie"
 
@@ -1288,11 +1297,17 @@ msgstr "Verbergen"
 msgid "Hide \"Fences for Business\""
 msgstr "Verberg \"Fences voor bedrijven\""
 
+msgid "Hide all desktop icons and Fence groups"
+msgstr ""
+
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "Verberg en weergeef uw bureaubladiconen onmiddellijk met een dubbelklik."
 
 msgid "Hide details header"
 msgstr "Details kopregel verbergen"
+
+msgid "Hide Fence groups only"
+msgstr ""
 
 msgid "Hide for all icons"
 msgstr "Alle iconen verbergen"
@@ -1308,6 +1323,9 @@ msgstr "Programmalinks verbergen"
 
 msgid "Hide for web links"
 msgstr "Weblinks verbergen"
+
+msgid "Hide icons not in Fence groups"
+msgstr ""
 
 msgid "Hide scrollbars when inactive"
 msgstr "Verberg schuifbalken als ze inactief zijn"
@@ -1654,6 +1672,12 @@ msgstr "Lijst"
 msgid "List (Large)"
 msgstr "Lijst (Groot)"
 
+msgid "List Horizontal"
+msgstr ""
+
+msgid "List Horizontal (Large)"
+msgstr ""
+
 msgid "Load"
 msgstr "Laden"
 
@@ -1797,6 +1821,9 @@ msgstr "Navigeer naar root"
 msgid "Navigate to root folder to rename this Fence"
 msgstr "Navigeer naar de hoofdmap om deze Fence te hernoemen"
 
+msgid "Navigate to root folder upon losing focus"
+msgstr ""
+
 msgid "Navigate up"
 msgstr "Navigeer omhoog"
 
@@ -1818,6 +1845,9 @@ msgstr "Nieuwe %s gaan op dit moment naar dit Fence"
 msgid "New Folder Panel"
 msgstr "Nieuw Map Paneel"
 
+msgid "New Folder Portal tab"
+msgstr ""
+
 msgid "New Icons && Rules"
 msgstr "Nieuwe Iconen && Regels"
 
@@ -1832,6 +1862,9 @@ msgstr "Nieuwe naam:"
 
 msgid "New Rule"
 msgstr "Nieuwe Regel"
+
+msgid "New tab"
+msgstr ""
 
 msgid "Next steps"
 msgstr "Volgende stappen"
@@ -2169,9 +2202,6 @@ msgstr "Fence van het bureaublad verwijderen en de map die het voorstelt verwijd
 msgid "Remove rule?"
 msgstr "Regel verwijderen?"
 
-msgid "Remove tab from group"
-msgstr "Verwijder tab uit groep"
-
 msgid "Remove this Folder Portal"
 msgstr "Dit map portaal verwijderen"
 
@@ -2336,6 +2366,9 @@ msgstr "Plan een introductiegesprek"
 
 msgid "Screens"
 msgstr "Beeldschermen"
+
+msgid "Search && filter"
+msgstr ""
 
 msgid "Segmented"
 msgstr "Gesegmenteerd"
@@ -2579,6 +2612,9 @@ msgstr "Wissel naar een andere pagina met uw toetsenbord, activeer het bureaubla
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "Wissel naar een andere pagina met de muis, grijp en trek aan de linker- of rechterrand van uw bureaublad. U kunt ook beide muisknoppen indrukken en vanaf elke plek op uw bureaublad slepen, of ook slepen met de middelste muisknop."
+
+msgid "Sync pages and Windows' Virtual Desktops"
+msgstr ""
 
 msgid "Tab groups"
 msgstr "Tab groepen"
@@ -3252,8 +3288,8 @@ msgstr "●  Fences wordt veelvuldig gebruikt in de zakenwereld, van grote zorgi
 msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
 msgstr "●  Fences wordt veelvuldig gebruikt in de zakenwereld, van grote gezondheidsinstellingen, overheidsagentschappen, productie, Fortune 100 bedrijven en talloze andere omge"
 
-msgid "●  Hold shift to drag to reposition a tab, or tear it off"
-msgstr "●  Houd shift ingedrukt om een tab te verplaatsen, of trek deze los"
+msgid "●  Hold shift to drag to re-order a tab, or tear it off"
+msgstr ""
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "● Facturering voor PO's beschikbaar. Compliance-assistentie beschikbaar."

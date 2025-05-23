@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-01 13:31-07:00\n"
+"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-01 13:31-07:00\n"
+"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -57,6 +57,9 @@ msgstr "화면 가장자리에 도킹된 그룹을 표시할 때 마우스가 �
 
 msgid "Activation successful."
 msgstr "활성화 성공."
+
+msgid "Add"
+msgstr ""
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "나의 작업 표시줄에 \"Show Fences\" 아이콘 추가"
@@ -496,6 +499,9 @@ msgstr "다른 폴더 선택..."
 
 msgid "choose a Fence..."
 msgstr "Fence 선택..."
+
+msgid "Choose a folder"
+msgstr ""
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Fence를 배치할 폴더 선택"
@@ -949,8 +955,8 @@ msgstr "새 탭 만들기 활성화"
 msgid "Enable Fences"
 msgstr "Fences 활성화"
 
-msgid "Enable Pages"
-msgstr "페이지 사용"
+msgid "Enable pages"
+msgstr ""
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "개별 Fence내 분류 활성화(이름별, 유형별, 크기별 등)"
@@ -1176,6 +1182,9 @@ msgstr "Fences 업데이트 사용 가능"
 msgid "Fences was designed to help you use your desktop. To help you get started, Fences can create a couple starter-Fences and do a quick cleanup of your desktop. "
 msgstr "Fences는 데스크톱 사용에 도움이 되도록 설계되었습니다. 시작을 위해, Fences는 몇 개의 스타터 Fences를 생성한 후 데스크톱을 빠르게 정리합니다. "
 
+msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
+msgstr ""
+
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences: \"열린 시간\" 분류 정보"
 
@@ -1291,11 +1300,17 @@ msgstr "숨기기"
 msgid "Hide \"Fences for Business\""
 msgstr "\"비즈니스용 Fences\" 숨기기"
 
+msgid "Hide all desktop icons and Fence groups"
+msgstr ""
+
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "더블 클릭을 통해 바로바로 데스크톱을 숨기고 볼 수 있습니다."
 
 msgid "Hide details header"
 msgstr "세부 정보 헤더 숨기기"
+
+msgid "Hide Fence groups only"
+msgstr ""
 
 msgid "Hide for all icons"
 msgstr "모든 아이콘 숨기기"
@@ -1311,6 +1326,9 @@ msgstr "프로그램 링크 숨기기"
 
 msgid "Hide for web links"
 msgstr "웹 링크 숨기기"
+
+msgid "Hide icons not in Fence groups"
+msgstr ""
 
 msgid "Hide scrollbars when inactive"
 msgstr "비활성 상태일 때 스크롤바 숨기기"
@@ -1657,6 +1675,12 @@ msgstr "목록"
 msgid "List (Large)"
 msgstr "목록(대형)"
 
+msgid "List Horizontal"
+msgstr ""
+
+msgid "List Horizontal (Large)"
+msgstr ""
+
 msgid "Load"
 msgstr "불러오기"
 
@@ -1800,6 +1824,9 @@ msgstr "루트로 이동하세요"
 msgid "Navigate to root folder to rename this Fence"
 msgstr "이 Fence의 이름을 변경하려면 루트 폴더로 이동하세요."
 
+msgid "Navigate to root folder upon losing focus"
+msgstr ""
+
 msgid "Navigate up"
 msgstr "위로 이동"
 
@@ -1821,6 +1848,9 @@ msgstr "새 %s가(이) 현재 이 Fence로 이동"
 msgid "New Folder Panel"
 msgstr "새 폴더 패널"
 
+msgid "New Folder Portal tab"
+msgstr ""
+
 msgid "New Icons && Rules"
 msgstr "새로운 아이콘 및 규칙"
 
@@ -1835,6 +1865,9 @@ msgstr "새 이름:"
 
 msgid "New Rule"
 msgstr "새 규칙"
+
+msgid "New tab"
+msgstr ""
 
 msgid "Next steps"
 msgstr "다음 단계"
@@ -2172,9 +2205,6 @@ msgstr "데스크톱에서 Fence를 제거하고 대표 폴더를 삭제"
 msgid "Remove rule?"
 msgstr "규칙을 제거하시겠습니까? "
 
-msgid "Remove tab from group"
-msgstr "그룹에서 탭 삭제"
-
 msgid "Remove this Folder Portal"
 msgstr "이 Folder Portal 제거"
 
@@ -2339,6 +2369,9 @@ msgstr "소개 전화를 예약하십시오"
 
 msgid "Screens"
 msgstr "화면"
+
+msgid "Search && filter"
+msgstr ""
 
 msgid "Segmented"
 msgstr "분할된"
@@ -2582,6 +2615,9 @@ msgstr "키보드를 사용하여 다른 페이지로 전환하려면, 클릭하
 
 msgid "Switch to another page using your mouse, grab and pull the left or right edge of your desktop. Alternatively, you can also press both mouse buttons and drag from anywhere on your desktop, or likewise drag using your middle mouse button."
 msgstr "마우스를 사용하여 다른 페이지로 전환하고, 데스크톱의 왼쪽 또는 오른쪽 가장자리를 잡아 당깁니다. 또는 마우스 버튼 두 개를 누른 후 데스크톱 아무 곳이나 드래그하거나, 비슷하게 마우스 중앙 버튼을 사용하여 드래그할 수 있습니다."
+
+msgid "Sync pages and Windows' Virtual Desktops"
+msgstr ""
 
 msgid "Tab groups"
 msgstr "탭 그룹"
@@ -3255,8 +3291,8 @@ msgstr "●  Fences는 대형 건강 관리 기관, 정부 기관, 제조업, �
 msgid "●  Fences is used widely throughout the business world, from large healthcare institutions, government agencies, manufacturing, Fortune 100 companies and countless other environments. We work in offices big and small, from 10 seats to 10000."
 msgstr "● Fences는 대형 건강관리 기관, 정부 기관, 제조업, 포춘 100 회사 및 무수한 다른 환경에서"
 
-msgid "●  Hold shift to drag to reposition a tab, or tear it off"
-msgstr "●  Shift 키를 누른 상태로 탭을 드래그하여 이동하거나 떼어내십시오"
+msgid "●  Hold shift to drag to re-order a tab, or tear it off"
+msgstr ""
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "●  PO에 대한 청구 가능. 컴플라이언스 지원 가능."
