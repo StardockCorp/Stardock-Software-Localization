@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
+"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
+"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -1313,6 +1313,9 @@ msgstr ""
 msgid "How to create a new desktop page"
 msgstr ""
 
+msgid "How to create a new page"
+msgstr ""
+
 msgid "How to distribute license/settings"
 msgstr ""
 
@@ -1323,6 +1326,9 @@ msgid "How to hide/show the header on a 'details view' Folder Portal"
 msgstr ""
 
 msgid "How to move icons or Fence groups between desktops"
+msgstr ""
+
+msgid "How to move icons or Fence groups between pages"
 msgstr ""
 
 msgid "How to quickly navigate up to the root folder"
@@ -1340,10 +1346,10 @@ msgstr ""
 msgid "How to use desktop pages"
 msgstr ""
 
-msgid "How to use with a keyboard"
+msgid "How to use pages"
 msgstr ""
 
-msgid "How to use with a mouse"
+msgid "How to use with a keyboard"
 msgstr ""
 
 msgid "How to use with a touch-enabled system"
@@ -2286,7 +2292,7 @@ msgstr ""
 msgid "Screens"
 msgstr ""
 
-msgid "Search && filter"
+msgid "Search & filter"
 msgstr ""
 
 msgid "Segmented"
@@ -2869,6 +2875,9 @@ msgstr ""
 
 msgid "Using Folder Portals"
 msgstr "Using Folder Portal"
+
+msgid "Using pages"
+msgstr ""
 
 msgid "Using quick-hide"
 msgstr ""

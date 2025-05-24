@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
+"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
+"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -1381,6 +1381,9 @@ msgstr "Come creare un gruppo di Folder Portal"
 msgid "How to create a new desktop page"
 msgstr "Come creare una nuova pagina del desktop"
 
+msgid "How to create a new page"
+msgstr ""
+
 msgid "How to distribute license/settings"
 msgstr "Come distribuire licenza/impostazioni"
 
@@ -1392,6 +1395,9 @@ msgstr "Come nascondere/mostrare l'intestazione di una cartella \"vista dettagli
 
 msgid "How to move icons or Fence groups between desktops"
 msgstr "Come spostare le icone o i gruppi di Fence tra i desktop"
+
+msgid "How to move icons or Fence groups between pages"
+msgstr ""
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "Come navigare velocemente fino alla cartella radice"
@@ -1408,11 +1414,11 @@ msgstr "Modalità d'uso"
 msgid "How to use desktop pages"
 msgstr "Come utilizzare le pagine del desktop"
 
+msgid "How to use pages"
+msgstr ""
+
 msgid "How to use with a keyboard"
 msgstr "Come si usa con la tastiera"
-
-msgid "How to use with a mouse"
-msgstr "Come utilizzare il mouse"
 
 msgid "How to use with a touch-enabled system"
 msgstr "Come si usa con un sistema touch-enabled"
@@ -2373,7 +2379,7 @@ msgstr "Pianifica una chiamata di introduzione"
 msgid "Screens"
 msgstr "Schermi"
 
-msgid "Search && filter"
+msgid "Search & filter"
 msgstr ""
 
 msgid "Segmented"
@@ -2991,6 +2997,9 @@ msgstr "Utilizzo delle pagine del desktop"
 
 msgid "Using Folder Portals"
 msgstr "Utilizzando i Folder Portals"
+
+msgid "Using pages"
+msgstr ""
 
 msgid "Using quick-hide"
 msgstr "Utilizzo del nascondimento rapido"

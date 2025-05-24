@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
+"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
+"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -1376,6 +1376,9 @@ msgstr "如何建立Folder Portal"
 msgid "How to create a new desktop page"
 msgstr "如何建立新桌面頁"
 
+msgid "How to create a new page"
+msgstr ""
+
 msgid "How to distribute license/settings"
 msgstr "如何分配許可證/設定"
 
@@ -1387,6 +1390,9 @@ msgstr "如何在「詳細資訊檢視」Folder Portal隱藏/顯示標題"
 
 msgid "How to move icons or Fence groups between desktops"
 msgstr "如何在桌面之間移動圖示或分類區"
+
+msgid "How to move icons or Fence groups between pages"
+msgstr ""
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "如何快速導航至根資料夾"
@@ -1403,11 +1409,11 @@ msgstr "使用方法"
 msgid "How to use desktop pages"
 msgstr "如何使用桌面頁面"
 
+msgid "How to use pages"
+msgstr ""
+
 msgid "How to use with a keyboard"
 msgstr "如何使用鍵盤"
-
-msgid "How to use with a mouse"
-msgstr "如何使用滑鼠"
 
 msgid "How to use with a touch-enabled system"
 msgstr "如何搭配觸控系統使用"
@@ -2368,7 +2374,7 @@ msgstr "安排一個介紹通話"
 msgid "Screens"
 msgstr "螢幕"
 
-msgid "Search && filter"
+msgid "Search & filter"
 msgstr ""
 
 msgid "Segmented"
@@ -2986,6 +2992,9 @@ msgstr "使用桌面頁"
 
 msgid "Using Folder Portals"
 msgstr "使用Folder Portals"
+
+msgid "Using pages"
+msgstr ""
 
 msgid "Using quick-hide"
 msgstr "使用快速隱藏"

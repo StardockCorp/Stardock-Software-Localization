@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
+"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
+"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -1376,6 +1376,9 @@ msgstr "Como criar um Folder Portal"
 msgid "How to create a new desktop page"
 msgstr "Como criar uma nova página da área de trabalho"
 
+msgid "How to create a new page"
+msgstr ""
+
 msgid "How to distribute license/settings"
 msgstr "Como distribuir licença/configurações"
 
@@ -1387,6 +1390,9 @@ msgstr "Como ocultar/exibir o cabeçalho na \"vista de detalhes\" de um Folder P
 
 msgid "How to move icons or Fence groups between desktops"
 msgstr "Como mover ícones ou Fences entre áreas de trabalho"
+
+msgid "How to move icons or Fence groups between pages"
+msgstr ""
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "Como navegar rapidamente até a pasta raiz"
@@ -1403,11 +1409,11 @@ msgstr "Como usar"
 msgid "How to use desktop pages"
 msgstr "Como usar as páginas da área de trabalho"
 
+msgid "How to use pages"
+msgstr ""
+
 msgid "How to use with a keyboard"
 msgstr "Como usar com um teclado"
-
-msgid "How to use with a mouse"
-msgstr "Como usar com um mouse"
 
 msgid "How to use with a touch-enabled system"
 msgstr "Como usar com um sistema sensível a toque"
@@ -2368,7 +2374,7 @@ msgstr "Agende uma chamada de introdução"
 msgid "Screens"
 msgstr "Telas"
 
-msgid "Search && filter"
+msgid "Search & filter"
 msgstr ""
 
 msgid "Segmented"
@@ -2986,6 +2992,9 @@ msgstr "Uso das páginas da área de trabalho"
 
 msgid "Using Folder Portals"
 msgstr "Uso do Folder Portals"
+
+msgid "Using pages"
+msgstr ""
 
 msgid "Using quick-hide"
 msgstr "Uso de ocultar rapidamente"

@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
+"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
+"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -1376,6 +1376,9 @@ msgstr "Jak stworzyć Folder Portal"
 msgid "How to create a new desktop page"
 msgstr "Jak stworzyć nową stronę Pulpitu"
 
+msgid "How to create a new page"
+msgstr ""
+
 msgid "How to distribute license/settings"
 msgstr "Jak dystrybuować licencję/ustawienia"
 
@@ -1387,6 +1390,9 @@ msgstr "Jak pokazać/ukryć nagłówek w 'widoku szczegółowym' Folder Portal"
 
 msgid "How to move icons or Fence groups between desktops"
 msgstr "Jak przenieść ikony lub Fences pomiędzy Pulpitami"
+
+msgid "How to move icons or Fence groups between pages"
+msgstr ""
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "Jak szybko przejść do folderu głównego"
@@ -1403,11 +1409,11 @@ msgstr "Jak używać program"
 msgid "How to use desktop pages"
 msgstr "Jak korzystać ze stron pulpitu"
 
+msgid "How to use pages"
+msgstr ""
+
 msgid "How to use with a keyboard"
 msgstr "Jak używać programu z klawiatury"
-
-msgid "How to use with a mouse"
-msgstr "Jak używać programu za pomocą myszy"
 
 msgid "How to use with a touch-enabled system"
 msgstr "Jak używać systemów z ekranem dotykowym"
@@ -2368,7 +2374,7 @@ msgstr "Zaplanuj rozmowę wprowadzającą"
 msgid "Screens"
 msgstr "Zrzuty stanu"
 
-msgid "Search && filter"
+msgid "Search & filter"
 msgstr ""
 
 msgid "Segmented"
@@ -2986,6 +2992,9 @@ msgstr "Używaj stron Pulpitu"
 
 msgid "Using Folder Portals"
 msgstr "Używaj Folder Portals"
+
+msgid "Using pages"
+msgstr ""
 
 msgid "Using quick-hide"
 msgstr "Używaj Szybkiego ukrywania"

@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-22 18:33-07:00\n"
+"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-22 18:33-07:00\n"
+"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -1375,6 +1375,9 @@ msgstr "Hoe een Folder Portal creëren"
 msgid "How to create a new desktop page"
 msgstr "Hoe een nieuwe bureaubladpagina creëren"
 
+msgid "How to create a new page"
+msgstr ""
+
 msgid "How to distribute license/settings"
 msgstr "Hoe licentie/instellingen te distribueren"
 
@@ -1386,6 +1389,9 @@ msgstr "Hoe de kopregel verbergen/weergeven op een map portaal met \"Detailsweer
 
 msgid "How to move icons or Fence groups between desktops"
 msgstr "Hoe iconen of Fences tussen bureaubladen verplaatsen"
+
+msgid "How to move icons or Fence groups between pages"
+msgstr ""
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "Hoe snel naar de hoofdmap te navigeren"
@@ -1402,11 +1408,11 @@ msgstr "Hoe te gebruiken"
 msgid "How to use desktop pages"
 msgstr "Desktop pagina's gebruiken"
 
+msgid "How to use pages"
+msgstr ""
+
 msgid "How to use with a keyboard"
 msgstr "Hoe met een toetsenbord te gebruiken"
-
-msgid "How to use with a mouse"
-msgstr "Hoe met een muis te gebruiken"
 
 msgid "How to use with a touch-enabled system"
 msgstr "Hoe met een aanraakgeschakelde systeem te gebruiken"
@@ -2367,7 +2373,7 @@ msgstr "Plan een introductiegesprek"
 msgid "Screens"
 msgstr "Beeldschermen"
 
-msgid "Search && filter"
+msgid "Search & filter"
 msgstr ""
 
 msgid "Segmented"
@@ -2985,6 +2991,9 @@ msgstr "Bureaubladpagina's gebruiken"
 
 msgid "Using Folder Portals"
 msgstr "Folder Portal gebruiken"
+
+msgid "Using pages"
+msgstr ""
 
 msgid "Using quick-hide"
 msgstr "Snel verbergen gebruiken"
