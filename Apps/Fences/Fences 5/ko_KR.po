@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
+"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
+"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -59,7 +59,7 @@ msgid "Activation successful."
 msgstr "활성화 성공."
 
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "나의 작업 표시줄에 \"Show Fences\" 아이콘 추가"
@@ -79,8 +79,14 @@ msgstr "추가 기준 추가..."
 msgid "Add another rule..."
 msgstr "다른 규칙 추가..."
 
+msgid "Add new Folder Portal"
+msgstr "새 Folder Portal 추가"
+
 msgid "Add new icons as the first icon in the target Fence"
 msgstr "대상 Fence에 첫 아이콘으로 새 아이콘 추가"
+
+msgid "Add new tab"
+msgstr "새 탭 추가"
 
 msgid "Add rule..."
 msgstr "규칙 추가..."
@@ -313,7 +319,7 @@ msgid "Background Style"
 msgstr "백그라운드 스타일"
 
 msgid "Backup captured"
-msgstr "번역할 텍스트: 백업 캡처됨"
+msgstr "백업 캡처됨"
 
 msgid "Backup deleted"
 msgstr "삭제된 백업"
@@ -336,9 +342,6 @@ msgid ""
 msgstr ""
 "아래에서 새 아이콘을 배치할 위치를 통제하는 규칙을 정의할 수 있습니다.\n"
 "샘플 규칙을 사용하거나 \"규칙 추가...\"를 클릭하여 나만의 규칙을 생성하여 시작할 수 있습니다!"
-
-msgid "Beta {0}"
-msgstr "베타 {0}"
 
 msgid "between"
 msgstr "사이"
@@ -374,13 +377,13 @@ msgid "Book 15-30min call"
 msgstr "15-30분 통화 예약하기"
 
 msgid "Bottom"
-msgstr "번역할 텍스트: 바닥"
+msgstr "바닥"
 
 msgid "Brightness:"
 msgstr "명도:"
 
 msgid "Business Edition"
-msgstr "번역할 텍스트: 비즈니스 에디션"
+msgstr "비즈니스 에디션"
 
 msgid "Business License Management"
 msgstr "사업 면허 관리"
@@ -440,7 +443,7 @@ msgid "Cannot restore a backup while Fences is not enabled."
 msgstr "Fences가 활성화되지 않은 상태에서는 백업을 복원할 수 없습니다."
 
 msgid "Chameleon auto-disabled"
-msgstr "번역할 텍스트: Chameleon 자동 비활성화"
+msgstr "Chameleon 자동 비활성화"
 
 msgid "Change / resize the font used in Fences' labels"
 msgstr "Fences 라벨에 사용한 폰트 변경/크기 조정"
@@ -501,7 +504,7 @@ msgid "choose a Fence..."
 msgstr "Fence 선택..."
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "폴더를 선택하세요"
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Fence를 배치할 폴더 선택"
@@ -713,7 +716,7 @@ msgid "Daily Snapshot"
 msgstr "일일 스냅샷"
 
 msgid "Dark"
-msgstr "번역할 텍스트: 어둠"
+msgstr "어둠"
 
 msgid "Darken Fence area title bars"
 msgstr "타이틀바 Fence 영역 어둡게 하기"
@@ -722,7 +725,7 @@ msgid "Darken titlebar areas"
 msgstr "제목 표시줄 영역 어둡게 하기"
 
 msgid "Darker"
-msgstr "번역할 텍스트: 더 어두운"
+msgstr "더 어두운"
 
 msgid "Date added to Fence"
 msgstr "Fence에 일자 추가"
@@ -956,7 +959,7 @@ msgid "Enable Fences"
 msgstr "Fences 활성화"
 
 msgid "Enable pages"
-msgstr ""
+msgstr "페이지 활성화"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "개별 Fence내 분류 활성화(이름별, 유형별, 크기별 등)"
@@ -1183,7 +1186,7 @@ msgid "Fences was designed to help you use your desktop. To help you get started
 msgstr "Fences는 데스크톱 사용에 도움이 되도록 설계되었습니다. 시작을 위해, Fences는 몇 개의 스타터 Fences를 생성한 후 데스크톱을 빠르게 정리합니다. "
 
 msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
-msgstr ""
+msgstr "Fences는 가상 데스크톱에서 마지막으로 사용한 데스크톱 페이지를 기억하고, 해당 가상 데스크톱으로 돌아올 때 그 상태를 복원합니다."
 
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences: \"열린 시간\" 분류 정보"
@@ -1279,7 +1282,7 @@ msgid "Group Properties"
 msgstr "그룹 속성"
 
 msgid "Group spacing & snapping"
-msgstr "번역할 텍스트: 그룹 간격 및 스냅핑"
+msgstr "그룹 간격 및 스냅핑"
 
 msgid "Groups"
 msgstr "그룹"
@@ -1301,7 +1304,7 @@ msgid "Hide \"Fences for Business\""
 msgstr "\"비즈니스용 Fences\" 숨기기"
 
 msgid "Hide all desktop icons and Fence groups"
-msgstr ""
+msgstr "모든 데스크탑 아이콘과 Fence 그룹을 숨기세요."
 
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "더블 클릭을 통해 바로바로 데스크톱을 숨기고 볼 수 있습니다."
@@ -1310,7 +1313,7 @@ msgid "Hide details header"
 msgstr "세부 정보 헤더 숨기기"
 
 msgid "Hide Fence groups only"
-msgstr ""
+msgstr "Fence 그룹만 숨기기"
 
 msgid "Hide for all icons"
 msgstr "모든 아이콘 숨기기"
@@ -1328,7 +1331,7 @@ msgid "Hide for web links"
 msgstr "웹 링크 숨기기"
 
 msgid "Hide icons not in Fence groups"
-msgstr ""
+msgstr "Fence 그룹에 없는 아이콘 숨기기"
 
 msgid "Hide scrollbars when inactive"
 msgstr "비활성 상태일 때 스크롤바 숨기기"
@@ -1352,7 +1355,7 @@ msgid "Horizontal"
 msgstr "수평적"
 
 msgid "Hot Corner"
-msgstr "번역할 텍스트: 핫 코너"
+msgstr "핫 코너"
 
 msgid "Hot Keys"
 msgstr "단축키"
@@ -1379,7 +1382,7 @@ msgid "How to create a new desktop page"
 msgstr "새 데스크톱 페이지 생성 방법"
 
 msgid "How to create a new page"
-msgstr ""
+msgstr "새 페이지를 만드는 방법"
 
 msgid "How to distribute license/settings"
 msgstr "라이선스/설정을 어떻게 배포하나요"
@@ -1394,7 +1397,7 @@ msgid "How to move icons or Fence groups between desktops"
 msgstr "데스크톱 사이에서 아이콘과 Fences를 이동하는 방법"
 
 msgid "How to move icons or Fence groups between pages"
-msgstr ""
+msgstr "페이지 간에 아이콘 또는 Fence 그룹을 이동하는 방법"
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "루트 폴더까지 어떻게 빠르게 이동하나요"
@@ -1412,7 +1415,7 @@ msgid "How to use desktop pages"
 msgstr "데스크톱 페이지 사용 방법"
 
 msgid "How to use pages"
-msgstr ""
+msgstr "페이지 사용 방법"
 
 msgid "How to use with a keyboard"
 msgstr "키보드로 사용하는 방법"
@@ -1625,7 +1628,7 @@ msgid "Learn More"
 msgstr "더 알아보기"
 
 msgid "Left click"
-msgstr "번역할 텍스트: 왼쪽 클릭"
+msgstr "왼쪽 클릭"
 
 msgid "Legal Information"
 msgstr "법률 정보"
@@ -1682,10 +1685,10 @@ msgid "List (Large)"
 msgstr "목록(대형)"
 
 msgid "List Horizontal"
-msgstr ""
+msgstr "수평 목록"
 
 msgid "List Horizontal (Large)"
-msgstr ""
+msgstr "가로 목록 (크게)"
 
 msgid "Load"
 msgstr "불러오기"
@@ -1715,7 +1718,7 @@ msgid ""
 "\n"
 "Once your issue is resolved, don't forget to turn this setting back off for best performance."
 msgstr ""
-"번역할 텍스트: 로깅은 다음 로그인 때 시작됩니다.\n"
+"로깅은 다음 로그인 때 시작됩니다.\n"
 "\n"
 "로그오프 후에 다시 로그인하시거나 재부팅한 다음, 적어도 두 번 이상 문제를 재현해 주세요(문제를 보여주기 위해 필요하다면 다시 재부팅하면 됩니다. 문제를 많이 보여주실수록 더 좋습니다), 그리고 \"오류 보고 패키지 생성\" 메뉴 항목을 사용하여 보고서를 제출해 주세요. 감사합니다!\n"
 "\n"
@@ -1728,7 +1731,7 @@ msgid "Maintain backups and adjust your layout settings."
 msgstr "백업을 유지하고 레이아웃 설정을 조정하세요."
 
 msgid "Maintain daily backups (most recent 3 days will be kept)"
-msgstr "번역할 텍스트: 일일 백업 유지 (가장 최근 3일 동안 보관)"
+msgstr "일일 백업 유지 (가장 최근 3일 동안 보관)"
 
 msgid "Maintain sorting"
 msgstr "분류 유지"
@@ -1755,7 +1758,7 @@ msgid "Medium icons"
 msgstr "중형 아이콘"
 
 msgid "Menu Only"
-msgstr "번역할 텍스트: 메뉴 전용"
+msgstr "메뉴 전용"
 
 msgid "Merge tab groups"
 msgstr "탭 그룹 병합"
@@ -1831,7 +1834,7 @@ msgid "Navigate to root folder to rename this Fence"
 msgstr "이 Fence의 이름을 변경하려면 루트 폴더로 이동하세요."
 
 msgid "Navigate to root folder upon losing focus"
-msgstr ""
+msgstr "포커스를 잃었을 때 루트 폴더로 이동하세요"
 
 msgid "Navigate up"
 msgstr "위로 이동"
@@ -1855,7 +1858,7 @@ msgid "New Folder Panel"
 msgstr "새 폴더 패널"
 
 msgid "New Folder Portal tab"
-msgstr ""
+msgstr "새 Folder Portal 탭"
 
 msgid "New Icons && Rules"
 msgstr "새로운 아이콘 및 규칙"
@@ -1873,7 +1876,7 @@ msgid "New Rule"
 msgstr "새 규칙"
 
 msgid "New tab"
-msgstr ""
+msgstr "새 탭"
 
 msgid "Next steps"
 msgstr "다음 단계"
@@ -1955,7 +1958,7 @@ msgid "on the Desktop"
 msgstr "데스크톱에서"
 
 msgid "Only Folder Portal groups found."
-msgstr "번역할 텍스트: Folder Portal 그룹만 발견되었습니다."
+msgstr "Folder Portal 그룹만 발견되었습니다."
 
 msgid ""
 "Only TrueType fonts can be used.\n"
@@ -2042,10 +2045,10 @@ msgid "Paste Fence color"
 msgstr "울타리 색상 붙여넣기"
 
 msgid "Paste group style"
-msgstr "번역할 텍스트: 그룹 스타일 붙여넣기"
+msgstr "그룹 스타일 붙여넣기"
 
 msgid "Peek"
-msgstr "번역할 텍스트: 피크"
+msgstr "피크"
 
 msgid "Peek brings your Fence groups to the top instantly, using the taskbar, hotcorners or hotkeys."
 msgstr "작업 표시줄, 핫코너 또는 단축키를 사용해 펜스 그룹을 즉시 상단으로 불러올 수 있습니다."
@@ -2314,7 +2317,7 @@ msgid "Reverse order"
 msgstr "역순"
 
 msgid "Right click"
-msgstr "번역할 텍스트: 마우스 오른쪽 버튼을 클릭"
+msgstr "마우스 오른쪽 버튼을 클릭"
 
 msgid "Roll up Fence groups placed on edge of screen"
 msgstr "화면 가장자리에 위치한 Fences 올리기"
@@ -2338,7 +2341,7 @@ msgid "Round corners of Fence areas"
 msgstr "Fence 영역의 둥근 코너"
 
 msgid "Rounded"
-msgstr "번역할 텍스트: 둥근"
+msgstr "둥근"
 
 msgid "Rule names must be less than 255 characters long"
 msgstr "규칙 이름은 255자 이하여야 합니다."
@@ -2377,7 +2380,7 @@ msgid "Screens"
 msgstr "화면"
 
 msgid "Search & filter"
-msgstr ""
+msgstr "검색 및 필터"
 
 msgid "Segmented"
 msgstr "분할된"
@@ -2414,7 +2417,7 @@ msgid ""
 "\n"
 "To move a group's titlebar back to the top, move the group away from the top edge and then back again."
 msgstr ""
-"번역할 텍스트: 설정이 업데이트되었습니다.\n"
+"설정이 업데이트되었습니다.\n"
 "\n"
 "그룹의 제목 표시 줄을 다시 상단으로 이동시키려면, 그룹을 상단 가장자리에서 떨어뜨린 후 다시 갖다 놓으십시오."
 
@@ -2437,7 +2440,7 @@ msgid "Shortcut (Link)"
 msgstr "바로가기(링크)"
 
 msgid "Show colors on all tabs when per-Fence custom colors are used"
-msgstr ""
+msgstr "모든 탭에서 Fence별 사용자 지정 색상이 사용될 때 색상을 표시합니다."
 
 msgid "Show controls in header on mouseover"
 msgstr "마우스오버시 헤더에 컨트롤 표시"
@@ -2581,7 +2584,7 @@ msgstr ""
 "화면 해상도를 변경한 다음에는 Fences가 새로운 화면 해상도에 맞추어 조정됩니다."
 
 msgid "Subfolders inherit view mode from parent"
-msgstr "번역할 텍스트: 하위폴더는 부모에서 보기 모드를 상속합니다."
+msgstr "하위폴더는 부모에서 보기 모드를 상속합니다."
 
 msgid "Suffix"
 msgstr "접미"
@@ -2623,7 +2626,7 @@ msgid "Switch to another page using your mouse, grab and pull the left or right 
 msgstr "마우스를 사용하여 다른 페이지로 전환하고, 데스크톱의 왼쪽 또는 오른쪽 가장자리를 잡아 당깁니다. 또는 마우스 버튼 두 개를 누른 후 데스크톱 아무 곳이나 드래그하거나, 비슷하게 마우스 중앙 버튼을 사용하여 드래그할 수 있습니다."
 
 msgid "Sync pages and Windows' Virtual Desktops"
-msgstr ""
+msgstr "페이지와 Windows' Virtual Desktops 동기화"
 
 msgid "Tab groups"
 msgstr "탭 그룹"
@@ -2789,7 +2792,7 @@ msgid "This will reset {0} to its default factory settings. Continue?"
 msgstr "이는 {0}을(를) 기본 공장 설정으로 초기화합니다. 계속하시겠습니까?"
 
 msgid "Tilde"
-msgstr "번역할 텍스트: 틸드"
+msgstr "틸드"
 
 msgid "Time-based rules"
 msgstr "시간 기반 규칙"
@@ -2978,16 +2981,16 @@ msgid "Use this to reset your icon spacing if you've already rebooted and they d
 msgstr "이 설정을 사용하여 이미 재시작한 후 아이콘 간격이 올바르게 표시되지 않는 경우에 재설정할 수 있습니다. 이 설정은 {0}에서 찾을 수 있습니다."
 
 msgid "Used to swap contents of monitors when 2 or more displays are in use."
-msgstr "번역할 텍스트: 2개 이상의 디스플레이가 사용될 때, 모니터의 내용을 교환하는 데 사용됩니다."
+msgstr "2개 이상의 디스플레이가 사용될 때, 모니터의 내용을 교환하는 데 사용됩니다."
 
 msgid "Username on"
-msgstr "번역할 텍스트: 사용자 이름은"
+msgstr "사용자 이름은"
 
 msgid "Users will no longer be able add their own icons to the group"
 msgstr "사용자는 더 이상 그룹에 자신의 아이콘을 추가할 수 없게 됩니다."
 
 msgid "Users will now be able to add their own icons to the group"
-msgstr "번역할 텍스트: 사용자는 이제 그룹에 자신의 아이콘을 추가할 수 있게 됩니다."
+msgstr "사용자는 이제 그룹에 자신의 아이콘을 추가할 수 있게 됩니다."
 
 msgid "Using desktop pages"
 msgstr "데스크톱 페이지 사용 중"
@@ -2996,7 +2999,7 @@ msgid "Using Folder Portals"
 msgstr "Folder Portals 사용 중"
 
 msgid "Using pages"
-msgstr ""
+msgstr "페이지를 사용하여"
 
 msgid "Using quick-hide"
 msgstr "빠른 숨김 사용 중"
@@ -3301,7 +3304,7 @@ msgid "●  Fences is used widely throughout the business world, from large heal
 msgstr "● Fences는 대형 건강관리 기관, 정부 기관, 제조업, 포춘 100 회사 및 무수한 다른 환경에서"
 
 msgid "●  Hold shift to drag to re-order a tab, or tear it off"
-msgstr ""
+msgstr "● 탭의 순서를 바꾸려면 shift를 누르고 드래그하거나, 탭을 떼어내세요."
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "●  PO에 대한 청구 가능. 컴플라이언스 지원 가능."

@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
+"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
+"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -59,7 +59,7 @@ msgid "Activation successful."
 msgstr "アクティベーション成功。"
 
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "タスクバーに「Fencesを表示」アイコンを追加"
@@ -79,8 +79,14 @@ msgstr "追加の条件を追加してください。"
 msgid "Add another rule..."
 msgstr "別のルールを追加してください。"
 
+msgid "Add new Folder Portal"
+msgstr "新しい Folder Portal を追加"
+
 msgid "Add new icons as the first icon in the target Fence"
 msgstr "新しいアイコンをターゲットFenceの最初のアイコンとして追加します。"
+
+msgid "Add new tab"
+msgstr "新しいタブを追加"
 
 msgid "Add rule..."
 msgstr "追加規則..."
@@ -329,9 +335,6 @@ msgstr ""
 "あなたは、新しいアイコンを配置する場所を規定するための規則を以下で定義することができます。\n"
 "サンプルルールが提供されているか、あるいは自分で作成することもできます - 「規則を追加...」をクリックして始めてください！"
 
-msgid "Beta {0}"
-msgstr "ベータ {0}"
-
 msgid "between"
 msgstr "間"
 
@@ -432,7 +435,7 @@ msgid "Cannot restore a backup while Fences is not enabled."
 msgstr "Fencesが有効でないときにバックアップを復元することはできません。"
 
 msgid "Chameleon auto-disabled"
-msgstr "テキストの翻訳: Chameleon は自動的に無効化されました"
+msgstr "Chameleon は自動的に無効化されました"
 
 msgid "Change / resize the font used in Fences' labels"
 msgstr "Fencesのラベルに使用するフォントを変更/サイズ変更します"
@@ -491,7 +494,7 @@ msgid "choose a Fence..."
 msgstr "'Fenceを選択してください...'"
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "フォルダを選択してください"
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Fenceを入れるフォルダを選択してください"
@@ -616,7 +619,7 @@ msgid "Create an empty Fence and then return here to select it."
 msgstr "空のFenceを作成し、その後ここに戻って選択してください。"
 
 msgid "Create error report package for technical support"
-msgstr "テキストの翻訳：テクニカルサポートのためのエラーレポートパッケージを作成します"
+msgstr "テクニカルサポートのためのエラーレポートパッケージを作成します"
 
 msgid "Create Fence from a Folder"
 msgstr "フォルダからFenceを作成する"
@@ -941,7 +944,7 @@ msgid "Enable Fences"
 msgstr "'Fencesを有効にする'"
 
 msgid "Enable pages"
-msgstr ""
+msgstr "ページを有効にする"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "個々のFences内でソートを有効にする(名前、タイプ、サイズなど)"
@@ -1165,7 +1168,7 @@ msgid "Fences was designed to help you use your desktop. To help you get started
 msgstr "Fencesは、デスクトップを使いやすくするためにデザインされました。はじめるために、Fencesはスターター-Fencesを作成し、デスクトップをクイッククリーンアップできます。"
 
 msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
-msgstr ""
+msgstr "Fencesは、最後に仮想デスクトップを使用した際にどのデスクトップページにいたかを記憶し、その仮想デスクトップに戻ったときにそれを復元します。"
 
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "'Fences: \"回数開封\" 並び替え情報'"
@@ -1283,7 +1286,7 @@ msgid "Hide \"Fences for Business\""
 msgstr "「Fences for Business」を非表示にする"
 
 msgid "Hide all desktop icons and Fence groups"
-msgstr ""
+msgstr "デスクトップのアイコンとFenceグループをすべて隠す"
 
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "デスクトップのアイコンをダブルクリックすると瞬時に隠して表示できます。"
@@ -1292,7 +1295,7 @@ msgid "Hide details header"
 msgstr "詳細ヘッダを隠す"
 
 msgid "Hide Fence groups only"
-msgstr ""
+msgstr "Fenceグループのみを隠す"
 
 msgid "Hide for all icons"
 msgstr "すべてのアイコンを隠す"
@@ -1310,7 +1313,7 @@ msgid "Hide for web links"
 msgstr "ウェブリンクを隠す"
 
 msgid "Hide icons not in Fence groups"
-msgstr ""
+msgstr "Fence グループにないアイコンを隠す"
 
 msgid "Hide scrollbars when inactive"
 msgstr "非アクティブ時にスクロールバーを隠す"
@@ -1361,7 +1364,7 @@ msgid "How to create a new desktop page"
 msgstr "デスクトップの新しいページを作る方法"
 
 msgid "How to create a new page"
-msgstr ""
+msgstr "新しいページの作成方法"
 
 msgid "How to distribute license/settings"
 msgstr "ライセンス/設定の配布方法"
@@ -1376,7 +1379,7 @@ msgid "How to move icons or Fence groups between desktops"
 msgstr "アイコンやFencesをデスクトップ間で移動する方法"
 
 msgid "How to move icons or Fence groups between pages"
-msgstr ""
+msgstr "ページ間でアイコンまたはFenceグループを移動する方法"
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "ルートフォルダまでどのように迅速に移動するか"
@@ -1394,7 +1397,7 @@ msgid "How to use desktop pages"
 msgstr "デスクトップ・ページの使い方"
 
 msgid "How to use pages"
-msgstr ""
+msgstr "ページの使用方法"
 
 msgid "How to use with a keyboard"
 msgstr "キーボードとの使い方"
@@ -1664,10 +1667,10 @@ msgid "List (Large)"
 msgstr "大きいリスト"
 
 msgid "List Horizontal"
-msgstr ""
+msgstr "水平リスト"
 
 msgid "List Horizontal (Large)"
-msgstr ""
+msgstr "水平リスト（大）"
 
 msgid "Load"
 msgstr "荷物"
@@ -1813,7 +1816,7 @@ msgid "Navigate to root folder to rename this Fence"
 msgstr "このFenceの名前を変更するためにルートフォルダに移動してください。"
 
 msgid "Navigate to root folder upon losing focus"
-msgstr ""
+msgstr "フォーカスを失った時にルートフォルダに移動する"
 
 msgid "Navigate up"
 msgstr "上に移動"
@@ -1837,7 +1840,7 @@ msgid "New Folder Panel"
 msgstr "新しいフォルダパネル"
 
 msgid "New Folder Portal tab"
-msgstr ""
+msgstr "新しい Folder Portal タブ"
 
 msgid "New Icons && Rules"
 msgstr "新しいアイコンと規則"
@@ -1855,7 +1858,7 @@ msgid "New Rule"
 msgstr "新しい規則"
 
 msgid "New tab"
-msgstr ""
+msgstr "新しいタブ"
 
 msgid "Next steps"
 msgstr "次のステップ"
@@ -2297,7 +2300,7 @@ msgid "Reverse order"
 msgstr "逆順"
 
 msgid "Right click"
-msgstr "翻訳テキスト：右クリック"
+msgstr "右クリック"
 
 msgid "Roll up Fence groups placed on edge of screen"
 msgstr "画面の端にあるFencesを巻き上げる"
@@ -2321,7 +2324,7 @@ msgid "Round corners of Fence areas"
 msgstr "1の角を丸める"
 
 msgid "Rounded"
-msgstr "翻訳するテキスト：丸みを帯びた"
+msgstr "丸みを帯びた"
 
 msgid "Rule names must be less than 255 characters long"
 msgstr "ルール名は255文字以下でなければなりません"
@@ -2360,7 +2363,7 @@ msgid "Screens"
 msgstr "スクリーン"
 
 msgid "Search & filter"
-msgstr ""
+msgstr "検索 & フィルター"
 
 msgid "Segmented"
 msgstr "分割された"
@@ -2420,7 +2423,7 @@ msgid "Shortcut (Link)"
 msgstr "ショートカット(リンク)"
 
 msgid "Show colors on all tabs when per-Fence custom colors are used"
-msgstr ""
+msgstr "すべてのタブにFenceごとのカスタムカラーが使用されている場合、色を表示します。"
 
 msgid "Show controls in header on mouseover"
 msgstr "マウスオーバーでヘッダーにコントロールを表示する"
@@ -2540,7 +2543,7 @@ msgid "starts with"
 msgstr "はじまる"
 
 msgid "Store my Fence group positions on a per-screen-resolution basis (legacy)"
-msgstr "テキストの翻訳: Fenceグループの位置を画面解像度ごとに保存する（レガシー）"
+msgstr "Fenceグループの位置を画面解像度ごとに保存する（レガシー）"
 
 msgid "Store my layout on a per-monitor-configuration basis"
 msgstr "モニター設定ごとに私のレイアウトを保存してください"
@@ -2600,7 +2603,7 @@ msgid "Switch to another page using your mouse, grab and pull the left or right 
 msgstr "マウスを使って他のページに切り替えたり、デスクトップの左端か右端をグラブ＆プルしてください。または、マウスの両ボタンを押しながらデスクトップのどこかからドラッグしたり、中ボタンを使ってドラッグすることもできます。"
 
 msgid "Sync pages and Windows' Virtual Desktops"
-msgstr ""
+msgstr "ページとWindowsのバーチャルデスクトップを同期する"
 
 msgid "Tab groups"
 msgstr "タブグループ"
@@ -2972,7 +2975,7 @@ msgid "Using Folder Portals"
 msgstr "Folder Portalsを使用する"
 
 msgid "Using pages"
-msgstr ""
+msgstr "ページを使用する"
 
 msgid "Using quick-hide"
 msgstr "速やかに隠れることを使う"
@@ -3270,7 +3273,7 @@ msgid "●  Fences is used widely throughout the business world, from large heal
 msgstr "●  Fencesは、大規模な医療機関、政府機関、製造業、フォーチュン100の企業など、ビジ"
 
 msgid "●  Hold shift to drag to re-order a tab, or tear it off"
-msgstr ""
+msgstr "● Shiftキーを押しながらドラッグしてタブの順番を変更するか、それを引き離します"
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "●  注文書用の請求書が利用可能です。コンプライアンス支援が利用可能です。"

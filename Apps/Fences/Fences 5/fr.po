@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
+"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
+"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -59,7 +59,7 @@ msgid "Activation successful."
 msgstr "Activation réussie."
 
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "Ajouter l'icône \"Afficher les Fences\" à ma barre des tâches"
@@ -79,8 +79,14 @@ msgstr "Ajouter des critères supplémentaires..."
 msgid "Add another rule..."
 msgstr "Ajouter une autre règle..."
 
+msgid "Add new Folder Portal"
+msgstr "Ajouter un nouveau Folder Portal"
+
 msgid "Add new icons as the first icon in the target Fence"
 msgstr "Ajouter de nouvelles icônes comme première icône dans l'fences-cible"
+
+msgid "Add new tab"
+msgstr "Ajouter un nouvel onglet"
 
 msgid "Add rule..."
 msgstr "Ajouter règle..."
@@ -337,9 +343,6 @@ msgstr ""
 "Ci-dessous, vous pouvez définir les règles qui régiront l'emplacement des nouvelles icônes.\n"
 "Des exemples de règles sont fournis ou vous pouvez créer les vôtres - cliquez sur « Ajouter règle...» pour commencer !"
 
-msgid "Beta {0}"
-msgstr "Bêta {0}"
-
 msgid "between"
 msgstr "entre"
 
@@ -499,7 +502,7 @@ msgid "choose a Fence..."
 msgstr "Choisir un Fence..."
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "Choisissez un dossier"
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Choisir un dossier où placer cet Fences"
@@ -954,7 +957,7 @@ msgid "Enable Fences"
 msgstr "Activer Fences®"
 
 msgid "Enable pages"
-msgstr ""
+msgstr "Activer les pages"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "Activer le triage à l'intérieur d'fences individuels (par nom, type, taille, etc.)"
@@ -1181,7 +1184,7 @@ msgid "Fences was designed to help you use your desktop. To help you get started
 msgstr "Fences® a été conçu pour vous aider à utiliser votre bureau. Pour vous aider à démarrer, Fences® peut créer quelques Fences de départ et procéder à un nettoyage rapide de votre bureau."
 
 msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
-msgstr ""
+msgstr "Fences se souviendra de la page de bureau sur laquelle vous étiez la dernière fois que vous étiez sur un bureau virtuel et la restaurera lorsque vous reviendrez à ce bureau virtuel."
 
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences® : Tri informations « Nombre de fois ouvert »"
@@ -1299,7 +1302,7 @@ msgid "Hide \"Fences for Business\""
 msgstr "Masquer \"Fences for Business\""
 
 msgid "Hide all desktop icons and Fence groups"
-msgstr ""
+msgstr "Masquer toutes les icônes du bureau et les groupes Fence."
 
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "Masquez et affichez instantanément les icônes de votre bureau en double-cliquant dessus."
@@ -1308,7 +1311,7 @@ msgid "Hide details header"
 msgstr "Masquer détails en-tête"
 
 msgid "Hide Fence groups only"
-msgstr ""
+msgstr "Masquer les groupes de Fence uniquement"
 
 msgid "Hide for all icons"
 msgstr "Masquer pour toutes les icônes"
@@ -1326,7 +1329,7 @@ msgid "Hide for web links"
 msgstr "Masquer pour liens de Web"
 
 msgid "Hide icons not in Fence groups"
-msgstr ""
+msgstr "Masquer les icônes qui ne sont pas dans les groupes Fence."
 
 msgid "Hide scrollbars when inactive"
 msgstr "Cacher les barres de défilement lorsqu'elles sont inactives"
@@ -1377,7 +1380,7 @@ msgid "How to create a new desktop page"
 msgstr "Comment créer une nouvelle page de bureau"
 
 msgid "How to create a new page"
-msgstr ""
+msgstr "Comment créer une nouvelle page"
 
 msgid "How to distribute license/settings"
 msgstr "Comment distribuer la licence/les paramètres"
@@ -1392,7 +1395,7 @@ msgid "How to move icons or Fence groups between desktops"
 msgstr "Comment déplacer des icônes ou des Fences entre les bureaux"
 
 msgid "How to move icons or Fence groups between pages"
-msgstr ""
+msgstr "Comment déplacer des icônes ou des groupes de Fence entre les pages"
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "Comment naviguer rapidement jusqu'au dossier racine"
@@ -1410,7 +1413,7 @@ msgid "How to use desktop pages"
 msgstr "Comment utiliser les pages de bureau"
 
 msgid "How to use pages"
-msgstr ""
+msgstr "Comment utiliser les pages"
 
 msgid "How to use with a keyboard"
 msgstr "Comment utiliser avec un clavier"
@@ -1680,10 +1683,10 @@ msgid "List (Large)"
 msgstr "Liste (Grande)"
 
 msgid "List Horizontal"
-msgstr ""
+msgstr "Liste Horizontale"
 
 msgid "List Horizontal (Large)"
-msgstr ""
+msgstr "Liste Horizontale (Grande)"
 
 msgid "Load"
 msgstr "Charger"
@@ -1829,7 +1832,7 @@ msgid "Navigate to root folder to rename this Fence"
 msgstr "Naviguez vers le dossier racine pour renommer ce Fence"
 
 msgid "Navigate to root folder upon losing focus"
-msgstr ""
+msgstr "Naviguez vers le dossier racine en perdant le focus."
 
 msgid "Navigate up"
 msgstr "Naviguez vers le haut"
@@ -1853,7 +1856,7 @@ msgid "New Folder Panel"
 msgstr "Nouveau Panneau Dossier"
 
 msgid "New Folder Portal tab"
-msgstr ""
+msgstr "Nouvel onglet de Folder Portal"
 
 msgid "New Icons && Rules"
 msgstr "Nouvelles Icônes && Règles"
@@ -1871,7 +1874,7 @@ msgid "New Rule"
 msgstr "Nouvelle règle"
 
 msgid "New tab"
-msgstr ""
+msgstr "Nouvel onglet"
 
 msgid "Next steps"
 msgstr "Prochaines étapes"
@@ -2375,7 +2378,7 @@ msgid "Screens"
 msgstr "Écrans"
 
 msgid "Search & filter"
-msgstr ""
+msgstr "Rechercher et filtrer"
 
 msgid "Segmented"
 msgstr "Segmenté"
@@ -2435,7 +2438,7 @@ msgid "Shortcut (Link)"
 msgstr "Raccourci (Lien)"
 
 msgid "Show colors on all tabs when per-Fence custom colors are used"
-msgstr ""
+msgstr "Afficher les couleurs sur tous les onglets lorsque des couleurs personnalisées par Fence sont utilisées."
 
 msgid "Show controls in header on mouseover"
 msgstr "Afficher les contrôles dans l'en-tête lors du survol de la souris"
@@ -2622,7 +2625,7 @@ msgid "Switch to another page using your mouse, grab and pull the left or right 
 msgstr "Commuter à une autre page à l'aide de votre souris, saisissez et tirez le bord gauche ou droit de votre bureau. Autre possibilité : appuyez sur les deux boutons de la souris et glissez n'importe où sur votre bureau, ou glissez à l'aide du bouton central de la souris."
 
 msgid "Sync pages and Windows' Virtual Desktops"
-msgstr ""
+msgstr "Synchronisez les pages et les bureaux virtuels de Windows"
 
 msgid "Tab groups"
 msgstr "Groupes d'onglets"
@@ -2995,7 +2998,7 @@ msgid "Using Folder Portals"
 msgstr "Utilisation Folder Portals"
 
 msgid "Using pages"
-msgstr ""
+msgstr "Utilisant des pages"
 
 msgid "Using quick-hide"
 msgstr "Utilisation masquage rapide"
@@ -3300,7 +3303,7 @@ msgid "●  Fences is used widely throughout the business world, from large heal
 msgstr "● Fences est largement utilisé dans le monde des affaires, des grandes institutions de santé, des agences gouvernementales, de la fabrication, des entreprises Fortune 100 et d'innombrables autres environnements. Nous"
 
 msgid "●  Hold shift to drag to re-order a tab, or tear it off"
-msgstr ""
+msgstr "● Maintenez la touche Maj enfoncée pour faire glisser afin de réorganiser un onglet ou pour le détacher"
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "●  Facturation pour les POs disponible. Assistance à la conformité disponible."

@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
+"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
+"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -77,7 +77,13 @@ msgstr ""
 msgid "Add another rule..."
 msgstr ""
 
+msgid "Add new Folder Portal"
+msgstr ""
+
 msgid "Add new icons as the first icon in the target Fence"
+msgstr ""
+
+msgid "Add new tab"
 msgstr ""
 
 msgid "Add rule..."
@@ -318,9 +324,6 @@ msgstr ""
 msgid ""
 "Below, you can define rules that will govern where new icons are placed.\n"
 "Sample rules are provided or you can create your own - click \"Add rule...\" to get started!"
-msgstr ""
-
-msgid "Beta {0}"
 msgstr ""
 
 msgid "between"

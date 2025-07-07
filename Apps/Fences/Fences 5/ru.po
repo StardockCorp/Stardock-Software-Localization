@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-05-23 22:12-07:00\n"
+"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-05-23 22:12-07:00\n"
+"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -59,7 +59,7 @@ msgid "Activation successful."
 msgstr "Активация успешно выполнена."
 
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 msgid "Add \"Show Fences\" icon to my taskbar"
 msgstr "Добавить значок \"Показать Fences\" на панель задач"
@@ -79,8 +79,14 @@ msgstr "Добавить дополнительный критерий..."
 msgid "Add another rule..."
 msgstr "Добавить ещё правило..."
 
+msgid "Add new Folder Portal"
+msgstr "Добавить новый Folder Portal"
+
 msgid "Add new icons as the first icon in the target Fence"
 msgstr "Добавлять новые значки в начало значков целевой Fence"
+
+msgid "Add new tab"
+msgstr "Добавить новую вкладку"
 
 msgid "Add rule..."
 msgstr "Добавить правило..."
@@ -337,9 +343,6 @@ msgstr ""
 "Ниже Вы можете найти правила, которые определяют положение новых значков.\n"
 "Доступны базовые правила, но Вы так же можете создать собственные с помощью кнопки \"Добавить правило...\"."
 
-msgid "Beta {0}"
-msgstr "Бета {0}"
-
 msgid "between"
 msgstr "между"
 
@@ -501,7 +504,7 @@ msgid "choose a Fence..."
 msgstr "выбрать Fence..."
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "Выберите папку"
 
 msgid "Choose a folder to place this Fence into"
 msgstr "Выберите папку, в которой разместить эту Fence"
@@ -956,7 +959,7 @@ msgid "Enable Fences"
 msgstr "Включить Fences"
 
 msgid "Enable pages"
-msgstr ""
+msgstr "Включить страницы"
 
 msgid "Enable sorting within individual Fence groups (by name, type, size, etc)"
 msgstr "Включить сортировку в отдельных категориях (по имени, типу, размеру и т.д.)"
@@ -1183,7 +1186,7 @@ msgid "Fences was designed to help you use your desktop. To help you get started
 msgstr "Fences призвана помочь Вам пользоваться Вашим рабочим столом. Чтобы помочь Вам начать, Fences может создать несколько начальных Fences и выполнить быструю очистку Вашего рабочего стола."
 
 msgid "Fences will remember which desktop page you were on the last time you were on a virtual desktop, and restore it when you return to that virtual desktop."
-msgstr ""
+msgstr "Fences запомнит, на какой странице рабочего стола вы были в последний раз, когда использовали виртуальный рабочий стол, и восстановит её, когда вы вернетесь на этот виртуальный рабочий стол."
 
 msgid "Fences: \"Times Opened\" sorting information"
 msgstr "Fences: информация о сортировке \"число открытий\""
@@ -1301,7 +1304,7 @@ msgid "Hide \"Fences for Business\""
 msgstr "Скрыть \"Fences for Business\""
 
 msgid "Hide all desktop icons and Fence groups"
-msgstr ""
+msgstr "Скрыть все значки на рабочем столе и группы Fence"
 
 msgid "Hide and show your desktop icons instantly with a double-click."
 msgstr "Скрывайте и отображайте значки рабочего стола с помощью двойного клика."
@@ -1310,7 +1313,7 @@ msgid "Hide details header"
 msgstr "Скрыть заголовок подробностей"
 
 msgid "Hide Fence groups only"
-msgstr ""
+msgstr "Скрыть группы Fence только"
 
 msgid "Hide for all icons"
 msgstr "Скрыть для всех значков"
@@ -1328,7 +1331,7 @@ msgid "Hide for web links"
 msgstr "Скрыть для веб-ссылок"
 
 msgid "Hide icons not in Fence groups"
-msgstr ""
+msgstr "Скрыть значки, не входящие в группы Fence."
 
 msgid "Hide scrollbars when inactive"
 msgstr "Скрывать полосы прокрутки, когда они неактивны"
@@ -1379,7 +1382,7 @@ msgid "How to create a new desktop page"
 msgstr "Как создать новую страницу рабочего стола"
 
 msgid "How to create a new page"
-msgstr ""
+msgstr "Как создать новую страницу"
 
 msgid "How to distribute license/settings"
 msgstr "Как распределить лицензию/настройки"
@@ -1394,7 +1397,7 @@ msgid "How to move icons or Fence groups between desktops"
 msgstr "Как перемещать значки или Fence между рабочими столами"
 
 msgid "How to move icons or Fence groups between pages"
-msgstr ""
+msgstr "Как переместить иконки или группы Fence между страницами"
 
 msgid "How to quickly navigate up to the root folder"
 msgstr "Как быстро перейти к корневой папке"
@@ -1412,7 +1415,7 @@ msgid "How to use desktop pages"
 msgstr "Как использовать страницы рабочего стола"
 
 msgid "How to use pages"
-msgstr ""
+msgstr "Как использовать страницы"
 
 msgid "How to use with a keyboard"
 msgstr "Как пользоваться с помощью клавиатуры"
@@ -1682,10 +1685,10 @@ msgid "List (Large)"
 msgstr "Список (крупный)"
 
 msgid "List Horizontal"
-msgstr ""
+msgstr "Список Горизонтальный"
 
 msgid "List Horizontal (Large)"
-msgstr ""
+msgstr "Список Горизонтальный (Большой)"
 
 msgid "Load"
 msgstr "Загрузить"
@@ -1715,7 +1718,7 @@ msgid ""
 "\n"
 "Once your issue is resolved, don't forget to turn this setting back off for best performance."
 msgstr ""
-"Текст для перевода: Запись начнется во время следующего входа в систему.\n"
+"Запись начнется во время следующего входа в систему.\n"
 "\n"
 "Пожалуйста, выйдите из системы и войдите снова или перезагрузите, воспроизведите проблему по крайней мере дважды (снова перезагружая при необходимости, чтобы продемонстрировать проблему хотя бы пару раз; чем больше вы сможете показать, тем лучше), а затем используйте пункт меню \"Создать пакет отчетов об ошибках\" для отправки отчета. Спасибо!\n"
 "\n"
@@ -1831,7 +1834,7 @@ msgid "Navigate to root folder to rename this Fence"
 msgstr "Перейдите в корневую папку, чтобы переименовать этот Fence"
 
 msgid "Navigate to root folder upon losing focus"
-msgstr ""
+msgstr "Перейдите в корневую папку при потере фокуса"
 
 msgid "Navigate up"
 msgstr "Переместиться вверх"
@@ -1855,7 +1858,7 @@ msgid "New Folder Panel"
 msgstr "Новая панель папок"
 
 msgid "New Folder Portal tab"
-msgstr ""
+msgstr "Новая вкладка Folder Portal"
 
 msgid "New Icons && Rules"
 msgstr "Новые значки и правила"
@@ -1873,7 +1876,7 @@ msgid "New Rule"
 msgstr "Новое правило"
 
 msgid "New tab"
-msgstr ""
+msgstr "Новая вкладка"
 
 msgid "Next steps"
 msgstr "Следующие шаги"
@@ -2377,7 +2380,7 @@ msgid "Screens"
 msgstr "Экраны"
 
 msgid "Search & filter"
-msgstr ""
+msgstr "Поиск и фильтрация"
 
 msgid "Segmented"
 msgstr "Сегментированный"
@@ -2414,7 +2417,7 @@ msgid ""
 "\n"
 "To move a group's titlebar back to the top, move the group away from the top edge and then back again."
 msgstr ""
-"Текст для перевода: Настройка обновлена.\n"
+"Настройка обновлена.\n"
 "\n"
 "Чтобы вернуть заголовок группы наверх, переместите группу от верхнего края и затем обратно."
 
@@ -2437,7 +2440,7 @@ msgid "Shortcut (Link)"
 msgstr "Ярлык (сслыка)"
 
 msgid "Show colors on all tabs when per-Fence custom colors are used"
-msgstr ""
+msgstr "Показать цвета на всех вкладках, когда используются настраиваемые цвета для каждого Fence."
 
 msgid "Show controls in header on mouseover"
 msgstr "Показывать элементы управления в заголовке при наведении мыши"
@@ -2623,7 +2626,7 @@ msgid "Switch to another page using your mouse, grab and pull the left or right 
 msgstr "Чтобы переключиться на другую страницу с помощью мыши, захватите и потяните левый или правый край Вашего рабочего стола. Или Вы можете зажать обе кнопки мыши и потянуть откуда угодно по рабочему столу, или же зажав среднюю кнопку мышки."
 
 msgid "Sync pages and Windows' Virtual Desktops"
-msgstr ""
+msgstr "Синхронизировать страницы и виртуальные рабочие столы Windows"
 
 msgid "Tab groups"
 msgstr "Группы вкладок"
@@ -2996,7 +2999,7 @@ msgid "Using Folder Portals"
 msgstr "Использование Folder Portals"
 
 msgid "Using pages"
-msgstr ""
+msgstr "Использование страниц"
 
 msgid "Using quick-hide"
 msgstr "Использование быстрого скрытия"
@@ -3301,7 +3304,7 @@ msgid "●  Fences is used widely throughout the business world, from large heal
 msgstr "●  Fences широко используется в бизнес-мире, от крупных медицинских учреждений, государственных агент"
 
 msgid "●  Hold shift to drag to re-order a tab, or tear it off"
-msgstr ""
+msgstr "● Удерживайте Shift, чтобы перетащить вкладку для изменения порядка или оторвать её."
 
 msgid "●  Invoicing for POs available. Compliance assistance available."
 msgstr "● Выставление счетов для заказов на закупку доступно. Помощь в соблюдении нормативов доступна."
