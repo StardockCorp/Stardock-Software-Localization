@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure"="link KVM initiée par adresse inconnue suite à l'échec de recherche getpeername"
-"KVM connection initiated by %s, internal port: %d"="link KVM lancée par: %s, port interne: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="Un utilisateur sur l'PC %S veut contrôler votre PC à distance."
 "If this is expected you should click the Allow button"="Si attendu, cliquez sur Autoriser"
 "Yes"="Oui"
@@ -453,17 +453,17 @@ Exist=1
 "Shorter"="Plus court"
 "Longer"="Plus long"
 "2 characters"="2 caractères"
-"You must enter a server to be used for activation."="Entrez un serveur pour l'activation."
+"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
 "Server field blank"="Champ serveur vide"
 "You must enter a serial number to be used for activation."="Entrez un numéro de série pour l'activation."
 "Serial number field blank"="N° de série vide"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity n'a pa pu être activé avec LE info fournies."
 "Please check it is correct and you are on the network."="Vérifiez si c'est set et que vous êtes sur le réseau."
-"Activation failed"="Échec activation"
+"Activation failed" = "Activation failed"
 "Resolution when no monitor plugged in :"="Résolution sans écran branché :"
 "Opt out of screen darkening"="Désactiver l'assombrissement d'écran"
 "Pick colour for indicator line..."="Choisir couleur ligne indicatrice"
-"On screen indicators..."="Indicateurs à l'écran"
+"On screen indicators..." = "On screen indicators..."
 "Show a coloured line on the computer with focus"="Affiche ligne colorée sur PC avec pore"
 "Pick colour..."="Choix couleur"
 
@@ -485,7 +485,7 @@ Exist=1
 "Connect"="Connecter"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)"="Autoriser Secondary à contrôler PCs KVM (activation requise)"
+"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="Voulez-vous désactiver l'option pour contrôler Secondary KVM de cet PC?"
 "Disable features which require activation?"="Désactiver fonctionnalités nécessitant activation?"
 "Ctrl"="Ctrl"
@@ -536,7 +536,7 @@ Exist=1
 "Restart Multiplicity processes"="Redémarrez Multiplicity processus"
 "Show on monitor"="Afficher écran"
 
-"* Computer on LEFT"="* Ordinateur à GAUCHE"
+"* Computer on LEFT" = "* Computer on LEFT"
 "* Computer on RIGHT"="* Ordinateur à DROITE"
 "* PRIMARY computer"="* PC head"
 "Presets :"="Préréglages :"
@@ -545,8 +545,8 @@ Exist=1
 ; Fixed
 "Would you like to deactivate your primary license on this computer (not needed for a secondary)?"="Voulez-vous désactiver votre permit primary sur cet PC (pas nécessaire pour un secondary) ?"
 
-“Be a Primary computer"="Être un ordinateur principal"
-“Be a Secondary computer"="Être un ordinateur secondaire"
+“Be a Primary computer"="Be a Primary computer"
+“Be a Secondary computer"="Be a Secondary computer"
 
 ; Adding missing initial network warning message
 "Your network has been set to a public network and this will usually block Multiplicity from working correctly."="Votre réseau est défini comme public, ce qui empêche généralement Multiplicity de fonctionner correctement."
@@ -580,8 +580,8 @@ Exist=1
 "Scale by 80%"="Mise à l'échelle de 80%"
 "Scale by 66%"="Mise à l'échelle de 66%"
 "Scale by 50%"="Mise à l'échelle de 50%"
-"--=Scanning =--"="--= study =--"
-"Test"="Test"
+"--= Scanning =--"="--study--"
+"Test"="Tester"
 "!If you have VirtualBox network adapter drivers installed it will stop Wake-On-LAN working"="!Si vous avez installé les pilotes de l'adaptateur réseau VirtualBox, cela arrêtera le fonctionnement du Wake-On-LAN"
 "Always use the IP address (192.168.1.232)"="Toujours utiliser l'adresse IP (192.168.1.232)"
 "Always use the IP address (%s)"="Toujours utiliser l'adresse IP (%s)"
@@ -679,6 +679,7 @@ Exist=1
 "Multiplicity security settings"="Paramètres de sécurité de multiplicité"
 "Control security settings on this computer by limiting what computers can connect to it, security password, encryption, and password for automatic unlocking of this computer."="Contrôlez les paramètres de sécurité sur cet ordinateur en limitant les ordinateurs qui peuvent s'y connecter, le mot de passe de sécurité, le chiffrement et le mot de passe pour le déverrouillage automatique de cet ordinateur."
 "Each computer is protected with a passcode which is unique to your computer and an encryption key which is shared by all your computers you are using with Multiplicity.  We recommend you change the default encryption key after installation."="Chaque ordinateur est protégé par un code d'accès unique et une clé de chiffrement partagée entre tous vos ordinateurs utilisés avec Multiplicity. Il est recommandé de changer la clé de chiffrement par défaut après l'installation."
+"!Only enable this if your network is private and secure"="!Activez cette option uniquement si votre réseau est privé et sécurisé"
 "Security passcodes"="Codes de sécurité"
 "Multiplicity uses AES-256 encryption"="Multiplicity utilise le cryptage AES-256"
 "Backup or restore your Multiplicity settings"="Sauvegardez ou restaurez vos paramètres Multiplicity"
@@ -804,10 +805,11 @@ Exist=1
 "Enable Wake-on-LAN support - Requires Pro / Business / Enterprise"="Activer la prise en charge Wake-on-LAN - Nécessite Pro / Business / Enterprise"
 "Multiplicity failed to connect to "="Multiplicity a échoué à se connecter à "
 "Wrong password"="Mauvais mot de passe"
-"!Only enable this if your network is private and secure"="!Activez cette option uniquement si votre réseau est privé et sécurisé"
-"!Not recommended when sharing only your primary display, especially if your primary display is between two or more secondary displays."="!Non recommandé lorsque vous partagez uniquement votre écran principal, en particulier si votre écran principal se trouve entre deux ou plusieurs écrans secondaires."
 
-;4.01
+; 4.01
 "Trying to connect to"="Tentative de connexion à"
 " IP(s) : "=" IP(s) : "
 "Currently being remote controlled using Stardock Multiplicity 4 KVM"="Actuellement contrôlé à distance avec Stardock Multiplicity 4 KVM"
+
+
+

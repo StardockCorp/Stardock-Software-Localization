@@ -307,7 +307,7 @@ Exist=1
 "Open sidebar"="Open sidebar"
 "Disable delay in showing the control bar when you move the mouse to the top of the screen"="Disable delay in showing the control bar when you move the mouse to the top of the screen"
 "Always show the control bar if there is space on screen"="Always show the control bar if there is space on screen"
-"Use a dark grey background rather than black"="Use a dark grey background rather than black"
+"Use a dark grey background rather than black"="Use a dark gray background rather than black"
 "Default to stretch remote screen contents to fit the local screen resolution"="Default to stretch remote screen contents to fit the local screen resolution"
 "Automatically try to connect to the last used remote computer on entering KVM mode"="Automatically try to connect to the last used remote computer on entering KVM mode"
 "Enter KVM mode by pressing "="Enter KVM mode by pressing "
@@ -462,10 +462,10 @@ Exist=1
 "Activation failed" = "Activation failed"
 "Resolution when no monitor plugged in :"="Resolution when no monitor plugged in :"
 "Opt out of screen darkening"="Opt out of screen darkening"
-"Pick colour for indicator line..."="Pick colour for indicator line..."
+"Pick colour for indicator line..."="Pick color for indicator line..."
 "On screen indicators..." = "On screen indicators..."
-"Show a coloured line on the computer with focus"="Show a coloured line on the computer with focus"
-"Pick colour..."="Pick colour..."
+"Show a coloured line on the computer with focus"="Show a colored line on the computer with focus"
+"Pick colour..."="Pick color..."
 
 
 ; MPBar strings

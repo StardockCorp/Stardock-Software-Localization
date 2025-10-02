@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure"="Conexão KVM iniciada por endereço desconhecido devido à falha na busca getpeername"
-"KVM connection initiated by %s, internal port: %d"="Conexão KVM iniciada por: %s, porta interna: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="Usuário no PC %S quer controlar seu PC remotamente."
 "If this is expected you should click the Allow button"="Se esperado, pack no botão Permitir"
 "Yes"="Sim"
@@ -289,7 +289,7 @@ Exist=1
 "Are you sure you want to delete the saved grid layout '"="X certeza que deseja deletar o layout da salvo '"
 "Delete saved config?"="Excluir config salva?"
 "Configure"="Configurar"
-"Presets :"="Layouts:"
+"Presets :"="Predefinições:"
 "Grid..."="Grade"
 "Button13"="Botão13"
 "Computer alignment"="Alinhamento PC"
@@ -453,17 +453,17 @@ Exist=1
 "Shorter"="Menor"
 "Longer"="Mais longo"
 "2 characters"="2 caract."
-"You must enter a server to be used for activation."="É necessário inserir um servidor p/ ativação."
+"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
 "Server field blank"="Campo servidor vazio"
 "You must enter a serial number to be used for activation."="Digite o nº de série p/ ativação."
 "Serial number field blank"="Campo nº série vazio"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity n pôde ser ativado c/ A info fornecidas."
 "Please check it is correct and you are on the network."="Verifique se está correto e na rede."
-"Activation failed"="Ativação falhou"
+"Activation failed" = "Activation failed"
 "Resolution when no monitor plugged in :"="Resolução sem varan conectado:"
 "Opt out of screen darkening"="Sair do escurecimento da tela"
 "Pick colour for indicator line..."="Escolha cor p/ linha indicadora"
-"On screen indicators..."="Indicadores na tela"
+"On screen indicators..." = "On screen indicators..."
 "Show a coloured line on the computer with focus"="Mostre uma linha colorida no PC com foco"
 "Pick colour..."="Escolha cor"
 
@@ -485,7 +485,7 @@ Exist=1
 "Connect"="Conectar"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)"="Permita Secondary controlar PC KVM (ativação necessária)"
+"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="Deseja desativar a opção de controlar Secondary KVMs deste PC?"
 "Disable features which require activation?"="Desativar funcionalidades q requerem ativação?"
 "Ctrl"="Ctrl"
@@ -536,7 +536,7 @@ Exist=1
 "Restart Multiplicity processes"="Reiniciar Multiplicity processos"
 "Show on monitor"="Exibir no varan"
 
-"* Computer on LEFT"="* Computador à ESQ"
+"* Computer on LEFT" = "* Computer on LEFT"
 "* Computer on RIGHT"="* Computador à DIREITA"
 "* PRIMARY computer"="* PC PRIMÁRIO"
 "Presets :"="Predefinições:"
@@ -545,8 +545,8 @@ Exist=1
 ; Fixed
 "Would you like to deactivate your primary license on this computer (not needed for a secondary)?"="Gostaria de desativar sua licença primary neste PC (não necessário p/ secondary)?"
 
-“Be a Primary computer"="Seja um computador principal"
-“Be a Secondary computer"="Seja um computador secundário"
+“Be a Primary computer"="Be a Primary computer"
+“Be a Secondary computer"="Be a Secondary computer"
 
 ; Adding missing initial network warning message
 "Your network has been set to a public network and this will usually block Multiplicity from working correctly."="Sua rede foi definida como pública, o que geralmente bloqueia o funcionamento do Multiplicity."
@@ -580,7 +580,7 @@ Exist=1
 "Scale by 80%"="Escala por 80%"
 "Scale by 66%"="Escala por 66%"
 "Scale by 50%"="Escala por 50%"
-"--=Scanning =--"="--= Escaneando =--"
+"--= Scanning =--"="--Escaneando--"
 "Test"="Teste"
 "!If you have VirtualBox network adapter drivers installed it will stop Wake-On-LAN working"="!Se os drivers do adaptador VirtualBox estiverem instalados, o Wake-On-LAN não funcionará."
 "Always use the IP address (192.168.1.232)"="Sempre use o endereço IP (192.168.1.232)"
@@ -591,7 +591,7 @@ Exist=1
 "Allow this computer to share displays with another computer"="Permita que este computador compartilhe telas com outro computador"
 "Only allow sharing when plugged into mains power"="Permita compartilhamento apenas quando conectado à energia principal"
 "Allow displays to use higher resolutions than their native resolution"="Permitir que os monitores usem resoluções mais altas do que sua resolução nativa"
-"Share any sFecondary displays"="Compartilhe quaisquer monitores secundários"
+"Share any secondary displays"="Share any secondary displays"
 "Share my primary display"="Compartilhe meu monitor principal"
 "Seamless Display™ remote connections¬"="Conexões remotas Seamless Display™"
 "Screen share quality settings"="Configurações de qualidade de compartilhamento de tela"
@@ -600,6 +600,8 @@ Exist=1
 "Multiplicity Pro and above you can share displays from a secondary computer with your primary extending your desktop."="Com o Multiplicity Pro e superior, você pode compartilhar monitores de um computador secundário com o seu primário, expandindo sua área de trabalho."
 "Configure this on a secondary computer to allow this computer to use the secondary computer as an extra display."="Configure isso em um computador secundário para permitir que este computador use o computador secundário como um monitor extra."
 "!Visual quality can be configured to use more or less bandwidth or more or less cpu.  Low encoding mode needs a 2.5GbE or higher network connection.  Disabling encryption on video connections on the security tab reduces cpu usage further."="A qualidade visual pode ser ajustada para usar mais ou menos banda ou CPU. O modo de codificação baixa exige uma conexão 2,5GbE. Desabilitar a criptografia nas conexões de vídeo reduz o uso da CPU."
+"Lossy compression quality level :"="Nível de qualidade de compressão com perdas:"
+"!Add Seamless Displays above and access them from the Multiplicity tray menu or using hotkeys."="!Add Seamless Displays above and access them from the Multiplicity tray menu or using hotkeys."
 "!Ideal for taking high resolution screenshots or for software testing purposes"="!Ideal para tirar capturas de tela de alta resolução ou para fins de teste de software"
 "Low compression - > 1GbE LAN required"="Baixa compressão - > É necessário 1GbE LAN"
 "Standard compression - recommended"="Compressão padrão - recomendado"
@@ -746,7 +748,7 @@ Exist=1
 "!You will be able to change any choices you have made later if you change your mind"="!Você poderá alterar qualquer escolha que fez mais tarde, se mudar de ideia."
 
 "Before you use Multiplicity you have to decide if you are using this computer as a primary or secondary."="Antes de usar o Multiplicity, você precisa decidir se está usando este computador como primário ou secundário."
-"Please select from the options below to continue :"=Por favor, selecione uma das opções abaixo para continuar:
+"Please select from the options below to continue :"="Por favor, selecione uma das opções abaixo para continuar:"
 
 "Be a Primary computer"="Ser um computador primário"
 "Be a Secondary computer"="Ser um computador secundário"
@@ -803,9 +805,11 @@ Exist=1
 "Enable Wake-on-LAN support - Requires Pro / Business / Enterprise"="Ativar suporte Wake-on-LAN - Requer Pro / Business / Enterprise"
 "Multiplicity failed to connect to "="Multiplicity falhou em se conectar devido a"
 "Wrong password"="Senha incorreta"
-"You can use Multiplicity Pro and higher to use a secondary computer as an additional display on the primary computer."="Você pode usar o Multiplicity Pro e versões superiores para usar um computador secundário como um monitor adicional no computador principal."
 
-;4.01
+; 4.01
 "Trying to connect to"="Tentando conectar-se a"
 " IP(s) : "=" IP(s) : "
 "Currently being remote controlled using Stardock Multiplicity 4 KVM"="Atualmente sendo controlado remotamente usando o Stardock Multiplicity 4 KVM"
+
+
+
