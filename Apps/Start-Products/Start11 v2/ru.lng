@@ -1,5 +1,3 @@
-[UI]
-Name="Russian"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Конфигурация Stardock Start11"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Использовать поиск Start11"
 "Show filtering icons"="Отображать значки фильтрации"
 "Search file contents"="Искать в содержимом файлов"
-"Search Desktop and Fences"="Искать на рабочем столе и в Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Искать в Интернете"
 "Use Start11 search instead of Windows search?"="Использовать поиск Start11 вместо поиска Windows?"
 "How should search work?"="Как должен работать поиск?"
@@ -475,6 +473,7 @@ Exist=1
 "Show windows side by side"="Расположить окна рядом"
 "Cascade windows"="Расположить окна каскадом"
 "Show windows stacked"="Расположить окна стопкой"
+
 ;Start11v2
 "Display as a link"="Отобразить как ссылку"
 "Display as a menu"="Отображать как меню"
@@ -509,7 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Вы уверены, что хотите сбросить все ваши настройки до значений по умолчанию?"
 "  "="You didn't provide any text to translate. Please, provide the text."
 "Open all apps list as a menu"="Открыть список всех приложений в виде меню"
-"Show Desktop and Stardock Fences  folders"="Показать рабочий стол и папки Stardock Fences"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Шрифт элемента:"
 "Header font :"="Шрифт заголовка :"
 "Menu font :"="'Шрифт меню :'"
@@ -584,6 +584,7 @@ Exist=1
 "!For best results use larger Y offsets only with enhanced taskbar enabled"="'!Для лучших результатов используйте большие значения Y-смещения только с включенной улучшенной панелью задач'"
 "Configure enhanced taskbar..."="'Настройте расширенную панель задач...'"
 "Add padding to keep button positions centred"="Добавьте отступы, чтобы сохранить центрирование позиций кнопок"
+"Do not add padding and let buttons shift if needed"="Не добавлять отступы и позволить кнопкам сдвигаться при необходимости"
 "Keep taskbar height consistent - overlap with windows possible"="Сохраняйте постоянную высоту панели задач - возможно перекрытие с окнами"
 "Adjust settings for the taskbar when there are no maximized windows"="Настройте параметры панели задач, когда нет развернутых окон"
 "Adjust settings for the taskbar when there is a maximized window"="Настройте параметры панели задач, когда окно развернуто на весь экран"
@@ -627,6 +628,7 @@ Exist=1
 "Triangle One"="Треугольник Один"
 "Triangle Two"="Треугольник Два"
 "Replace the limited taskbar right click menu on Windows  11 with a more powerful one."="'Замените ограниченное контекстное меню панели задач в Windows 11 на более мощное.'"
+"This feature requires enhanced taskbar enabled"="Для этой функции требуется включенная расширенная панель задач"
 "Start11 allows you to pin documents or folders to your taskbar for easy access"="Start11 позволяет вам закреплять документы или папки на панели задач для удобного доступа."
 "Folder menu options"="Опции меню папки"
 "!Pinned shortcuts can be unpinned from the taskbar using the right click menu, and their icon can be changed using the properties menu."="Закрепленные ярлыки можно открепить от панели задач с помощью контекстного меню правой кнопкой мыши, а их значок можно изменить с помощью меню свойств."
@@ -647,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'Вы можете создавать отфильтрованные папки для отображения в стартовом меню или в меню папки панели задач.'"
 "Search Tabs"="'Поиск по вкладкам'"
 "Search Everything"="'Искать Всё'"
-"Search for shortcuts on the desktop and in Fences "="'Ищите ярлыки на рабочем столе и в Fences'"
+"Search for shortcuts on the desktop and in Fences®"="'Ищите ярлыки на рабочем столе и в Fences®'"
 "Use old Start10  style search"="'Используйте старый стиль поиска Start10'"
 "Show results from Everything instead of Start11 file searches"="Показывать результаты из раздела 'Все', а не поиска файлов 'Start11'"
 "If you have the Everything search tool installed this will be used for non app searches."="'Если у вас установлен инструмент поиска Everything, он будет использоваться для поиска вне приложений.'"
@@ -664,6 +666,7 @@ Exist=1
 "How should taskbar buttons work on the primary display?"="Как должны работать кнопки панели задач на основном дисплее?"
 "Taskbar button text"="Текст кнопки панели задач"
 "Taskbar button style"="Стиль кнопки панели задач"
+"!To use the Start11 autohide support you should disable the OS autohide mode.  This autohide mode supports autohide when the taskbar is at the top and with multiple lines.  Requires Windows 11 22H2 and later."="!Чтобы использовать поддержку автоскрытия Start11, вы должны отключить режим автоскрытия ОС. Этот режим автоскрытия поддерживает автоскрытие, когда панель задач находится сверху и с несколькими строками. Требуется Windows 11 22H2 и более поздние версии."
 "Focused"="Сосредоточенный"
 "Always combine taskbar buttons"="Всегда объединять кнопки панели задач"
 "Multiple copies of an application running will combine into one taskbar button and show no text."="'Несколько копий запущенного приложения объединятся в одну кнопку на панели задач и не будут отображать текст.'"
@@ -676,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Текст должен иметь тень"
 "Paint focused item backgrounds less transparent"="Сделайте фон элементов с фокусом менее прозрачным"
 "Enable Start11 autohide mode"="'Включить режим автоскрытия Start11'"
+"Only hide when a window is maximised or overlapping the taskbar"="Скрывать только когда окно развернуто или перекрывает панель задач"
 "Taskbar button combining"="Объединение кнопок на панели задач"
 "Control how the taskbar buttons combine"="Управление способом объединения кнопок на панели задач"
 "Taskbar button appearance"="Внешний вид кнопки панели задач"
@@ -693,6 +697,7 @@ Exist=1
 "Use automatic menu color for texture color"="'Используйте автоматический цвет меню для цвета текстуры'"
 "Reset to no texture recoloring"="Сбросить до отсутствия перекрашивания текстуры"
 "WindowBlinds theme"="Тема WindowBlinds"
+"You can have your taskbar buttons on the left of the taskbar or aligned centred."="Вы можете разместить кнопки панели задач слева или по центру."
 "Menu Size"="Размер меню"
 "Use Acrylic Blur instead of normal blur"="'Используйте Акриловое размытие вместо обычного размытия'"
 "Align custom textures to the bottom"="Выровнять пользовательские текстуры по нижнему краю"
@@ -707,8 +712,8 @@ Exist=1
 "Quick launch"="Быстрый запуск"
 "Groupy saved groups"="'Groupy сохранил группы'"
 "Steam® folder"="Папка Steam®"
-"All Fences"="'Все Заборы'"
-"Fences"="'Заборы'"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Не найдено отфильтрованных папок"
 "Custom filtered folders"="'Пользовательские отфильтрованные папки'"
 "Please select a folder to pin as a menu"="Пожалуйста, выберите папку для закрепления в меню"
@@ -875,19 +880,34 @@ Exist=1
 "Enter the display name :"="Введите отображаемое имя:"
 "Ok"="Ок"
 "Website links"="Ссылки на сайты"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Веб-ссылки, закрепленные в меню «Пуск», должны получать изображение favicon ( Будет осуществляться подключение к сайту Google **)"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Веб-ссылки, закрепленные в меню «Пуск», должны получать изображение значка (** Будет устанавливать соединения с веб-сайтом Google **)"
 
-;Добавлено с 2.06
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 обнаружил, что StartAllIsBack управляет вашей панелью задач, поэтому эти функции отключены по причинам совместимости."
 "StartAllIsBack detected"="StartAllIsBack обнаружен"
 "Always open on this tab index"="Всегда открывать на этом индексе вкладок"
-"Clear default tab index" = "Очистить индекс вкладки по умолчанию"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Зарезервировать один пиксель на краю экрана по причинам совместимости (Требуется перезагрузка)"
 "Recent documents"="Недавние документы"
 "page"="страница"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="Показать переключатель автоскрытия в меню панели задач"
 
 ;Added in 2.11
 "Task Manager"="Диспетчер задач"
+
+; Added to 2.49
+"- File Explorer"="- File Explorer"
+"Icon size :"="Размер значка:"
+"Button width :"="Ширина кнопки:"
+"Button height :"="Высота кнопки:"
+"Colour"="Цвет"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Показывать все приложения / дополнительные кнопки только при наведении мыши"
+"Do not paint a solid colour background"="Не рисовать фон сплошным цветом"
+
+; Missing before 2.55
+"All applications"="Все приложения"
+"Autohide taskbar"="Автоматически скрывать панель задач"

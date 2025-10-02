@@ -1,5 +1,3 @@
-[UI]
-Name="Portuguese-Portugal"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Configurações do Stardock Start11"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Utilizar a pesquisa Start11"
 "Show filtering icons"="Mostrar ícones de filtro"
 "Search file contents"="Pesquisar o conteúdo dos ficheiros"
-"Search Desktop and Fences"="Pesquisar na Área de Trabalho e no Fences®"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Pesquisar na Internet"
 "Use Start11 search instead of Windows search?"="Utilizar a pesquisa do Start11 em vez da pesquisa do Windows?"
 "How should search work?"="Como é que a pesquisa deve funcionar?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Tem a certeza de que pretende repor todas as suas definições para as definições padrão?"
 "  "="Por favor, forneça o texto em inglês que você gostaria de traduzir para o português de Portugal."
 "Open all apps list as a menu"="Abrir a lista de todas as aplicações como um menu"
-"Show Desktop and Stardock Fences  folders"="Mostrar as pastas do Ambiente de trabalho e do Stardock Fences"
-"Show Desktop and Stardock Fences  folders in the all programs list"="Mostrar as pastas do Ambiente de trabalho e do Stardock Fences na lista de todos os programas"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Fonte do Ítem:"
 "Header font :"="Fonte Topo:"
 "Menu font :"="Fonte do menu :"
@@ -541,6 +539,7 @@ Exist=1
 "Synchronize pinned items from the OS menu with Start11 (sign out required)"="Sincronizar os itens fixados do menu do Sistema Operativo com o Start11 (é necessário terminar sessão)"
 "Use Windows 10 style folders"="Usar pastas no estilo do Windows 10"
 "Use Windows 11 style folders"="Usar pastas no estilo do Windows 11"
+"Hide username and icon from menu"="Hide username and icon from menu"
 "Reduce the size of the right hand side"="Reduzir o tamanho do lado direito"
 "Manage custom filtered folders"="Gerir pastas com filtros personalizados"
 "Start11 can show groups or tabs based on a folder with a filter applied to them.  Configure them from here."="O Start11 pode mostrar grupos ou separadores com base numa pasta com um filtro aplicado.  Configure-os a partir daqui."
@@ -644,12 +643,13 @@ Exist=1
 "Pin folder"="Pasta de fixação"
 "Create a pin for a folder on your taskbar."="Criar uma fixação para uma pasta na barra de tarefas."
 "Pin folder menu"="Menu de pasta fixada"
+"Create a pin for a folder popup menu on your taskbar."="Create a pin for a folder popup menu on your taskbar."
 "Show folders as submenus"="Mostrar pastas como submenus"
 "Manage filtered folders"="Administrar pastas filtradas"
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="Pode criar pastas filtradas para mostrar no menu Iniciar ou como um menu de pastas da barra de tarefas."
 "Search Tabs"="Pesquisar Separadores"
 "Search Everything"="Pesquisar por tudo"
-"Search for shortcuts on the desktop and in Fences "="Procurar atalhos no ambiente de trabalho e no Fences "
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
 "Use old Start10  style search"="Utilizar o estilo de pesquisa antigo do Start10"
 "Show results from Everything instead of Start11 file searches"="Mostrar resultados de Tudo excepto de pesquisas de ficheiros Start11"
 "If you have the Everything search tool installed this will be used for non app searches."="Se tiver a ferramenta de pesquisa Everything instalada, esta será utilizada para pesquisas não relacionadas com aplicações."
@@ -658,6 +658,7 @@ Exist=1
 "Restore backup of settings"="Restaurar cópia de segurança das definições"
 "Are you sure you want to clear your run and search history?"="Tem a certeza de que pretende limpar o seu histórico de pesquisa e execução?"
 "Version 2.0 BETA 3 - Windows Insider detected"="Versão 2.0 BETA 3 - Windows Insider detetado"
+"Modern style with icons"="Modern style with icons"
 "Grid Modern style with icons"="Grelha Estilo moderno com ícones"
 "Taskbar touch mode detection"="Deteção do modo de toque da barra de tarefas"
 "Override if Start11 taskbar is misaligned due to the OS being in an unexpected mode"="Substituir se a barra de tarefas do Start11 estiver desalinhada devido ao facto de o Sistema Operativo estar num modo inesperado"
@@ -678,6 +679,7 @@ Exist=1
 "Text should have a shadow"="O texto deve ter uma sombra"
 "Paint focused item backgrounds less transparent"="Pintar os fundos dos itens focados menos transparentes"
 "Enable Start11 autohide mode"="Ativar o modo de auto-ocultação do Start11"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="Combinação de botões da barra de tarefas"
 "Control how the taskbar buttons combine"="Controlar a forma como os botões da barra de tarefas se combinam entre si"
 "Taskbar button appearance"="Aspeto do botão da barra de tarefas"
@@ -710,8 +712,8 @@ Exist=1
 "Quick launch"="Lançamento rápido"
 "Groupy saved groups"="Grupos guardados pelo Groupy"
 "Steam® folder"="Pasta da Steam®"
-"All Fences"="Todos do Fences"
-"Fences"="Fences"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Não foram encontradas pastas filtradas"
 "Custom filtered folders"="Pastas com filtros personalizados"
 "Please select a folder to pin as a menu"="Por favor, selecione uma pasta para fixar como um menu"
@@ -732,6 +734,7 @@ Exist=1
 "Enable all apps searching"="Ativar a pesquisa de todas as aplicações"
 "Show flat list without folders"="Mostrar lista simples sem pastas"
 "Show hidden items list"="Mostrar a lista de itens ocultos"
+"Clear hidden list"="Clear hidden list"
 "Group widths"="Larguras de grupo"
 "Reset icon positions"="Repor posições dos ícones"
 "Open menu on this page for current desktop"="Abrir o menu nesta página para o ambiente de trabalho atual"
@@ -868,3 +871,43 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Mostrar o botão Iniciar nas barras de tarefas do monitor secundário"
 "Taskbar search"="Pesquisa na barra de tarefas"
 "Show search on taskbar"="Mostrar pesquisa na barra de tarefas"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."
+"StartAllIsBack detected"="StartAllIsBack detected"
+"Always open on this tab index"="Always open on this tab index"
+"Clear default tab index" = "Clear default tab index"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"
+"Recent documents"="Recent documents"
+"page"="page"
+
+;2.07
+"Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="- File Explorer"
+"Icon size :"="Icon size :"
+"Button width :"="Button width :"
+"Button height :"="Button height :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Não pintar um fundo de cor sólida"
+
+; Missing before 2.55
+"All applications"="All applications"
+"Autohide taskbar"="Autohide taskbar"

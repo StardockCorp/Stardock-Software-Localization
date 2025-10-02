@@ -1,5 +1,3 @@
-[UI]
-Name="Korean"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 구성"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Start11 검색을 사용합니다"
 "Show filtering icons"="필터링 아이콘을 표시합니다"
 "Search file contents"="파일 콘텐츠를 검색합니다"
-"Search Desktop and Fences"="데스크톱 및 Fences를 검색합니다"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="인터넷 검색을 합니다"
 "Use Start11 search instead of Windows search?"="Windows 검색 대신 Start11 검색을 사용하시겠습니까?"
 "How should search work?"="검색이 어떻게 작동하나요?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="정말로 모든 설정을 기본값으로 초기화하시겠습니까?"
 "  "="You didn't provide any text to translate. Please provide the text you want to translate into Korean."
 "Open all apps list as a menu"="메뉴로 모든 앱 목록을 열기"
-"Show Desktop and Stardock Fences  folders"="바탕화면과 Stardock Fences 폴더 보기"
-"Show Desktop and Stardock Fences  folders in the all programs list"="모든 프로그램 목록에서 바탕화면과 Stardock Fences 폴더를 표시하세요"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="항목 글꼴 :"
 "Header font :"="헤더 글꼴 :"
 "Menu font :"="메뉴 글꼴 :"
@@ -651,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="시작 메뉴나 작업 표시줄 폴더 메뉴에 표시할 필터링된 폴더를 생성할 수 있습니다."
 "Search Tabs"="탭 검색"
 "Search Everything"="모든 것을 검색하십시오"
-"Search for shortcuts on the desktop and in Fences "="바탕화면과 Fences에서 단축키를 검색하십시오"
+"Search for shortcuts on the desktop and in Fences®"="바탕화면과 Fences®에서 단축키를 검색하십시오"
 "Use old Start10  style search"="구식 Start10 스타일 검색을 사용하십시오"
 "Show results from Everything instead of Start11 file searches"="Start11의 파일 검색 대신 Everything의 결과를 표시합니다"
 "If you have the Everything search tool installed this will be used for non app searches."="Everything 검색 도구가 설치되어 있다면 이 도구는 앱이 아닌 검색에 사용됩니다."
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="텍스트에는 그림자가 있어야 합니다"
 "Paint focused item backgrounds less transparent"="페인트 중점 항목 배경을 덜 투명하게 만드세요"
 "Enable Start11 autohide mode"="Start11 자동 숨김 모드 활성화"
+"Only hide when a window is maximised or overlapping the taskbar"="창이 최대화되었거나 작업 표시줄과 겹칠 때만 숨기기"
 "Taskbar button combining"="Taskbar 버튼 결합"
 "Control how the taskbar buttons combine"="태스크바 버튼이 결합되는 방식을 제어하십시오"
 "Taskbar button appearance"="태스크바 버튼 모양"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="빠른 실행"
 "Groupy saved groups"="Groupy가 저장한 그룹들"
 "Steam® folder"="Steam® 폴더"
-"All Fences"="모든 울타리들"
-"Fences"="울타리"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="필터링된 폴더를 찾을 수 없습니다"
 "Custom filtered folders"="사용자 정의 필터링 폴더"
 "Please select a folder to pin as a menu"="메뉴로 고정할 폴더를 선택해 주세요"
@@ -723,7 +722,7 @@ Exist=1
 "Are you sure you want to delete all your run and search history?"="정말로 모든 달리기 기록과 검색 기록을 삭제하시겠습니까?"
 "Are you sure you want to delete all your settings?"="정말로 모든 설정을 삭제하시겠습니까?"
 "Override taskbar colour"="태스크바 색상 무시하기"
-"Appearance"="외모"
+"Appearance"="외관"
 "Are you sure you want to delete this group and child tabs?"="이 그룹과 하위 탭을 삭제하시겠습니까?"
 "Delete all tabs?"="모든 탭을 삭제하시겠습니까?"
 "Are you sure you want to delete this tab?"="이 탭을 삭제하길 원하십니까?"
@@ -762,7 +761,7 @@ Exist=1
 "X"="X"
 "Tip : These textures will be recoloured based on your group colour"="팁: 이 텍스처들은 당신의 그룹 색상에 따라 다시 색칠될 것입니다."
 "Pick custom texture..."="사용자 정의 텍스처 선택..."
-"Place texture as banner on left"="왼쪽에 배너로 텍스처를 배치하십시오"
+"Place texture as banner on left"="텍스처를 왼쪽에 배너로 배치하세요"
 "Make texture small (128 pix)"="텍스처를 작게 만들기 (128 픽셀)"
 "Make texture medium (256 pix)"="텍스처를 중간 크기(256 픽셀)로 만드세요."
 "Make texture large (512 pix)"="텍스처를 크게 만들기 (512 픽셀)"
@@ -881,19 +880,34 @@ Exist=1
 "Enter the display name :"="표시 이름 입력 :"
 "Ok"="확인"
 "Website links"="웹사이트 링크"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="시작 메뉴에 고정된 웹 링크는 파비콘 이미지를 가져야 합니다 ( 구글 웹사이트와 연결됩니다 **)"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="시작 메뉴에 고정된 웹 링크는 파비콘 이미지를 가져와야 합니다 (** Google 웹사이트에 연결됩니다 **)"
 
-;2.06으로 추가됨
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11이 작업 표시줄을 관리하는 StartAllIsBack이(가) 있는 것을 감지하여 호환성 문제로 이 기능들이 비활성화되었습니다."
 "StartAllIsBack detected"="StartAllIsBack 감지됨"
 "Always open on this tab index"="항상 이 탭 인덱스에서 열기"
-"Clear default tab index" = "기본 탭 인덱스 지우기"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="호환성을 위해 화면 가장자리에 한 픽셀 예약하기 (재시작 필요)"
 "Recent documents"="최근 문서들"
 "page"="페이지"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="작업 표시줄 메뉴에서 자동 숨기기 전환 표시"
 
 ;Added in 2.11
 "Task Manager"="작업 관리자"
+
+; Added to 2.49
+"- File Explorer"="- 파일 탐색기"
+"Icon size :"="아이콘 크기:"
+"Button width :"="버튼 너비:"
+"Button height :"="버튼 높이:"
+"Colour"="색상"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="마우스 오버 시에만 모든 앱 / 추가 버튼 표시"
+"Do not paint a solid colour background"="단색 배경을 그리지 않음"
+
+; Missing before 2.55
+"All applications"="모든 애플리케이션"
+"Autohide taskbar"="작업 표시줄 자동 숨기기"

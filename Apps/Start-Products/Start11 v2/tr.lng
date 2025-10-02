@@ -1,5 +1,3 @@
-[UI]
-Name="Turkish"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 Yapılandırması"
@@ -46,7 +44,7 @@ Exist=1
 "The menu should be fullscreen but leaving the taskbar visible"="Menü tam ekran olmalı, ancak görev çubuğunu görünür bırakmalıdır"
 "Show icons as tiles"="Simgeleri kutucuk olarak göster"
 "Apply an image to the background"="Arka plana bir resim uygula"
-"Tile mode settings"="Döşeme modu ayarları
+"Tile mode settings"="Tile mode settings"
 "Advanced..."="Gelişmiş..."
 "Compact Windows 7 style"="Windows 7 kompakt"
 "Grid Windows 7 style"="Windows 7 ızgara"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Start11 Aramayı Kullan"
 "Show filtering icons"="Filtreleme simgelerini göster"
 "Search file contents"="Dosya içeriğini ara"
-"Search Desktop and Fences"="Masaüstünde ve Fences'de Ara"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="İnternette ara"
 "Use Start11 search instead of Windows search?"="Windows araması yerine Start11 araması kullanılsın mı?"
 "How should search work?"="Arama nasıl çalışmalı?"
@@ -407,6 +405,7 @@ Exist=1
 "More"="Daha fazla"
 "Uninstall"="Kaldır"
 "Configure Start11"="Start11'i Yapılandır"
+"Unlock menu"="'Menüyü kilidini aç'"
 "Lock menu"="Menüyü kilitle"
 "Refresh icons"="Simgeleri yenile"
 "Delete this page"="Bu sayfayı sil"
@@ -414,6 +413,7 @@ Exist=1
 "Pin file..."="Dosyayı sabitle..."
 "Pin folder..."="Klasörü sabitle..."
 "Resort group A-Z"="Resort grup A-Z"
+"Unlock menu shortcut positions"="'Menü kısayol pozisyonlarının kilidini aç'"
 "Lock menu shortcut positions"="Menü kısayol konumlarını kilitle"
 "Unpin"="Sabitlemeyi kaldır"
 "Resize"="Yeniden boyutlandır"
@@ -473,10 +473,8 @@ Exist=1
 "Show windows side by side"="Pencereleri yan yana göster"
 "Cascade windows"="Kaskad pencereler"
 "Show windows stacked"="Pencereleri yığın olarak göster"
-"Universal applications"="Evrensel uygulamalar"
+
 ;Start11v2
-"Unlock menu"="'Menüyü kilidini aç'"
-"Unlock menu shortcut positions"="'Menü kısayol pozisyonlarının kilidini aç'"
 "Display as a link"="'Bağlantı olarak görüntüle'"
 "Display as a menu"="'Menü olarak görüntüle'"
 "Taskbar pins"="'Görev çubuğu pimleri'"
@@ -491,6 +489,7 @@ Exist=1
 "Windows App style"="'Windows Uygulama stili'"
 "An updated Windows 11 style."="'Güncellenmiş bir Windows 11 stili.'"
 "Windows Pro style"="'Windows Pro tarzı'"
+"Windows Launcher style"="Windows Launcher style"
 "Open the Start11 menu on the screen the mouse pointer is on"="'Fare işaretçisinin üzerinde olduğu ekranda Start11 menüsünü açın'"
 "Do nothing"="'Hiçbir şey yapma'"
 "Backup or restore your Start11 settings"="Start11 ayarlarınızı yedekleyin veya geri yükleyin"
@@ -505,12 +504,12 @@ Exist=1
 "Reset all your Start11 settings back to defaults."="Tüm Start11 ayarlarınızı varsayılanlara sıfırlayın."
 "Clear information"="'Açık bilgi'"
 "Clear all Start11 information for suggested apps and search history."="'Önerilen uygulamalar ve arama geçmişi için tüm Start11 bilgilerini temizleyin.'"
-"Are you sure?"="Emin misin?"
+"Are you sure?"="'Emin misin?'"
 "Are you sure you want to reset all your settings back to default?"="'Tüm ayarlarınızı varsayılana sıfırlamak istediğinizden emin misiniz?'"
 "  "="You didn't provide any text to translate. Please provide the text you want translated into Turkish."
 "Open all apps list as a menu"="'Menü olarak tüm uygulamalar listesini açın'"
-"Show Desktop and Stardock Fences  folders"="'Masaüstünü ve Stardock Fences klasörlerini göster'"
-"Show Desktop and Stardock Fences  folders in the all programs list"="'Tüm programlar listesinde Masaüstünü ve Stardock Fences klasörlerini göster'"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="'Öğe yazı tipi:'"
 "Header font :"="'Üst bilgi yazı tipi :'"
 "Menu font :"="'Menü yazı tipi :'"
@@ -546,6 +545,7 @@ Exist=1
 "Start11 can show groups or tabs based on a folder with a filter applied to them.  Configure them from here."="'Start11, bir filtre uygulanmış bir klasöre dayalı grupları veya sekmeleri gösterebilir. Onları buradan yapılandırın.'"
 "Devices and Printers"="Aygıtlar ve Yazıcılar"
 "Downloads"="İndirmeler"
+"Universal applications"="Evrensel uygulamalar"
 "Favorites"="'Favoriler'"
 "Homegroup"="'Ev Grubu'"
 "Personal Folder"="'Kişisel Klasör'"
@@ -649,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'Başlangıç menüsünde veya görev çubuğu klasör menüsünde göstermek üzere filtrelenmiş klasörler oluşturabilirsiniz.'"
 "Search Tabs"="'Sekmeleri Ara'"
 "Search Everything"="'Her Şeyi Ara'"
-"Search for shortcuts on the desktop and in Fences "="'Masaüstünde ve Fences'da kısayolları arayın'"
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
 "Use old Start10  style search"="'Eski Start10 tarzı arama kullanın'"
 "Show results from Everything instead of Start11 file searches"="'Start11 dosya aramaları yerine Her şeyden sonuçları göster'"
 "If you have the Everything search tool installed this will be used for non app searches."="'Her Şeyi Ara' araç setini yüklediyseniz, bu uygulama dışı aramalar için kullanılacaktır."
@@ -679,6 +679,7 @@ Exist=1
 "Text should have a shadow"="'Metinde bir gölge olmalı'"
 "Paint focused item backgrounds less transparent"="'Boyama odaklı öğe arka planlarını daha az şeffaf yapın'"
 "Enable Start11 autohide mode"="'Start11 otomatik gizleme modunu etkinleştir'"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="'Görev çubuğu düğmesi birleştirme'"
 "Control how the taskbar buttons combine"="'Görev çubuğu düğmelerinin nasıl birleştirileceğini kontrol edin'"
 "Taskbar button appearance"="'Görev çubuğu düğmesi görünümü'"
@@ -711,8 +712,8 @@ Exist=1
 "Quick launch"="'Hızlı başlatma'"
 "Groupy saved groups"="Groupy, grupları kaydetti"
 "Steam® folder"="'Steam® klasörü'"
-"All Fences"="'Tüm Çitler'"
-"Fences"="'Çitler'"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="'Filtrelenmiş klasör bulunamadı'"
 "Custom filtered folders"="'Özel filtrelenmiş klasörler'"
 "Please select a folder to pin as a menu"="'Lütfen menü olarak sabitlemek için bir klasör seçin'"
@@ -721,7 +722,7 @@ Exist=1
 "Are you sure you want to delete all your run and search history?"="'Tüm koşu ve arama geçmişinizi silmek istediğinize emin misiniz?'"
 "Are you sure you want to delete all your settings?"="'Tüm ayarlarınızı silmek istediğinizden emin misiniz?'"
 "Override taskbar colour"="'Görev çubuğu rengini geçersiz kıl'"
-"Appearance"="Görünüm"
+"Appearance"="'Görünüm'"
 "Are you sure you want to delete this group and child tabs?"="'Bu grubu ve alt sekmeleri silmek istediğinizden emin misiniz?'"
 "Delete all tabs?"="'Tüm sekmeleri sil?'"
 "Are you sure you want to delete this tab?"="'Bu sekmeyi silmek istediğinizden emin misiniz?'"
@@ -730,6 +731,7 @@ Exist=1
 "Change folder"="'Klasörü değiştir'"
 "Show suggested apps"="'Önerilen uygulamaları göster'"
 "Show recently installed apps"="'Son yüklenen uygulamaları göster'"
+"Enable all apps searching"="Enable all apps searching"
 "Show flat list without folders"="'Klasörsüz düz liste göster'"
 "Show hidden items list"="'Gizli öğeler listesini göster'"
 "Clear hidden list"="'Gizli listeyi temizle'"
@@ -869,3 +871,43 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Başlat düğmesini ikincil monitör görev çubuklarında göster"
 "Taskbar search"="Görev çubuğu araması"
 "Show search on taskbar"="Görev çubuğunda arama göster"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."
+"StartAllIsBack detected"="StartAllIsBack detected"
+"Always open on this tab index"="Always open on this tab index"
+"Clear default tab index" = "Clear default tab index"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"
+"Recent documents"="Recent documents"
+"page"="page"
+
+;2.07
+"Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="- File Explorer"
+"Icon size :"="Icon size :"
+"Button width :"="Button width :"
+"Button height :"="Button height :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Düz renk arka plan boyama"
+
+; Missing before 2.55
+"All applications"="All applications"
+"Autohide taskbar"="Autohide taskbar"

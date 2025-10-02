@@ -1,5 +1,3 @@
-[UI]
-Name="Italian"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Configurazione Stardock Start11"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Usa la ricerca Start11"
 "Show filtering icons"="Mostra icone di filtro"
 "Search file contents"="Cerca nel contenuto del file"
-"Search Desktop and Fences"="Cerca sul Desktop e Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Cerca in Internet"
 "Use Start11 search instead of Windows search?"="Utilizza la ricerca Start11 invece di quella di Windows?"
 "How should search work?"="Come dovrebbe funzionare la ricerca?"
@@ -415,6 +413,7 @@ Exist=1
 "Pin file..."="Aggiungi file..."
 "Pin folder..."="Aggiungi cartella..."
 "Resort group A-Z"="Riordino da A-Z"
+"Unlock menu shortcut positions"="Sblocca le posizioni delle scorciatoie del menu"
 "Lock menu shortcut positions"="Blocca i collegamenti ai menu"
 "Unpin"="Rimuovi"
 "Resize"="Ridimensiona"
@@ -474,10 +473,8 @@ Exist=1
 "Show windows side by side"="Mostra finestre affiancate"
 "Cascade windows"="Finestre a cascata"
 "Show windows stacked"="Mostra finestre impilate"
-"Universal applications"="Applicazioni universali"
 
 ;Start11v2
-"Unlock menu shortcut positions"="Sblocca le posizioni delle scorciatoie del menu"
 "Display as a link"="'Mostra come un link'"
 "Display as a menu"="Visualizza come un menu"
 "Taskbar pins"="Perni della barra delle applicazioni"
@@ -511,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Sei sicuro di voler ripristinare tutte le tue impostazioni ai valori predefiniti?"
 "  "="You didn't provide any text to translate. Please provide the text you want to translate into Italian."
 "Open all apps list as a menu"="'Apri l'elenco di tutte le app come un menu'"
-"Show Desktop and Stardock Fences  folders"="'Mostra Desktop e cartelle Stardock Fences'"
-"Show Desktop and Stardock Fences  folders in the all programs list"="'Mostra Desktop e cartelle Stardock Fences nella lista di tutti i programmi'"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="'Carattere dell'elemento:'"
 "Header font :"="'Carattere dell'intestazione :'"
 "Menu font :"="'Carattere del menu :'"
@@ -548,6 +545,7 @@ Exist=1
 "Start11 can show groups or tabs based on a folder with a filter applied to them.  Configure them from here."="'Start11 può mostrare gruppi o schede basati su una cartella con un filtro applicato su di essi. Configurali da qui.'"
 "Devices and Printers"="Dispositivi e Stampanti"
 "Downloads"="Download"
+"Universal applications"="Applicazioni universali"
 "Favorites"="'Preferiti'"
 "Homegroup"="'Gruppo Domestico'"
 "Personal Folder"="Cartella Personale"
@@ -651,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'Puoi creare cartelle filtrate da mostrare nel menu di avvio o come menu della cartella della barra delle applicazioni.'"
 "Search Tabs"="Cerca Schede"
 "Search Everything"="Cerca Tutto"
-"Search for shortcuts on the desktop and in Fences "="'Cerca scorciatoie sul desktop e in Fences'"
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
 "Use old Start10  style search"="'Usa la vecchia ricerca in stile Start10'"
 "Show results from Everything instead of Start11 file searches"="'Mostra i risultati da Tutto invece delle ricerche di file Start11'"
 "If you have the Everything search tool installed this will be used for non app searches."="'Se hai installato lo strumento di ricerca Everything, verrà utilizzato per le ricerche non relative alle app.'"
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="'Il testo dovrebbe avere un'ombra'"
 "Paint focused item backgrounds less transparent"="Dipingi gli sfondi degli elementi focalizzati meno trasparenti"
 "Enable Start11 autohide mode"="'Abilita la modalità autohide di Start11'"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="Combinazione dei pulsanti della barra delle applicazioni"
 "Control how the taskbar buttons combine"="'Controlla come si combinano i pulsanti della barra delle applicazioni'"
 "Taskbar button appearance"="Aspetto del pulsante della barra delle applicazioni"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="Lancio rapido"
 "Groupy saved groups"="'Groupy ha salvato i gruppi'"
 "Steam® folder"="Cartella Steam®"
-"All Fences"="'Tutte le Recinzioni'"
-"Fences"="Recinti"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="'Nessuna cartella filtrata trovata'"
 "Custom filtered folders"="'Cartelle filtrate personalizzate'"
 "Please select a folder to pin as a menu"="'Si prega di selezionare una cartella da fissare come menu'"
@@ -872,3 +871,43 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Mostra il pulsante Start sulle barre delle applicazioni dei monitor secondari"
 "Taskbar search"="Ricerca nella barra delle applicazioni"
 "Show search on taskbar"="Mostra ricerca nella barra delle applicazioni"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."
+"StartAllIsBack detected"="StartAllIsBack detected"
+"Always open on this tab index"="Always open on this tab index"
+"Clear default tab index" = "Clear default tab index"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"
+"Recent documents"="Recent documents"
+"page"="page"
+
+;2.07
+"Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="- Esplora file"
+"Icon size :"="Icon size :"
+"Button width :"="Button width :"
+"Button height :"="Button height :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Non disegnare uno sfondo a tinta unita"
+
+; Missing before 2.55
+"All applications"="All applications"
+"Autohide taskbar"="Autohide taskbar"

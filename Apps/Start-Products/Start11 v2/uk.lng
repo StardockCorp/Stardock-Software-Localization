@@ -1,5 +1,3 @@
-[UI]
-Name="Ukrainian"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Налаштування Stardock Start11"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Використовувати пошук Start11"
 "Show filtering icons"="Показувати піктограми фільтрації"
 "Search file contents"="Шукати всередині файлів"
-"Search Desktop and Fences"="Шукати на робочому столі і в Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Шукати в інтернеті"
 "Use Start11 search instead of Windows search?"="Використовувати пошук Start11 замість пошуку Windows?"
 "How should search work?"="Як повинен працювати пошук?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Ви впевнені, що хочете скинути всі налаштування до значень за замовчуванням?"
 "  "="  "
 "Open all apps list as a menu"="Відкривати список усіх програм у вигляді меню"
-"Show Desktop and Stardock Fences® folders"="Показати папки Робочого столу та Stardock Fences®"
-"Show Desktop and Stardock Fences® folders in the all programs list"="Показати папки Робочого столу та Stardock Fences® у списку всіх програм"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Шрифт елементу:"
 "Header font :"="Шрифт заголовку:"
 "Menu font :"="Шрифт меню:"
@@ -613,7 +611,7 @@ Exist=1
 "Y offset : XXX Large"="Y зміщення : Велике+++"
 "Give the taskbar rounded corners"="Заокруглити краї панелі завдань"
 "Sync settings"="Синхронізувати"
-"These taskbar options use functionality built into Windows® 11 which is not exposed in settings and they may change in future versions of Windows® 11 or experience unexpected behaviours."="Ці параметри панелі завдань використовують вбудовані в Windows® 11 функції, які не відображаються в налаштуваннях, тож вони можуть змінитися в майбутніх версіях Windows® 11 або поводитися непередбачувано."
+"These taskbar options use functionality built into Windows  11 which is not exposed in settings and they may change in future versions of Windows  11 or experience unexpected behaviours."="These taskbar options use functionality built into Windows  11 which is not exposed in settings and they may change in future versions of Windows  11 or experience unexpected behaviours."
 "Automatic mode (recommended)"="Автоматичний режим (рекомендовано)"
 "Force not touch mode device"="Примусово вимкнути сенсорний режим"
 "Force touch mode device"="Примусово увімкнути сенсорний режим"
@@ -629,7 +627,7 @@ Exist=1
 "Start8"="Start8"
 "Triangle One"="Трикутник Один"
 "Triangle Two"="Трикутник Два"
-"Replace the limited taskbar right click menu on Windows® 11 with a more powerful one."="Замініть обмежене меню правої кнопки миші на панелі завдань у Windows® 11 на більш потужне."
+"Replace the limited taskbar right click menu on Windows  11 with a more powerful one."="Replace the limited taskbar right click menu on Windows  11 with a more powerful one."
 "This feature requires enhanced taskbar enabled"="Ця функція потребує увімкнення покращеної панелі завдань"
 "Start11 allows you to pin documents or folders to your taskbar for easy access"="Start11 дозволяє закріплювати документи або папки на панелі завдань для легкого доступу"
 "Folder menu options"="Параметри меню папки"
@@ -651,8 +649,8 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="Ви можете створити відфільтровані папки для відображення в меню Пуск або як меню папок на панелі завдань."
 "Search Tabs"="Вкладки для пошуку"
 "Search Everything"="Шукати все"
-"Search for shortcuts on the desktop and in Fences®"="Шукати серед ярликів на робочому столі та в Fences®"
-"Use old Start10® style search"="Використовувати старий пошук у стилі Start10®"
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
+"Use old Start10  style search"="Use old Start10  style search"
 "Show results from Everything instead of Start11 file searches"="Показувати результати пошуку з Everything замість Start11 при пошуку в файлах"
 "If you have the Everything search tool installed this will be used for non app searches."="Якщо у вас встановлена програма для пошуку Everything, то вона буде використовуватися при пошуку в файлах."
 "All Start11 backups"="Всі резервні копії Start11"
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Текст повинен мати тінь"
 "Paint focused item backgrounds less transparent"="Робити фон сфокусованих елементів менш прозорим"
 "Enable Start11 autohide mode"="Увімкнути режим автоматичного приховування Start11"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="Групування кнопок на панелі завдань"
 "Control how the taskbar buttons combine"="Керуйте тим, як будуть групуватися кнопки на панелі завдань"
 "Taskbar button appearance"="Вигляд кнопок панелі завдань"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="Швидкий запуск"
 "Groupy saved groups"="Groupy зберіг групи"
 "Steam® folder"="Папка Steam®"
-"All Fences"="Всі Fences"
-"Fences"="Fences"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Не знайдено відфільтрованих папок"
 "Custom filtered folders"="Власні відфільтровані папки"
 "Please select a folder to pin as a menu"="Будь ласка, виберіть папку, щоб закріпити як меню"
@@ -762,7 +761,7 @@ Exist=1
 "X"="X"
 "Tip : These textures will be recoloured based on your group colour"="Підказка : Колір цих текстур буде відповідати кольору вашої групи"
 "Pick custom texture..."="Вибрати власну текстуру..."
-"Place texture as banner on left"="Розмістіть текстуру як банер зліва"
+"Place texture as banner on left"="Розмістити текстуру як банер зліва"
 "Make texture small (128 pix)"="Зробити текстуру маленькою (128 пікс)"
 "Make texture medium (256 pix)"="Зробити текстуру середньою (256 пікс)"
 "Make texture large (512 pix)"="Зробити текстуру великою (512 пікс)"
@@ -873,7 +872,6 @@ Exist=1
 "Taskbar search"="Пошук на панелі завдань"
 "Show search on taskbar"="Показувати пошук на панелі завдань"
 
-
 ; Added in 2.05
 "Secondary display when > 1 screen"="Додатковий дисплей, якщо більше одного екрану"
 "Pin website..."="Закріпити веб-сайт..."
@@ -884,12 +882,11 @@ Exist=1
 "Website links"="Посилання на веб-сайти"
 "Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Веб-посилання, закріплені в меню Пуск, повинні завантажувати favicon-и (необхідне з'єднання з сайтом Google)"
 
-
 ;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 виявив, що ви використовуєте StartAllIsBack для керування панеллю завдань, тому ці функції вимкнено з міркувань сумісності."
 "StartAllIsBack detected"="Виявлено StartAllIsBack"
 "Always open on this tab index"="Завжди відкривати на цій вкладці"
-"Clear default tab index" = "Очистити вкладку за замовчуванням"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Зарезервувати один піксель на краю екрана для сумісності (потрібен перезапуск)"
 "Recent documents"="Останні документи"
 "page"="сторінка"
@@ -902,29 +899,15 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="- Файловий провідник"
-"Icon size : "="Розмір піктограми :"
+"Icon size :"="Icon size :"
 "Button width :"="Ширина кнопки :"
 "Button height :"="Висота кнопки :"
 "Colour"="Колір"
 
-;Found localization strings that are absent in the official localization file of version 2.11.
-;"Version 2.11"="Версія 2.11"
-"Updates provided via Steam."="Оновлення надаються через Steam."
-"&Show on Desktop"="&Показати на робочому столі"
-"Reset to automatic"="Скинути до автоматичного кольору"
-"Pick custom tile image..."="Вибрати власне зображення плитки..."
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Не малювати суцільний кольоровий фон"
+
+; Missing before 2.55
 "All applications"="Всі програми"
-"Open your personal folder."="Відкрити власну персональну папку."
-"Access letters, reports, notes, and other kinds of documents."="Доступ до листів, звітів, нотаток та інших видів документів."
-"Find Internet downloads and links to favorite websites."="Переглянути завантажені з інтернету файли."
-"Play music and other audio files."="Прослуховування музики та інших аудіо файлів."
-"View and organize digital pictures."="Перегляд та впорядкування цифрових фотографій."
-"Change settings and customize the functionality of your computer."="Зміна налаштувань і персоналізація функціоналу вашого комп'ютера."
-"Opens a program, folder, document or web site."="Запустити програму, відкрити папку, документ або веб-сайт."
-"See the disk drives and other hardware connected to your computer."="Перегляд дискових накопичувачів та іншого обладнання, підключеного до вашого комп'ютера."
-"Change settings and customize the functionality of your computer."="Змініть налаштування та персоналізуйте функціональність свого комп'ютера."
-"Watch home movies and other digital videos."="Перегляд домашнього відеоархіву та інших цифрових відео."
-"Watch TV programs recorded on your computer."="Перегляд телепередач, записаних на вашому комп'ютері."
-"Access libraries and folders shared by other people in your homegroup."="Доступ до бібліотек і папок, якими поділилися інші люди у вашій домашній групі."
-"See installed printers and add new ones."="Перегляд встановлених принтерів і додавання нових."
-"Choose default programs for web browsing, e-mail, playing music and other activities."="Вибір програм за замовчуванням для перегляду веб-сторінок, електронної пошти, прослуховування музики та інших дій."
+"Autohide taskbar"="Autohide taskbar"

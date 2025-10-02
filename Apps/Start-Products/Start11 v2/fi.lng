@@ -1,5 +1,3 @@
-[UI]
-Name="Finish"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 Määritys"
@@ -53,6 +51,7 @@ Exist=1
 "Compact Grid Windows 7 style"="Kompakti ruudukko Windows 7 tyyli"
 "Use large icons"="Käytä suuria kuvakkeita"
 "Make the start menu solid"="Tee valikosta kiinteä"
+"Always show the close button on active tiles"="Näytä aina sulje-painike aktiivisissa ruuduissa"
 "Show caption as a tooltip when hovering over a tile"="Näytä kuvateksti työkaluvihjeenä, kun viet hiiren laatan päälle"
 "Show the date at the bottom of the bar"="Näytä päivämäärä palkin alareunassa"
 "Force icons to greyscaled / coloured depending on skin"="Pako kuvakkeet harmaasävyiksi/väriksi taustan mukaan"
@@ -325,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Käytä Start11 hakua"
 "Show filtering icons"="Näytä suodatuskuvakkeet"
 "Search file contents"="Hae tiedoston sisältöä"
-"Search Desktop and Fences"="Etsi työpöytä ja Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Etsi internetistä"
 "Use Start11 search instead of Windows search?"="Käytetäänkö Start11-hakua Windows-haun sijaan?"
 "How should search work?"="Kuinka haun pitäisi toimia"
@@ -387,6 +386,7 @@ Exist=1
 "Get help"="Hae apua"
 "Show the Windows start menu"="Näytä Windowsin aloitusvalikko"
 "Deactivate license"="Poista lisenssi käytöstä"
+"Centre aligned (** Experimental **)"="'Keskitetty (** Kokeellinen **)'"
 "All apps"="Kaikki sovellukset"
 "Use WindowBlinds button"="Käyttää WindowBlindsin painiketta"
 "Use Curtains button"="Use Curtains button"
@@ -473,11 +473,8 @@ Exist=1
 "Show windows side by side"="Näytä ikkunat vierekkäin"
 "Cascade windows"="Kaskadi ikkunat"
 "Show windows stacked"="Näytä ikkunat pinottuina"
-"Centre aligned (** Experimental - Maximum of two monitors supported **)"="Tasattu keskelle (** kokeellinen **)"
 
 ;Start11v2
-"Always show the close button on active tiles"="Näytä aina sulje-painike aktiivisissa ruuduissa"
-"Centre aligned (** Experimental **)"="'Keskitetty (** Kokeellinen **)'"
 "Display as a link"="Näytä linkkinä"
 "Display as a menu"="Näytä valikkona"
 "Taskbar pins"="'Tehtäväpalkin nasta'"
@@ -511,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Oletko varma, että haluat palauttaa kaikki asetuksesi oletusarvoiksi?"
 "  "="You didn't provide any text to translate. Could you please provide the text you want to be translated into Finnish?"
 "Open all apps list as a menu"="Avaa kaikki sovellukset luettelona valikossa"
-"Show Desktop and Stardock Fences  folders"="Näytä työpöytä ja Stardock Fences -kansiot"
-"Show Desktop and Stardock Fences  folders in the all programs list"="Näytä työpöytä ja Stardock Fences -kansiot kaikissa ohjelmaluetteloissa"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Tuotteen fontti:"
 "Header font :"="'Otsikkofontti :'"
 "Menu font :"="'Valikko fontti :'"
@@ -566,6 +563,7 @@ Exist=1
 "Pick target folder..."="'Valitse kohdekansio...'"
 "Filtered folders"="Suodatetut kansiot"
 "Create a custom filtered folder by giving it a name and picking a folder and any rules which should be applied."="Luo mukautettu suodatettu kansio antamalla sille nimi ja valitsemalla kansio ja kaikki säännöt, jotka tulisi soveltaa."
+"Centre aligned (** Experimental - Maximum of two monitors supported **)"="Tasattu keskelle (** kokeellinen **)"
 "Hide the start button on the primary display"="Piilota aloituspainike ensisijaisessa näytössä"
 "Hide the start button on the secondary displays (if any)"="Piilota aloituspainike toissijaisissa näytöissä (jos niitä on)"
 "Larger start buttons will be shrunk to fit on this version of Windows"="Suuremmat aloituspainikkeet pienennetään sopimaan tähän Windowsin versioon."
@@ -651,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'Voit luoda suodatettuja kansioita näytettäväksi aloitusvalikossa tai tehtäväpalkin kansiomenussa.'"
 "Search Tabs"="Etsi välilehtiä"
 "Search Everything"="Etsi Kaikki"
-"Search for shortcuts on the desktop and in Fences "="Etsi pikakuvakkeita työpöydältä ja Fences-sovelluksesta"
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
 "Use old Start10  style search"="Käytä vanhaa Start10-tyylin hakua"
 "Show results from Everything instead of Start11 file searches"="Näytä tulokset kaikesta Start11-tiedostohakujen sijaan"
 "If you have the Everything search tool installed this will be used for non app searches."="'Jos sinulla on Everything-hakutyökalu asennettuna, sitä käytetään ei-sovellusten hauissa.'"
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Tekstin tulisi olla varjo"
 "Paint focused item backgrounds less transparent"="Maalaa keskittyneen kohteen taustat vähemmän läpinäkyviksi"
 "Enable Start11 autohide mode"="Ota käyttöön Start11 automaattinen piilotustila"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="Tehtäväpalkin painikkeiden yhdistäminen"
 "Control how the taskbar buttons combine"="Ohjaa, miten tehtäväpalkin painikkeet yhdistyvät"
 "Taskbar button appearance"="Tehtäväpalkin painikkeen ulkoasu"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="Pikakäynnistys"
 "Groupy saved groups"="Groupy tallensi ryhmät"
 "Steam® folder"="'Steam®-kansio'"
-"All Fences"="'Kaikki Aidat'"
-"Fences"="'Aidat'"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Ei suodatettuja kansioita löytynyt"
 "Custom filtered folders"="Mukautetut suodatetut kansiot"
 "Please select a folder to pin as a menu"="Valitse kansio, jonka haluat kiinnittää valikkoon."
@@ -872,3 +871,43 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Näytä käynnistyspainike toissijaisten näyttöjen tehtäväpalkeissa"
 "Taskbar search"="Tehtäväpalkin haku"
 "Show search on taskbar"="Näytä haku tehtäväpalkissa"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."
+"StartAllIsBack detected"="StartAllIsBack detected"
+"Always open on this tab index"="Always open on this tab index"
+"Clear default tab index" = "Clear default tab index"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"
+"Recent documents"="Recent documents"
+"page"="page"
+
+;2.07
+"Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="- File Explorer"
+"Icon size :"="Icon size :"
+"Button width :"="Button width :"
+"Button height :"="Button height :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Älä maalaa yhtenäistä värillistä taustaa"
+
+; Missing before 2.55
+"All applications"="All applications"
+"Autohide taskbar"="Autohide taskbar"

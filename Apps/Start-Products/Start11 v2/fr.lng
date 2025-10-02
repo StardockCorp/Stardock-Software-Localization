@@ -1,5 +1,3 @@
-[UI]
-Name="French"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Configuration de Start11 de Stardock"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Utiliser la recherche Start11"
 "Show filtering icons"="Afficher les icônes de filtrage"
 "Search file contents"="Rechercher le contenu des fichiers"
-"Search Desktop and Fences®"="Rechercher dans le Bureau et Fences®"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Rechercher sur Internet"
 "Use Start11 search instead of Windows search?"="Utiliser la recherche Start11 au lieu de celle de Windows ?"
 "How should search work?"="Comment la recherche doit-elle fonctionner ?"
@@ -506,12 +504,12 @@ Exist=1
 "Reset all your Start11 settings back to defaults."="Réinitialiser tous les réglages de Start11 aux valeurs par défaut."
 "Clear information"="Effacer les informations"
 "Clear all Start11 information for suggested apps and search history."="Effacer toutes les informations de Start11 pour les applications suggérées et l'historique de recherche."
-"Are you sure?"="Êtes-vous sûr ?"
+"Are you sure?"="Êtes-vous sûr?"
 "Are you sure you want to reset all your settings back to default?"="Êtes-vous sûr de vouloir réinitialiser tous les paramètres à leurs valeurs par défaut ?"
 "  "="En tant qu'IA, j'ai besoin du texte à traduire. Donner la version anglaise du texte à traduire en français."
 "Open all apps list as a menu"="Ouvrir la liste des applications sous forme de menu"
-"Show Desktop and Stardock Fences® folders"="Afficher le bureau et les dossiers Stardock Fences®"
-"Show Desktop and Stardock Fences® folders in the all programs list"="Afficher le bureau et les dossiers Stardock Fences® dans la liste des programmes"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Police de l'élément :"
 "Header font :"="Police d'en-tête :"
 "Menu font :"="Police du menu :"
@@ -613,7 +611,7 @@ Exist=1
 "Y offset : XXX Large"="Décalage Y : Très très très Grand"
 "Give the taskbar rounded corners"="Arrondir les coins de la barre des tâches"
 "Sync settings"="Synchr. Config."
-"These taskbar options use functionality built into Windows® 11 which is not exposed in settings and they may change in future versions of Windows® 11 or experience unexpected behaviours."="Ces options de la barre des tâches utilisent des fonctionnalités intégrées dans Windows 11 qui ne sont pas exposées dans les paramètres et elles peuvent changer dans les futures versions de Windows 11 ou présenter des comportements inattendus."
+"These taskbar options use functionality built into Windows  11 which is not exposed in settings and they may change in future versions of Windows  11 or experience unexpected behaviours."="Ces options de la barre des tâches utilisent des fonctionnalités intégrées à Windows 11 qui ne sont pas exposées dans les paramètres et peuvent changer dans les futures versions de Windows 11 ou connaître des comportements inattendus."
 "Automatic mode (recommended)"="Mode automatique (recommandé)"
 "Force not touch mode device"="Forcer le mode non tactile"
 "Force touch mode device"="Forcer le mode tactile"
@@ -629,7 +627,7 @@ Exist=1
 "Start8"="Start8"
 "Triangle One"="Triangle Un"
 "Triangle Two"="Triangle Deux"
-"Replace the limited taskbar right click menu on Windows® 11 with a more powerful one."="Remplacer le menu contextuel limité de la barre des tâches sur Windows 11 par un plus puissant.'"
+"Replace the limited taskbar right click menu on Windows  11 with a more powerful one."="Remplacer le menu contextuel limité de la barre des tâches sur Windows 11 par un plus puissant."
 "This feature requires enhanced taskbar enabled"="Cette fonctionnalité nécessite la barre des tâches améliorée activée"
 "Start11 allows you to pin documents or folders to your taskbar for easy access"="Start11 vous permet d'épingler des documents ou des dossiers à votre barre des tâches pour un accès facile."
 "Folder menu options"="Options des Menus de dossiers"
@@ -652,7 +650,7 @@ Exist=1
 "Search Tabs"="Rechercher des Onglets"
 "Search Everything"="Recherchez Tout"
 "Search for shortcuts on the desktop and in Fences®"="Rechercher des raccourcis sur le bureau et dans Fences®"
-"Use old Start10® style search"="Utilisez l'ancien style de recherche de Start10®"
+"Use old Start10  style search"="Utiliser la recherche de style Start10 ancien"
 "Show results from Everything instead of Start11 file searches"="Afficher les résultats de Everything au lieu des recherches de fichiers de Start11"
 "If you have the Everything search tool installed this will be used for non app searches."="Si l'outil de recherche Everything est installé, il sera utilisé pour les recherches non liées aux applications."
 "All Start11 backups"="Toutes les sauvegardes Start11"
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Le texte doit être ombré"
 "Paint focused item backgrounds less transparent"="Rendre moins transparents les arrière-plans des éléments ciblés"
 "Enable Start11 autohide mode"="Activer le mode de masquage automatique de Start11"
+"Only hide when a window is maximised or overlapping the taskbar"="Masquer uniquement lorsqu'une fenêtre est maximisée ou chevauche la barre des tâches"
 "Taskbar button combining"="Combinaison des boutons de la barre des tâches"
 "Control how the taskbar buttons combine"="Contrôler la combinaison des boutons de la barre des tâches"
 "Taskbar button appearance"="Apparence des boutons de la barre des tâches"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="Accès rapide"
 "Groupy saved groups"="Groupes enregistrés de Groupy"
 "Steam® folder"="Dossier Steam®"
-"All Fences"="Tous les Fences"
-"Fences"="Fences"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Pas de dossiers filtrés trouvés"
 "Custom filtered folders"="Dossiers filtrés personnalisés"
 "Please select a folder to pin as a menu"="Sélectionner un dossier à épingler en tant que menu"
@@ -751,6 +750,7 @@ Exist=1
 "Add page"="Ajouter une page"
 "Pin installed application..."="Épingler une application installée..."
 "Filter group"="Filtrer le groupe"
+"Appearance"="Apparence"
 "Move"="Déplacement"
 "Launch entire group"="Lancer le groupe entier"
 "Reload contents"="Recharger le contenu"
@@ -761,7 +761,7 @@ Exist=1
 "X"="X"
 "Tip : These textures will be recoloured based on your group colour"="Note : Ces textures seront recolorées en suivant la couleur de votre groupe."
 "Pick custom texture..."="Choisir une texture personnalisée..."
-"Place texture as banner on left"="Placer la texture comme bannière à gauche"
+"Place texture as banner on left"="Placez la texture comme bannière à gauche"
 "Make texture small (128 pix)"="Rendre une texture petite (128 pix)"
 "Make texture medium (256 pix)"="Rendre une texture moyenne (256 pix)"
 "Make texture large (512 pix)"="Rendre une texture grande (512 pix)"
@@ -839,7 +839,7 @@ Exist=1
 "Pick custom icon..."="Choisir une icône personnalisée..."
 "Reset custom icon"="Réinitialiser l'icône personnalisée"
 "Show icons"="Afficher les icônes"
-"Are you sure you want to delete "="Êtes-vous sûr de vouloir supprimer '"
+"Are you sure you want to delete '"="Are you sure you want to delete '"
 "Delete this item?"="Supprimer cet élément?"
 "&Open"="&Ouvrir"
 "O&pen All Users"="Ouvrir Tous les Utilisateurs"
@@ -872,9 +872,6 @@ Exist=1
 "Taskbar search"="Recherche dans la barre des tâches"
 "Show search on taskbar"="Afficher la recherche dans la barre des tâches"
 
-; Forgoten in Windows 11 style menu? the translation doesn't work
-;"All applications"="Toutes les applications"
-
 ; Added in 2.05
 "Secondary display when > 1 screen"="Affichage secondaire quand > 1 écran"
 "Pin website..."="Épingler le site web..."
@@ -883,20 +880,34 @@ Exist=1
 "Enter the display name :"="Entrez le nom d'affichage :"
 "Ok"="Ok"
 "Website links"="Liens de sites web"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Les liens web épinglés au menu démarrer devraient obtenir l'image favicon ( Établira des connexions à un site web Google **)"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Les liens Web épinglés au menu démarrer doivent obtenir l'image favicon (** Établira des connexions à un site Web Google **)"
 
-;Ajouté avec 2.06
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 a détecté que vous avez StartAllIsBack qui gère votre barre des tâches, donc ces fonctionnalités sont désactivées pour des raisons de compatibilité."
 "StartAllIsBack detected"="StartAllIsBack détecté"
 "Always open on this tab index"="Toujours ouvrir sur cet index d'onglet"
-"Clear default tab index" = "Effacer l'index d'onglet par défaut"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Réserver un pixel au bord de l'écran pour des raisons de compatibilité (Redémarrage nécessaire)"
 "Recent documents"="Documents récents"
 "page"="page"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="Afficher le basculement d'auto-masquage dans le menu de la barre des tâches"
 
-;Missing translation in taskbar menu 28/05/2024 / Traductions manquantes dans le menu de la barre des tâches
-"Task manager"="Gestionnaire des tâches"
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"=": Explorateur de fichiers"
+"Icon size :"="Taille de l'icône :"
+"Button width :"="Largeur du bouton :"
+"Button height :"="Hauteur du bouton :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Afficher toutes les applications / plus de boutons uniquement au survol"
+"Do not paint a solid colour background"="Ne pas peindre un arrière-plan de couleur unie"
+
+; Missing before 2.55
+"All applications"="Toutes les applications"
 "Autohide taskbar"="Masquer automatiquement la barre des tâches"

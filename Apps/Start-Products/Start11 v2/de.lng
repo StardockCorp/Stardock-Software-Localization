@@ -1,5 +1,3 @@
-[UI]
-Name="German"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11: Konfiguration"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Start11-Suche verwenden"
 "Show filtering icons"="Filter-Symbole anzeigen"
 "Search file contents"="Dateiinhalte durchsuchen"
-"Search Desktop and Fences"="Desktop und Fences durchsuchen"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Internet durchsuchen"
 "Use Start11 search instead of Windows search?"="Start11-Suche statt Windows-Suche verwenden?"
 "How should search work?"="Wie soll die Suche vorgenommen werden?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Sind Sie sicher, dass Sie alle Ihre Einstellungen auf die Standardeinstellungen zurücksetzen möchten?"
 "  "="As an AI, I need a specific text to translate from English to German. Please provide the text you want to be translated."
 "Open all apps list as a menu"="Öffnen Sie die Liste aller Apps als Menü"
-"Show Desktop and Stardock Fences  folders"="Desktop und Stardock Fences Ordner anzeigen"
-"Show Desktop and Stardock Fences  folders in the all programs list"="Zeige Desktop und Stardock Fences Ordner in der Liste aller Programme"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="'Artikelschriftart :'"
 "Header font :"="Schriftart für die Überschrift:"
 "Menu font :"="Menüschriftart:"
@@ -593,6 +591,7 @@ Exist=1
 "Animate rounded corner changes"="Animierte Änderungen an abgerundeten Ecken"
 "Slightly rounded"="Leicht abgerundet"
 "Slightly more rounded"="Etwas mehr abgerundet"
+"Medium rounded"="Mittel abgerundet"
 "Very rounded"="Sehr abgerundet"
 "Extremely rounded"="Äußerst abgerundet"
 "Maximum rounded"="Maximal gerundet"
@@ -650,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'Sie können gefilterte Ordner erstellen, um sie im Startmenü oder als Taskleistenordnermenü anzuzeigen.'"
 "Search Tabs"="Registerkarten suchen"
 "Search Everything"="Alles durchsuchen"
-"Search for shortcuts on the desktop and in Fences "="Suchen Sie nach Verknüpfungen auf dem Desktop und in Fences."
+"Search for shortcuts on the desktop and in Fences®"="Suchen Sie nach Verknüpfungen auf dem Desktop und in Fences®."
 "Use old Start10  style search"="Verwenden Sie die alte Start10-Stilsuche"
 "Show results from Everything instead of Start11 file searches"="Zeige Ergebnisse von Allem anstatt von Start11 Dateisuchen"
 "If you have the Everything search tool installed this will be used for non app searches."="'Wenn Sie das Everything-Suchtool installiert haben, wird dieses für Nicht-App-Suchen verwendet.'"
@@ -680,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Text sollte einen Schatten haben"
 "Paint focused item backgrounds less transparent"="Malen Sie den Hintergrund fokussierter Elemente weniger transparent"
 "Enable Start11 autohide mode"="Aktivieren Sie den Autohide-Modus von Start11"
+"Only hide when a window is maximised or overlapping the taskbar"="Nur ausblenden, wenn ein Fenster maximiert ist oder die Taskleiste überlappt"
 "Taskbar button combining"="Taskleisten-Schaltflächen-Kombination"
 "Control how the taskbar buttons combine"="Steuern Sie, wie die Taskleisten-Schaltflächen kombiniert werden"
 "Taskbar button appearance"="Aussehen der Taskleisten-Schaltfläche"
@@ -712,8 +712,8 @@ Exist=1
 "Quick launch"="Schnellstart"
 "Groupy saved groups"="Groupy hat Gruppen gespeichert"
 "Steam® folder"="Steam®-Ordner"
-"All Fences"="'Alle Zäune'"
-"Fences"="Zäune"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="'Keine gefilterten Ordner gefunden'"
 "Custom filtered folders"="Benutzerdefinierte gefilterte Ordner"
 "Please select a folder to pin as a menu"="'Bitte wählen Sie einen Ordner aus, den Sie als Menü anheften möchten'"
@@ -761,7 +761,7 @@ Exist=1
 "X"="'X'"
 "Tip : These textures will be recoloured based on your group colour"="Tipp: Diese Texturen werden basierend auf Ihrer Gruppenfarbe umgefärbt."
 "Pick custom texture..."="'Wähle benutzerdefinierte Textur...'"
-"Place texture as banner on left"="Platzieren Sie die Textur als Banner auf der linken Seite"
+"Place texture as banner on left"="Platziere Textur als Banner auf der linken Seite"
 "Make texture small (128 pix)"="Mache die Textur klein (128 Pixel)"
 "Make texture medium (256 pix)"="Machen Sie die Textur mittelgroß (256 Pixel)"
 "Make texture large (512 pix)"="Mache die Textur groß (512 Pixel)"
@@ -880,19 +880,34 @@ Exist=1
 "Enter the display name :"="Geben Sie den Anzeigenamen ein:"
 "Ok"="Ok"
 "Website links"="Website-Links"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="An das Startmenü angeheftete Weblinks sollten das Favicon-Bild erhalten ( Verbindungen zu einer Google-Website werden hergestellt **)"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="An das Startmenü angeheftete Weblinks sollten das Favicon-Bild abrufen (** Stellt Verbindungen zu einer Google-Website her **)"
 
-;Hinzugefügt mit 2.06
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 hat erkannt, dass StartAllIsBack Ihre Taskleiste verwaltet, daher sind diese Funktionen aus Kompatibilitätsgründen deaktiviert."
 "StartAllIsBack detected"="StartAllIsBack erkannt"
 "Always open on this tab index"="Immer auf diesem Tab-Index öffnen"
-"Clear default tab index" = "Standard-Tab-Index löschen"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Aus Kompatibilitätsgründen einen Pixel am Bildschirmrand reservieren (Neustart erforderlich)"
 "Recent documents"="Aktuelle Dokumente"
 "page"="Seite"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="Autoausblenden-Umschalter im Taskleistenmenü anzeigen"
 
 ;Added in 2.11
 "Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="– Datei-Explorer"
+"Icon size :"="Symbolgröße :"
+"Button width :"="Schaltflächenbreite :"
+"Button height :"="Schaltflächenhöhe :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Alle Apps / Weitere Schaltflächen nur bei Mouseover anzeigen"
+"Do not paint a solid colour background"="Keinen einfarbigen Hintergrund zeichnen"
+
+; Missing before 2.55
+"All applications"="Alle Anwendungen"
+"Autohide taskbar"="Taskleiste automatisch ausblenden"

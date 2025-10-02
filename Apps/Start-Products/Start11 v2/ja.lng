@@ -1,5 +1,3 @@
-[UI]
-Name="Japanese"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11の構成"
@@ -146,7 +144,7 @@ Exist=1
 "Designed to match the square edges of Windows 10"="Windows 10のスクエアエッジに合わせたデザイン"
 "Default theme with black edges"="エッジが黒いデフォルトのテーマ"
 "As default, but with black selection edges"="デフォルトと同じですが、選択エッジが黒くなります"
-"Customize menu visual appearance"="メニューの視覚的な外観をカスタマイズする" 
+"Customize menu visual appearance"="メニューの視覚的な外観をカスタマイズする"
 "Change the colour, background texture, animations and more."="色や背景のテクスチャ、アニメーションなどを変更することができる"
 "Left hand side shortcuts"="左側のショートカット"
 "Decide how shortcut icons look and which shortcuts to show."="ショートカットアイコンの見た目と表示するショートカットを設定"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Start11検索の使用"
 "Show filtering icons"="フィルタリングアイコンの表示"
 "Search file contents"="ファイル内容の検索"
-"Search Desktop and Fences"="デスクトップとフェンスの検索"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="インターネットの検索"
 "Use Start11 search instead of Windows search?"="Windows検索の代わりにStart11検索を使いますか？"
 "How should search work?"="検索をどのように機能させますか？"
@@ -354,7 +352,7 @@ Exist=1
 "Learn more about support on your insider release of Windows"="Windowsのインサイダー・リリースでのサポートについてはこちら"
 "Compact Modern style"="コンパクト モダンスタイル"
 "Grid Modern style"="グリッド モダンスタイル"
-"Compact Grid Modern style"=コンパクトグリッド モダンスタイル"
+"Compact Grid Modern style"="コンパクトグリッドモダンスタイル"
 "You need to enable Let Start11 enhance the taskbar to enable sizes other than medium on this version of Windows and to not have an autohide taskbar"="このバージョンのWindowsで中以外のサイズを有効にし、自動的にタスクバーが非表示にならないように、Let Start11がタスクバーを強化する機能を有効にする必要があります"
 "Enhanced taskbar mode must be enabled"="強化されたタスクバーモードを有効にする必要があります"
 "Would you like to restart explorer now to apply this change?"="この変更を適用するために、今すぐエクスプローラーを再起動しますか？"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="'すべての設定をデフォルトにリセットしてもよろしいですか？'"
 "  "="You didn't provide any text to translate. Could you please provide the text you want to be translated into Japanese?"
 "Open all apps list as a menu"="メニューとしてすべてのアプリリストを開く"
-"Show Desktop and Stardock Fences  folders"="デスクトップとStardock Fencesフォルダを表示する"
-"Show Desktop and Stardock Fences  folders in the all programs list"="すべてのプログラムリストにデスクトップとStardock Fencesフォルダを表示する"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="アイテムのフォント："
 "Header font :"="ヘッダーフォント："
 "Menu font :"="メニューフォント："
@@ -651,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="Startメニューやタスクバーフォルダメニューに表示するためのフィルタリングされたフォルダを作成することができます。"
 "Search Tabs"="タブを検索"
 "Search Everything"="すべてを検索する"
-"Search for shortcuts on the desktop and in Fences "="デスクトップとFencesでショートカットを検索"
+"Search for shortcuts on the desktop and in Fences®"="デスクトップとFences®でショートカットを検索"
 "Use old Start10  style search"="古いStart10スタイルの検索を使用してください"
 "Show results from Everything instead of Start11 file searches"="Start11ファイル検索の代わりにEverythingの結果を表示する"
 "If you have the Everything search tool installed this will be used for non app searches."="Everything検索ツールがインストールされている場合、アプリ以外の検索に使用されます。"
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="テキストに影をつける"
 "Paint focused item backgrounds less transparent"="フォーカスされたアイテムの背景の透明度を下げる"
 "Enable Start11 autohide mode"="Start11オートハイドモードを有効にする"
+"Only hide when a window is maximised or overlapping the taskbar"="ウィンドウが最大化されているか、タスクバーと重なっているときのみ非表示"
 "Taskbar button combining"="タスクバーボタンの結合"
 "Control how the taskbar buttons combine"="タスクバーのボタンがどのように組み合わさるかを制御する"
 "Taskbar button appearance"="タスクバーのボタンの外観"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="クイックランチ"
 "Groupy saved groups"="Groupyが保存したグループ"
 "Steam® folder"="Steam®フォルダ"
-"All Fences"="すべてのFences"
-"Fences"="Fences"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="フィルタリングされたフォルダが見つかりませんでした"
 "Custom filtered folders"="カスタムフィルターされたフォルダ"
 "Please select a folder to pin as a menu"="メニューとしてピン留めするフォルダを選択してください。"
@@ -887,7 +886,7 @@ Exist=1
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11がStartAllIsBackがタスクバーを管理していることを検出したため、互換性の理由からこれらの機能は無効になっています。"
 "StartAllIsBack detected"="StartAllIsBackが検出されました"
 "Always open on this tab index"="常にこのタブインデックスを開く"
-"Clear default tab index" = "デフォルトのタブインデックスを消去"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="互換性のために画面の端に1ピクセルを確保する (再起動が必要)"
 "Recent documents"="最近のドキュメント"
 "page"="ページ"
@@ -895,6 +894,20 @@ Exist=1
 ;2.07
 "Show autohide toggle on taskbar menu"="タスクバーメニューに自動非表示トグルを表示"
 
-;additional
+;Added in 2.11
 "Task Manager"="タスクマネージャー"
+
+; Added to 2.49
+"- File Explorer"="- エクスプローラー"
+"Icon size :"="アイコンサイズ："
+"Button width :"="ボタン幅："
+"Button height :"="ボタン高さ："
+"Colour"="色"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="マウスオーバー時のみすべてのアプリ/その他のボタンを表示"
+"Do not paint a solid colour background"="単色の背景を描画しない"
+
+; Missing before 2.55
+"All applications"="すべてのアプリケーション"
 "Autohide taskbar"="タスクバーを自動的に隠す"

@@ -1,5 +1,3 @@
-[UI]
-Name="Dutch"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 Configuratie"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Gebruik Start11 Zoeken"
 "Show filtering icons"="Filterpictogrammen weergeven"
 "Search file contents"="Bestandsinhoud zoeken"
-"Search Desktop and Fences"="Bureaublad en 'Fences' zoeken"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Het internet doorzoeken"
 "Use Start11 search instead of Windows search?"="Start11 zoeken gebruiken in plaats van Windows zoeken?"
 "How should search work?"="Hoe moet zoeken werken?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Weet u zeker dat u al uw instellingen wilt terugzetten naar standaard?"
 "  "="Sure, I can help with that. But you haven't provided any English text to translate. Could you please provide the text you want translated into Dutch?"
 "Open all apps list as a menu"="'Open alle apps lijst als een menu'"
-"Show Desktop and Stardock Fences  folders"="'Toon bureaublad en Stardock Fences mappen'"
-"Show Desktop and Stardock Fences  folders in the all programs list"="'Toon bureaublad en Stardock Fences mappen in de lijst met alle programma's'"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="'Lettertype item:'"
 "Header font :"="'Koptekst lettertype :'"
 "Menu font :"="Menu lettertype:"
@@ -651,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'U kunt gefilterde mappen maken om te tonen in het startmenu of als een taakbalkmapmenu.'"
 "Search Tabs"="Tabbladen Zoeken"
 "Search Everything"="Zoek Alles"
-"Search for shortcuts on the desktop and in Fences "="'Zoek naar snelkoppelingen op het bureaublad en in Fences'"
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
 "Use old Start10  style search"="'Gebruik oude Start10 stijl zoeken'"
 "Show results from Everything instead of Start11 file searches"="'Toon resultaten van Alles in plaats van Start11 bestandszoekopdrachten'"
 "If you have the Everything search tool installed this will be used for non app searches."="'Als u de Everything zoektool geïnstalleerd heeft, zal deze worden gebruikt voor niet-app zoekopdrachten.'"
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Tekst moet een schaduw hebben"
 "Paint focused item backgrounds less transparent"="Schilder de achtergronden van gefocuste items minder transparant"
 "Enable Start11 autohide mode"="'Schakel Start11 autohide-modus in'"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="Taakbalkknop combineren"
 "Control how the taskbar buttons combine"="Beheer hoe de taakbalkknoppen combineren"
 "Taskbar button appearance"="Uiterlijk van taakbalkknop"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="'Snelle start'"
 "Groupy saved groups"="Groupy heeft groepen opgeslagen"
 "Steam® folder"="'Steam® map'"
-"All Fences"="'Alle Hekken'"
-"Fences"="'Hekken'"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="'Geen gefilterde mappen gevonden'"
 "Custom filtered folders"="'Aangepaste gefilterde mappen'"
 "Please select a folder to pin as a menu"="Selecteer alstublieft een map om vast te zetten als een menu"
@@ -872,3 +871,43 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Toon startknop op taakbalken van secundaire monitoren"
 "Taskbar search"="Taakbalk zoeken"
 "Show search on taskbar"="Zoeken op de taakbalk weergeven"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."
+"StartAllIsBack detected"="StartAllIsBack detected"
+"Always open on this tab index"="Always open on this tab index"
+"Clear default tab index" = "Clear default tab index"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"
+"Recent documents"="Recent documents"
+"page"="page"
+
+;2.07
+"Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="- File Explorer"
+"Icon size :"="Icon size :"
+"Button width :"="Button width :"
+"Button height :"="Button height :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Geen effen kleurachtergrond tekenen"
+
+; Missing before 2.55
+"All applications"="All applications"
+"Autohide taskbar"="Autohide taskbar"

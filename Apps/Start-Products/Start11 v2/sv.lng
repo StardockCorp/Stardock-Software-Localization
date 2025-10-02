@@ -1,5 +1,3 @@
-[UI]
-Name="Swedish"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Inställningar för Stardock Start11"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Använd Start11-sökning"
 "Show filtering icons"="Visa filtreringsikoner"
 "Search file contents"="Sök filinnehåll"
-"Search Desktop and Fences"="Sök skrivbord och Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Sök på internet"
 "Use Start11 search instead of Windows search?"="Använd Start11-sökning istället för Windows-sökning?"
 "How should search work?"="Hur ska sökning fungera?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Är du säker på att du vill återställa alla dina inställningar till standard?"
 "  "="  "
 "Open all apps list as a menu"="Öppna listan med alla appar som en meny"
-"Show Desktop and Stardock Fences  folders"="Visa Desktop och Stardock Fences mappar"
-"Show Desktop and Stardock Fences  folders in the all programs list"="Visa skrivbords och Stardock Fences mappar i listan med alla program"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Artikelfont:"
 "Header font :"="Rubrikfont:"
 "Menu font :"="Menyfont:"
@@ -651,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="Du kan skapa filtrerade mappar att visa i startmenyn eller som en mappmeny i aktivitetsfältet."
 "Search Tabs"="Search Tabs"
 "Search Everything"="Sök överallt"
-"Search for shortcuts on the desktop and in Fences "="Sök efter genvägar på skrivbordet och i Fences "
+"Search for shortcuts on the desktop and in Fences®"="Search for shortcuts on the desktop and in Fences®"
 "Use old Start10  style search"="Använd gammal Start10-stil sökning"
 "Show results from Everything instead of Start11 file searches"="Visa resultat från Everything istället för Start11-filsökningar"
 "If you have the Everything search tool installed this will be used for non app searches."="Om du har sökverktyget Everything installerat kommer detta att användas för sökningar, exklusive appar."
@@ -681,6 +679,7 @@ Exist=1
 "Text should have a shadow"="Ge text en skugga"
 "Paint focused item backgrounds less transparent"="Gör backgrunden på fokuserade objekt mindre genomskinliga"
 "Enable Start11 autohide mode"="Aktivera dölj Aktivitetsfältet automatiskt (Start11)"
+"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
 "Taskbar button combining"="Kombinera knappar i aktivitetsfältet"
 "Control how the taskbar buttons combine"="Kontrollera hur knapparna i aktivitetsfältet kombineras"
 "Taskbar button appearance"="Utseende på knappar i aktivitetsfältet"
@@ -713,8 +712,8 @@ Exist=1
 "Quick launch"="Snabbstart"
 "Groupy saved groups"="Groupy sparade grupper"
 "Steam® folder"="Steam® mapp"
-"All Fences"="Alla Fences"
-"Fences"="Fences"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Inga filtrerade mappar hittades"
 "Custom filtered folders"="Anpassade filtrerade mappar"
 "Please select a folder to pin as a menu"="Välj en mapp att fästa som en meny"
@@ -872,3 +871,43 @@ Exist=1
 "Show start button on secondary monitor taskbars"="Visa startknapp på sekundära bildskärmens aktivitetsfält"
 "Taskbar search"="Sökning i aktivitetsfältet"
 "Show search on taskbar"="Visa sökning på aktivitetsfältet"
+
+; Added in 2.05
+"Secondary display when > 1 screen"="Secondary display when > 1 screen"
+"Pin website..."="Pin website..."
+"Pin website"="Pin website"
+"Enter the URL for the website you want to pin :"="Enter the URL for the website you want to pin :"
+"Enter the display name :"="Enter the display name :"
+"Ok"="Ok"
+"Website links"="Website links"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
+
+;2.06
+"Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."
+"StartAllIsBack detected"="StartAllIsBack detected"
+"Always open on this tab index"="Always open on this tab index"
+"Clear default tab index" = "Clear default tab index"
+"Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"
+"Recent documents"="Recent documents"
+"page"="page"
+
+;2.07
+"Show autohide toggle on taskbar menu"="Show autohide toggle on taskbar menu"
+
+;Added in 2.11
+"Task Manager"="Task Manager"
+
+; Added to 2.49
+"- File Explorer"="- File Explorer"
+"Icon size :"="Icon size :"
+"Button width :"="Button width :"
+"Button height :"="Button height :"
+"Colour"="Colour"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Only show all apps / more buttons on mouseover"
+"Do not paint a solid colour background"="Rita inte en enfärgad bakgrund"
+
+; Missing before 2.55
+"All applications"="All applications"
+"Autohide taskbar"="Autohide taskbar"

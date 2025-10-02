@@ -1,5 +1,3 @@
-[UI]
-Name="Portuguese-Brazil"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Configurações do Stardock Start11"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="Usar a busca do Start11"
 "Show filtering icons"="Mostrar ícones de filtragem"
 "Search file contents"="Pesquisar conteúdos de arquivo"
-"Search Desktop and Fences"="Pesquisar na Área de Trabalho e no Fences®"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="Pesquisar na Internet"
 "Use Start11 search instead of Windows search?"="Usar a busca do Start11 em vez da busca do Windows?"
 "How should search work?"="Como a busca deve funcionar?"
@@ -510,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="Você tem certeza de que deseja redefinir todas as suas configurações para o padrão?"
 "  "="Por favor, forneça o texto em inglês que você gostaria de traduzir para o português do Brasil."
 "Open all apps list as a menu"="Abra a lista de todos os aplicativos como um menu"
-"Show Desktop and Stardock Fences  folders"="Mostrar Área de Trabalho e pastas do Stardock Fences"
-"Show Desktop and Stardock Fences  folders in the all programs list"="Mostre a área de trabalho e as pastas do Stardock Fences na lista de todos os programas"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="Fonte do ítem:"
 "Header font :"="Fonte do cabeçalho:"
 "Menu font :"="Fonte do menu :"
@@ -541,6 +539,7 @@ Exist=1
 "Synchronize pinned items from the OS menu with Start11 (sign out required)"="Sincronize os itens fixados do menu do sistema operacional com o Start11 (é necessário sair da conta)"
 "Use Windows 10 style folders"="Use pastas no estilo do Windows 10"
 "Use Windows 11 style folders"="Use pastas no estilo do Windows 11"
+"Hide username and icon from menu"="Ocultar nome de usuário e ícone do menu"
 "Reduce the size of the right hand side"="Reduza o tamanho do lado direito"
 "Manage custom filtered folders"="Gerencie pastas filtradas personalizadas"
 "Start11 can show groups or tabs based on a folder with a filter applied to them.  Configure them from here."="Start11 pode mostrar grupos ou abas com base em uma pasta com um filtro aplicado a eles. Configure-os a partir daqui."
@@ -575,7 +574,7 @@ Exist=1
 "Learn more about RegEx"="Aprenda mais sobre RegEx"
 "Enter filter"="Insira o filtro"
 "RegEx is used on the filename and you can also just enter png for all png files, jpg for all jpg files etc."="RegEx é usado no nome do arquivo e você também pode simplesmente inserir png para todos os arquivos png, jpg para todos os arquivos jpg etc."
-"Do you want to delete custom filtered folder "="Você deseja excluir a pasta filtrada personalizada "
+"Do you want to delete custom filtered folder '"="Deseja excluir a pasta filtrada personalizada '"
 "Autohide with a top aligned taskbar requires enhanced taskbar enabled with the autohide option provided by Start11"="Ocultação automática com uma barra de tarefas alinhada no topo requer a barra de tarefas aprimorada ativada com a opção de ocultação automática fornecida pelo Start11"
 "The settings below let you override the behaviour when a window is maximized."="As configurações abaixo permitem que você substitua o comportamento quando uma janela é maximizada."
 "Once enabled Start11 can uncombine taskbar buttons, control which display a pinned shortcut is on, and control the look and size of the Windows 11 taskbar much more."="Uma vez ativado, o Start11 pode desagrupar os botões da barra de tarefas, controlar em qual tela um atalho fixado está e controlar a aparência e o tamanho da barra de tarefas do Windows 11 muito mais."
@@ -644,12 +643,13 @@ Exist=1
 "Pin folder"="Pasta de alfinetes"
 "Create a pin for a folder on your taskbar."="Crie um pin para uma pasta na sua barra de tarefas."
 "Pin folder menu"="Menu de pasta fixada"
+"Create a pin for a folder popup menu on your taskbar."="Criar um atalho para um menu pop-up de pasta na barra de tarefas."
 "Show folders as submenus"="Mostrar pastas como submenus"
 "Manage filtered folders"="Gerencie pastas filtradas"
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="Você pode criar pastas filtradas para mostrar no menu inicial ou como um menu de pasta da barra de tarefas."
 "Search Tabs"="Pesquisar Abas"
 "Search Everything"="Pesquisar Tudo"
-"Search for shortcuts on the desktop and in Fences "="Procure por atalhos na área de trabalho e no Fences "
+"Search for shortcuts on the desktop and in Fences®"="Procure por atalhos na área de trabalho e no Fences®"
 "Use old Start10  style search"="Use o estilo de pesquisa antigo do Start10"
 "Show results from Everything instead of Start11 file searches"="Mostre resultados de Tudo em vez de pesquisas de arquivos Start11"
 "If you have the Everything search tool installed this will be used for non app searches."="Se você tiver a ferramenta de busca Everything instalada, ela será usada para pesquisas que não são de aplicativos."
@@ -658,6 +658,7 @@ Exist=1
 "Restore backup of settings"="Restaurar backup das configurações"
 "Are you sure you want to clear your run and search history?"="Você tem certeza de que deseja limpar seu histórico de corrida e pesquisa?"
 "Version 2.0 BETA 3 - Windows Insider detected"="Versão 2.0 BETA 3 - Windows Insider detectado"
+"Modern style with icons"="Estilo moderno com ícones"
 "Grid Modern style with icons"="Estilo moderno de grade com ícones"
 "Taskbar touch mode detection"="Detecção do modo de toque na barra de tarefas"
 "Override if Start11 taskbar is misaligned due to the OS being in an unexpected mode"="Substitua se a barra de tarefas do Start11 estiver desalinhada devido ao sistema operacional estar em um modo inesperado"
@@ -678,6 +679,7 @@ Exist=1
 "Text should have a shadow"="O texto deve ter uma sombra"
 "Paint focused item backgrounds less transparent"="Pinte os fundos dos itens focados menos transparentes"
 "Enable Start11 autohide mode"="Ativar modo de ocultação automática do Start11"
+"Only hide when a window is maximised or overlapping the taskbar"="Ocultar apenas quando uma janela estiver maximizada ou sobrepondo a barra de tarefas"
 "Taskbar button combining"="Combinando botões da barra de tarefas"
 "Control how the taskbar buttons combine"="Controle como os botões da barra de tarefas se combinam"
 "Taskbar button appearance"="Aparência do botão da barra de tarefas"
@@ -710,8 +712,8 @@ Exist=1
 "Quick launch"="Lançamento rápido"
 "Groupy saved groups"="Groupy salvou grupos"
 "Steam® folder"="Pasta Steam®"
-"All Fences"="Todas as Cercas"
-"Fences"="Cercas"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="Nenhuma pasta filtrada encontrada"
 "Custom filtered folders"="Pastas filtradas personalizadas"
 "Please select a folder to pin as a menu"="Por favor, selecione uma pasta para fixar como um menu"
@@ -732,6 +734,7 @@ Exist=1
 "Enable all apps searching"="Ativar a busca em todos os aplicativos"
 "Show flat list without folders"="Mostre a lista plana sem pastas"
 "Show hidden items list"="Mostrar lista de itens ocultos"
+"Clear hidden list"="Limpar lista oculta"
 "Group widths"="Larguras de grupo"
 "Reset icon positions"="Redefinir posições dos ícones"
 "Open menu on this page for current desktop"="Abra o menu nesta página para a área de trabalho atual"
@@ -836,7 +839,7 @@ Exist=1
 "Pick custom icon..."="Selecione o ícone personalizado..."
 "Reset custom icon"="Redefinir ícone personalizado"
 "Show icons"="Mostrar ícones"
-"Are you sure you want to delete "="Você tem certeza de que deseja excluir '"
+"Are you sure you want to delete '"="Tem certeza de que deseja excluir '"
 "Delete this item?"="Excluir este item?"
 "&Open"="&Abrir"
 "O&pen All Users"="Abrir Todos os Usuários"
@@ -877,19 +880,34 @@ Exist=1
 "Enter the display name :"="Digite o nome de exibição:"
 "Ok"="Ok"
 "Website links"="Links de sites"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Links da web fixados no menu iniciar devem obter a imagem favicon ( Fará conexões com um site do Google **)"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"
 
-;Adicionado com 2.06
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="O Start11 detectou que você tem o StartAllIsBack gerenciando sua barra de tarefas, portanto, esses recursos estão desabilitados por motivos de compatibilidade."
 "StartAllIsBack detected"="StartAllIsBack detectado"
 "Always open on this tab index"="Sempre abrir neste índice de abas"
-"Clear default tab index" = "Limpar índice de aba padrão"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="Reservar um pixel na borda da tela por motivos de compatibilidade (Reinicialização necessária)"
 "Recent documents"="Documentos recentes"
 "page"="página"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="Mostrar alternância de autoesconder no menu da barra de tarefas"
 
 ;Added in 2.11
 "Task Manager"="Gerenciador de Tarefas"
+
+; Added to 2.49
+"- File Explorer"="– Explorador de Arquivos"
+"Icon size :"="Tamanho do ícone:"
+"Button width :"="Largura do botão:"
+"Button height :"="Altura do botão:"
+"Colour"="Cor"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="Mostrar todos os aplicativos / mais botões apenas ao passar o mouse"
+"Do not paint a solid colour background"="Não pintar um fundo de cor sólida"
+
+; Missing before 2.55
+"All applications"="Todos os aplicativos"
+"Autohide taskbar"="Ocultar automaticamente a barra de tarefas"

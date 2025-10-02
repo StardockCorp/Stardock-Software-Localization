@@ -1,5 +1,3 @@
-[UI]
-Name="Chinese-Simplified"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 配置"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="使用 Start 11 搜索"
 "Show filtering icons"="显示筛选图标"
 "Search file contents"="搜索文件内容"
-"Search Desktop and Fences"="搜索桌面与 Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="在互联网上搜索"
 "Use Start11 search instead of Windows search?"="是否用 Start 11 搜索代替 Windows 搜索？"
 "How should search work?"="你希望如何使用搜索？"
@@ -475,6 +473,7 @@ Exist=1
 "Show windows side by side"="以排列方式显示窗口"
 "Cascade windows"="层叠窗口"
 "Show windows stacked"="以堆叠方式显示窗口"
+
 ;Start11v2
 "Display as a link"="显示为链接"
 "Display as a menu"="作为菜单显示"
@@ -509,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="你确定要将所有设置恢复为默认吗？"
 "  "="  "
 "Open all apps list as a menu"="将所有应用列表以菜单形式打开"
-"Show Desktop and Stardock Fences  folders"="显示桌面和Stardock围栏文件夹"
-"Show Desktop and Stardock Fences  folders in the all programs list"="在所有程序列表中显示桌面和Stardock Fence文件夹"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="项目字体："
 "Header font :"="标题字体："
 "Menu font :"="菜单字体："
@@ -575,7 +574,7 @@ Exist=1
 "Learn more about RegEx"="了解更多关于正则表达式"
 "Enter filter"="输入过滤器"
 "RegEx is used on the filename and you can also just enter png for all png files, jpg for all jpg files etc."="RegEx用于文件名，您也可以只输入png来表示所有png文件，输入jpg来表示所有jpg文件等等。"
-"Do you want to delete custom filtered folder "="你是否想要删除自定义筛选文件夹"
+"Do you want to delete custom filtered folder '"="您要删除自定义筛选文件夹 '"
 "Autohide with a top aligned taskbar requires enhanced taskbar enabled with the autohide option provided by Start11"="使用顶部对齐的任务栏自动隐藏需要启用Start11提供的自动隐藏选项的增强任务栏"
 "The settings below let you override the behaviour when a window is maximized."="以下设置允许您在窗口最大化时覆盖其行为。"
 "Once enabled Start11 can uncombine taskbar buttons, control which display a pinned shortcut is on, and control the look and size of the Windows 11 taskbar much more."="一旦启用Start11，它可以取消组合任务栏按钮，控制固定快捷方式显示在哪个显示器上，并更好地控制Windows 11任务栏的外观和大小。"
@@ -612,7 +611,7 @@ Exist=1
 "Y offset : XXX Large"="Y 偏移：超乎寻常"
 "Give the taskbar rounded corners"="给任务栏设置圆角"
 "Sync settings"="同步设置"
-"These taskbar options use functionality built into Windows® 11 which is not exposed in settings and they may change in future versions of Windows® 11 or experience unexpected behaviours."="这些任务栏选项使用了内置在Windows® 11中的功能，这些功能在设置中并未显示，且可能在未来的Windows® 11版本中发生变化或出现意外行为。"
+"These taskbar options use functionality built into Windows  11 which is not exposed in settings and they may change in future versions of Windows  11 or experience unexpected behaviours."="这些任务栏选项使用 Windows 11 中内置的功能，这些功能未在设置中公开，可能会在 Windows 11 的未来版本中发生变化或出现意外行为。"
 "Automatic mode (recommended)"="自动模式（推荐）"
 "Force not touch mode device"="不强制触摸模式设备"
 "Force touch mode device"="强触模式设备"
@@ -628,7 +627,7 @@ Exist=1
 "Start8"="Start8"
 "Triangle One"="三角形一"
 "Triangle Two"="三角形二"
-"Replace the limited taskbar right click menu on windows® 11 with a more powerful one."="将Windows 11上的有限任务栏右键菜单替换为更强大的菜单。"
+"Replace the limited taskbar right click menu on Windows  11 with a more powerful one."="用更强大的菜单替换 Windows 11 上有限的任务栏右键菜单。"
 "This feature requires enhanced taskbar enabled"="此功能需要启用增强任务栏"
 "Start11 allows you to pin documents or folders to your taskbar for easy access"="Start11允许您将文档或文件夹固定到任务栏，以便轻松访问。"
 "Folder menu options"="文件夹菜单选项"
@@ -650,8 +649,8 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="您可以创建过滤文件夹，以在开始菜单或作为任务栏文件夹菜单显示。"
 "Search Tabs"="搜索标签页"
 "Search Everything"="搜索所有内容"
-"Search for shortcuts on the desktop and in Fences®"="在桌面和Fences®中搜索快捷方式"
-"Use old Start10® style search"="使用旧版Start10样式搜索"
+"Search for shortcuts on the desktop and in Fences®"="在桌面和 Fences® 中搜索快捷方式"
+"Use old Start10  style search"="使用旧的 Start10 样式搜索"
 "Show results from Everything instead of Start11 file searches"="显示所有结果，而不是Start11文件搜索的结果"
 "If you have the Everything search tool installed this will be used for non app searches."="如果您已安装Everything搜索工具，那么它将用于非应用程序搜索。"
 "All Start11 backups"="所有Start11备份"
@@ -680,6 +679,7 @@ Exist=1
 "Text should have a shadow"="文本应该有阴影"
 "Paint focused item backgrounds less transparent"="将焦点项目的背景颜色涂得不那么透明"
 "Enable Start11 autohide mode"="启用Start11自动隐藏模式"
+"Only hide when a window is maximised or overlapping the taskbar"="仅当窗口最大化或与任务栏重叠时隐藏"
 "Taskbar button combining"="任务栏按钮合并"
 "Control how the taskbar buttons combine"="控制任务栏按钮的组合方式"
 "Taskbar button appearance"="任务栏按钮外观"
@@ -712,8 +712,8 @@ Exist=1
 "Quick launch"="快速启动"
 "Groupy saved groups"="Groupy保存的群组"
 "Steam® folder"="Steam® 文件夹"
-"All Fences"="所有的Fences"
-"Fences"="Fences"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="未找到已过滤的文件夹"
 "Custom filtered folders"="自定义过滤文件夹"
 "Please select a folder to pin as a menu"="请选择一个文件夹作为菜单进行固定"
@@ -839,7 +839,7 @@ Exist=1
 "Pick custom icon..."="选择自定义图标..."
 "Reset custom icon"="重置自定义图标"
 "Show icons"="显示图标"
-"Are you sure you want to delete "="你确定要删除吗？"
+"Are you sure you want to delete '"="您确定要删除 '"
 "Delete this item?"="删除此项目？"
 "&Open"="&打开"
 "O&pen All Users"="打开所有用户"
@@ -871,8 +871,6 @@ Exist=1
 "Show start button on secondary monitor taskbars"="在次显示器任务栏显示开始按钮"
 "Taskbar search"="任务栏搜索"
 "Show search on taskbar"="在任务栏显示搜索"
-"Task Manager"="任务管理器"
-"Pick custom tile image..."="选择自定义磁贴图片"
 
 ; Added in 2.05
 "Secondary display when > 1 screen"="当屏幕大于1时的辅助显示"
@@ -884,29 +882,32 @@ Exist=1
 "Website links"="网站链接"
 "Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="固定到开始菜单的网页链接应获取网站图标（favicon）图片（ 将连接到谷歌网站 ）"
 
-； Added by chyanbo
-"Access Letters, reports, notes, and other kinds of documents."="访问信件、报告、笔记以及其他类型的文档。"
-"Find Internet downloads and links to favorite websites."="查找互联网下载内容和收藏网站的链接。"
-"Play music and other audio files."="播放音乐及其他音频文件。"
-"View and organize digital pictures."="查看和组织数字图片。"
-"Open your personal folder."="打开你的个人文件夹。"
-"Change settings and customize the functionality of your computer."="更改设置并自定义电脑功能。"
-"Opens a program, folder, document or web site."="打开程序、文件夹、文档或网站。"
-
-;2.06版本新增
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11检测到您正在使用StartAllIsBack管理任务栏，因兼容性原因这些功能已被禁用。"
 "StartAllIsBack detected"="检测到StartAllIsBack"
 "Always open on this tab index"="总是打开此标签索引"
-"Clear default tab index" = "清除默认标签索引"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="出于兼容性考虑，在屏幕边缘保留一个像素（需要重启）"
 "Recent documents"="最近的文件"
 "page"="页"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="在任务栏菜单上显示自动隐藏切换"
 
 ;Added in 2.11
 "Task Manager"="任务管理器"
 
-;Perfect Word Edit
-"Updates provided via Steam"=""
+; Added to 2.49
+"- File Explorer"="- 文件资源管理器"
+"Icon size :"="图标大小："
+"Button width :"="按钮宽度："
+"Button height :"="按钮高度："
+"Colour"="颜色"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="仅在鼠标悬停时显示所有应用程序/更多按钮"
+"Do not paint a solid colour background"="不绘制纯色背景"
+
+; Missing before 2.55
+"All applications"="所有应用程序"
+"Autohide taskbar"="自动隐藏任务栏"

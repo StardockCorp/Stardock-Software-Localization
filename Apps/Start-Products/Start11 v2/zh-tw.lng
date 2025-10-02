@@ -1,5 +1,3 @@
-[UI]
-Name="Chinese-Traditional"
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 配置"
@@ -326,7 +324,7 @@ Exist=1
 "Use Start11 Search"="使用 Start11 搜尋"
 "Show filtering icons"="顯示過濾圖示"
 "Search file contents"="搜尋檔案內容"
-"Search Desktop and Fences"="搜尋桌面和 Fences"
+"Search Desktop and Fences®"="Search Desktop and Fences®"
 "Search the internet"="在網上搜尋"
 "Use Start11 search instead of Windows search?"="使用 Start11 搜尋而不是 Windows 搜尋？"
 "How should search work?"="搜尋應該如何運作？"
@@ -475,6 +473,7 @@ Exist=1
 "Show windows side by side"="並排顯示視窗"
 "Cascade windows"="重疊顯示視窗"
 "Show windows stacked"="堆疊顯示視窗"
+
 ;Start11v2
 "Display as a link"="顯示為連結"
 "Display as a menu"="顯示為菜單"
@@ -509,8 +508,8 @@ Exist=1
 "Are you sure you want to reset all your settings back to default?"="您確定要將所有設置重置為默認設置嗎？"
 "  "="請提供您想要翻譯的英文內容。"
 "Open all apps list as a menu"="將所有應用程式列表開啟為菜單"
-"Show Desktop and Stardock Fences  folders"="顯示桌面和Stardock Fences文件夾"
-"Show Desktop and Stardock Fences  folders in the all programs list"="在所有程序列表中顯示桌面和Stardock Fences文件夾"
+"Show Desktop and Stardock Fences® folders"="Show Desktop and Stardock Fences® folders"
+"Show Desktop and Stardock Fences® folders in the all programs list"="Show Desktop and Stardock Fences® folders in the all programs list"
 "Item font :"="項目字體："
 "Header font :"="標題字體："
 "Menu font :"="菜單字體："
@@ -578,6 +577,7 @@ Exist=1
 "Do you want to delete custom filtered folder '"="您是否要刪除自定義篩選文件夾''"
 "Autohide with a top aligned taskbar requires enhanced taskbar enabled with the autohide option provided by Start11"="'使用頂部對齊的任務欄自動隱藏需要啟用Start11提供的自動隱藏選項的增強任務欄'"
 "The settings below let you override the behaviour when a window is maximized."="以下的設定允許您在視窗最大化時覆蓋其行為。"
+"Once enabled Start11 can uncombine taskbar buttons, control which display a pinned shortcut is on, and control the look and size of the Windows 11 taskbar much more."="啟用後，Start11 可以取消組合工作列按鈕，控制釘選的捷徑顯示在哪個顯示器上，並更好地控制 Windows 11 工作列的外觀和大小。"
 "!Rounded corners can be adjusted using the settings below"="'!以下設置可以調整圓角'"
 "Taskbar button vertical alignment :"="工作列按鈕垂直對齊："
 "These settings require you to enable the option to give the taskbar rounded corners in the section above"="這些設定要求您在上述部分啟用選項以使任務欄的角變圓。"
@@ -649,7 +649,7 @@ Exist=1
 "You can create filtered folders to show in the start menu or as a taskbar folder menu."="'您可以創建篩選文件夾以在開始菜單或作為任務欄文件夾菜單中顯示。'"
 "Search Tabs"="搜索標籤頁"
 "Search Everything"="搜索所有東西"
-"Search for shortcuts on the desktop and in Fences "="在桌面和Fences中尋找快捷方式"
+"Search for shortcuts on the desktop and in Fences®"="在桌面和Fences®中尋找快捷方式"
 "Use old Start10  style search"="使用舊的Start10風格搜索"
 "Show results from Everything instead of Start11 file searches"="顯示來自所有內容的結果，而非Start11檔案搜尋的結果"
 "If you have the Everything search tool installed this will be used for non app searches."="如果您已安裝了Everything搜尋工具，則將使用它進行非應用程式搜尋。"
@@ -679,6 +679,7 @@ Exist=1
 "Text should have a shadow"="文字應該有陰影"
 "Paint focused item backgrounds less transparent"="將焦點項目的背景塗得不那麼透明"
 "Enable Start11 autohide mode"="啟用Start11自動隱藏模式"
+"Only hide when a window is maximised or overlapping the taskbar"="僅當視窗最大化或與工作列重疊時隱藏"
 "Taskbar button combining"="工作列按鈕組合"
 "Control how the taskbar buttons combine"="控制工作列按鈕的組合方式"
 "Taskbar button appearance"="工作列按鈕外觀"
@@ -711,8 +712,8 @@ Exist=1
 "Quick launch"="快速啟動"
 "Groupy saved groups"="Groupy儲存的群組"
 "Steam® folder"="Steam®資料夾"
-"All Fences"="所有的柵欄"
-"Fences"="'圍欄'"
+"All Fences®"="All Fences®"
+"Fences®"="Fences®"
 "No filtered folders found"="未找到已篩選的資料夾"
 "Custom filtered folders"="自訂篩選資料夾"
 "Please select a folder to pin as a menu"="請選擇一個資料夾以固定為菜單"
@@ -797,6 +798,7 @@ Exist=1
 "Resize all in tab group"="調整標籤組中的所有大小"
 "Draw icon on the left"="在左邊繪製圖標"
 "Do not auto arrange icons"="不要自動排列圖示"
+"Arrange icons"="排列圖示"
 "6 small icons wide"="寬6個小圖示"
 "8 small icons wide"="寬8個小圖標"
 "10 small icons wide"="寬10個小圖示"
@@ -816,6 +818,8 @@ Exist=1
 "Copy to %1"="複製到 %1"
 "Open with %1"="使用 %1 開啟"
 "Pin to Taskbar"="固定到工作列"
+"Pin to Start"="釘選到開始功能表"
+"Open with"="開啟方式"
 "Programs"="程式"
 "Mail"="郵件"
 "Internet"="網際網路"
@@ -876,22 +880,34 @@ Exist=1
 "Enter the display name :"="輸入顯示名稱："
 "Ok"="確定"
 "Website links"="網站連結"
-"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="釘選到開始菜單的網頁連結應獲取網站圖標（favicon）圖片（ 將連接到谷歌網站 **）"
+"Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website **)"="釘選到開始功能表的網頁連結應該取得網站圖示圖片（** 將連接到 Google 網站 **）"
 
-;2.06加入
+;2.06
 "Start11 has detected you have StartAllIsBack managing your taskbar so these features are disabled for compatibility reasons."="Start11偵測到您正在使用StartAllIsBack管理任務欄，因此出於兼容性原因這些功能被禁用。"
 "StartAllIsBack detected"="偵測到StartAllIsBack"
 "Always open on this tab index"="總是在此標籤索引上打開"
-"Clear default tab index" = "清除預設標籤索引"
+"Clear default tab index" = "Clear default tab index"
 "Reserve one pixel at the edge of the screen for compatibility reasons (Restart needed)"="出於兼容性原因，在屏幕邊緣保留一個像素（需要重新啟動）"
 "Recent documents"="最近文件"
 "page"="頁"
 
-;Added in 2.07
+;2.07
 "Show autohide toggle on taskbar menu"="在任務欄菜單上顯示自動隱藏切換"
 
 ;Added in 2.11
 "Task Manager"="工作管理員"
 
-;Perfect Word Edit
-"Updates provided via Steam"=""
+; Added to 2.49
+"- File Explorer"="- 檔案總管"
+"Icon size :"="圖示大小："
+"Button width :"="按鈕寬度："
+"Button height :"="按鈕高度："
+"Colour"="顏色"
+
+; Added 2.52
+"Only show all apps / more buttons on mouseover"="僅在滑鼠懸停時顯示所有應用程式/更多按鈕"
+"Do not paint a solid colour background"="不繪製純色背景"
+
+; Missing before 2.55
+"All applications"="所有應用程式"
+"Autohide taskbar"="自動隱藏工作列"
