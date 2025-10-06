@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
-"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure"="KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d"="KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="Usuário no PC %S quer controlar seu PC remotamente."
 "If this is expected you should click the Allow button"="Se esperado, pack no botão Permitir"
 "Yes"="Sim"
@@ -431,17 +431,17 @@ Exist=1
 "Shorter"="Menor"
 "Longer"="Mais longo"
 "2 characters"="2 caract."
-"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
+"You must enter a server to be used for activation."="You must enter a server to be used for activation."
 "Server field blank"="Campo servidor vazio"
 "You must enter a serial number to be used for activation."="Digite o nº de série p/ ativação."
 "Serial number field blank"="Campo nº série vazio"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity n pôde ser ativado c/ A info fornecidas."
 "Please check it is correct and you are on the network."="Verifique se está correto e na rede."
-"Activation failed" = "Activation failed"
+"Activation failed"="Activation failed"
 "Resolution when no monitor plugged in :"="Resolução sem varan conectado:"
 "Opt out of screen darkening"="Sair do escurecimento da tela"
 "Pick colour for indicator line..."="Escolha cor p/ linha indicadora"
-"On screen indicators..." = "On screen indicators..."
+"On screen indicators..."="On screen indicators..."
 "Show a coloured line on the computer with focus"="Mostre uma linha colorida no PC com foco"
 "Pick colour..."="Escolha cor"
 
@@ -460,7 +460,7 @@ Exist=1
 "Automatically start at login"="Iniciar automaticamente ao entrar"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
+"Allow Secondary to control KVM computers (activation needed)"="Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="Deseja desativar a opção de controlar Secondary KVMs deste PC?"
 "Disable features which require activation?"="Desativar funcionalidades q requerem ativação?"
 "Ctrl"="Ctrl"
@@ -511,7 +511,7 @@ Exist=1
 "Restart Multiplicity processes"="Reiniciar Multiplicity processos"
 "Show on monitor"="Exibir no varan"
 
-"* Computer on LEFT" = "* Computer on LEFT"
+"* Computer on LEFT"="* Computer on LEFT"
 "* Computer on RIGHT"="* Computador à DIREITA"
 "* PRIMARY computer"="* PC PRIMÁRIO"
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="Atente q o adapt. de rede VirtualBox interrompe transmissões Wake-On-LAN"

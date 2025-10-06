@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
-"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure"="KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d"="KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="PC %S のユーザーがあなたのPCをリモートコントロールしようとしています"
 "If this is expected you should click the Allow button"="問題ない場合は、許可ボタンをクリックしてください."
 "Yes"="はい"
@@ -431,17 +431,17 @@ Exist=1
 "Shorter"="短い"
 "Longer"="長い"
 "2 characters"="2 文字"
-"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
+"You must enter a server to be used for activation."="You must enter a server to be used for activation."
 "Server field blank"="サーバーフィールド空白"
 "You must enter a serial number to be used for activation."="アクティベーションに使用するシリアル番号を入力する必要があります."
 "Serial number field blank"="シリアル番号欄空白"
 "Multiplicity was unable to activate with the information you provided."="情報が不足しているため、Multiplicityを製品化できませんでした."
 "Please check it is correct and you are on the network."="正しいかどうかと、ネットワークに接続されているか確認してください."
-"Activation failed" = "Activation failed"
+"Activation failed"="Activation failed"
 "Resolution when no monitor plugged in :"="モニターが接続されていない場合の解像度："
 "Opt out of screen darkening"="画面暗転をオフにする"
 "Pick colour for indicator line..."="インジケーターラインの色を選択"
-"On screen indicators..." = "On screen indicators..."
+"On screen indicators..."="On screen indicators..."
 "Show a coloured line on the computer with focus"="フォーカスしたPC上にカラーの線を表示する"
 "Pick colour..."="色を選ぶ"
 
@@ -460,7 +460,7 @@ Exist=1
 "Automatically start at login"="ログイン時に自動的に開始"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
+"Allow Secondary to control KVM computers (activation needed)"="Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="このPCからSecondary KVMを制御するオプションを無効にしますか？"
 "Disable features which require activation?"="有効化が必要な機能を無効にする?"
 "Ctrl"="Ctrl"
@@ -511,7 +511,7 @@ Exist=1
 "Restart Multiplicity processes"="Multiplicityのプロセスの再起動"
 "Show on monitor"="モニターに表示"
 
-"* Computer on LEFT" = "* Computer on LEFT"
+"* Computer on LEFT"="* Computer on LEFT"
 "* Computer on RIGHT"="右側のPC"
 "* PRIMARY computer"="プライマリ PC"
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="VirtualBoxは、WOLブロードキャストを無効化する可能性があります."

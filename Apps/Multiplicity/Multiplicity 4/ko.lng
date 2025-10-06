@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
-"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure"="KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d"="KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="%S 사용자가 PC 원격 조종을 원합니다"
 "If this is expected you should click the Allow button"="원한다면 허용 버튼을 클릭하십시오"
 "Yes"="예"
@@ -431,17 +431,17 @@ Exist=1
 "Shorter"="짧게"
 "Longer"="길게"
 "2 characters"="2자"
-"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
+"You must enter a server to be used for activation."="You must enter a server to be used for activation."
 "Server field blank"="서버 칸 비어있음"
 "You must enter a serial number to be used for activation."="활성화에 사용할 시리얼 번호를 입력해야 합니다."
 "Serial number field blank"="일련번호 칸 비어있음"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity를 제공하신 정보로 활성화하지 못했습니다."
 "Please check it is correct and you are on the network."="정보가 정확한지, 네트워크에 연결되어 있는지 확인하세요."
-"Activation failed" = "Activation failed"
+"Activation failed"="Activation failed"
 "Resolution when no monitor plugged in :"="모니터 미연결시 해상도:"
 "Opt out of screen darkening"="화면 어둡게 안 함"
 "Pick colour for indicator line..."="색상 선택: 지시선"
-"On screen indicators..." = "On screen indicators..."
+"On screen indicators..."="On screen indicators..."
 "Show a coloured line on the computer with focus"="초점을 맞춘 PC에 색상 선 표시"
 "Pick colour..."="색 선택"
 
@@ -460,7 +460,7 @@ Exist=1
 "Automatically start at login"="로그인 시 자동 시작"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
+"Allow Secondary to control KVM computers (activation needed)"="Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="이 PC에서 Secondary KVM을 제어하는 옵션을 비활성화하시겠습니까?"
 "Disable features which require activation?"="활성화가 필요한 기능을 끌까요?"
 "Ctrl"="Ctrl"
@@ -511,7 +511,7 @@ Exist=1
 "Restart Multiplicity processes"="Multiplicity 프로세스 재시작"
 "Show on monitor"="모니터에 표시"
 
-"* Computer on LEFT" = "* Computer on LEFT"
+"* Computer on LEFT"="* Computer on LEFT"
 "* Computer on RIGHT"="* 오른쪽 PC"
 "* PRIMARY computer"="* 주PC"
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="VirtualBox 네트워크 어댑터가 Wake-On-LAN 브로드캐스트를 중단함을 주의하세요."

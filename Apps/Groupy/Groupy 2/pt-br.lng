@@ -70,7 +70,7 @@ Exist=1
 "Do not paint tab background"="Não pintar fundo da aba"
 "Show window icon"="Exibir ícone janela"
 "Variable length tabs"="aba de comprimento variável"
-"Groupy menu"="Groupy menu"
+"Groupy menu"="Menu Groupy"
 "Hide caption"="Ocultar legenda"
 "Show Previews"="Mostrar prévias"
 "Close all"="Fechar tudo"
@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="O administrador bloqueou A configurações Groupy.\n\nDeseja executar como administrador para alterá-las?"
 "Settings locked"="Config. bloqueadas"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="Por padrão, segure janelas por mais de 1/3s ante de soltar o mouse sobre a barra de título de outra janela para adicionar à um grupo."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="Gostaria de manter esta configuração ativada? (Esta configuração pode ser alterada na página de configurações de agrupamento.)"
 "Keep delayed grouping enabled?"="Manter agrupamento atrasado ativado?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="Ative mostrar conteúdo da janela ao arrastar no window p/ usar Groupy"
 "Show window contents when dragging mode not enabled"="Exibir conteúdo da janela sem modo arrastar ativado"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="Novas abas do Explorer devem abrir na mesma pasta"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="Gostaria de sempre mostrar abas para Microsoft Word, Excel e PowerPoint?"
+"Always show tabs for Microsoft Office?"="Sempre mostrar abas para Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Você pode habilitar ou desabilitar guias em uma janela usando o menu do botão direito do mouse da guia Agrupar.  Para janelas desagrupadas, uma guia Groupy aparecerá se você passar o mouse sobre a parte superior da janela por padrão."
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy desativado"
+"Groupy enabled"="Groupy ativado"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="Ativar se a janela maximizada for cortada pela barra de abas"

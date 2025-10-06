@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="您的管理員已鎖定Groupy設定。\n\n您要以管理員身份執行以更改它們嗎？"
 "Settings locked"="設定鎖定"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="預設情況下，您需要在釋放滑鼠至另一視窗的標題列以將視窗新增到群組之前，按住視窗超過1/3秒。"
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="您想保持此設定啟用嗎？（此設定可從群組設定頁面變更。）"
 "Keep delayed grouping enabled?"="保持延遲分組啟用？"
 "You need to enable show window contents when dragging in Windows to use Groupy"="需在Windows啟用拖動時顯示視窗內容以使用Groupy"
 "Show window contents when dragging mode not enabled"="未啟用拖曳模式時顯示視窗內容"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="新的檔案總管標籤應該在同一個資料夾中開啟"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="您想要永遠顯示 Microsoft Word、Excel 和 PowerPoint 的索引標籤嗎？"
+"Always show tabs for Microsoft Office?"="永遠顯示 Microsoft Office 的索引標籤？"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="您可以使用 Groupy 選項卡右鍵按單啟用或關閉視窗上的選項卡。 對於未分組的視窗，如果預設情況下將滑鼠懸停在窗口頂部，則會顯示 Groupy 選項卡。"
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy 已停用"
+"Groupy enabled"="Groupy 已啟用"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="如果最大化視窗被標籤列裁切則啟用"

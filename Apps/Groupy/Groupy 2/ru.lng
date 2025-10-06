@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="Администратор заблокировал настройки Groupy.\n\nХотите запустить от имени администратора, чтобы изменить их?"
 "Settings locked"="Настройки заблокированы"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="По умолчанию удерживайте окно >1/3 секунды перед отпусканием мыши над заголовком другого окна, чтобы добавить его в группу."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="Хотите сохранить этот параметр включенным? (Этот параметр можно изменить на странице настроек группировки.)"
 "Keep delayed grouping enabled?"="Оставить задержанную группировку включенной?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="Вкл. показ содержимого окна при перетаскивании в window для использования Groupy"
 "Show window contents when dragging mode not enabled"="Показ содержимого окна без режима перетаскивания"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="Новые вкладки Проводника должны открываться в той же папке"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="Хотите всегда показывать вкладки для Microsoft Word, Excel и PowerPoint?"
+"Always show tabs for Microsoft Office?"="Всегда показывать вкладки для Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Вы можете включить или отключить вкладки в окне с помощью контекстного меню вкладки Groupy.  Для несгруппированных окон вкладка Groupy появится, если вы по умолчанию наведете курсор на верхнюю часть окна."
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy отключен"
+"Groupy enabled"="Groupy включен"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="Включить, если максимизированное окно обрезается панелью вкладок"

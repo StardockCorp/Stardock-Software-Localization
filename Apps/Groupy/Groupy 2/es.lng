@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="El administrador bloqueó ajustes Groupy.\n\n¿Desea ejecutar como administrador para modificarlos?"
 "Settings locked"="Ajustes bloqueados"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="Por defecto, mantén ventanas más de 1/3 seg ante de soltar el mouse sobre la barra de título de otra ventana para agregarla a un grupo."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="¿Desea mantener esta configuración habilitada? (Esta configuración se puede cambiar desde la página de configuración de agrupación.)"
 "Keep delayed grouping enabled?"="¿Mantener agrupación retrasada activada?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="Debe activar mostrar contenido de ventana al arrastrar en window para usar Groupy"
 "Show window contents when dragging mode not enabled"="Mostrar contenido de ventana al arrastrar sin activar modo"
@@ -274,7 +274,7 @@ Exist=1
 "<applied to this tab"="<aplicado a esta pestaña"
 "Pick Accent colour..."="Elige color acento"
 "Save this Accent colour as a quick access Accent colour"="Guardar este color de acento como acceso rápido"
-"Ctrl+Shift+F1"="Ctrl+Shift+F1"
+"Ctrl+Shift+F1"="Ctrl+Mayús+F1"
 "Save this Accent colour as default for this application"="Guardar color de acento predeterminado para esta aplicación"
 "Save this Accent colour for this folder and child folders"="Guardar color de acento para esta carpeta y subcarpetas"
 "Save this Accent colour for this document"="Guardar color de acento para este documento"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="Las nuevas pestañas del Explorador deberían abrirse en la misma carpeta"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="¿Le gustaría mostrar siempre pestañas para Microsoft Word, Excel y PowerPoint?"
+"Always show tabs for Microsoft Office?"="¿Mostrar siempre pestañas para Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Puede activar o desactivar las pestañas en una ventana utilizando el menú contextual de la pestaña Groupy.  Para las ventanas no agrupadas, aparecerá una pestaña Groupy si coloca el cursor sobre la parte superior de la ventana de forma predeterminada."
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy desactivado"
+"Groupy enabled"="Groupy activado"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="Activar si la ventana maximizada es recortada por la barra de pestañas"

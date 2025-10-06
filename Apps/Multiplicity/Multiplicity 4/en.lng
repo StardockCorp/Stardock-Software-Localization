@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
-"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure"="KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d"="KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="A user on computer %S would like to remote control your computer."
 "If this is expected you should click the Allow button"="If this is expected you should click the Allow button"
 "Yes"="Yes"
@@ -431,17 +431,17 @@ Exist=1
 "Shorter"="Shorter"
 "Longer"="Longer"
 "2 characters"="2 characters"
-"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
+"You must enter a server to be used for activation."="You must enter a server to be used for activation."
 "Server field blank"="Server field blank"
 "You must enter a serial number to be used for activation."="You must enter a serial number to be used for activation."
 "Serial number field blank"="Serial number field blank"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity was unable to activate with the information you provided."
 "Please check it is correct and you are on the network."="Please check it is correct and you are on the network."
-"Activation failed" = "Activation failed"
+"Activation failed"="Activation failed"
 "Resolution when no monitor plugged in :"="Resolution when no monitor plugged in :"
 "Opt out of screen darkening"="Opt out of screen darkening"
 "Pick colour for indicator line..."="Pick colour for indicator line..."
-"On screen indicators..." = "On screen indicators..."
+"On screen indicators..."="On screen indicators..."
 "Show a coloured line on the computer with focus"="Show a coloured line on the computer with focus"
 "Pick colour..."="Pick colour..."
 
@@ -460,7 +460,7 @@ Exist=1
 "Automatically start at login"="Automatically start at login"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
+"Allow Secondary to control KVM computers (activation needed)"="Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="Do you want to disable the option to control Secondary KVMs from this computer?"
 "Disable features which require activation?"="Disable features which require activation?"
 "Ctrl"="Ctrl"
@@ -511,7 +511,7 @@ Exist=1
 "Restart Multiplicity processes"="Restart Multiplicity processes"
 "Show on monitor"="Show on monitor"
 
-"* Computer on LEFT" = "* Computer on LEFT"
+"* Computer on LEFT"="* Computer on LEFT"
 "* Computer on RIGHT"="* Computer on RIGHT"
 "* PRIMARY computer"="* PRIMARY computer"
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"

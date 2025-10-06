@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"
 "Settings locked"="Impostazioni bloccate"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="Per impostazione predefinita, è necessario tenere le finestre per più di 1/3 di secondo prima di rilasciare il mouse sulla barra del titolo di un'altra finestra per aggiungere la finestra a un gruppo."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="Mantenere il raggruppamento ritardato abilitato?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="È necessario abilitare 'Mostra contenuto finestra durante il trascinamento' in Windows per utilizzare Groupy"
 "Show window contents when dragging mode not enabled"="Modalità 'Mostra contenuto finestra durante il trascinamento' non abilitata"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="Le nuove schede di Esplora risorse dovrebbero aprirsi nella stessa cartella"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?"="Always show tabs for Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy disabled"
+"Groupy enabled"="Groupy enabled"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="Abilita se la finestra massimizzata è ritagliata dalla barra delle schede"

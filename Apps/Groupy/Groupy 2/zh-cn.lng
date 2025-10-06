@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="管理员锁定了 Groupy 设置。\n\n要以管理员身份运行以修改吗？"
 "Settings locked"="设置已锁定"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="默认情况下，您需要在释放鼠标至另一窗口标题栏前，按住窗口超过1/3秒以将窗口添加至组。"
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="您想保持此设置启用吗？（此设置可从分组设置页面更改。）"
 "Keep delayed grouping enabled?"="保持延迟分组启用？"
 "You need to enable show window contents when dragging in Windows to use Groupy"="需启用Windows拖动时显示窗口内容以使用Groupy"
 "Show window contents when dragging mode not enabled"="未启用拖动模式时显示窗口内容"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="新的资源管理器标签应在同一文件夹中打开"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="您想始终为 Microsoft Word、Excel 和 PowerPoint 显示选项卡吗？"
+"Always show tabs for Microsoft Office?"="始终为 Microsoft Office 显示选项卡？"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="您可以使用 Groupy 选项卡右键单击菜单启用或禁用窗口上的选项卡。 对于未分组的窗口，如果默认情况下将鼠标悬停在窗口顶部，则会显示 Groupy 选项卡。"
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy 已禁用"
+"Groupy enabled"="Groupy 已启用"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="如果最大化窗口被标签栏截断，则启用"

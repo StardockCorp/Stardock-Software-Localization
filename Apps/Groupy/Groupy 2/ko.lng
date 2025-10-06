@@ -236,7 +236,7 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="관리자가 Groupy 설정을 잠궜습니다.\n\n관리자로 실행하여 변경하시겠습니까?"
 "Settings locked"="설정 잠김"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="기본적으로 창을 그룹에 추가하려면 마우스를 1/3초 이상 다른 창의 제목 표시 줄 위에서 놓아야 합니다."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="이 설정을 활성화 상태로 유지하시겠습니까? (이 설정은 그룹화 설정 페이지에서 변경할 수 있습니다.)"
 "Keep delayed grouping enabled?"="지연 그룹화 사용 유지?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="윈도우에서 드래그 시 창 내용 표시를 활성화해야 Groupy 사용 가능"
 "Show window contents when dragging mode not enabled"="드래그 모드 비활성화시 창 내용 표시"
@@ -327,11 +327,11 @@ Exist=1
 "New Explorer tabs should open in the same folder"="새 탐색기 탭은 같은 폴더에서 열어야 합니다"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"="Microsoft Word, Excel 및 PowerPoint에 대해 항상 탭을 표시하시겠습니까?"
+"Always show tabs for Microsoft Office?"="Microsoft Office에 대해 항상 탭을 표시하시겠습니까?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Groupy 탭 오른쪽 클릭 메뉴를 사용하여 창에서 탭을 활성화하거나 비활성화할 수 있습니다.  그룹화되지 않은 창의 경우 기본적으로 창 위쪽으로 마우스를 가져가면 그룹 탭이 나타납니다."
-"Groupy disabled" = "Groupy disabled"
-"Groupy enabled" = "Groupy enabled"
+"Groupy disabled"="Groupy 비활성화"
+"Groupy enabled"="Groupy 활성화"
 
 ; 2.15
 "Enable if maximized window is clipped by tab bar"="최대화된 창이 탭 바에 의해 잘릴 경우 활성화"

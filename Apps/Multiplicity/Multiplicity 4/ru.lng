@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
-"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure"="KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d"="KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="Пользователь на PCе %S хочет удаленно управлять вашим PCом."
 "If this is expected you should click the Allow button"="Если ожидается, нажмите кнопку Разрешить"
 "Yes"="Да"
@@ -431,17 +431,17 @@ Exist=1
 "Shorter"="Короче"
 "Longer"="Длиннее"
 "2 characters"="2 сим"
-"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
+"You must enter a server to be used for activation."="You must enter a server to be used for activation."
 "Server field blank"="Поле сервера пусто"
 "You must enter a serial number to be used for activation."="Введите серийный номер для активации."
 "Serial number field blank"="Сер. номер пуст"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity не удалось активировать с предоставленной вами информацией."
 "Please check it is correct and you are on the network."="Проверьте, что верно и вы в сети."
-"Activation failed" = "Activation failed"
+"Activation failed"="Activation failed"
 "Resolution when no monitor plugged in :"="Разрешение без монитора:"
 "Opt out of screen darkening"="Отказ от затемнения экрана"
 "Pick colour for indicator line..."="Выбрать цвет индикаторной линии"
-"On screen indicators..." = "On screen indicators..."
+"On screen indicators..."="On screen indicators..."
 "Show a coloured line on the computer with focus"="Покажи цветную линию на PCе с фокусом"
 "Pick colour..."="Выбрать цвет"
 
@@ -460,7 +460,7 @@ Exist=1
 "Automatically start at login"="Автозапуск при входе"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
+"Allow Secondary to control KVM computers (activation needed)"="Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="Отключить управление Secondary KVM с этого PCа?"
 "Disable features which require activation?"="Отключить функции, требующие активации?"
 "Ctrl"="Ctrl"
@@ -511,7 +511,7 @@ Exist=1
 "Restart Multiplicity processes"="Перезапустить Multiplicity процессов"
 "Show on monitor"="Показать на мониторе"
 
-"* Computer on LEFT" = "* Computer on LEFT"
+"* Computer on LEFT"="* Computer on LEFT"
 "* Computer on RIGHT"="* Комп справа"
 "* PRIMARY computer"="* ОСНОВНОЙ PC"
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="Знайте, что адаптер сети VirtualBox ломает трансляции Wake-On-LAN"

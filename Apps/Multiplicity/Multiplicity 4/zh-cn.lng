@@ -1,8 +1,8 @@
 [Strings]
 Exist=1
 ; MultiPLV strings
-"KVM connection initiated by unknown address due to getpeername lookup failure" = "KVM connection initiated by unknown address due to getpeername lookup failure"
-"KVM connection initiated by %s, internal port: %d" = "KVM connection initiated by %s, internal port: %d"
+"KVM connection initiated by unknown address due to getpeername lookup failure"="KVM connection initiated by unknown address due to getpeername lookup failure"
+"KVM connection initiated by %s, internal port: %d"="KVM connection initiated by %s, internal port: %d"
 "A user on computer %S would like to remote control your computer."="%S 用户想远程控制您的电脑。"
 "If this is expected you should click the Allow button"="若接受此操作，请点击允许按钮。"
 "Yes"="是"
@@ -431,17 +431,17 @@ Exist=1
 "Shorter"="较短"
 "Longer"="较长"
 "2 characters"="2字符"
-"You must enter a server to be used for activation."= "You must enter a server to be used for activation."
+"You must enter a server to be used for activation."="You must enter a server to be used for activation."
 "Server field blank"="服务器字段空白"
 "You must enter a serial number to be used for activation."="必须输入序列号以激活。"
 "Serial number field blank"="序列号字段空白"
 "Multiplicity was unable to activate with the information you provided."="Multiplicity 无法用您提供的信息激活。"
 "Please check it is correct and you are on the network."="请检查信息是否正确并已连网。"
-"Activation failed" = "Activation failed"
+"Activation failed"="Activation failed"
 "Resolution when no monitor plugged in :"="无显示器接入时的分辨率："
 "Opt out of screen darkening"="阻止屏幕变暗"
 "Pick colour for indicator line..."="选取屏幕提示彩框颜色"
-"On screen indicators..." = "On screen indicators..."
+"On screen indicators..."="On screen indicators..."
 "Show a coloured line on the computer with focus"="鼠标静止时，在被控屏幕上显示彩框"
 "Pick colour..."="选取颜色"
 
@@ -460,7 +460,7 @@ Exist=1
 "Automatically start at login"="登录后自动启动 KVM"
 
 ;3.3 additions
-"Allow Secondary to control KVM computers (activation needed)" = "Allow Secondary to control KVM computers (activation needed)"
+"Allow Secondary to control KVM computers (activation needed)"="Allow Secondary to control KVM computers (activation needed)"
 "Do you want to disable the option to control Secondary KVMs from this computer?"="是否要禁用从该计算机控制被控端 KVM 的选项？"
 "Disable features which require activation?"="是否禁用需要激活的功能？"
 "Ctrl"="Ctrl"
@@ -511,7 +511,7 @@ Exist=1
 "Restart Multiplicity processes"="重启 Multiplicity"
 "Show on monitor"="切换显示器"
 
-"* Computer on LEFT" = "* Computer on LEFT"
+"* Computer on LEFT"="* Computer on LEFT"
 "* Computer on RIGHT"="* 右侧电脑"
 "* PRIMARY computer"="* 主控端电脑"
 "Be aware that the VirtualBox network adapter breaks Wake-On-LAN broadcasts"="注意：VirtualBox 网络适配器会破坏 WOL 广播"
