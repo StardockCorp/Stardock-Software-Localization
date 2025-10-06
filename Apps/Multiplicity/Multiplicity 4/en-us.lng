@@ -532,7 +532,7 @@ Exist=1
 
 ; Missing
 "Flush DNS cache"="Flush DNS cache"
-"Prevent secondary computers auto sleeping whilst using this computer"="Prevent secondary computers auto sleeping whilst using this computer"
+"Prevent secondary computers auto sleeping whilst using this computer"="Prevent secondary computers auto sleeping while using this computer"
 "Restart Multiplicity processes"="Restart Multiplicity processes"
 "Show on monitor"="Show on monitor"
 
