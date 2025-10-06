@@ -1,8 +1,8 @@
 [Info]
-Name="Français"
+Name="French"
 
 [Strings]
-Exist = 1
+Exist=1
 
 [Deskscapes]
 "Select All"="Tout sélectionner"
@@ -56,7 +56,7 @@ Exist = 1
 "Visit Website"="Visiter le site Web"
 "Like"="J'aime"
 "Add folder"="Ajouter dossier"
-"Remove"="Supprimer"
+"Remove"="Retirer"
 "Add background"="Ajouter arrière-plan"
 "Report content"="Signaler contenu"
 "Background positioning"="Position de l'arrière-plan"
@@ -147,10 +147,7 @@ Exist = 1
 "Stars"="Étoiles"
 "An animated warping effect"="Un effet de déformation animé"
 "Warp"="Déformation"
-
-;"Colour map effects"="Effets de tableau des couleurs"
 "Colour map effects"="Effets de couleur"
-
 "Gradient map picture effect"="Effet d'image de tableau dégradé"
 "Advanced Gradient 2"="Dégradé avancé 2"
 "Advanced Gradient 3"="Dégradé avancé 3"
@@ -296,10 +293,7 @@ Exist = 1
 "Smear"="Barbouillage"
 "Slightly soften background"="Adoucit légèrement l'arrière-plan"
 "Soften"="Adoucir"
-
-;"Flips / Mirror effects"="Effets retourner / miroir"
 "Flips / Mirror effects"="Effets retourner/miroir"
-
 "2D tile mode"="Mode carreaux en 2D"
 "Clone"="Clone"
 "Zoom into the background"="Permet de zoomer sur l'arrière-plan"
@@ -336,11 +330,7 @@ Exist = 1
 "Noise darken"="Bruit plus obscur"
 "Static Noise 2"="Bruit statique 2"
 "Static Noise"="Bruit statique"
-
-;"Brightness / contrast effects"="Effets de luminosité et de contraste"
 "Brightness / contrast effects"="Luminosité/cont. effet"
-
-
 "Just the strong colours"="Ne garde que les couleurs intenses"
 "Burn effect"="Effet brûlure"
 "Desaturate colours"="Couleurs désaturées"
@@ -388,9 +378,9 @@ Exist = 1
 "Recently installed static backgrounds"="Arrière-plans fixes installés récemment"
 "All"="Tout"
 "BMP Image"="Image BMP"
-"%d x %d JPEG Image"="image JPEG %d x %d"
+"%d x %d JPEG Image"="Image JPEG %d x %d"
 "WMV Video file"="Ficher vidéo WMV"
-"%d x %d PNG Image"="image PNG %d x %d"
+"%d x %d PNG Image"="Image PNG %d x %d"
 "Latest backgrounds"="Derniers arrière-plans"
 "View the latest backgrounds uploaded by members of our community, the image of the day from Bing®, and your most recently installed backgrounds."="Consultez les derniers arrière-plans partagés par des membres de notre communauté, l'image du jour de Bing® et les arrière-plans que vous avez installés récemment."
 "Bing® image of the day"="Image du jour de Bing®"
@@ -427,10 +417,7 @@ Exist = 1
 "Create new animated background"="Créer un nouvel arrière-plan animé"
 "Use an existing template as a starting point, or simply start with a blank canvas."="Partez d'un modèle existant ou commencez à zéro."
 "Already have an existing background?"="Avez-vous déjà un arrière-plan ?"
-
-;"Package video as dream file"="Enregistrer vidéo en tant que fichier Dream"
 "Package video as dream file"="Package vidéo en tant que Dream"
-
 "Upload video background"="Partager arrière-plan animé"
 "Upload static background"="Partager arrière-plan fixe"
 "Recently recorded videos -Press WIN + G when using the game or application to access recording options or WIN + ALT + R to quickly toggle recording on and off"="Vidéos enregistrées récemment - appuyez sur WIN + G lorsque vous utilisez le jeu ou l'application pour accéder aux options d'enregistrement ou sur WIN + ALT +R pour activer ou désactiver rapidement l'enregistrement"
@@ -490,12 +477,7 @@ Exist = 1
 "Check for updates"="Rechercher des mises à jour"
 "Path"="Chemin"
 "Installed animations"="Animations installées"
-
-
-;"Playlists do not change accent colour (apps may stall otherwise)"="Les listes de lecture ne modifient pas la couleur d'accentuation (cela pourrait ralentir le fonctionnement des applications)"
 "Playlists do not change accent colour (apps may stall otherwise)"="Playlists ne changez pas la couleur accentuation(arrêts app décrochage)"
-
-
 "Close"="Fermer"
 "Website"="Site Web"
 "Purchase background"="Acheter arrière-plan"
@@ -509,11 +491,7 @@ Exist = 1
 "Edit selected combined effect"="Modifier l'effet combiné sélectionné"
 "Delete selected combined effect"="Supprimer l'effet combiné sélectionné"
 " No effect "=" Aucun effet "
-
-;"You can create your own combined effects by picking effects below.  Note that some effects can only be used for static wallpapers."="Vous pouvez créer vos propres effets combinés en choisissant parmi les effets ci-dessous.  Veuillez noter que certains effets ne sont disponibles que pour les arrière-plans fixes."
 "You can create your own combined effects by picking effects below.  Note that some effects can only be used for static wallpapers."="Créez des effets combinés en choisissant ci-dessous. Notez que certains ne peuvent être utilisés que pour les fonds d’écran statiques."
-
-
 "Effect name :"="Nom de l'effet :"
 "Effect 1 :"="Effet 1 :"
 "Effect 2 :"="Effet 2 :"
@@ -550,20 +528,12 @@ Exist = 1
 "DeskScapes requires client area animations to be allowed on your computer."="Les animations de la zone cliente doivent être activées sur votre ordinateur pour pouvoir utiliser DeskScapes."
 "Would you like DeskScapes to change this setting?"="Souhaitez-vous que DeskScapes modifie ce paramètre ?"
 "Setting change needed"="Changement des paramètres nécessaire"
-"DeskScapes has applied this background as your screensaver."="DeskScapes a appliqué cet arrière-plan en tant qu'écran de veille."
-"You can change the timeout or disable screensavers from the operating system screensavers control panel."="Vous pouvez modifier le délai de mise en veille de l'écran ou désactiver les écrans de veille depuis le panneau de configuration des écrans de veille du système d'exploitation."
-"Your screensaver has been applied"="Votre écran de veille a été appliqué"
 "The dream may contain an invalid video type or a compatible MPEG-2 video decoder may not be present. Please visit here for more information: http://www.stardock.com/products/deskscapes/nocodec.asp"="Ce fichier Dream pourrait contenir un type de vidéo invalide, ou vous ne disposez pas d'un décodeur vidéo MPEG-2. Pour en savoir plus, consultez ce lien : http://www.stardock.com/products/deskscapes/nocodec.asp"
 "Unable to play dream"="Impossible de reproduire le fichier Dream"
 "Unable to start DirectX on your machine.  Please try rebooting and if this continues try updating your video drivers."="Impossible d'activer DirectX sur votre ordinateur.  Veuillez essayer de le redémarrer. Si le problème persiste, veuillez mettre à jour vos pilotes vidéo."
-"Unable to play dream"="Impossible de reproduire le fichier Dream"
 "This dream has no user configurable settings"="Ce fichier Dream n'a pas de paramètres d'utilisateur configurables"
-"No settings provided"= "Aucun paramètre indiqué"
 "Are you sure you want to unfavorite this background?"="Souhaitez-vous vraiment retirer cet arrière-plan de vos favoris ?"
-"The Desktop Window Manager does not seem to be active at this time on your machine."="Il semblerait que le Gestionnaire de fenêtrage n'est pas activé sur votre ordinateur."
-"Applying the Windows Aero theme or any WindowBlinds theme (if WindowBlinds is installed), should enable the DWM if your machine is capable of running it."="Vous pouvez activer le GDF en appliquant le thème Windows Aero, ou n'importe quel thème WindowBlinds (si WindowBlinds est installé), tant que votre ordinateur est capable de le faire fonctionner."
 "Would you like Deskscapes to attempt to fix this?"="Souhaitez-vous que DeskScapes essaye de réparer le problème ?"
-"DeskScapes requires the DWM to be enabled"="Le GDF doit être activé pour utiliser DeskScapes"
 "The Desktop Window Manager does not seem to be active at this time on your machine as you seem to be using the Windows Classic theme."="Le Gestionnaire de fenêtrage ne semble pas être activé sur votre ordinateur, car vous utilisez le thème Windows Classique."
 "Would you like Deskscapes to attempt to switch to the Windows Aero theme so you can use Deskscapes?"="Souhaitez-vous que DeskScapes essaye de passer au thème Windows Aero pour que vous puissiez utiliser le logiciel ?"
 "You appear to be running on battery power and you have told DeskScapes not to run when on battery power.  Would you like to enable DeskScapes when on battery power?"="Il semblerait que votre ordinateur ne soit pas branché. Vous avez indiqué que vous ne souhaitiez pas que DeskScapes soit actif lorsque votre PC est alimenté par batterie.  Souhaitez-vous que DeskScapes soit actif lorsque votre ordinateur est alimenté par batterie ?"
@@ -588,20 +558,11 @@ Exist = 1
 "You can add backgrounds to a playlist from the apply button on any background."="Vous pouvez ajouter des arrière-plans à la liste de lecture à partir du bouton appliquer sur chaque arrière-plan."
 "No recordings exist."="Il n'y a pas d'enregistrements."
 "MP4 Video file"="Ficher vidéo MP4"
-"WMV Video file"="Ficher vidéo WMV"
-"JPEG Image"="Image JPEG"
-"BMP Image"="Image BMP"
-"PNG Image"="Image PNG"
 "MPEG Video"="Vidéo MPEG"
 "MPEG Video file"="Ficher vidéo MPEG"
-"%d x %d JPEG Image"="Image JPEG %d x %d"
 "%d x %d BMP Image"="Image BMP %d x %d"
-"%d x %d PNG Image"="Image PNG %d x %d"
 "View more backgrounds from this author"="Voir plus d'arrière-plans de la part de cet auteur"
 "Animated backgrounds created by "="Arrière-plans animés créés par "
-"Static backgrounds created by "="Arrière-plans fixes créés par "
-"Backgrounds created by "="Arrière-plans créés par "
-"Most popular premium backgrounds"="Arrière-plans premium les plus populaires"
 "Animated :"="Animé :"
 "Static :"="Fixe :"
 "Most popular"="Populaire"
@@ -621,7 +582,6 @@ Exist = 1
 "Reset"="Réinitialiser"
 "Make all monitors show the same content"="Afficher le même contenu sur tous les écrans"
 "OK"="OK"
-"Cancel"="Annuler"
 "Desktop Collage"="Collage sur le bureau"
 "Turn your desktop into a constanly changing collage or photos and images from your PC"="Transformez votre bureau en photo-collage qui change régulièrement, composé de photos et d'images provenant de votre PC"
 "Desktop Photos Settings"="Paramètres des photos du bureau"
@@ -633,12 +593,9 @@ Exist = 1
 "Shared Pictures"="Images partagées"
 "Playlist : "="Liste de lecture : "
 "Add..."="Ajouter..."
-"Remove"="Retirer"
 "More collage settings"="Plus de paramètres du collage"
 "Gradually fade old pictures to gray"="Appliquer progressivement un fondu au gris pour les vieilles photos"
 "Photo size"="Taille de la photo"
-"Small"="S"
-"Large"="L"
 "Time Between Photos"="Délai entre chaque photo"
 "Desktop should start as black"="Bureau noir au début"
 "Desktop Colours"="Couleurs du bureau"
@@ -670,11 +627,13 @@ Exist = 1
 "Tile"="Carreau"
 "Pan and Zoom"="Zoom panoramique"
 "Slowly panning and zooming pictures"="Des images avec un effet panoramique lent et un zoom"
-"Pan and Zoom settings"="Paramètres de zoom panoramique
+"Pan and Zoom settings"="Paramètres de panoramique et zoom"
 "You can change the speed, pictures and how much the effect should be applied"="Vous pouvez modifier la vitesse, les images et l'intensité de l'effet"
 "How often should the picture change"="Rythme de changement de l'image"
 "How should the picture move?"="Mouvement de l'image"
-
+"Less zoom"="-zoom"
+"More zoom"="Plus de zoom"
+"Less pan"="-Pan"
 "Deletion is not allowed"="Impossible de supprimer"
 "You cannot delete the top 3 locations, but you can disable them by unticking them"="Vous ne pouvez pas supprimer les 3 emplacements principaux, mais vous pouvez les désactiver en les décochant"
 "You cannot delete playlists, but you can disable them by unticking them"="Vous ne pouvez pas supprimer les listes de lecture, mais vous pouvez les désactiver en les décochant"
@@ -690,8 +649,7 @@ Exist = 1
 "Every minute"="Toutes les minutes"
 "Every five minutes"="Toutes les 5 minutes"
 "Double click this item to pick a custom background"="Double-cliquez sur cet objet pour sélectionner un arrière-plan personnalisé"
-"Where should the pictures be loaded from?"="Emplacement des photos à charger"
-"What should happen when the picture is a different shape to the screen?""What should happen when the picture is a different shape to the screen?"="Que doit-il se passer lorsque l’image a une forme différente de celle de l’écran? Que doit-il se passer lorsque l’image a une forme différente de celle de l’écran ?"
+"What should happen when the picture is a different shape to the screen?"="Que doit-il se passer lorsque l'image a une forme différente de l'écran ?"
 "Stretch the image"="Étirer l'image"
 "Crop the image"="Rogner l'image"
 "Show it as is"="Afficher tel quel"
@@ -701,10 +659,9 @@ Exist = 1
 "Unable to load this background."="Impossible de charger cet arrière-plan."
 "Typically it means it is using a codec you do not have a decoder for such as MPEG2."="Normalement, cette erreur signifie que l'arrière-plan utilise un codec pour lequel vous n'avez pas de décodeur, comme MPEG2."
 "Click here to learn more."="Cliquez ici pour en savoir plus."
-"Create new playlist..."="Créer une nouvelle liste de lecture..."
 "Configure DeskScapes"="Configurer DeskScapes"
 "Pause DeskScapes"="Mettre DeskScapes en pause"
-"Resume DeskScapes"="Reprendre DeskScape"
+"Resume DeskScapes"="Reprendre DeskScapes"
 "Favourites"="Favoris"
 "Recent"="Récents"
 "Random backgrounds"="Arrière-plans aléatoires"
@@ -715,7 +672,6 @@ Exist = 1
 "Button5"="Button5"
 "Auto scale for monitor shape"="Ajuster automatiquement à la taille de l’écran"
 "Stretch"="Étirer"
-"Tile"="Carreau"
 "Centre"="Centrer"
 "Fit"="Remplissage"
 "Fill Middle aligned"="Remplir aligné vers le milieu"
@@ -740,7 +696,6 @@ Exist = 1
 "Change colour"="Changer la couleur"
 "Use smart recolouring"="Utiliser la recoloration intelligente"
 "Reset all"="Tout réinitialiser"
-"Default"="Par défaut"
 "Delete"="Supprimer"
 "Save Hue Shift"="Sauvegarder la modification de teinte"
 "Ignore me"="Ignorer"
@@ -751,7 +706,6 @@ Exist = 1
 "Clear effects"="Effacer les effets"
 "Manage folders"="Gérer les dossiers"
 "Blurry Blobs"="Masses floues"
-"MP4 Video file"="Ficher vidéo MP4"
 "Animated"="Animé"
 "Stills"="Clichés"
 "Dynamic Dream Settings"="Paramètres Dream dynamiques"
@@ -761,9 +715,7 @@ Exist = 1
 "Configure background"="Configurer arrière-plan"
 "Loading background preview"="Aperçu de l'arrière-plan en cours de chargement"
 "Premium"="Premium"
-"Featured"="En vedette"
 "Visit Wincustomize"="Aller sur Wincustomize"
-"No suitable backgrounds have been found"="Aucun arrière-plan approprié n'a été trouvé"
 "General"="Général"
 "Scenery"="Décor"
 "Holidays"="Vacances"
@@ -786,7 +738,6 @@ Exist = 1
 "Music"="Musique"
 "Dual Monitor"="Deux écrans"
 "Image of the Day"="Image du jour"
-"Connecting..."="Connexion en cours..."
 "Bing®"="Bing®"
 "Background Settings"="Paramètres de l'arrière-plan"
 "No Smoothing"="Pas de lissage"
@@ -807,57 +758,28 @@ Exist = 1
 "Performance"="Performance"
 "Advanced"="Avancé"
 "Language"="Langue"
-
-;"Use Media Foundation for Video Support - Supports smoothing"="Utiliser Media Foundation en tant que support vidéo (Compatible avec le lissage)"
 "Use Media Foundation for Video Support - Supports smoothing"="Utiliser Media Foundation pour la vidéo - Prend en charge le lissage"
-
 "Use DirectShow EVR for Video Support where possible"="Utiliser DirectShow EVR en tant que support vidéo si possible"
-
-
-;"Use DirectShow VMR-9 for Video Support (DS 8) where possible"="Utiliser DirectShow VMR-9 en tant que support vidéo (DS 8) si possible"
-;"Use DirectShow VMR-9 for Video Support (DS 8) where possible"="Utilisez DirectShow VMR-9 pour la vidéo dans la mesure du possible"
-
-
+"Use DirectShow VMR-9 for Video Support (DS 8) where possible"="Utiliser DirectShow VMR-9 pour la prise en charge vidéo (DS 8) si possible"
 "Static"="Fixe"
 "Best Quality"="Privilégier la qualité"
 "Quality Setting :"="Paramètres de qualité :"
 "The setting below allows you to control the performance of DeskScapes on your machine"="Le paramètre ci-dessous vous permet de contrôler la performance de DeskScapes sur votre ordinateur"
 "Best Performance"="Privilégier la performance"
-
-;"Automatically pause when on battery power"="Mettre en pause automatiquement lorsque l'ordinateur n'est pas branché"
 "Automatically pause when on battery power"="Pause automatique lorsque vous êtes sur batterie"
-
-
-;"Notify me when pausing due to being on battery power"="M'informer lorsque la vidéo est mise en pause, car l'ordinateur n'est pas branché"
 "Notify me when pausing due to being on battery power"="Avertir en cas de pause en raison d’une alimentation sur batterie"
-
-
-;"Let DeskScapes take over Fences 3 background blurring"="Permettre à DeskScapes de prendre en charge le floutage des arrière-plans de Fences 3"
 "Let DeskScapes take over Fences 3 background blurring"="Définir DeskScapes pour gérer le flou d’arrière-plan de Fences 3"
-
-
-;"Detect best setting for this computer"="Détecter le meilleur réglage pour cet ordinateur"
 "Detect best setting for this computer"="Détecter le meilleur paramètre"
-
 "Top Quality"="Meilleure qualité"
 "Full image sharpness with smoothing"="Image très nette et floutée"
 "From this page you can clear the extracted files folder to save disk space as well as turn on support for additional graphics cards."="Cette page vous permet de vider le dossier de fichiers extraits afin de libérer de l'espace de disque dur et d'activer le support pour des cartes graphiques supplémentaires."
 "Desktop icon transparency :"="Transparence de l'icône du bureau :"
 "Background pausing :"="Pause de l'arrière-plan :"
-
-;"Enable support for additional graphics cards (may increase CPU)"="Activer le support pour des cartes graphiques supplémentaires (pourrait augmenter l'utilisation du processeur)"
 "Enable support for additional graphics cards (may increase CPU)"="Prise en charge de plusieurs cartes vidéo (peut augmenter CPU)"
-
-
 "Correct aspect ratio on secondary monitors"="Corriger les proportions sur les écrans secondaires"
 "Do not show random background option"="Ne pas afficher l'option d'arrière-plan aléatoire"
 "Pause dream when windows are maximized (Single monitors only)"="Mettre le fichier Dream en pause lorsque les fenêtres sont agrandies (seulement lorsque vous utilisez un seul écran)"
-
-
-;"Clear extracted files folder"="Vider le dossier de fichiers extraits"
 "Clear extracted files folder"="Effacer les fichiers extraits"
-
-
 "Normal : "="Normalement : "
 "Invisible "="Invisible "
 "Mouseover :"="Lorsque la souris passe par-dessus :"
@@ -866,36 +788,18 @@ Exist = 1
 "Never pause backgrounds"="Ne jamais mettre des arrière-plans en pause"
 "Pause when a window is maximized"="Mettre en pause lorsqu'une fenêtre est agrandie"
 "Pause when a window is full screen"="Mettre en pause lorsqu'une fenêtre est en plein écran"
-
-;"Only pause monitors that match the above rule"="Ne mettre en pause que les écrans qui correspondent à la situation ci-dessus"
 "Only pause monitors that match the above rule"="Suspendre les moniteurs qui correspondent à la règle ci-dessus"
-
-
-;"Pause all when one has been paused due to a maximized window"="Mettre en pause tous les écrans lorsque l'un d'entre eux a été mis en pause à cause d'une fenêtre agrandie"
 "Pause all when one has been paused due to a maximized window"="Avec une fenêtre maximale, mettez tout en pause"
-
-
-;"Pause all when one has a fullscreen non webbrowser"="Mettre en pause tous les écrans lorsque l'un d'entre eux a mis une application autre qu'un navigateur en plein écran"
 "Pause all when one has a fullscreen non webbrowser"="Mettre tout en pause lorsque l’on a un navigateur web plein écran"
-
-
-;"Pause all when one has a fullscreen app"="Mettre en pause tous les écrans lorsque l'un d'entre eux a une application en plein écran"
 "Pause all when one has a fullscreen app"="Suspendre tout lorsque l’on a une application plein écran"
-
-
-
 "Pick the language for the user interface from the options below.  You will need to restart the software to see the language change."="Choisissez la langue de l'interface utilisateur ci-dessous.  Le logiciel devra être redémarré pour que cette option soit appliquée."
 "You can add additional folders to show dreams, video files and PNG/JPG/BMP wallpapers from.  The default folders cannot be deleted."="Vous pouvez ajouter d'autres dossiers à partir desquels afficher des arrière-plans en format Dream, vidéo, et PNG/JPEG/BMP.  Les dossiers par défaut ne peuvent pas être supprimés"
 "List1"="List1"
-"Add..."="Ajouter..."
 "Delete..."="Supprimer..."
 "Downloaded animations"="Animations téléchargées"
 "Downloaded stills"="Clichés téléchargés"
 "Folders"="Dossiers"
 "Please select a folder"="Veuillez choisir un dossier"
-"Do you want to include files contained within subdirectories?"="Souhaitez-vous inclure des fichiers contenus dans des sous-répertoires ?"
-"Warning : Adding the root of a drive would be unwise."="Avertissement : Il n'est pas recommandé d'ajouter la racine d'un disque dur."
-"Include subdirectories?"="Souhaitez-vous inclure des sous-répertoires ?"
 "My folders"="Mes dossiers"
 "Apply background now"="Appliquer arrière-plan maintenant"
 "Delete background"="Supprimer arrière-plan"
@@ -906,7 +810,6 @@ Exist = 1
 "You have selected the random backgrounds folder which shows backgrounds in random order.  You can disable this by selecting a different folder and can add to this by right clicking on backgrounds and picking the add to random option."="Vous avez choisi le dossier d'arrière-plans aléatoires, qui affiche des arrière-plans dans un ordre aléatoire.  Pour désactiver cette option, sélectionnez un dossier différent. Vous pouvez également ajouter des arrière-plans à ce dossier en faisant un clic droit sur ceux-ci, et en choisissant l'option « ajouter au dossier l'aléatoire »."
 "Random background settings"="Paramètres des arrière-plans aléatoires"
 "Remove from random backgrounds folder"="Supprimer du dossier d'arrière-plans aléatoires"
-"Add backgrounds to this folder by right clicking on them and selecting add to random"="Ajoutez des arrière-plans à ce dossier en faisant un clic droit dessus et en choisissant « ajouter au dossier aléatoire »"
 "Create duplicate with effects and colouring baked in"="Créer des doublons avec les couleurs et les effets incorporés"
 "Disable DeskScapes"="Désactiver DeskScapes"
 "Change license..."="Changer de licence..."
@@ -947,7 +850,6 @@ Exist = 1
 "Glowing square shape"="Forme carrée brillante"
 "Glowing star shape"="Forme d'étoile brillante"
 "Glowing Star of David"="Étoile de David brillante"
-"Stars"="Étoiles"
 "Glowing Windows logo"="Logo de Windows brillant"
 "Welcome to"="Bienvenue à"
 "Personalise your desktop background with animated pictures and video."="Personnalisez l'arrière-plan de votre bureau avec des images animées et des vidéos."
@@ -955,19 +857,20 @@ Exist = 1
 "Get started"="Commencer"
 "Next"="Suivant"
 "Using DeskScapes"="Comment utiliser DeskScapes"
-"The left hand side lets you pick which backgrounds you want to view including your own folders if you wish.  At the bottom you can access settings to change DeskScapes settings."="Le côté gauche vous permet de choisir les arrière-plans que vous souhaitez afficher, y compris vos propres dossiers si vous le souhaitez.  En bas, vous pouvez accéder aux paramètres pour modifier les paramètres deskscapes."
+"The left hand side lets you pick which backgrounds you want to view including your own folders if you wish.  At the bottom you can access settings to change DeskScapes settings."="Le côté gauche vous permet de choisir les arrière-plans que vous souhaitez afficher, y compris vos propres dossiers si vous le souhaitez. En bas, vous pouvez accéder aux paramètres pour modifier les paramètres de DeskScapes."
 "Applying a background"="Comment appliquer un arrière-plan"
 "Click on an image to view information on it and download and apply it."="Cliquez sur une image pour consulter ses informations, et pour la télécharger et l'appliquer."
 "Customising your background"="Personnalisez votre arrière-plan"
 "You can customise your background by applying effects to it when you have clicked on the image by selecting other pages on the open page."="Vous pouvez personnaliser votre arrière-plan en y ajoutant des effets. Pour cela, cliquez sur l'image en choisissant d'autres pages sur la page ouverte."
 "Creating advanced animations"="Comment créer des animations avancées"
 "You can even create advanced animations using the powerful creator tool."="Vous pouvez créer des animations avancées à l'aide de notre puissant outil de création."
-
-
-;Manually added 6-22-2021 by Sean Drohan
+"Automatically pick language"="Sélectionner automatiquement la langue"
 "Show this each time I start DeskScapes"="Montrez ceci chaque fois que je démarre DeskScapes"
 "No backgrounds were found"="Aucun arrière-plan n’a été trouvé"
 "Latest content -Like authors and categories to show your favourites here"="Dernier contenu - Aimez les auteurs et les catégories pour montrer vos favoris ici"
+
+
+;Manually added 6-22-2021 by Sean Drohan
 
 "Regular Quality 1"="Qualité régulière 1"
 "Full image sharpness without smoothing"="Netteté complète de l’image sans lissage"
@@ -984,15 +887,9 @@ Exist = 1
 "< Use default font >"="< Utiliser le font par défaut>"
 
 "Quicker"="Rapide"
-
-"Less zoom"="-zoom"
-"More zoom"="+zoom"
-
-"Less pan"="-Pan"
 "More pan"="+Pan"
-
 "Playlist"="Playlist"
-"You can change the speed, pictures and how much the effect should be applied."="Vous pouvez modifier la vitesse, les images et la quantité d’effet à appliquer."
+"You can change the speed, pictures and how much the effect should be applied."="Vous pouvez modifier la vitesse, les images et l'intensité de l'effet."
 
 ; 2nd Aug 2021
 "Show DeskScapes icon in the system tray"="Afficher l’icône DeskScapes dans la barre d’état système"
