@@ -98,7 +98,6 @@ Exist=1
 "The application colour should be used on Microsoft Office tabs"="앱 색상은 m 오피스 탭에 사용되어야 함"
 "Focused background bar :"="집중 배경 막대:"
 "Mica style"="미카 스타일"
-"Default colour"="기본 색상"
 "Default colour (default)"="기본 색상(기본값)"
 "Mica style (default)"="미카 스타일 (기본)"
 "Unfocused background bar :"="초점 없는 배경 막대:"
@@ -115,6 +114,7 @@ Exist=1
 "Are you sure you want to delete this Accent colour?"="이 악센트 색상을 삭제하시겠습니까?"
 "Delete Accent colour"="색상 삭제"
 "Adjust the colours used for tabs and the optional background bar."="탭 및 선택적 배경 막대의 색상 조정."
+"Mica style (default)"="미카 스타일 (기본)"
 "Frame colour"="프레임 색"
 "Custom colour..."="사용자 색상"
 "How should Groupy work?"="Groupy은 어떻게 작동해야 하나요?"
@@ -215,7 +215,7 @@ Exist=1
 "Please select a folder"="폴더 선택하세요"
 "Rule name"="규칙 이름"
 "Check now..."="지금 확인"
-"Visit Website..."="방문 웹사이트"
+"Visit website..."="Visit Website..."
 "Unlock / Purchase..."="잠금해제 / 구매"
 "Groupy is a trademark of Stardock Corporation"="Groupy은 스타독(Stardock)의 상표입니다."
 "Office and Windows are registered trademarks of Microsoft Corporation"="오피스와 윈도우는 마이크로소프트의 등록상표입니다"
@@ -237,10 +237,15 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="관리자가 Groupy 설정을 잠궜습니다.\n\n관리자로 실행하여 변경하시겠습니까?"
 "Settings locked"="설정 잠김"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="기본적으로 창을 그룹에 추가하려면 마우스를 1/3초 이상 다른 창의 제목 표시 줄 위에서 놓아야 합니다."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="이 설정을 사용하시겠습니까? (그룹 설정 페이지에서 변경 가능합니다.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="지연 그룹화 사용 유지?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="윈도우에서 드래그 시 창 내용 표시를 활성화해야 Groupy 사용 가능"
 "Show window contents when dragging mode not enabled"="드래그 모드 비활성화시 창 내용 표시"
+
+
+
+; Groupy App UI
+
 "Group this window and the dragged window"="이 창과 드래그된 창 그룹화"
 "Add this window to the dragged group"="이 창을 드래그된 그룹에 추가"
 "Cannot group a window that is not responding"="응답 없는 창을 그룹화할 수 없음"
@@ -270,6 +275,7 @@ Exist=1
 "<applied to this tab"="이 탭에 적용"
 "Pick Accent colour..."="선택 악센트 색"
 "Save this Accent colour as a quick access Accent colour"="빠른 액세스 악센트 색상으로 저장"
+"Rename"="이름 바꾸기"
 "Ctrl+Shift+F1"="Ctrl+Shift+F1"
 "Save this Accent colour as default for this application"="이 애플리케이션의 기본 악센트 색상 저장"
 "Save this Accent colour for this folder and child folders"="이 폴더 및 하위 폴더에 이 악센트 색상 저장"
@@ -289,23 +295,30 @@ Exist=1
 "Ungroup this group"="이 그룹 해제"
 "Unpin Groupy Tabs"="Groupy 탭 고정 해제"
 "Pin Groupy Tabs"="핀 Groupy 탭"
+"Close tab"="탭 닫기"
+"Alt + F4"="Alt + F4"
 "Always show tabs for this type of window"="이 윈도우 유형에 항상 탭 표시"
 "Unlock group"="그룹 잠금 해제"
 "Lock group"="잠금 그룹"
 "Save group"="그룹 저장"
 "Saved as"="저장됨"
 "Save group as"="그룹 저장"
+"Saved Groups"="저장된 그룹"
 "Unpin group from taskbar"="작업표시줄에서 그룹 고정 해제"
 "Pin group to taskbar"="작업표시줄에 그룹 고정"
 "Unpin group from Start"="시작에서 그룹 고정 해제"
 "Pin group to Start"="시작에 그룹 고정"
 "Exclude from Ctrl-N support"="Ctrl-N 지원에서 제외"
 "Enter a new name for this colour"="이 색상의 새 이름 입력"
+"OK"="오케이"
 "Enter a new title for this tab"="이 탭의 새 제목 입력"
 "Name this group"="이 그룹 이름 짓기"
+"Save"="저장"
 "Enter a name for this saved group."="저장된 그룹 이름 입력."
 "Saved groups can be accessed from the saved groups Start Menu folder."="저장된 그룹은 시작 메뉴 폴더에서 열 수 있습니다."
 "Show create new tab option"="새 탭 옵션 표시"
+
+; Missing
 "Exclude from Ctrl-T support"="Ctrl-T 지원에서 제외"
 "Buy Groupy 2"="구매 Groupy 2"
 
@@ -321,14 +334,70 @@ Exist=1
 "New Explorer tabs should open in the same folder"="새 탐색기 탭은 같은 폴더에서 열어야 합니다"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Microsoft Word, Excel 및 Powerpoint에 대한 탭을 항상 표시하시겠습니까?"
-"Always show tabs for Microsoft Office?" = "Microsoft Office의 탭을 항상 표시하시겠습니까?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Groupy 탭 오른쪽 클릭 메뉴를 사용하여 창에서 탭을 활성화하거나 비활성화할 수 있습니다.  그룹화되지 않은 창의 경우 기본적으로 창 위쪽으로 마우스를 가져가면 그룹 탭이 나타납니다."
-"Groupy disabled" = "Groupy 비활성화"
-"Groupy enabled" = "Groupy 사용"
+"Groupy disabled" = "Groupy disabled"
+"Groupy enabled" = "Groupy enabled"
 
-;2.15
+; 2.15
 "Enable if maximized window is clipped by tab bar"="최대화된 창이 탭 바에 의해 잘릴 경우 활성화"
 "Do not show mouseover bar when ungrouped for this app"="이 앱이 그룹해제된 경우 마우스오버 바 표시 안 함"
 "Do not draw line under integrated tab bar"="통합된 탭 바 아래 선 그리지 않기"
 "Do not animate tabs"="탭 애니메이션 사용 안 함"
+
+;2.16
+"- File Explorer"="- 파일 탐색기"
+"- Notepad"="- 메모장"
+
+;2.3
+"Are you sure you want to pin this to the taskbar?"="이것을 작업 표시줄에 고정하시겠습니까?"
+"You can unpin it from the right click menu or change the icon from the shortcut properties"="마우스 오른쪽 버튼 클릭 메뉴에서 고정을 해제하거나 바로 가기 속성에서 아이콘을 변경할 수 있습니다"
+"Are you sure you want to pin this?"="이것을 고정하시겠습니까?"
+"Are you sure you want to unpin this from the taskbar?"="작업 표시줄에서 이것의 고정을 해제하시겠습니까?"
+"Are you sure you want to unpin this?"="이것의 고정을 해제하시겠습니까?"
+"Add for all files with this filename?"="이 파일 이름을 가진 모든 파일에 추가하시겠습니까?"
+"How to add?"="추가 방법은?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

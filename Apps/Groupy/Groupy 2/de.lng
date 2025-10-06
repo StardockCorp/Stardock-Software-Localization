@@ -1,5 +1,5 @@
 [UI]
-Name="Deutsch"
+Name="German"
 
 [Strings]
 Exist=1
@@ -98,7 +98,6 @@ Exist=1
 "The application colour should be used on Microsoft Office tabs"="Bei Microsoft Office die Tab-Farbe aus dem Design ableiten"
 "Focused background bar :"="Aktive Leiste:"
 "Mica style"="Mica-Stil"
-"Default colour"="Standard"
 "Default colour (default)"="Standard"
 "Mica style (default)"="Mica-Stil (Standard)"
 "Unfocused background bar :"="Inaktive Leiste:"
@@ -115,6 +114,7 @@ Exist=1
 "Are you sure you want to delete this Accent colour?"="Möchten Sie die Akzentfarbe wirklich löschen?"
 "Delete Accent colour"="Akzentfarbe löschen"
 "Adjust the colours used for tabs and the optional background bar."="Farben für Tabs und Tab-Leiste anpassen."
+"Mica style (default)"="Mica-Stil (Standard)"
 "Frame colour"="Rahmenfarbe"
 "Custom colour..."="Eigene Farbe"
 "How should Groupy work?"="Wie soll sich Groupy verhalten?"
@@ -179,7 +179,7 @@ Exist=1
 "Block / allow applications"="Anwendungen ausschließen / zulassen"
 "Automatically group"="Automatisch gruppieren"
 "Do you want to remove"="Möchten Sie"
-"from the auto grouping list?"=aus der Liste für automatische Gruppierung entfernen?"
+"from the auto grouping list?"="aus der automatischen Gruppierungsliste?"
 "Disable auto grouping?"="Automatisches Gruppieren deaktivieren?"
 "Groups are saved from the Groupy bar.  You can launch a Group with a double click."="Gruppen können über das Groupy-Menü erstellt werden. Sie können hier mit einem Doppelklick geöffnet werden"
 "Edit saved group"="Gruppe bearbeiten"
@@ -215,7 +215,7 @@ Exist=1
 "Please select a folder"="Bitte wählen Sie einen Ordner"
 "Rule name"="Name"
 "Check now..."="Jetzt suchen..."
-"Visit Website..."="Webseite besuchen..."
+"Visit website..."="Visit Website..."
 "Unlock / Purchase..."="Freischalten / Kaufen..."
 "Groupy is a trademark of Stardock Corporation"="Groupy ist eine Marke der Stardock Corporation"
 "Office and Windows are registered trademarks of Microsoft Corporation"="Office und Windows sind eingetragene Marken der Microsoft Corporation"
@@ -228,7 +228,7 @@ Exist=1
 "Get help"="Hilfe"
 "As your trial has now expired would you like to uninstall this product?"="Ihre Testperiode ist abgelaufen. Möchten Sie diese Software entfernen?"
 "Uninstall product?"="Produkt entfernen?"
-"from the inclusions list?"="aus der Gruppier-Liste entfernen?
+"from the inclusions list?"="aus der Inklusionsliste?"
 "Delete inclusion?"="Eintrag löschen?"
 "from custom rules?"="aus Ihren Regeln entfernen?"
 "Delete this rule?"="Regel löschen?"
@@ -237,10 +237,15 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="="Ihr Administrator hat den Zugriff auf die Einstellungen gesperrt.\n\nMöchten Sie das Programm als Administrator ausführen, um die Einstellungen zu ändern?"
 "Settings locked"="Einstellungen gesperrt"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="Die Standardwartezeit, die Fenster mindestens übereinander gehalten werden müssen, um eine Gruppierung auszulösen, ist 1/3 Sekunde."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="Möchten Sie diese Einstellung aktivieren? (Dies kann in den Einstellungen wieder rückgängig gemacht werden.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="Verzögerte Gruppierung aktivieren?"
-"You need to enable show window contents when dragging in Windows to use Groupy"=Sie müssen die Einstellung zum Anzeigen der Fensterinhalte beim Ziehen aktivieren, um Groupy nutzen zu können."
+"You need to enable show window contents when dragging in Windows to use Groupy"="Sie müssen 'Fensterinhalt beim Ziehen anzeigen' in Windows aktivieren, um Groupy zu verwenden"
 "Show window contents when dragging mode not enabled"="Fensterinhalt anzeigen, wenn 'Drag & Drop' nicht aktiv ist"
+
+
+
+; Groupy App UI
+
 "Group this window and the dragged window"="Diese Fenster gruppieren"
 "Add this window to the dragged group"="Fenster zur Gruppe hinzufügen"
 "Cannot group a window that is not responding"="Das Fenster reagiert nicht und kann daher nicht gruppiert werden"
@@ -270,6 +275,7 @@ Exist=1
 "<applied to this tab"="<angewendet auf diesen Tab"
 "Pick Accent colour..."="Akzentfarbe wählen..."
 "Save this Accent colour as a quick access Accent colour"="Akzentfarbe für den Schnellzugriff merken"
+"Rename"="Umbenennen"
 "Ctrl+Shift+F1"="Strg + Umschalt + F1"
 "Save this Accent colour as default for this application"="Akzentfarbe für diese Anwendung speichern"
 "Save this Accent colour for this folder and child folders"="Akzentfarbe für Ordner & Unterordner speichern"
@@ -289,46 +295,109 @@ Exist=1
 "Ungroup this group"="Gruppe auflösen"
 "Unpin Groupy Tabs"="Tabs lösen"
 "Pin Groupy Tabs"="Tabs anheften"
+"Close tab"="Tab schließen"
+"Alt + F4"="Alt + F4"
 "Always show tabs for this type of window"="Für diesen Fenstertyp immer Tabs anzeigen"
 "Unlock group"="Gruppe entsperren"
 "Lock group"="Gruppe sperren"
 "Save group"="Gruppe aktualisieren"
 "Saved as"="Gespeichert als"
 "Save group as"="Gruppe speichern unter..."
+"Saved Groups"="Gespeicherte Gruppen"
 "Unpin group from taskbar"="Gruppe von Taskleiste lösen"
 "Pin group to taskbar"="Gruppe an Taskleiste anheften"
 "Unpin group from Start"="Gruppe von Startmenü lösen"
 "Pin group to Start"="Gruppe an Startmenü anheften"
 "Exclude from Ctrl-N support"="Bei Strg + N ausschließen"
 "Enter a new name for this colour"="Bitte geben Sie einen Namen für die Farbe ein."
+"OK"="OK"
 "Enter a new title for this tab"="Bitte geben Sie einen neuen Namen für den Tab ein."
 "Name this group"="Gruppe umbenennen"
+"Save"="Speichern"
 "Enter a name for this saved group."="Bitte geben Sie einen Namen für die Gruppe ein."
 "Saved groups can be accessed from the saved groups Start Menu folder."="Gespeicherte Gruppen finden Sie im Startmenü."
 "Show create new tab option"="Menüpunkt 'Neuer Tab' anzeigen"
+
+; Missing
 "Exclude from Ctrl-T support"="Bei Strg + T ausschließen"
 "Buy Groupy 2"="Groupy 2 kaufen"
-"Not yet defined"="Noch keine Bedingungen"
-"Never automatically group"="Nicht automatisch gruppieren"
-; Groupy 2.1
-"Do not show the drop down arrow next to the new tab button"="Menü neben der 'Neuer Tab'-Schaltfläche ausblenden"
+
+;2.1
 "Closing groups"="Gruppen schließen"
 "Control how the close button works when using integrated tabs."="Verhalten der Schließen-Schaltfläche bei der Benutzung integrierter Tabs."
 "The close button in File Explorer or Windows Notepad should close the entire group"="Die Schließen-Schaltfläche im Explorer und Editor schließt die gesamte Gruppe"
 "When tabs are integrated into the title bar the close button should close the entire group"="Die Schließen-Schaltfläche schließt die gesamte Gruppe, wenn die Tabs in die Titelleiste integriert sind"
 "!Hold the Ctrl key down to only close the current window"="!Drücken Sie die Strg-Taste, um nur das aktuelle Fenster zu schließen"
-"New Explorer tabs should open in the same folder"="Neue Explorer-Tabs im selben Ordner öffnen"
-"System default language"="Sprache des Systems"
-"Reopen closed tabs"="Geschlossene Tabs wiederherstellen"
-; Groupy 2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Möchten Sie in Microsoft Word, Excel und Powerpoint immer Tabs anzeigen?"
-"Always show tabs for Microsoft Office?" = "Tabs in Microsoft Office immer anzeigen?"
-"You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Sie können die Tabs für ein Fenster über das Groupy-Menü ein- oder ausschalten. Bei ungruppierten Fenstern erscheint ein Tab, wenn Sie mit der Maus über das Fenster fahren."
-"Groupy disabled" = "Groupy ist nicht aktiv"
-"Groupy enabled" = "Groupy ist aktiv"
 
-;2.15
+"Reopen closed tabs"="Geschlossene Tabs wiederherstellen"
+"Do not show the drop down arrow next to the new tab button"="Menü neben der 'Neuer Tab'-Schaltfläche ausblenden"
+"New Explorer tabs should open in the same folder"="Neue Explorer-Tabs im selben Ordner öffnen"
+
+;2.12
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
+"You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Sie können die Tabs für ein Fenster über das Groupy-Menü ein- oder ausschalten. Bei ungruppierten Fenstern erscheint ein Tab, wenn Sie mit der Maus über das Fenster fahren."
+"Groupy disabled" = "Groupy disabled"
+"Groupy enabled" = "Groupy enabled"
+
+; 2.15
 "Enable if maximized window is clipped by tab bar"="Aktivieren, wenn maximiertes Fenster von der Tableiste abgeschnitten wird"
 "Do not show mouseover bar when ungrouped for this app"="Mauszeigerleiste nicht anzeigen, wenn für diese App nicht gruppiert"
 "Do not draw line under integrated tab bar"="Keine Linie unter der integrierten Tableiste zeichnen"
 "Do not animate tabs"="Tabs nicht animieren"
+
+;2.16
+"- File Explorer"="– Datei-Explorer"
+"- Notepad"="– Notepad"
+
+;2.3
+"Are you sure you want to pin this to the taskbar?"="Möchten Sie dies wirklich an die Taskleiste anheften?"
+"You can unpin it from the right click menu or change the icon from the shortcut properties"="Sie können es über das Rechtsklick-Menü lösen oder das Symbol über die Verknüpfungseigenschaften ändern"
+"Are you sure you want to pin this?"="Möchten Sie dies wirklich anheften?"
+"Are you sure you want to unpin this from the taskbar?"="Möchten Sie dies wirklich von der Taskleiste lösen?"
+"Are you sure you want to unpin this?"="Möchten Sie dies wirklich lösen?"
+"Add for all files with this filename?"="Für alle Dateien mit diesem Dateinamen hinzufügen?"
+"How to add?"="Wie hinzufügen?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

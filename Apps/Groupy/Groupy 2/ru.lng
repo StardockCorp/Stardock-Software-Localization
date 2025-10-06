@@ -98,7 +98,6 @@ Exist=1
 "The application colour should be used on Microsoft Office tabs"="Цвет приложения использовать на вкладках part"
 "Focused background bar :"="Фоновая полоса фокуса:"
 "Mica style"="Стиль мики"
-"Default colour"="Цвет по умолч"
 "Default colour (default)"="Цвет по умолч. (стандарт)"
 "Mica style (default)"="Стиль мики (по умолчанию)"
 "Unfocused background bar :"="Несфокусированная фоновая полоса:"
@@ -115,6 +114,7 @@ Exist=1
 "Are you sure you want to delete this Accent colour?"="Удалить цвет акцента?"
 "Delete Accent colour"="Удалить цвет акцента"
 "Adjust the colours used for tabs and the optional background bar."="Настройте цвета вкладок и фоновой панели."
+"Mica style (default)"="Стиль мики (по умолчанию)"
 "Frame colour"="Цвет рамки"
 "Custom colour..."="Пользовательский цвет"
 "How should Groupy work?"="Как должен работать Groupy?"
@@ -215,7 +215,7 @@ Exist=1
 "Please select a folder"="Выберите папку"
 "Rule name"="Название правила"
 "Check now..."="Проверь сейчас"
-"Visit Website..."="Сайт"
+"Visit website..."="Visit Website..."
 "Unlock / Purchase..."="Открыть/Купить"
 "Groupy is a trademark of Stardock Corporation"="Groupy - торговая марка Stardock Corp."
 "Office and Windows are registered trademarks of Microsoft Corporation"="Офис и window - зарег. товарные знаки Microsoft Corp."
@@ -237,10 +237,15 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="Администратор заблокировал настройки Groupy.\n\nХотите запустить от имени администратора, чтобы изменить их?"
 "Settings locked"="Настройки заблокированы"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="По умолчанию удерживайте окно >1/3 секунды перед отпусканием мыши над заголовком другого окна, чтобы добавить его в группу."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="Хотите оставить эту настройку включенной? (Изменить можно на странице настроек группировки.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="Оставить задержанную группировку включенной?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="Вкл. показ содержимого окна при перетаскивании в window для использования Groupy"
 "Show window contents when dragging mode not enabled"="Показ содержимого окна без режима перетаскивания"
+
+
+
+; Groupy App UI
+
 "Group this window and the dragged window"="Группировать это окно и перетаскиваемое окно"
 "Add this window to the dragged group"="Добавьте окно в перетаскиваемую группу"
 "Cannot group a window that is not responding"="Нельзя группировать не отвечающее окно"
@@ -270,6 +275,7 @@ Exist=1
 "<applied to this tab"="<применено к этой вкладке"
 "Pick Accent colour..."="Выбрать акцент цвет"
 "Save this Accent colour as a quick access Accent colour"="Сохраните этот акцентный цвет для быстрого доступа"
+"Rename"="Переименовать"
 "Ctrl+Shift+F1"="Ctrl+Shift+F1"
 "Save this Accent colour as default for this application"="Сохранить этот цвет акцента по умолчанию для приложения"
 "Save this Accent colour for this folder and child folders"="Сохр. цвет акцента для папки и вложенных"
@@ -289,23 +295,30 @@ Exist=1
 "Ungroup this group"="Разгрупп. группу"
 "Unpin Groupy Tabs"="Открепить Groupy вкладок"
 "Pin Groupy Tabs"="ПинGroupyВклдк"
+"Close tab"="Закр. вклдку"
+"Alt + F4"="Альт + F4"
 "Always show tabs for this type of window"="Всегда показ. вкладки для этого типа окна"
 "Unlock group"="Открыть группу"
 "Lock group"="Замок группа"
 "Save group"="Сохр. группу"
 "Saved as"="Сохр. как"
 "Save group as"="Сохранить группу как"
+"Saved Groups"="Сохраненные группы"
 "Unpin group from taskbar"="Открепить группу от панели задач"
 "Pin group to taskbar"="Закрепить группу на панели задач"
 "Unpin group from Start"="Открепить группу от Старт"
 "Pin group to Start"="Закрепить группу в Начале"
 "Exclude from Ctrl-N support"="Исключить из поддержки Ctrl-N"
 "Enter a new name for this colour"="Введите новое название для этого цвета"
+"OK"="ОК"
 "Enter a new title for this tab"="Введите новый заголовок для вкладки"
 "Name this group"="Назовите группу"
+"Save"="Сохр"
 "Enter a name for this saved group."="Введите имя для этой сохраненной группы."
 "Saved groups can be accessed from the saved groups Start Menu folder."="Сохран. группы доступны из папки меню Пуск."
 "Show create new tab option"="Показать опцию создания новой вкладки"
+
+; Missing
 "Exclude from Ctrl-T support"="Исключить из поддержки Ctrl-T"
 "Buy Groupy 2"="Купить Groupy 2"
 
@@ -321,14 +334,70 @@ Exist=1
 "New Explorer tabs should open in the same folder"="Новые вкладки Проводника должны открываться в той же папке"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Хотели бы вы всегда показывать вкладки для Microsoft Word, Excel и Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Всегда показывать вкладки для Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Вы можете включить или отключить вкладки в окне с помощью контекстного меню вкладки Groupy.  Для несгруппированных окон вкладка Groupy появится, если вы по умолчанию наведете курсор на верхнюю часть окна."
-"Groupy disabled" = "Groupy отключен"
-"Groupy enabled" = "Groupy включен"
+"Groupy disabled" = "Groupy disabled"
+"Groupy enabled" = "Groupy enabled"
 
-;2.15
+; 2.15
 "Enable if maximized window is clipped by tab bar"="Включить, если максимизированное окно обрезается панелью вкладок"
 "Do not show mouseover bar when ungrouped for this app"="Не показывать панель при наведении курсора, когда приложение не сгруппировано"
 "Do not draw line under integrated tab bar"="Не рисовать линию под интегрированной панелью вкладок"
 "Do not animate tabs"="Не анимировать вкладки"
+
+;2.16
+"- File Explorer"="— проводник"
+"- Notepad"="— Блокнот"
+
+;2.3
+"Are you sure you want to pin this to the taskbar?"="Вы уверены, что хотите закрепить это на панели задач?"
+"You can unpin it from the right click menu or change the icon from the shortcut properties"="Вы можете открепить его из контекстного меню или изменить значок в свойствах ярлыка"
+"Are you sure you want to pin this?"="Вы уверены, что хотите закрепить это?"
+"Are you sure you want to unpin this from the taskbar?"="Вы уверены, что хотите открепить это от панели задач?"
+"Are you sure you want to unpin this?"="Вы уверены, что хотите открепить это?"
+"Add for all files with this filename?"="Добавить для всех файлов с этим именем?"
+"How to add?"="Как добавить?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

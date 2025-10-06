@@ -2,9 +2,8 @@
 Name="Japanese"
 
 [Strings]
-Exist = 1	 
+Exist=1
 "Stardock Groupy 2 Configuration"="Stardock Groupy 2 設定"
-
 "General"="概要"
 "Tab appearance"="タブの外観"
 "Tab colours"="タブの色"
@@ -89,7 +88,7 @@ Exist = 1
 "Hide the caption text in the title bar of Grouped windows with non custom title bars"="独自のタイトルバーを持たないグループ化されたウィンドウのタイトルバーからキャプションテキストを非表示にする"
 "Show preview flyouts of inactive tabs on hover"="マウスを重ねたときに非アクティブなタブのプレビューフライアウトを表示する"
 "Show a close all tabs button on the tab bar when tabs are above the window"="ウィンドウの上にタブがある場合、タブバーに閉じるボタンを表示する"
-"Advanced tab settings"="高度なタブ設定
+"Advanced tab settings"="Advanced tab settings"
 "!You can also save Accent colours from the Groupy menu"="!Groupyメニューからアクセントカラーを保存することも可能です"
 "Focused Tab bar appearance"="タブバーの外観を重視"
 "Unfocused Tab bar appearance"="フォーカスされていないタブバーの外観"
@@ -103,7 +102,7 @@ Exist = 1
 "Mica style (default)"="Mica style (default)"
 "Unfocused background bar :"="Unfocused background bar :"
 "Unfocused tab colour"="Unfocused tab colour"
-"Rename"="名前の変更"
+"Rename"="名前変更"
 "Create new"="新規作成"
 "Delete"="削除"
 "Manage Accent colours"="アクセントカラーの管理"
@@ -175,7 +174,7 @@ Exist = 1
 "Automatically group identical windows together unless they are already in another Group"="既に別のグループに属していない場合、同一のウィンドウは自動的にグループ化を行う"
 "Browse saved Groups folder..."="保存されたグループのフォルダを参照する..."
 "Automatic window grouping"="ウィンドウの自動グループ化"
-"Saved Groups"="グループの保存"
+"Saved Groups"="グループを保存しました"
 "Custom rules"="カスタムルール"
 "Block / allow applications"="アプリケーションのブロック/許可"
 "Automatically group"="自動的なグループ化"
@@ -238,7 +237,7 @@ Exist = 1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="管理者がGroupyの設定をロックしています。\n\n管理者として実行して、それらを変更しますか？"
 "Settings locked"="設定はロックされています"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="デフォルトではウィンドウをグループに追加するには他のウィンドウのタイトルバー上でマウスを離す前に、1/3秒以上ウィンドウを保持する必要があります。"
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="この設定を有効にしますか？（この設定はグループ化設定ページから変更できます。）"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="グループ化の遅延を有効にしますか？"
 "You need to enable show window contents when dragging in Windows to use Groupy"="Groupyを使用するには、Windowsでドラッグ時にウィンドウの内容を表示するように設定する必要があります"
 "Show window contents when dragging mode not enabled"="ドラッグモードが有効でない場合、ウィンドウの内容を表示する"
@@ -250,7 +249,7 @@ Exist = 1
 "Group this window and the dragged window"="このウィンドウとドラッグしたウィンドウをグループ化する"
 "Add this window to the dragged group"="このウィンドウをドラッググループに追加する"
 "Cannot group a window that is not responding"="ウィンドウが応答していないためグループ化ができません"
-"ｃ"="Groupyを使用するには、Desktop Window Managerが有効であることが必要です"
+"Groupy requires the Desktop Window Manager to be enabled"="Groupy requires the Desktop Window Manager to be enabled"
 "Group these windows"="これらのウィンドウをグループ化する"
 "Your group has been saved and you can access this either via the Groupy menu on an existing tab group, or from the Windows Start Menu in the Saved Groups folder"="グループは保存され、既存のタブグループのGroupyメニュー、またはWindowsスタートメニューのSaved Groupsフォルダーからアクセスできます"
 "Your group has been saved"="グループが保存されました"
@@ -308,7 +307,7 @@ Exist = 1
 "Unpin group from taskbar"="タスクバーのグループのピン留めを解除する"
 "Pin group to taskbar"="タスクバーにグループをピン留めする"
 "Unpin group from Start"="スタートからグループのピン留めを解除する"
-"Pin group to Start"="スタートにグループをピン留めする"									 
+"Pin group to Start"="スタートにグループをピン留めする"
 "Exclude from Ctrl-N support"="Ctrl-Nの対象から除外する"
 "Enter a new name for this colour"="この色の新しい名前を入力してください"
 "OK"="OK"
@@ -335,14 +334,70 @@ Exist = 1
 "New Explorer tabs should open in the same folder"="新しいエクスプローラーのタブは、同じフォルダを開きます"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Microsoft Word、Excel、Powerpointのタブを常に表示しますか？"
-"Always show tabs for Microsoft Office?" = "Microsoft Officeのタブを常に表示しますか？"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Groupyタブの右クリックメニューでウィンドウのタブを有効/無効にできます。 グループ化されていないウィンドウの場合、デフォルトではウィンドウ上部にカーソルを置くとGroupyタブが表示されます。"
 "Groupy disabled" = "Groupy disabled"
 "Groupy enabled" = "Groupy enabled"
 
-;2.15
+; 2.15
 "Enable if maximized window is clipped by tab bar"="最大化されたウィンドウがタブバーによって隠れる場合に有効にする"
 "Do not show mouseover bar when ungrouped for this app"="このアプリのグループ化が解除されている時にマウスオーバーバーを表示しない"
 "Do not draw line under integrated tab bar"="統合タブバーの下に線を描画しない"
 "Do not animate tabs"="タブのアニメーションを行わない"
+
+;2.16
+"- File Explorer"="- エクスプローラー"
+"- Notepad"="- メモ帳"
+
+;2.3
+"Are you sure you want to pin this to the taskbar?"="これをタスクバーにピン留めしてもよろしいですか?"
+"You can unpin it from the right click menu or change the icon from the shortcut properties"="右クリックメニューからピン留めを外すか、ショートカットのプロパティからアイコンを変更できます"
+"Are you sure you want to pin this?"="これをピン留めしてもよろしいですか?"
+"Are you sure you want to unpin this from the taskbar?"="これをタスクバーからピン留め解除してもよろしいですか?"
+"Are you sure you want to unpin this?"="これのピン留めを解除してもよろしいですか?"
+"Add for all files with this filename?"="このファイル名のすべてのファイルに追加しますか?"
+"How to add?"="追加方法は?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

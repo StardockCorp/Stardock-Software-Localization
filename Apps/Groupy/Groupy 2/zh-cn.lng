@@ -1,8 +1,8 @@
 [UI]
+Name="Chinese (Simplified)"
+
 [Strings]
 Exist=1
-Name="Chinese-Simplified"
-"System Default Language"="系统默认"
 "Stardock Groupy 2 Configuration"="Stardock Groupy 2 设置"
 "General"="总览"
 "Tab appearance"="标签外观"
@@ -98,7 +98,6 @@ Name="Chinese-Simplified"
 "The application colour should be used on Microsoft Office tabs"="颜色应用于 Microsoft Office 标签"
 "Focused background bar :"="专注背景条："
 "Mica style"="Mica 风格"
-"Default colour"="默认颜色"
 "Default colour (default)"="默认颜色(默认)"
 "Mica style (default)"="Mica 风格（默认）"
 "Unfocused background bar :"="背景模糊条："
@@ -115,6 +114,7 @@ Name="Chinese-Simplified"
 "Are you sure you want to delete this Accent colour?"="确定要删除此强调色吗？"
 "Delete Accent colour"="删除强调色"
 "Adjust the colours used for tabs and the optional background bar."="调整选项卡及可选背景条的颜色。"
+"Mica style (default)"="Mica 风格（默认）"
 "Frame colour"="框架颜色"
 "Custom colour..."="自定义颜色"
 "How should Groupy work?"="调整 Groupy"
@@ -215,7 +215,7 @@ Name="Chinese-Simplified"
 "Please select a folder"="请选择文件夹"
 "Rule name"="规则名"
 "Check now..."="检查更新"
-"Visit Website..."="访问网站"
+"Visit website..."="Visit Website..."
 "Unlock / Purchase..."="解锁 / 购买"
 "Groupy is a trademark of Stardock Corporation"="Groupy 是 Stardock 公司的注册商标"
 "Office and Windows are registered trademarks of Microsoft Corporation"="Office 和 Windows 是微软公司的注册商标"
@@ -237,10 +237,15 @@ Name="Chinese-Simplified"
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="管理员锁定了 Groupy 设置。\n\n要以管理员身份运行以修改吗？"
 "Settings locked"="设置已锁定"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="默认情况下，您需要在释放鼠标至另一窗口标题栏前，按住窗口超过1/3秒以将窗口添加至组。"
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="要保持此设置启用吗？（可在分组设置页更改。）"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="保持延迟分组启用？"
 "You need to enable show window contents when dragging in Windows to use Groupy"="需启用Windows拖动时显示窗口内容以使用Groupy"
 "Show window contents when dragging mode not enabled"="未启用拖动模式时显示窗口内容"
+
+
+
+; Groupy App UI
+
 "Group this window and the dragged window"="将此窗口与拖动窗口分组"
 "Add this window to the dragged group"="将此窗口添加至拖动组"
 "Cannot group a window that is not responding"="无法分组无响应窗口"
@@ -270,6 +275,7 @@ Name="Chinese-Simplified"
 "<applied to this tab"="<应用于此标签"
 "Pick Accent colour..."="选择强调色"
 "Save this Accent colour as a quick access Accent colour"="将此强调色保存为快速访问强调色"
+"Rename"="重命名"
 "Ctrl+Shift+F1"="Ctrl+Shift+F1"
 "Save this Accent colour as default for this application"="将此强调色设为应用默认"
 "Save this Accent colour for this folder and child folders"="为此文件夹及子文件夹保存此强调色"
@@ -289,23 +295,30 @@ Name="Chinese-Simplified"
 "Ungroup this group"="取消此分组"
 "Unpin Groupy Tabs"="取消固定 Groupy 标签"
 "Pin Groupy Tabs"="固定 Groupy 标签"
+"Close tab"="关闭标签"
+"Alt + F4"="Alt + F4"
 "Always show tabs for this type of window"="始终显示此类窗口的标签"
 "Unlock group"="解锁分组"
 "Lock group"="锁定分组"
 "Save group"="保存分组"
 "Saved as"="已保存为"
 "Save group as"="保存组为"
+"Saved Groups"="已保存分组"
 "Unpin group from taskbar"="取消固定任务栏分组"
 "Pin group to taskbar"="固定组到任务栏"
 "Unpin group from Start"="从开始取消固定分组"
 "Pin group to Start"="固定组到开始"
 "Exclude from Ctrl-N support"="排除 Ctrl-N 支持"
 "Enter a new name for this colour"="为此颜色命名"
+"OK"="确认"
 "Enter a new title for this tab"="输入新标签页标题"
 "Name this group"="命名此组"
+"Save"="保存"
 "Enter a name for this saved group."="输入此已保存分组的名称。"
 "Saved groups can be accessed from the saved groups Start Menu folder."="已保存分组可从开始菜单文件夹访问。"
 "Show create new tab option"="显示新建标签选项"
+
+; Missing
 "Exclude from Ctrl-T support"="排除Ctrl-T支持"
 "Buy Groupy 2"="购买 Groupy 2"
 
@@ -321,14 +334,70 @@ Name="Chinese-Simplified"
 "New Explorer tabs should open in the same folder"="新的资源管理器标签应在同一文件夹中打开"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "您想始终显示Microsoft Word，Excel和Powerpoint的选项卡吗？"
-"Always show tabs for Microsoft Office?" = "始终显示 Microsoft Office 的选项卡？"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="您可以使用 Groupy 选项卡右键单击菜单启用或禁用窗口上的选项卡。 对于未分组的窗口，如果默认情况下将鼠标悬停在窗口顶部，则会显示 Groupy 选项卡。"
-"Groupy disabled" = "禁用"
-"Groupy enabled" = "启用"
+"Groupy disabled" = "Groupy disabled"
+"Groupy enabled" = "Groupy enabled"
 
-;2.15
+; 2.15
 "Enable if maximized window is clipped by tab bar"="如果最大化窗口被标签栏截断，则启用"
 "Do not show mouseover bar when ungrouped for this app"="此应用未分组时不显示鼠标悬停栏"
 "Do not draw line under integrated tab bar"="不要在集成的标签栏下画线"
 "Do not animate tabs"="不要对标签进行动画处理"
+
+;2.16
+"- File Explorer"="- 文件资源管理器"
+"- Notepad"="- 记事本"
+
+;2.3
+"Are you sure you want to pin this to the taskbar?"="您确定要将此项固定到任务栏吗?"
+"You can unpin it from the right click menu or change the icon from the shortcut properties"="您可以从右键菜单中取消固定或从快捷方式属性中更改图标"
+"Are you sure you want to pin this?"="您确定要固定此项吗?"
+"Are you sure you want to unpin this from the taskbar?"="您确定要从任务栏取消固定此项吗?"
+"Are you sure you want to unpin this?"="您确定要取消固定此项吗?"
+"Add for all files with this filename?"="为所有具有此文件名的文件添加?"
+"How to add?"="如何添加?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

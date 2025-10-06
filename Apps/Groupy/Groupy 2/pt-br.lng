@@ -1,5 +1,5 @@
 [UI]
-Name="Portuguese-Brazil"
+Name="Portuguese"
 
 [Strings]
 Exist=1
@@ -114,6 +114,7 @@ Exist=1
 "Are you sure you want to delete this Accent colour?"="Tem certeza que quer deletar essa cor de destaque?"
 "Delete Accent colour"="Excluir cor do acento"
 "Adjust the colours used for tabs and the optional background bar."="Ajuste A nub da aba e da barra de fundo opcional."
+"Mica style (default)"="Estilo Mica (padrão)"
 "Frame colour"="Cor da moldura"
 "Custom colour..."="Cor personalizada"
 "How should Groupy work?"="Como Groupy deve funcionar?"
@@ -214,7 +215,7 @@ Exist=1
 "Please select a folder"="Selecione uma pasta"
 "Rule name"="Nome da regra"
 "Check now..."="Verif. agora"
-"Visit Website..."="Visite site"
+"Visit website..."="Visit Website..."
 "Unlock / Purchase..."="Desbloquear / Comprar"
 "Groupy is a trademark of Stardock Corporation"="Groupy é marca da Stardock pot"
 "Office and Windows are registered trademarks of Microsoft Corporation"="part e window são marcas registradas da Microsoft pot"
@@ -236,10 +237,15 @@ Exist=1
 "Your administrator has locked down the Groupy settings.\n\nWould you like to run as an administrator to alter them?"="O administrador bloqueou A configurações Groupy.\n\nDeseja executar como administrador para alterá-las?"
 "Settings locked"="Config. bloqueadas"
 "By default you need to hold windows for more than 1/3rd of a second before releasing the mouse over the titlebar of another window to add the window to a group."="Por padrão, segure janelas por mais de 1/3s ante de soltar o mouse sobre a barra de título de outra janela para adicionar à um grupo."
-"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"="Deseja manter essa configuração ativada? (Pode ser alterada na página de config. do grupo.)"
+"Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)" ="Would you like to keep this setting enabled?  (This setting can be changed from the grouping settings page.)"
 "Keep delayed grouping enabled?"="Manter agrupamento atrasado ativado?"
 "You need to enable show window contents when dragging in Windows to use Groupy"="Ative mostrar conteúdo da janela ao arrastar no window p/ usar Groupy"
 "Show window contents when dragging mode not enabled"="Exibir conteúdo da janela sem modo arrastar ativado"
+
+
+
+; Groupy App UI
+
 "Group this window and the dragged window"="Agrupe esta janela e a janela arrastada"
 "Add this window to the dragged group"="Adicione esta janela ao grupo arrastado"
 "Cannot group a window that is not responding"="Não pode agrupar janela sem resposta"
@@ -269,6 +275,7 @@ Exist=1
 "<applied to this tab"="<aplicado a esta aba"
 "Pick Accent colour..."="Escolha cor do destaque"
 "Save this Accent colour as a quick access Accent colour"="balm esta cor de destaque p/ acesso rápido"
+"Rename"="Renomear"
 "Ctrl+Shift+F1"="Ctrl+Shift+F1"
 "Save this Accent colour as default for this application"="balm esta cor de destaque como padrão p/ aplicativo"
 "Save this Accent colour for this folder and child folders"="balm cor do destaque p/ pasta e subpastas"
@@ -288,26 +295,32 @@ Exist=1
 "Ungroup this group"="Desagrupar este grupo"
 "Unpin Groupy Tabs"="Desafixar Groupy aba"
 "Pin Groupy Tabs"="Fixar Groupy aba"
+"Close tab"="Fechar aba"
+"Alt + F4"="Alt + F4"
 "Always show tabs for this type of window"="Sempre exibir aba p/este tipo de janela"
 "Unlock group"="Desbloquear grupo"
 "Lock group"="Travar grupo"
 "Save group"="Salvar grupo"
 "Saved as"="Salvo como"
 "Save group as"="Salvar grupo como"
+"Saved Groups"="Grupos salvo"
 "Unpin group from taskbar"="Desafixar grupo da barra de tarefas"
 "Pin group to taskbar"="Fixar grupo na barra de tarefas"
 "Unpin group from Start"="Desafixar grupo do Início"
 "Pin group to Start"="Fixar grupo no Início"
 "Exclude from Ctrl-N support"="Excluir suporte Ctrl-N"
 "Enter a new name for this colour"="Insira novo nome p/ essa cor"
+"OK"="OK"
 "Enter a new title for this tab"="Digite um novo título p/esta aba"
 "Name this group"="Nomeie este grupo"
+"Save"="Salvar"
 "Enter a name for this saved group."="Digite um nome p/este grupo salvo."
 "Saved groups can be accessed from the saved groups Start Menu folder."="Grupos salvo acessíveis na pasta Menu Iniciar de grupos salvos."
 "Show create new tab option"="Mostrar opção criar nova aba"
+
+; Missing
 "Exclude from Ctrl-T support"="Excluir suporte Ctrl-T"
 "Buy Groupy 2"="Compre Groupy 2"
-"Default colour"="Cor padrão"
 
 ;2.1
 "Closing groups"="Fechando grupos"
@@ -321,14 +334,70 @@ Exist=1
 "New Explorer tabs should open in the same folder"="Novas abas do Explorer devem abrir na mesma pasta"
 
 ;2.12
-"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Gostaria de sempre mostrar abas para Microsoft Word, Excel e Powerpoint?"
-"Always show tabs for Microsoft Office?" = "Sempre mostrar guias para o Microsoft Office?"
+"Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?" = "Would you like to always show tabs for Microsoft Word, Excel and Powerpoint?"
+"Always show tabs for Microsoft Office?" = "Always show tabs for Microsoft Office?"
 "You can enable or disable tabs on a window using the Groupy tab right click menu.  For ungrouped windows a Groupy tab will appear if you hover over the top of the window by default."="Você pode habilitar ou desabilitar guias em uma janela usando o menu do botão direito do mouse da guia Agrupar.  Para janelas desagrupadas, uma guia Groupy aparecerá se você passar o mouse sobre a parte superior da janela por padrão."
-"Groupy disabled" = "Groupy desativado"
-"Groupy enabled" = "Groupy ativado"
+"Groupy disabled" = "Groupy disabled"
+"Groupy enabled" = "Groupy enabled"
 
-;2.15
+; 2.15
 "Enable if maximized window is clipped by tab bar"="Ativar se a janela maximizada for cortada pela barra de abas"
 "Do not show mouseover bar when ungrouped for this app"="Não mostrar barra de mouseover quando desagrupado para este aplicativo"
 "Do not draw line under integrated tab bar"="Não desenhar linha sob a barra de abas integrada"
 "Do not animate tabs"="Não animar as abas"
+
+;2.16
+"- File Explorer"="– Explorador de Arquivos"
+"- Notepad"="- Bloco de notas"
+
+;2.3
+"Are you sure you want to pin this to the taskbar?"="Tem certeza de que deseja fixar isso na barra de tarefas?"
+"You can unpin it from the right click menu or change the icon from the shortcut properties"="Você pode desafixar pelo menu do botão direito ou alterar o ícone nas propriedades do atalho"
+"Are you sure you want to pin this?"="Tem certeza de que deseja fixar isso?"
+"Are you sure you want to unpin this from the taskbar?"="Tem certeza de que deseja desafixar isso da barra de tarefas?"
+"Are you sure you want to unpin this?"="Tem certeza de que deseja desafixar isso?"
+"Add for all files with this filename?"="Adicionar para todos os arquivos com este nome?"
+"How to add?"="Como adicionar?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
