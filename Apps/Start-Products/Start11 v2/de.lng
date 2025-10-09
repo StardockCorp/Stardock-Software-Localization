@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="Text sollte einen Schatten haben"
 "Paint focused item backgrounds less transparent"="Malen Sie den Hintergrund fokussierter Elemente weniger transparent"
 "Enable Start11 autohide mode"="Aktivieren Sie den Autohide-Modus von Start11"
-"Only hide when a window is maximised or overlapping the taskbar"="Nur ausblenden, wenn ein Fenster maximiert ist oder die Taskleiste überlappt"
+"Only hide when a window is maximized or overlapping the taskbar"="Nur ausblenden, wenn ein Fenster maximiert ist oder die Taskleiste überlappt"
 "Taskbar button combining"="Taskleisten-Schaltflächen-Kombination"
 "Control how the taskbar buttons combine"="Steuern Sie, wie die Taskleisten-Schaltflächen kombiniert werden"
 "Taskbar button appearance"="Aussehen der Taskleisten-Schaltfläche"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="Alle Anwendungen"
 "Autohide taskbar"="Taskleiste automatisch ausblenden"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="Auf automatisch zurücksetzen"
+"Use old Start10® style search"="Alte Start10®-Stilsuche verwenden"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="Links ausrichten (Experimentell - aktiviert erweiterte Taskleiste)"
+"Align Right (Experimental - will enable enhanced taskbar)"="Rechts ausrichten (Experimentell - aktiviert erweiterte Taskleiste)"

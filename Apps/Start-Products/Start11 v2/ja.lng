@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="テキストに影をつける"
 "Paint focused item backgrounds less transparent"="フォーカスされたアイテムの背景の透明度を下げる"
 "Enable Start11 autohide mode"="Start11オートハイドモードを有効にする"
-"Only hide when a window is maximised or overlapping the taskbar"="ウィンドウが最大化されているか、タスクバーと重なっているときのみ非表示"
+"Only hide when a window is maximized or overlapping the taskbar"="ウィンドウが最大化されているか、タスクバーと重なっているときのみ非表示"
 "Taskbar button combining"="タスクバーボタンの結合"
 "Control how the taskbar buttons combine"="タスクバーのボタンがどのように組み合わさるかを制御する"
 "Taskbar button appearance"="タスクバーのボタンの外観"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="すべてのアプリケーション"
 "Autohide taskbar"="タスクバーを自動的に隠す"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="Reset to automatic"
+"Use old Start10® style search"="Use old Start10® style search"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="Align Left (Experimental - will enable enhanced taskbar)"
+"Align Right (Experimental - will enable enhanced taskbar)"="Align Right (Experimental - will enable enhanced taskbar)"

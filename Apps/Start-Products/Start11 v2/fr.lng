@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="Le texte doit être ombré"
 "Paint focused item backgrounds less transparent"="Rendre moins transparents les arrière-plans des éléments ciblés"
 "Enable Start11 autohide mode"="Activer le mode de masquage automatique de Start11"
-"Only hide when a window is maximised or overlapping the taskbar"="Masquer uniquement lorsqu'une fenêtre est maximisée ou chevauche la barre des tâches"
+"Only hide when a window is maximized or overlapping the taskbar"="Masquer uniquement lorsqu'une fenêtre est maximisée ou chevauche la barre des tâches"
 "Taskbar button combining"="Combinaison des boutons de la barre des tâches"
 "Control how the taskbar buttons combine"="Contrôler la combinaison des boutons de la barre des tâches"
 "Taskbar button appearance"="Apparence des boutons de la barre des tâches"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="Toutes les applications"
 "Autohide taskbar"="Masquer la barre des tâches automatiquement"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="Réinitialiser automatique"
+"Use old Start10® style search"="Utiliser la recherche de style Start10® ancien"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="Aligner à gauche (Expérimental - activera la barre des tâches améliorée)"
+"Align Right (Experimental - will enable enhanced taskbar)"="Aligner à droite (Expérimental - activera la barre des tâches améliorée)"

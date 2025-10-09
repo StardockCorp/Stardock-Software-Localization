@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="텍스트에는 그림자가 있어야 합니다"
 "Paint focused item backgrounds less transparent"="페인트 중점 항목 배경을 덜 투명하게 만드세요"
 "Enable Start11 autohide mode"="Start11 자동 숨김 모드 활성화"
-"Only hide when a window is maximised or overlapping the taskbar"="창이 최대화되었거나 작업 표시줄과 겹칠 때만 숨기기"
+"Only hide when a window is maximized or overlapping the taskbar"="창이 최대화되었거나 작업 표시줄과 겹칠 때만 숨기기"
 "Taskbar button combining"="Taskbar 버튼 결합"
 "Control how the taskbar buttons combine"="태스크바 버튼이 결합되는 방식을 제어하십시오"
 "Taskbar button appearance"="태스크바 버튼 모양"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="모든 애플리케이션"
 "Autohide taskbar"="작업 표시줄 자동 숨기기"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="자동으로 재설정"
+"Use old Start10® style search"="이전 Start10® 스타일 검색 사용"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="왼쪽 정렬 (실험적 - 향상된 작업 표시줄 활성화)"
+"Align Right (Experimental - will enable enhanced taskbar)"="오른쪽 정렬 (실험적 - 향상된 작업 표시줄 활성화)"

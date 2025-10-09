@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="Текст должен иметь тень"
 "Paint focused item backgrounds less transparent"="Сделайте фон элементов с фокусом менее прозрачным"
 "Enable Start11 autohide mode"="'Включить режим автоскрытия Start11'"
-"Only hide when a window is maximised or overlapping the taskbar"="Скрывать только когда окно развернуто или перекрывает панель задач"
+"Only hide when a window is maximized or overlapping the taskbar"="Скрывать только когда окно развернуто или перекрывает панель задач"
 "Taskbar button combining"="Объединение кнопок на панели задач"
 "Control how the taskbar buttons combine"="Управление способом объединения кнопок на панели задач"
 "Taskbar button appearance"="Внешний вид кнопки панели задач"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="Все приложения"
 "Autohide taskbar"="Автоматически скрывать панель задач"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="Сбросить на автоматический"
+"Use old Start10® style search"="Использовать старый стиль поиска Start10®"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="Выровнять влево (Экспериментально - включит расширенную панель задач)"
+"Align Right (Experimental - will enable enhanced taskbar)"="Выровнять вправо (Экспериментально - включит расширенную панель задач)"

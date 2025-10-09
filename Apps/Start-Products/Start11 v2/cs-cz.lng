@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="Text by měl mít stín"
 "Paint focused item backgrounds less transparent"="Méně průhledné pozadí zaměřených prvků"
 "Enable Start11 autohide mode"="Povolení režimu automatického skrývání Start11"
-"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
+"Only hide when a window is maximized or overlapping the taskbar"="Only hide when a window is maximized or overlapping the taskbar"
 "Taskbar button combining"="Zakázat kombinování tlačítek na hlavním panelu"
 "Control how the taskbar buttons combine"="Ovládání způsobu kombinace tlačítek hlavního panelu"
 "Taskbar button appearance"="Vzhled tlačítka hlavního panelu"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="All applications"
 "Autohide taskbar"="Autohide taskbar"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="Reset to automatic"
+"Use old Start10® style search"="Use old Start10® style search"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="Align Left (Experimental - will enable enhanced taskbar)"
+"Align Right (Experimental - will enable enhanced taskbar)"="Align Right (Experimental - will enable enhanced taskbar)"

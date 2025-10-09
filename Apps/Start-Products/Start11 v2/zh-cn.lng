@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="文本应该有阴影"
 "Paint focused item backgrounds less transparent"="将焦点项目的背景颜色涂得不那么透明"
 "Enable Start11 autohide mode"="启用Start11自动隐藏模式"
-"Only hide when a window is maximised or overlapping the taskbar"="仅当窗口最大化或与任务栏重叠时隐藏"
+"Only hide when a window is maximized or overlapping the taskbar"="仅当窗口最大化或与任务栏重叠时隐藏"
 "Taskbar button combining"="任务栏按钮合并"
 "Control how the taskbar buttons combine"="控制任务栏按钮的组合方式"
 "Taskbar button appearance"="任务栏按钮外观"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="所有应用程序"
 "Autohide taskbar"="自动隐藏任务栏"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="重置为自动"
+"Use old Start10® style search"="使用旧的 Start10® 样式搜索"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="靠左对齐（实验性 - 将启用增强任务栏）"
+"Align Right (Experimental - will enable enhanced taskbar)"="靠右对齐（实验性 - 将启用增强任务栏）"

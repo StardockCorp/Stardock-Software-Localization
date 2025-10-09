@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="Text should have a shadow"
 "Paint focused item backgrounds less transparent"="Paint focused item backgrounds less transparent"
 "Enable Start11 autohide mode"="Enable Start11 autohide mode"
-"Only hide when a window is maximised or overlapping the taskbar"="Only hide when a window is maximised or overlapping the taskbar"
+"Only hide when a window is maximized or overlapping the taskbar"="Only hide when a window is maximized or overlapping the taskbar"
 "Taskbar button combining"="Taskbar button combining"
 "Control how the taskbar buttons combine"="Control how the taskbar buttons combine"
 "Taskbar button appearance"="Taskbar button appearance"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="Vsi programi"
 "Autohide taskbar"="Autohide taskbar"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="Reset to automatic"
+"Use old Start10® style search"="Use old Start10® style search"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="Align Left (Experimental - will enable enhanced taskbar)"
+"Align Right (Experimental - will enable enhanced taskbar)"="Align Right (Experimental - will enable enhanced taskbar)"

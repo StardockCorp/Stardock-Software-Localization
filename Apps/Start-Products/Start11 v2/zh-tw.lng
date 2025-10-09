@@ -679,7 +679,7 @@ Exist=1
 "Text should have a shadow"="文字應該有陰影"
 "Paint focused item backgrounds less transparent"="將焦點項目的背景塗得不那麼透明"
 "Enable Start11 autohide mode"="啟用Start11自動隱藏模式"
-"Only hide when a window is maximised or overlapping the taskbar"="僅當視窗最大化或與工作列重疊時隱藏"
+"Only hide when a window is maximized or overlapping the taskbar"="僅當視窗最大化或與工作列重疊時隱藏"
 "Taskbar button combining"="工作列按鈕組合"
 "Control how the taskbar buttons combine"="控制工作列按鈕的組合方式"
 "Taskbar button appearance"="工作列按鈕外觀"
@@ -908,3 +908,11 @@ Exist=1
 ; Missing before 2.55
 "All applications"="所有應用程式"
 "Autohide taskbar"="自動隱藏工作列"
+
+;Missing items found 10/06/2025
+"Reset to automatic"="重設為自動"
+"Use old Start10® style search"="使用舊的 Start10® 樣式搜尋"
+
+;Missing 10/09/2025
+"Align Left (Experimental - will enable enhanced taskbar)"="靠左對齊（實驗性 - 將啟用增強工作列）"
+"Align Right (Experimental - will enable enhanced taskbar)"="靠右對齊（實驗性 - 將啟用增強工作列）"
