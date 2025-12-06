@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -288,6 +288,9 @@ msgstr "自動排列圖示"
 msgid "Auto organizing"
 msgstr "自動整理"
 
+msgid "Auto refresh search results"
+msgstr "自動刷新搜尋結果"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "當不使用桌面時自動隱藏圖示"
 
@@ -432,6 +435,9 @@ msgstr "位元組"
 
 msgid "Cancel"
 msgstr "取消"
+
+msgid "Cancel search"
+msgstr "取消搜尋"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "無法在未啟用 Fences 時進行備份。"
@@ -623,7 +629,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "Copyright © {0}-{1} {2}.版權所有。"
 
 msgid "Create a Fence™"
-msgstr "建立分類區"
+msgstr "建立一個Fence™"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "創建一個空的Fence，然後返回此處選擇它。"
@@ -926,6 +932,9 @@ msgstr "編輯柵欄樣式"
 msgid "Edit Icon Tint"
 msgstr "編輯圖示色調"
 
+msgid "Edit search"
+msgstr "編輯搜尋"
+
 msgid "Edit title font"
 msgstr "編輯標題字體"
 
@@ -967,6 +976,9 @@ msgstr "已啟用"
 
 msgid "ends with"
 msgstr "結尾是"
+
+msgid "Enter search term"
+msgstr "輸入搜尋詞"
 
 msgid "Enter title"
 msgstr "輸入標題"
@@ -1237,6 +1249,9 @@ msgstr "輕彈敏感度"
 msgid "Folder to create"
 msgstr "要建立的資料夾"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "資料夾已成功添加到Windows搜尋。更新的結果可能需要幾秒到幾分鐘才能出現，結果可能在索引完成之前為空。您可以隨時從Windows搜尋控制面板更改索引設置。"
+
 msgid "Folders"
 msgstr "資料夾"
 
@@ -1257,6 +1272,9 @@ msgstr "生成許可證可分發文件"
 
 msgid "Generate license file"
 msgstr "產生許可證文件"
+
+msgid "Get help"
+msgstr "獲取幫助"
 
 msgid "Getting started"
 msgstr "開始使用"
@@ -1484,6 +1502,9 @@ msgstr "圖示名稱不包含…"
 msgid "Icon's name ends with..."
 msgstr "圖示名稱結尾是…"
 
+msgid "Icon's name is exactly..."
+msgstr "圖示的名稱正是..."
+
 msgid "Icon's name starts with..."
 msgstr "圖示名稱開頭是…"
 
@@ -1538,6 +1559,9 @@ msgstr "從檔案導入配置"
 msgid "Import layout & settings from file"
 msgstr "從文件導入佈局和設置"
 
+msgid "Include subfolders in search"
+msgstr "在搜尋中包含子資料夾"
+
 msgid "Inherit view mode from parent"
 msgstr "從父項目繼承視圖模式"
 
@@ -1552,6 +1576,9 @@ msgstr "指示"
 
 msgid "is"
 msgstr "是"
+
+msgid "is exactly"
+msgstr "正是"
 
 msgid "is now available"
 msgstr "現已提供"
@@ -2281,6 +2308,12 @@ msgstr "重設規則為預設值…"
 msgid "Reset rule?"
 msgstr "重設規則？"
 
+msgid "Reset search"
+msgstr "重設搜尋"
+
+msgid "Reset search & filters"
+msgstr "重設搜尋和篩選器"
+
 msgid "Reset this group's customization"
 msgstr "重置該組的自訂"
 
@@ -2377,6 +2410,9 @@ msgstr "安排一個介紹通話"
 msgid "Screens"
 msgstr "螢幕"
 
+msgid "Search"
+msgstr "搜尋"
+
 msgid "Search & filter"
 msgstr "搜索與篩選"
 
@@ -2411,22 +2447,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "設定固定頁數，並在結尾換行"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"翻譯的文字: 設定已更新。\n"
+"設定已更新。當靠近螢幕頂部時，標題欄將不再移動到底部。\n"
 "\n"
-"若要將一組的標題欄移回頂部，請將該組向上端移開，然後再移回。"
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"設定已更新。\n"
-"\n"
-"若要將此群組的標題欄移回頂部，請將此群組遠離頂部邊緣，然後再移回來。"
+"已經停靠在螢幕頂部的Fences群組需要手動移動以應用此設定。要從螢幕頂部取消停靠這些群組，請將群組從邊緣拉開。完成此操作後，群組的標題欄將不再位於底部。"
 
 msgid "Settings"
 msgstr "設定"
@@ -2822,6 +2849,9 @@ msgstr "若要調整特定Fences的外觀，請從上面標記為「所有群組
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "若要調整特定分類區的外觀，請造訪 Fences 設定的「客製化」區塊。在「客製化」區塊，從下拉式功能表選取分類區，利用常用控制項來編輯顏色設定。"
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "要自動刷新搜尋結果，必須由Windows搜尋索引此資料夾。您想現在將%s添加到Windows搜尋索引嗎？"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "若要變更Folder Portal的圖示順序，以滑鼠右鍵按一下檢視，然後從「排序方式」功能表加以選取。"
 
@@ -2903,6 +2933,9 @@ msgstr "要關閉排序嗎？"
 msgid "Type-based rules"
 msgstr "基於類型的規則"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "無法將資料夾添加到Windows搜尋。嘗試手動添加以啟用自動刷新搜尋結果。"
+
 msgid "Unable to create folder. Please try again."
 msgstr "無法建立資料夾。請再試一次。"
 
@@ -2962,6 +2995,9 @@ msgstr "此設定的使用應僅限於單一監視器系統。"
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "在 Fence 群組內外使用相同的間距"
+
+msgid "Use search term as title"
+msgstr "使用搜尋詞作為標題"
 
 msgid "Use system accent color"
 msgstr "使用系統強調色彩"

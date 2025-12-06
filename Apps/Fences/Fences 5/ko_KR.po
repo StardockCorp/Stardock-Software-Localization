@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -288,6 +288,9 @@ msgstr "아이콘 자동 정렬"
 msgid "Auto organizing"
 msgstr "자동 구성"
 
+msgid "Auto refresh search results"
+msgstr "검색 결과 자동 새로 고침"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "데스크톱을 사용하지 않을 시 자동으로 아이콘 숨기기"
 
@@ -310,7 +313,7 @@ msgid "Awaiting for a Config file path to be specified in {0}, or for config to 
 msgstr "구성 파일 경로가 {0}에 지정되거나 {1}을 통해 구성이 적용되기를 기다리는 중입니다"
 
 msgid "Awaiting license file in {0}"
-msgstr "0]에서 라이선스 파일 대기 중"
+msgstr "{0}에서 라이선스 파일 대기 중"
 
 msgid "Background Color"
 msgstr "배경 색상"
@@ -432,6 +435,9 @@ msgstr "바이트"
 
 msgid "Cancel"
 msgstr "취소"
+
+msgid "Cancel search"
+msgstr "검색 취소"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "Fences가 활성화되지 않은 상태에서는 백업을 생성할 수 없습니다."
@@ -625,7 +631,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "저작권 © {0}-{1} {2}. 모든 권리 보유."
 
 msgid "Create a Fence™"
-msgstr "Fence 생성"
+msgstr "펜스™ 만들기"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "빈 Fence를 만든 다음 여기로 돌아와서 선택하세요."
@@ -928,6 +934,9 @@ msgstr "울타리 스타일 편집"
 msgid "Edit Icon Tint"
 msgstr "아이콘 톤 수정"
 
+msgid "Edit search"
+msgstr "검색 편집"
+
 msgid "Edit title font"
 msgstr "제목 글꼴 편집"
 
@@ -969,6 +978,9 @@ msgstr "활성화됨"
 
 msgid "ends with"
 msgstr "종료"
+
+msgid "Enter search term"
+msgstr "검색어 입력"
 
 msgid "Enter title"
 msgstr "제목 입력"
@@ -1239,6 +1251,9 @@ msgstr "깜빡임 민감도"
 msgid "Folder to create"
 msgstr "생성할 폴더"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "폴더가 Windows 검색에 성공적으로 추가되었습니다. 업데이트된 결과가 나타나기까지 몇 초에서 몇 분이 걸릴 수 있으며, 인덱싱이 완료될 때까지 결과가 비어 있을 수 있습니다. Windows 검색 제어판에서 언제든지 인덱스 설정을 변경할 수 있습니다."
+
 msgid "Folders"
 msgstr "폴더"
 
@@ -1259,6 +1274,9 @@ msgstr "라이센스 배포 가능 파일 생성"
 
 msgid "Generate license file"
 msgstr "라이센스 파일 생성"
+
+msgid "Get help"
+msgstr "도움 받기"
 
 msgid "Getting started"
 msgstr "시작하기"
@@ -1486,6 +1504,9 @@ msgstr "아이콘의 이름이 포함하지 않는 것..."
 msgid "Icon's name ends with..."
 msgstr "아이콘의 이름이 끝나는 부분..."
 
+msgid "Icon's name is exactly..."
+msgstr "아이콘의 이름이 정확히..."
+
 msgid "Icon's name starts with..."
 msgstr "아이콘의 이름이 시작하는 부분..."
 
@@ -1540,6 +1561,9 @@ msgstr "파일에서 구성 가져오기"
 msgid "Import layout & settings from file"
 msgstr "파일에서 레이아웃 및 설정 가져오기"
 
+msgid "Include subfolders in search"
+msgstr "하위 폴더를 검색에 포함"
+
 msgid "Inherit view mode from parent"
 msgstr "부모로부터 뷰 모드 상속"
 
@@ -1554,6 +1578,9 @@ msgstr "지시사항"
 
 msgid "is"
 msgstr "은(는)"
+
+msgid "is exactly"
+msgstr "정확히"
 
 msgid "is now available"
 msgstr "이제 사용 가능합니다"
@@ -2283,6 +2310,12 @@ msgstr "규칙을 기본으로 초기화..."
 msgid "Reset rule?"
 msgstr "규칙을 초기화하시겠습니까?"
 
+msgid "Reset search"
+msgstr "검색 재설정"
+
+msgid "Reset search & filters"
+msgstr "검색 및 필터 재설정"
+
 msgid "Reset this group's customization"
 msgstr "이 그룹의 사용자 지정 재설정"
 
@@ -2379,6 +2412,9 @@ msgstr "소개 전화를 예약하십시오"
 msgid "Screens"
 msgstr "화면"
 
+msgid "Search"
+msgstr "검색"
+
 msgid "Search & filter"
 msgstr "검색 및 필터"
 
@@ -2413,22 +2449,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "페이지의 고정된 숫자를 설정하여 마지막에 도달하도록 행갈이 수행"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"설정이 업데이트되었습니다.\n"
+"설정이 업데이트되었습니다. 제목 표시줄이 화면 상단 근처에 있을 때 더 이상 아래로 이동하지 않습니다.\n"
 "\n"
-"그룹의 제목 표시 줄을 다시 상단으로 이동시키려면, 그룹을 상단 가장자리에서 떨어뜨린 후 다시 갖다 놓으십시오."
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"설정이 업데이트되었습니다.\n"
-"\n"
-"이 그룹의 타이틀바를 다시 상단으로 이동시키려면, 이 그룹을 상단 가장자리에서 떨어트린 후 다시 이동시키십시오."
+"화면 상단에 이미 도킹된 Fences 그룹은 이 설정을 적용하려면 수동으로 이동해야 합니다. 이러한 그룹을 화면 상단에서 도킹 해제하려면 그룹을 가장자리에서 멀리 당깁니다. 이렇게 하면 그룹의 제목 표시줄이 더 이상 아래에 표시되지 않습니다."
 
 msgid "Settings"
 msgstr "설정"
@@ -2824,6 +2851,9 @@ msgstr "특정 울타리의 모양을 조정하려면 위의 '모든 그룹'이�
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "특정 Fence의 외형을 조정하려면, Fences 설정에서 \"사용자 지정\"으로 이동하십시오. 해당 섹션에서, 드롭다운에서 Fence를 선택한 후 평소처럼 색상 설정을 편집합니다."
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "검색 결과를 자동 새로 고침하려면 이 폴더가 Windows 검색에 인덱싱되어야 합니다. %s를 Windows 검색 인덱스에 추가하시겠습니까?"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "Folder Portal 내 아이콘 순서를 변경하려면, 마우스 오른쪽으로 클릭한 후 \"분류\" 메뉴에서 선택합니다."
 
@@ -2905,6 +2935,9 @@ msgstr "분류를 종료하시겠습니까?"
 msgid "Type-based rules"
 msgstr "유형 기반 규칙"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "폴더를 Windows 검색에 추가할 수 없습니다. 검색 결과 자동 새로 고침을 활성화하려면 수동으로 추가해 보세요."
+
 msgid "Unable to create folder. Please try again."
 msgstr "폴더를 생성할 수 없습니다. 다시 시도해 주십시오."
 
@@ -2964,6 +2997,9 @@ msgstr "이 설정의 사용은 단일 모니터 시스템에만 제한되어야
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "Fence 그룹 내부와 외부에서 동일한 간격을 사용하십시오."
+
+msgid "Use search term as title"
+msgstr "검색어를 제목으로 사용"
 
 msgid "Use system accent color"
 msgstr "시스템 악센트 색상 사용"

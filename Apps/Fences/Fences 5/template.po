@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -273,6 +273,9 @@ msgstr ""
 msgid "Auto organizing"
 msgstr ""
 
+msgid "Auto refresh search results"
+msgstr ""
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr ""
 
@@ -414,6 +417,9 @@ msgid "Bytes"
 msgstr ""
 
 msgid "Cancel"
+msgstr ""
+
+msgid "Cancel search"
 msgstr ""
 
 msgid "Cannot make a backup while Fences is not enabled."
@@ -604,7 +610,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr ""
 
 msgid "Create a Fence™"
-msgstr "Create a Fence"
+msgstr ""
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr ""
@@ -902,6 +908,9 @@ msgstr ""
 msgid "Edit Icon Tint"
 msgstr ""
 
+msgid "Edit search"
+msgstr ""
+
 msgid "Edit title font"
 msgstr ""
 
@@ -942,6 +951,9 @@ msgid "Enabled"
 msgstr ""
 
 msgid "ends with"
+msgstr ""
+
+msgid "Enter search term"
 msgstr ""
 
 msgid "Enter title"
@@ -1176,6 +1188,9 @@ msgstr ""
 msgid "Folder to create"
 msgstr ""
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr ""
+
 msgid "Folders"
 msgstr ""
 
@@ -1195,6 +1210,9 @@ msgid "Generate license distributable file"
 msgstr ""
 
 msgid "Generate license file"
+msgstr ""
+
+msgid "Get help"
 msgstr ""
 
 msgid "Getting started"
@@ -1421,6 +1439,9 @@ msgstr ""
 msgid "Icon's name ends with..."
 msgstr ""
 
+msgid "Icon's name is exactly..."
+msgstr ""
+
 msgid "Icon's name starts with..."
 msgstr ""
 
@@ -1475,6 +1496,9 @@ msgstr ""
 msgid "Import layout & settings from file"
 msgstr ""
 
+msgid "Include subfolders in search"
+msgstr ""
+
 msgid "Inherit view mode from parent"
 msgstr ""
 
@@ -1488,6 +1512,9 @@ msgid "Instructions"
 msgstr ""
 
 msgid "is"
+msgstr ""
+
+msgid "is exactly"
 msgstr ""
 
 msgid "is now available"
@@ -2199,6 +2226,12 @@ msgstr ""
 msgid "Reset rule?"
 msgstr ""
 
+msgid "Reset search"
+msgstr ""
+
+msgid "Reset search & filters"
+msgstr ""
+
 msgid "Reset this group's customization"
 msgstr ""
 
@@ -2295,6 +2328,9 @@ msgstr ""
 msgid "Screens"
 msgstr ""
 
+msgid "Search"
+msgstr ""
+
 msgid "Search & filter"
 msgstr ""
 
@@ -2329,15 +2365,9 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr ""
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
-msgstr ""
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
 
 msgid "Settings"
@@ -2708,6 +2738,9 @@ msgstr ""
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr ""
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr ""
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr ""
 
@@ -2786,6 +2819,9 @@ msgstr ""
 msgid "Type-based rules"
 msgstr ""
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr ""
+
 msgid "Unable to create folder. Please try again."
 msgstr ""
 
@@ -2844,6 +2880,9 @@ msgid "Use of this setting should be limited to single monitor systems only."
 msgstr ""
 
 msgid "Use same spacing inside and outside of Fence groups"
+msgstr ""
+
+msgid "Use search term as title"
 msgstr ""
 
 msgid "Use system accent color"

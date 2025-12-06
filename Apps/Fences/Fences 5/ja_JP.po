@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -280,6 +280,9 @@ msgstr "アイコンを自動的に整列する"
 msgid "Auto organizing"
 msgstr "オートオーガナイズ"
 
+msgid "Auto refresh search results"
+msgstr "検索結果を自動更新"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "デスクトップを使用していないときにアイコンを自動的に隠す"
 
@@ -424,6 +427,9 @@ msgstr "バイト"
 
 msgid "Cancel"
 msgstr "キャンセル"
+
+msgid "Cancel search"
+msgstr "検索をキャンセル"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "Fencesが有効でない間はバックアップを作成できません。"
@@ -613,7 +619,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "コピーライト© {0}-{1} {2} のすべての権利は保護されています。"
 
 msgid "Create a Fence™"
-msgstr "Fenceを作成してください。"
+msgstr "フェンス™を作成"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "空のFenceを作成し、その後ここに戻って選択してください。"
@@ -913,6 +919,9 @@ msgstr "Fencesスタイルの編集"
 msgid "Edit Icon Tint"
 msgstr "アイコンの色合いを編集する"
 
+msgid "Edit search"
+msgstr "検索を編集"
+
 msgid "Edit title font"
 msgstr "タイトルフォントの編集"
 
@@ -954,6 +963,9 @@ msgstr "有効化された"
 
 msgid "ends with"
 msgstr "終わり"
+
+msgid "Enter search term"
+msgstr "検索語句を入力"
 
 msgid "Enter title"
 msgstr "タイトルを入力してください。"
@@ -1063,8 +1075,8 @@ msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
 msgstr ""
-"'Fences'フォルダのポータル機能はクラシックモードでは利用できません。\n"
-"Aeroを有効にしてください。"
+"Fences Folder Portals™はクラシックモードでは利用できません。\n"
+"この機能を使用するにはAeroを有効にしてください。"
 
 msgid "Fences for Business"
 msgstr "ビジネス用Fences"
@@ -1221,6 +1233,9 @@ msgstr "フリック感度"
 msgid "Folder to create"
 msgstr "フォルダを作成する"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "フォルダーがWindows検索に正常に追加されました。更新された結果が表示されるまでに数秒から数分かかる場合があります。インデックスが完了するまで結果が空白になることがあります。Windows検索コントロールパネルからいつでもインデックス設定を変更できます。"
+
 msgid "Folders"
 msgstr "フォルダー"
 
@@ -1241,6 +1256,9 @@ msgstr "ライセンス配布ファイルを生成する"
 
 msgid "Generate license file"
 msgstr "ライセンスファイルを生成する"
+
+msgid "Get help"
+msgstr "ヘルプを取得"
 
 msgid "Getting started"
 msgstr "はじめる"
@@ -1468,6 +1486,9 @@ msgstr "アイコンの名前には...は含まれていません"
 msgid "Icon's name ends with..."
 msgstr "アイコンの名前は...で終わります"
 
+msgid "Icon's name is exactly..."
+msgstr "アイコンの名前は正確に..."
+
 msgid "Icon's name starts with..."
 msgstr "アイコンの名前は...から始まります"
 
@@ -1522,6 +1543,9 @@ msgstr "ファイルからのインポート"
 msgid "Import layout & settings from file"
 msgstr "ファイルからレイアウト＆設定をインポートする"
 
+msgid "Include subfolders in search"
+msgstr "サブフォルダーを検索に含める"
+
 msgid "Inherit view mode from parent"
 msgstr "親からビューモードを継承します"
 
@@ -1536,6 +1560,9 @@ msgstr "指示"
 
 msgid "is"
 msgstr "は"
+
+msgid "is exactly"
+msgstr "は正確に"
 
 msgid "is now available"
 msgstr "現在利用可能です"
@@ -2266,6 +2293,12 @@ msgstr "リセット規則をデフォルトに戻す..."
 msgid "Reset rule?"
 msgstr "リセットルール？"
 
+msgid "Reset search"
+msgstr "検索をリセット"
+
+msgid "Reset search & filters"
+msgstr "検索とフィルターをリセット"
+
 msgid "Reset this group's customization"
 msgstr "このグループのカスタマイズをリセットする"
 
@@ -2362,6 +2395,9 @@ msgstr "紹介の電話をスケジュールする"
 msgid "Screens"
 msgstr "スクリーン"
 
+msgid "Search"
+msgstr "検索"
+
 msgid "Search & filter"
 msgstr "検索 & フィルター"
 
@@ -2396,22 +2432,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "ページ数を決め打ちして、最後に達したら折り返してください。"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"設定が更新されました。\n"
+"設定が更新されました。タイトルバーは画面の上部付近にあるときに下に移動しなくなります。\n"
 "\n"
-"グループのタイトルバーを上部に戻すには、グループを上端から離れてから再度戻します。"
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"設定が更新されました。\n"
-"\n"
-"このグループのタイトルバーを上部に戻すには、このグループを上端から離してから再度戻します。"
+"画面の上部に既にドッキングされているFencesグループは、この設定を適用するために手動で移動する必要があります。これらのグループを画面の上部からドッキング解除するには、グループを端から引き離します。これを行うと、グループのタイトルバーは下に表示されなくなります。"
 
 msgid "Settings"
 msgstr "設定"
@@ -2800,6 +2827,9 @@ msgstr "特定のFencesの外観を調整するには、上の「すべてのグ
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Fenceの見た目を調節するには、Fencesの設定の「カスタマイズ」エリアへアクセスします。そこで、ドロップダウンからFenceを選択し、通常のコントロールを使用して色の設定を編集してください。"
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "検索結果を自動更新するには、このフォルダーをWindows検索にインデックスする必要があります。%sをWindows検索インデックスに追加しますか？"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "Folder Portalのアイコンの順序を変更するには、ビューを右クリックして「並べ替え」メニューから選択します。"
 
@@ -2881,6 +2911,9 @@ msgstr "ソートをオフにしますか？"
 msgid "Type-based rules"
 msgstr "タイプベースのルール"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "フォルダーをWindows検索に追加できませんでした。手動で追加して、検索結果の自動更新を有効にしてください。"
+
 msgid "Unable to create folder. Please try again."
 msgstr "フォルダを作成できません。もう一度お試しください。"
 
@@ -2940,6 +2973,9 @@ msgstr "この設定の使用は、一つのモニターシステムに限定す
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "フェンスグループの内部と外部で同じスペーシングを使用します"
+
+msgid "Use search term as title"
+msgstr "検索語句をタイトルとして使用"
 
 msgid "Use system accent color"
 msgstr "システムアクセント色を使用する"

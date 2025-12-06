@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -288,6 +288,9 @@ msgstr "Iconen auto-organiseren"
 msgid "Auto organizing"
 msgstr "Aan het auto-organiseren"
 
+msgid "Auto refresh search results"
+msgstr "Zoekresultaten automatisch vernieuwen"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "Iconen automatisch verbergen wanneer het bureaublad niet in gebruik is"
 
@@ -432,6 +435,9 @@ msgstr ""
 
 msgid "Cancel"
 msgstr "Annuleren"
+
+msgid "Cancel search"
+msgstr "Zoekopdracht annuleren"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "Kan geen back-up maken terwijl Fences niet is ingeschakeld."
@@ -623,7 +629,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "Copyright © {0}-{1} {2}. Alle rechten voorbehouden."
 
 msgid "Create a Fence™"
-msgstr "Een Fence creëren"
+msgstr "Maak een Fence™"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "Maak een lege Fence en keer dan hier terug om het te selecteren."
@@ -926,6 +932,9 @@ msgstr "Hekwerkstijl bewerken"
 msgid "Edit Icon Tint"
 msgstr "Bewerk Pictogram Tint"
 
+msgid "Edit search"
+msgstr "Zoekopdracht bewerken"
+
 msgid "Edit title font"
 msgstr "Titellettertype bewerken"
 
@@ -967,6 +976,9 @@ msgstr "Geactiveerd"
 
 msgid "ends with"
 msgstr "eindigt met"
+
+msgid "Enter search term"
+msgstr "Voer zoekterm in"
 
 msgid "Enter title"
 msgstr "Titel invoeren"
@@ -1236,6 +1248,9 @@ msgstr "Snel beweging Gevoeligheid"
 msgid "Folder to create"
 msgstr "Te creëren map"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "De map is succesvol toegevoegd aan Windows Zoeken. Het kan enkele momenten duren voordat het bijgewerkte resultaat verschijnt (enkele seconden tot enkele minuten), en de resultaten kunnen leeg zijn totdat de indexering is voltooid. U kunt de indexinstellingen op elk moment wijzigen via het configuratiescherm van Windows Zoeken."
+
 msgid "Folders"
 msgstr "Mappen"
 
@@ -1256,6 +1271,9 @@ msgstr "Genereer licentie distribueerbaar bestand"
 
 msgid "Generate license file"
 msgstr "Genereer licentiebestand"
+
+msgid "Get help"
+msgstr "Hulp krijgen"
 
 msgid "Getting started"
 msgstr "Beginnen"
@@ -1483,6 +1501,9 @@ msgstr "De naam van de icoon bevat geen..."
 msgid "Icon's name ends with..."
 msgstr "De naam van de icoon eindigt met..."
 
+msgid "Icon's name is exactly..."
+msgstr "De naam van het pictogram is precies..."
+
 msgid "Icon's name starts with..."
 msgstr "De naam van de icoon begint met..."
 
@@ -1537,6 +1558,9 @@ msgstr "Configuratie importeren uit bestand"
 msgid "Import layout & settings from file"
 msgstr "Importeer indeling & instellingen vanuit bestand"
 
+msgid "Include subfolders in search"
+msgstr "Submappen opnemen in zoekopdracht"
+
 msgid "Inherit view mode from parent"
 msgstr "Erfenisweergavemodus van ouder"
 
@@ -1551,6 +1575,9 @@ msgstr "Instructies"
 
 msgid "is"
 msgstr ""
+
+msgid "is exactly"
+msgstr "is precies"
 
 msgid "is now available"
 msgstr "is nu beschikbaar"
@@ -2167,7 +2194,7 @@ msgid "Purchase"
 msgstr "Kopen"
 
 msgid "Purchase ({0})"
-msgstr "Kopen"
+msgstr "Aankoop ({0})"
 
 msgid "Purchase additional licenses"
 msgstr "Koop extra licenties"
@@ -2280,6 +2307,12 @@ msgstr "Regel naar standaard terugzetten..."
 msgid "Reset rule?"
 msgstr "Regel terugzetten?"
 
+msgid "Reset search"
+msgstr "Zoekopdracht resetten"
+
+msgid "Reset search & filters"
+msgstr "Zoekopdracht en filters resetten"
+
 msgid "Reset this group's customization"
 msgstr "Reset de aanpassingen van deze groep"
 
@@ -2376,6 +2409,9 @@ msgstr "Plan een introductiegesprek"
 msgid "Screens"
 msgstr "Beeldschermen"
 
+msgid "Search"
+msgstr "Zoeken"
+
 msgid "Search & filter"
 msgstr "Zoeken & filteren"
 
@@ -2410,22 +2446,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "Stel een vast aantal pagina's in en rondwikkelen bij het bereiken van het einde"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"Instelling bijgewerkt.\n"
+"Instelling bijgewerkt. Titelbalken verplaatsen niet langer naar de onderkant wanneer ze zich dicht bij de bovenkant van het scherm bevinden.\n"
 "\n"
-"Om de titelbalk van een groep terug naar de bovenkant te verplaatsen, verplaats de groep weg van de bovenrand en dan weer terug."
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"Instelling bijgewerkt.\n"
-"\n"
-"Om de titelbalk van deze groep terug te verplaatsen naar de bovenkant, verplaats deze groep weg van de bovenrand en dan weer terug."
+"Fences-groepen die al aan de bovenkant van het scherm zijn vastgemaakt, moeten handmatig worden verplaatst om deze instelling toe te passen. Om deze groepen van de bovenkant van het scherm los te maken, trekt u de groep van de rand weg. Nadat u dit hebt gedaan, heeft de groep zijn titelbalk niet meer aan de onderkant."
 
 msgid "Settings"
 msgstr "Instellingen"
@@ -2821,6 +2848,9 @@ msgstr "Om het uiterlijk van een bepaalde Fence aan te passen, kies je een Fence
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Om het uiterlijk van een specifieke Fence aan te passen, ga naar het gedeelte \"Personaliseren\" in de instellingen van Fences®. Kies daar eenmaal een Fence uit de vervolgkeuzelijst en bewerk de kleurinstellingen met de gebruikelijke bedieningselementen."
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "Om zoekresultaten automatisch te vernieuwen, moet deze map worden geïndexeerd door Windows Zoeken. Wilt u %s nu aan de Windows Zoeken-index toevoegen?"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "Om de volgorde van de iconen in een map portaal te wijzigen, klik met de rechtermuisknop op de weergave en kies uit het \"Sorteren op\" menu."
 
@@ -2902,6 +2932,9 @@ msgstr "Sorteren uitzetten?"
 msgid "Type-based rules"
 msgstr "Op type gebaseerde regels"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "Kan map niet toevoegen aan Windows Zoeken. Probeer handmatig toe te voegen om automatisch vernieuwde zoekresultaten mogelijk te maken."
+
 msgid "Unable to create folder. Please try again."
 msgstr "Kon heen map creëren. Probeer het opnieuw, a.u.b."
 
@@ -2961,6 +2994,9 @@ msgstr "Het gebruik van deze instelling moet beperkt blijven tot systemen met sl
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "Gebruik dezelfde tussenruimte binnen en buiten Fence groepen"
+
+msgid "Use search term as title"
+msgstr "Zoekterm als titel gebruiken"
 
 msgid "Use system accent color"
 msgstr "Gebruik de systeemaccentkleur"
@@ -3196,7 +3232,7 @@ msgstr ""
 "Wilt u deze regel deactiveren?"
 
 msgid "%s is unavailable in classic mode and may display improperly."
-msgstr "% is niet beschikbaar in de klassieke modus en zou verkeert kunnen worden weergegeven."
+msgstr "%s is niet beschikbaar in de klassieke modus en kan onjuist worden weergegeven."
 
 msgid "&View"
 msgstr "Weerge&ven"
