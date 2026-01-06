@@ -916,3 +916,20 @@ Exist=1
 ;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="왼쪽 정렬 (실험적 - 향상된 작업 표시줄 활성화)"
 "Align Right (Experimental - will enable enhanced taskbar)"="오른쪽 정렬 (실험적 - 향상된 작업 표시줄 활성화)"
+
+; Added 2.6
+"Open your personal folder."="개인 폴더를 엽니다."
+"Access letters, reports, notes, and other kinds of documents."="편지, 보고서, 메모 및 기타 종류의 문서에 액세스합니다."
+"View and organize digital pictures."="디지털 사진을 보고 정리합니다."
+"Play music and other audio files."="음악 및 기타 오디오 파일을 재생합니다."
+"Access libraries and folders shared by other people in your homegroup."="홈 그룹의 다른 사람이 공유한 라이브러리 및 폴더에 액세스합니다."
+"Watch home movies and other digital videos."="홈 비디오 및 기타 디지털 비디오를 시청합니다."
+"Find Internet downloads and links to favorite websites."="인터넷 다운로드 및 즐겨찾는 웹사이트 링크를 찾습니다."
+"Watch TV programs recorded on your computer."="컴퓨터에 녹화된 TV 프로그램을 시청합니다."
+"Play and manage games on your computer."="컴퓨터에서 게임을 플레이하고 관리합니다."
+"See the disk drives and other hardware connected to your computer."="컴퓨터에 연결된 디스크 드라이브 및 기타 하드웨어를 확인합니다."
+"Access the computers and devices that are on your network."="네트워크에 있는 컴퓨터 및 장치에 액세스합니다."
+"Change settings and customize the functionality of your computer."="설정을 변경하고 컴퓨터의 기능을 사용자 지정합니다."
+"See installed printers and add new ones."="설치된 프린터를 보고 새 프린터를 추가합니다."
+"Choose default programs for web browsing, e-mail, playing music and other activities."="웹 브라우징, 이메일, 음악 재생 및 기타 활동을 위한 기본 프로그램을 선택합니다."
+"Opens a program, folder, document or web site."="프로그램, 폴더, 문서 또는 웹사이트를 엽니다."

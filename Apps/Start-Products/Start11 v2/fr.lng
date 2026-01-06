@@ -916,3 +916,20 @@ Exist=1
 ;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Aligner à gauche (Expérimental - activera la barre des tâches améliorée)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Aligner à droite (Expérimental - activera la barre des tâches améliorée)"
+
+; Added 2.6
+"Open your personal folder."="Ouvrir votre dossier personnel."
+"Access letters, reports, notes, and other kinds of documents."="Accéder aux lettres, rapports, notes et autres types de documents."
+"View and organize digital pictures."="Afficher et organiser des images numériques."
+"Play music and other audio files."="Lire de la musique et d'autres fichiers audio."
+"Access libraries and folders shared by other people in your homegroup."="Accéder aux bibliothèques et dossiers partagés par d'autres personnes de votre groupe résidentiel."
+"Watch home movies and other digital videos."="Regarder des films personnels et d'autres vidéos numériques."
+"Find Internet downloads and links to favorite websites."="Trouver les téléchargements Internet et les liens vers les sites Web favoris."
+"Watch TV programs recorded on your computer."="Regarder des émissions de télévision enregistrées sur votre ordinateur."
+"Play and manage games on your computer."="Jouer et gérer des jeux sur votre ordinateur."
+"See the disk drives and other hardware connected to your computer."="Voir les lecteurs de disque et autres matériels connectés à votre ordinateur."
+"Access the computers and devices that are on your network."="Accéder aux ordinateurs et appareils qui sont sur votre réseau."
+"Change settings and customize the functionality of your computer."="Modifier les paramètres et personnaliser les fonctionnalités de votre ordinateur."
+"See installed printers and add new ones."="Voir les imprimantes installées et en ajouter de nouvelles."
+"Choose default programs for web browsing, e-mail, playing music and other activities."="Choisir les programmes par défaut pour la navigation Web, le courrier électronique, la lecture de musique et d'autres activités."
+"Opens a program, folder, document or web site."="Ouvre un programme, un dossier, un document ou un site Web."

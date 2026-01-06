@@ -916,3 +916,20 @@ Exist=1
 ;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Alinhar à esquerda (Experimental - ativará a barra de tarefas aprimorada)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Alinhar à direita (Experimental - ativará a barra de tarefas aprimorada)"
+
+; Added 2.6
+"Open your personal folder."="Abra sua pasta pessoal."
+"Access letters, reports, notes, and other kinds of documents."="Acesse cartas, relatórios, notas e outros tipos de documentos."
+"View and organize digital pictures."="Visualize e organize imagens digitais."
+"Play music and other audio files."="Reproduza música e outros arquivos de áudio."
+"Access libraries and folders shared by other people in your homegroup."="Acesse bibliotecas e pastas compartilhadas por outras pessoas no seu grupo doméstico."
+"Watch home movies and other digital videos."="Assista a vídeos caseiros e outros vídeos digitais."
+"Find Internet downloads and links to favorite websites."="Encontre downloads da Internet e links para sites favoritos."
+"Watch TV programs recorded on your computer."="Assista a programas de TV gravados no seu computador."
+"Play and manage games on your computer."="Jogue e gerencie jogos no seu computador."
+"See the disk drives and other hardware connected to your computer."="Veja as unidades de disco e outros hardwares conectados ao seu computador."
+"Access the computers and devices that are on your network."="Acesse os computadores e dispositivos que estão na sua rede."
+"Change settings and customize the functionality of your computer."="Altere as configurações e personalize a funcionalidade do seu computador."
+"See installed printers and add new ones."="Veja as impressoras instaladas e adicione novas."
+"Choose default programs for web browsing, e-mail, playing music and other activities."="Escolha programas padrão para navegação na web, e-mail, reprodução de música e outras atividades."
+"Opens a program, folder, document or web site."="Abre um programa, pasta, documento ou site."

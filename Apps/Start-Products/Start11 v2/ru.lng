@@ -916,3 +916,20 @@ Exist=1
 ;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Выровнять влево (Экспериментально - включит расширенную панель задач)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Выровнять вправо (Экспериментально - включит расширенную панель задач)"
+
+; Added 2.6
+"Open your personal folder."="Откройте свою личную папку."
+"Access letters, reports, notes, and other kinds of documents."="Получите доступ к письмам, отчетам, заметкам и другим видам документов."
+"View and organize digital pictures."="Просматривайте и упорядочивайте цифровые изображения."
+"Play music and other audio files."="Воспроизводите музыку и другие аудиофайлы."
+"Access libraries and folders shared by other people in your homegroup."="Получите доступ к библиотекам и папкам, которыми поделились другие люди в вашей домашней группе."
+"Watch home movies and other digital videos."="Смотрите домашнее видео и другие цифровые видеозаписи."
+"Find Internet downloads and links to favorite websites."="Найдите загрузки из Интернета и ссылки на избранные веб-сайты."
+"Watch TV programs recorded on your computer."="Смотрите телепрограммы, записанные на вашем компьютере."
+"Play and manage games on your computer."="Играйте в игры и управляйте ими на вашем компьютере."
+"See the disk drives and other hardware connected to your computer."="Просмотрите дисководы и другое оборудование, подключенное к вашему компьютеру."
+"Access the computers and devices that are on your network."="Получите доступ к компьютерам и устройствам в вашей сети."
+"Change settings and customize the functionality of your computer."="Измените настройки и настройте функциональность вашего компьютера."
+"See installed printers and add new ones."="Просмотрите установленные принтеры и добавьте новые."
+"Choose default programs for web browsing, e-mail, playing music and other activities."="Выберите программы по умолчанию для просмотра веб-страниц, электронной почты, воспроизведения музыки и других действий."
+"Opens a program, folder, document or web site."="Открывает программу, папку, документ или веб-сайт."

@@ -916,3 +916,20 @@ Exist=1
 ;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="靠左對齊（實驗性 - 將啟用增強工作列）"
 "Align Right (Experimental - will enable enhanced taskbar)"="靠右對齊（實驗性 - 將啟用增強工作列）"
+
+; Added 2.6
+"Open your personal folder."="開啟您的個人資料夾。"
+"Access letters, reports, notes, and other kinds of documents."="存取信件、報告、筆記和其他類型的文件。"
+"View and organize digital pictures."="檢視和整理數位照片。"
+"Play music and other audio files."="播放音樂和其他音訊檔案。"
+"Access libraries and folders shared by other people in your homegroup."="存取家用群組中其他人共用的媒體櫃和資料夾。"
+"Watch home movies and other digital videos."="觀賞家庭影片和其他數位視訊。"
+"Find Internet downloads and links to favorite websites."="尋找網際網路下載和我的最愛網站的連結。"
+"Watch TV programs recorded on your computer."="觀賞在電腦上錄製的電視節目。"
+"Play and manage games on your computer."="在電腦上玩遊戲和管理遊戲。"
+"See the disk drives and other hardware connected to your computer."="查看連接到電腦的磁碟機和其他硬體。"
+"Access the computers and devices that are on your network."="存取網路上的電腦和裝置。"
+"Change settings and customize the functionality of your computer."="變更設定並自訂電腦的功能。"
+"See installed printers and add new ones."="查看已安裝的印表機並新增印表機。"
+"Choose default programs for web browsing, e-mail, playing music and other activities."="選擇用於網頁瀏覽、電子郵件、播放音樂和其他活動的預設程式。"
+"Opens a program, folder, document or web site."="開啟程式、資料夾、文件或網站。"
