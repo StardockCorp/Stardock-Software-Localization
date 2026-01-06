@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -288,6 +288,9 @@ msgstr "自动排列图标"
 msgid "Auto organizing"
 msgstr "自动分类"
 
+msgid "Auto refresh search results"
+msgstr "自动刷新搜索结果"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "不使用桌面时自动隐藏图标"
 
@@ -432,6 +435,9 @@ msgstr "字节"
 
 msgid "Cancel"
 msgstr "取消"
+
+msgid "Cancel search"
+msgstr "取消搜索"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "当Fences未启用时，无法进行备份。"
@@ -623,7 +629,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "版权所有 © {0}-{1} {2}。保留所有权利。"
 
 msgid "Create a Fence™"
-msgstr "创建一个桌面分区"
+msgstr "创建一个Fence™"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "创建一个空的Fence，然后返回这里选择它。"
@@ -653,13 +659,13 @@ msgid "Create Folder"
 msgstr "创建文件夹"
 
 msgid "Create Folder Portal™ %1"
-msgstr "创建 Folder Portal %1"
+msgstr "创建 Folder Portal™ %1"
 
 msgid "Create Folder Portal™ groups with Alt + Drag/Drop"
-msgstr "使用 Alt + 拖放 来创建 Folder Portal"
+msgstr "使用 Alt + 拖放创建 Folder Portal™ 组"
 
 msgid "Create Folder Portal™ here"
-msgstr "在此处创建 Folder Portal"
+msgstr "在此创建 Folder Portal™"
 
 msgid "Create new Fence from these icons"
 msgstr "从这些图标创建新的桌面分区"
@@ -926,6 +932,9 @@ msgstr "编辑桌面分区样式"
 msgid "Edit Icon Tint"
 msgstr "编辑图标色调"
 
+msgid "Edit search"
+msgstr "编辑搜索"
+
 msgid "Edit title font"
 msgstr "编辑标题字体"
 
@@ -967,6 +976,9 @@ msgstr "已启用"
 
 msgid "ends with"
 msgstr "以（）结尾"
+
+msgid "Enter search term"
+msgstr "输入搜索词"
 
 msgid "Enter title"
 msgstr "输入标题"
@@ -1079,7 +1091,7 @@ msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
 msgstr ""
-"桌面分区的 Folder Portal 功能在经典模式下不可用\n"
+"Fences Folder Portals™ 在经典模式下不可用。\n"
 "请启用 Aero 以使用此功能。"
 
 msgid "Fences for Business"
@@ -1237,6 +1249,9 @@ msgstr "轻弹灵敏度"
 msgid "Folder to create"
 msgstr "要创建的文件夹"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "文件夹已成功添加到Windows搜索。更新的结果可能需要几秒到几分钟才能出现，结果可能在索引完成之前为空。您可以随时从Windows搜索控制面板更改索引设置。"
+
 msgid "Folders"
 msgstr "文件夹"
 
@@ -1257,6 +1272,9 @@ msgstr "生成许可证分发文件"
 
 msgid "Generate license file"
 msgstr "生成许可证文件"
+
+msgid "Get help"
+msgstr "获取帮助"
 
 msgid "Getting started"
 msgstr "入门"
@@ -1484,6 +1502,9 @@ msgstr "图标的名称不包含"
 msgid "Icon's name ends with..."
 msgstr "图标的名称以（）结尾"
 
+msgid "Icon's name is exactly..."
+msgstr "图标的名称正是..."
+
 msgid "Icon's name starts with..."
 msgstr "图标的名称以（）开头"
 
@@ -1538,6 +1559,9 @@ msgstr "从文件导入配置"
 msgid "Import layout & settings from file"
 msgstr "从文件导入布局和设置"
 
+msgid "Include subfolders in search"
+msgstr "在搜索中包含子文件夹"
+
 msgid "Inherit view mode from parent"
 msgstr "从父级继扅查看模式"
 
@@ -1552,6 +1576,9 @@ msgstr "指令"
 
 msgid "is"
 msgstr "是"
+
+msgid "is exactly"
+msgstr "正是"
 
 msgid "is now available"
 msgstr "现在可用"
@@ -2279,6 +2306,12 @@ msgstr "将规则重置为默认值"
 msgid "Reset rule?"
 msgstr "是否重置规则"
 
+msgid "Reset search"
+msgstr "重置搜索"
+
+msgid "Reset search & filters"
+msgstr "重置搜索和过滤器"
+
 msgid "Reset this group's customization"
 msgstr "重置该分区组的自定义设置"
 
@@ -2375,6 +2408,9 @@ msgstr "安排一个介绍电话会议"
 msgid "Screens"
 msgstr "屏幕"
 
+msgid "Search"
+msgstr "搜索"
+
 msgid "Search & filter"
 msgstr "搜索和过滤"
 
@@ -2409,22 +2445,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "设置合适数量的页面，它们将在你设置完成后自动卷起"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"设置已更新。\n"
+"设置已更新。当靠近屏幕顶部时，标题栏将不再移动到底部。\n"
 "\n"
-"要将组的标题栏移回顶部，先将组从顶部边缘移开，然后再移回去。"
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"设置已更新。\n"
-"\n"
-"要将此组的标题栏移回顶部，将此组从顶部边缘移开，然后再次移回。"
+"已经停靠在屏幕顶部的Fences组需要手动移动以应用此设置。要从屏幕顶部取消停靠这些组，请将组从边缘拉开。完成此操作后，组的标题栏将不再位于底部。"
 
 msgid "Settings"
 msgstr "设置"
@@ -2820,6 +2847,9 @@ msgstr "要调整某个桌面分区的外观，请从上面标有“所有分区
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "要调整特定桌面分区的外观，请访问桌面分区设置的“自定义”区域。在那里的下拉列表中选择某个桌面分区，然后再更改其颜色"
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "要自动刷新搜索结果，必须由Windows搜索索引此文件夹。您想现在将%s添加到Windows搜索索引吗？"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "要更改 Folder Portal 中图标的顺序，请右键单击该文件夹，然后从“排序方式”菜单中进行选择"
 
@@ -2901,6 +2931,9 @@ msgstr "是否关闭排序"
 msgid "Type-based rules"
 msgstr "基于类型的规则"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "无法将文件夹添加到Windows搜索。尝试手动添加以启用自动刷新搜索结果。"
+
 msgid "Unable to create folder. Please try again."
 msgstr "无法创建文件夹，请重试"
 
@@ -2960,6 +2993,9 @@ msgstr "此设置应仅限于单一显示器系统使用。"
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "在Fence组内外使用相同的间距"
+
+msgid "Use search term as title"
+msgstr "使用搜索词作为标题"
 
 msgid "Use system accent color"
 msgstr "使用系统强调色"
@@ -3037,7 +3073,7 @@ msgid "Visit Customer Support Forums"
 msgstr "访问客户支持论坛"
 
 msgid "Waiting for the Config file specified at the Windows Registry key {0} to exist"
-msgstr "正在查询注册表项｛0｝中指定的配置文件是否存在"
+msgstr "等待 Windows 注册表项 {0} 指定的配置文件存在"
 
 msgid ""
 "Warning: Enabling/disabling Fences is not recommended. If you\n"

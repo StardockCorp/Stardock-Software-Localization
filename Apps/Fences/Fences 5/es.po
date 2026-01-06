@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -284,6 +284,9 @@ msgstr "Organizar iconos automáticamente"
 msgid "Auto organizing"
 msgstr "Organizar automáticamente"
 
+msgid "Auto refresh search results"
+msgstr "Actualizar automáticamente los resultados de búsqueda"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "Ocultar los iconos automáticamente cuando el escritorio no está en uso"
 
@@ -426,6 +429,9 @@ msgstr ""
 
 msgid "Cancel"
 msgstr "Cancelar"
+
+msgid "Cancel search"
+msgstr "Cancelar búsqueda"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "No se puede hacer una copia de seguridad mientras Fences no está habilitado."
@@ -619,7 +625,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "Copyright © {0}-{1} {2}. Reservados Todos los Derechos."
 
 msgid "Create a Fence™"
-msgstr "Crear un Fence"
+msgstr "Crear un Fence™"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "Crea una Fence vacía y luego regresa aquí para seleccionarla."
@@ -922,6 +928,9 @@ msgstr "Editar estilo de Fences"
 msgid "Edit Icon Tint"
 msgstr "Editar Tinte de Icono"
 
+msgid "Edit search"
+msgstr "Editar búsqueda"
+
 msgid "Edit title font"
 msgstr "Editar fuente del título"
 
@@ -963,6 +972,9 @@ msgstr "Habilitado"
 
 msgid "ends with"
 msgstr "termina en"
+
+msgid "Enter search term"
+msgstr "Ingrese término de búsqueda"
 
 msgid "Enter title"
 msgstr "Introducir título"
@@ -1221,6 +1233,9 @@ msgstr "Sensibilidad"
 msgid "Folder to create"
 msgstr "Carpeta a crear"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "La carpeta se agregó correctamente a la Búsqueda de Windows. Puede tardar unos momentos en aparecer el resultado actualizado (de unos segundos a unos minutos), y los resultados pueden estar en blanco hasta que se complete la indexación. Puede cambiar la configuración del índice en cualquier momento desde el panel de control de Búsqueda de Windows."
+
 msgid "Folders"
 msgstr "Carpetas"
 
@@ -1241,6 +1256,9 @@ msgstr "Generar archivo distribuible de licencia"
 
 msgid "Generate license file"
 msgstr "Generar archivo de licencia"
+
+msgid "Get help"
+msgstr "Obtener ayuda"
 
 msgid "Getting started"
 msgstr "Empezar"
@@ -1468,6 +1486,9 @@ msgstr "El nombre del icono no contiene..."
 msgid "Icon's name ends with..."
 msgstr "El nombre del icono termina con..."
 
+msgid "Icon's name is exactly..."
+msgstr "El nombre del icono es exactamente..."
+
 msgid "Icon's name starts with..."
 msgstr "El nombre del icono empieza con..."
 
@@ -1522,6 +1543,9 @@ msgstr "Importar configuración desde archivo"
 msgid "Import layout & settings from file"
 msgstr "Importar diseño y configuración desde archivo"
 
+msgid "Include subfolders in search"
+msgstr "Incluir subcarpetas en la búsqueda"
+
 msgid "Inherit view mode from parent"
 msgstr "Heredar el modo de vista del padre"
 
@@ -1536,6 +1560,9 @@ msgstr "Instrucciones"
 
 msgid "is"
 msgstr "es"
+
+msgid "is exactly"
+msgstr "es exactamente"
 
 msgid "is now available"
 msgstr "ahora está disponible"
@@ -2262,6 +2289,12 @@ msgstr "Restablecer la regla a su valor predeterminado..."
 msgid "Reset rule?"
 msgstr "Restablecer la regla?"
 
+msgid "Reset search"
+msgstr "Restablecer búsqueda"
+
+msgid "Reset search & filters"
+msgstr "Restablecer búsqueda y filtros"
+
 msgid "Reset this group's customization"
 msgstr "Restablecer la personalización de este grupo"
 
@@ -2358,6 +2391,9 @@ msgstr "Programa una llamada de introducción"
 msgid "Screens"
 msgstr "Pantallas"
 
+msgid "Search"
+msgstr "Buscar"
+
 msgid "Search & filter"
 msgstr "Buscar y filtrar"
 
@@ -2392,22 +2428,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "Establezca un número fijo de páginas, y volver al principio al llegar al final"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"Configuración actualizada.\n"
+"Configuración actualizada. Las barras de título ya no se moverán hacia abajo cuando estén cerca de la parte superior de la pantalla.\n"
 "\n"
-"Para mover la barra de título de un grupo de nuevo a la parte superior, aleje el grupo del borde superior y luego vuelva a colocarlo."
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"Configuración actualizada.\n"
-"\n"
-"Para mover la barra de título de este grupo de vuelta a la parte superior, mueva este grupo lejos del borde superior y luego de vuelta."
+"Los grupos de Fences ya acoplados en la parte superior de la pantalla deberán moverse manualmente para que esta configuración se aplique. Para desacoplar estos grupos de la parte superior de la pantalla, aleje el grupo del borde. Después de hacer esto, el grupo ya no tendrá su barra de título en la parte inferior."
 
 msgid "Settings"
 msgstr "Configuración"
@@ -2800,6 +2827,9 @@ msgstr "Para ajustar la apariencia de una Fences en particular, elija una Fences
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Para ajustar la apariencia de un determinado Fence, vaya a \"Personalizar\" de la configuración de Fences. Una vez ahí, elija un Fence en el menú desplegable y edite las configuraciones de color usando los controles habituales."
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "Para actualizar automáticamente los resultados de búsqueda, esta carpeta debe estar indexada por la Búsqueda de Windows. ¿Le gustaría agregar %s al índice de búsqueda de Windows ahora?"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "Para cambiar el orden de los icono en un Folder Portal, haga clic con el botón derecho en la vista y elija el menú \"Ordenar por\"."
 
@@ -2878,6 +2908,9 @@ msgstr "Desactivar la clasificación?"
 msgid "Type-based rules"
 msgstr "Reglas basadas en el tipo"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "No se pudo agregar la carpeta a la Búsqueda de Windows. Intente agregarla manualmente para habilitar resultados de búsqueda actualizados automáticamente."
+
 msgid "Unable to create folder. Please try again."
 msgstr "Imposible crear una carpeta. Por favor, inténtelo de nuevo."
 
@@ -2937,6 +2970,9 @@ msgstr "El uso de esta configuración debería limitarse solo a sistemas con un 
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "Utiliza el mismo espaciado dentro y fuera de los grupos de Fence"
+
+msgid "Use search term as title"
+msgstr "Usar término de búsqueda como título"
 
 msgid "Use system accent color"
 msgstr "Utiliza el color de acento del sistema"

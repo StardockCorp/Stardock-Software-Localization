@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -283,6 +283,9 @@ msgstr "Symbole automatisch anordnen"
 msgid "Auto organizing"
 msgstr "Automatisch organisieren"
 
+msgid "Auto refresh search results"
+msgstr "Suchergebnisse automatisch aktualisieren"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "Symbole automatisch ausblenden, wenn der Desktop nicht verwendet wird"
 
@@ -427,6 +430,9 @@ msgstr ""
 
 msgid "Cancel"
 msgstr "Abbrechen"
+
+msgid "Cancel search"
+msgstr "Suche abbrechen"
 
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "Kann kein Backup erstellen, während Fences nicht aktiviert ist."
@@ -623,7 +629,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "Copyright © {0}-{1} {2}. Alle Rechte vorbehalten."
 
 msgid "Create a Fence™"
-msgstr "Erstellen Sie einen Fence"
+msgstr "Erstellen Sie einen Fence™"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "Erstellen Sie einen leeren Fence und kehren Sie dann hierher zurück, um ihn auszuwählen."
@@ -924,6 +930,9 @@ msgstr "Zaunstil bearbeiten"
 msgid "Edit Icon Tint"
 msgstr "Symboltönung bearbeiten"
 
+msgid "Edit search"
+msgstr "Suche bearbeiten"
+
 msgid "Edit title font"
 msgstr "Titelschriftart bearbeiten"
 
@@ -965,6 +974,9 @@ msgstr "Aktiviert"
 
 msgid "ends with"
 msgstr "endet mit"
+
+msgid "Enter search term"
+msgstr "Suchbegriff eingeben"
 
 msgid "Enter title"
 msgstr "Titel eingeben"
@@ -1077,7 +1089,7 @@ msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
 msgstr ""
-"Fences Folder Portals sind in der klassischen Ansicht nicht verfügbar.\n"
+"Fences Folder Portals™ sind im klassischen Modus nicht verfügbar.\n"
 "Bitte aktivieren Sie Aero, um diese Funktion zu nutzen."
 
 msgid "Fences for Business"
@@ -1235,6 +1247,9 @@ msgstr "Flick Empfindlichkeit (Schubsen)"
 msgid "Folder to create"
 msgstr "Ordner erstellen"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "Der Ordner wurde erfolgreich zur Windows-Suche hinzugefügt. Es kann einige Momente dauern, bis aktualisierte Ergebnisse angezeigt werden (einige Sekunden bis einige Minuten), und die Ergebnisse können leer sein, bis die Indizierung abgeschlossen ist. Sie können die Indexeinstellungen jederzeit im Windows-Suchsteuerfeld ändern."
+
 msgid "Folders"
 msgstr "Ordner"
 
@@ -1255,6 +1270,9 @@ msgstr "Lizenzverteilbare Datei generieren"
 
 msgid "Generate license file"
 msgstr "Lizenzdatei generieren"
+
+msgid "Get help"
+msgstr "Hilfe erhalten"
 
 msgid "Getting started"
 msgstr "Erste Schritte"
@@ -1482,6 +1500,9 @@ msgstr "Der Name des Symbols enthält kein..."
 msgid "Icon's name ends with..."
 msgstr "Der Name des Symbols endet mit..."
 
+msgid "Icon's name is exactly..."
+msgstr "Der Name des Symbols ist genau..."
+
 msgid "Icon's name starts with..."
 msgstr "Der Name des Symbols beginnt mit ..."
 
@@ -1536,6 +1557,9 @@ msgstr "Konfig aus Datei importieren"
 msgid "Import layout & settings from file"
 msgstr "Layout & Einstellungen aus Datei importieren"
 
+msgid "Include subfolders in search"
+msgstr "Unterordner in die Suche einbeziehen"
+
 msgid "Inherit view mode from parent"
 msgstr "Vererbungsansichtsmodus vom Elternteil übernehmen"
 
@@ -1550,6 +1574,9 @@ msgstr "Anweisungen"
 
 msgid "is"
 msgstr "ist"
+
+msgid "is exactly"
+msgstr "ist genau"
 
 msgid "is now available"
 msgstr "ist jetzt verfügbar"
@@ -2164,7 +2191,7 @@ msgid "Purchase"
 msgstr "Kaufen"
 
 msgid "Purchase ({0})"
-msgstr "Kaufen"
+msgstr "Kaufen ({0})"
 
 msgid "Purchase additional licenses"
 msgstr "Kaufe zusätzliche Lizenzen"
@@ -2277,6 +2304,12 @@ msgstr "Regel auf Standardeinstellungen zurücksetzen..."
 msgid "Reset rule?"
 msgstr "Regel zurücksetzen?"
 
+msgid "Reset search"
+msgstr "Suche zurücksetzen"
+
+msgid "Reset search & filters"
+msgstr "Suche & Filter zurücksetzen"
+
 msgid "Reset this group's customization"
 msgstr "Zurücksetzen der Anpassungen dieser Gruppe"
 
@@ -2373,6 +2406,9 @@ msgstr "Planen Sie einen Einführungsgesprächs-Anruf"
 msgid "Screens"
 msgstr "Bildschirme"
 
+msgid "Search"
+msgstr "Suche"
+
 msgid "Search & filter"
 msgstr "Suchen & filtern"
 
@@ -2407,22 +2443,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "Legen Sie eine Seitenanzahl fest und beginnen Sie beim Erreichen des Endes automatisch wieder am Anfang"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"Einstellung aktualisiert.\n"
+"Einstellung aktualisiert. Titelleisten werden nicht mehr nach unten verschoben, wenn sie sich in der Nähe des oberen Bildschirmrands befinden.\n"
 "\n"
-"Um die Titelleiste einer Gruppe wieder nach oben zu verschieben, bewegen Sie die Gruppe vom oberen Rand weg und dann wieder zurück."
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"Einstellung aktualisiert.\n"
-"\n"
-"Um die Titelleiste dieser Gruppe wieder nach oben zu versetzen, verschieben Sie diese Gruppe vom oberen Rand weg und dann wieder zurück."
+"Fences-Gruppen, die bereits am oberen Bildschirmrand angedockt sind, müssen manuell verschoben werden, damit diese Einstellung wirksam wird. Um diese Gruppen vom oberen Bildschirmrand zu lösen, ziehen Sie die Gruppe vom Rand weg. Danach befindet sich die Titelleiste der Gruppe nicht mehr unten."
 
 msgid "Settings"
 msgstr "Einstellungen"
@@ -2818,6 +2845,9 @@ msgstr "Um das Aussehen eines bestimmten Zauns anzupassen, wählen Sie einen Zau
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Um die Darstellung eines bestimmten Fence anzupassen, wechseln Sie zu dem \"Anpassen\"-Bereich in den Fences-Einstellungen. Wählen Sie dann den betroffenen Fence über das Dropdown-Menü aus und passen Sie die Farbeinstellungen über die Regler an."
 
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "Um Suchergebnisse automatisch zu aktualisieren, muss dieser Ordner von der Windows-Suche indiziert werden. Möchten Sie %s jetzt zum Windows-Suchindex hinzufügen?"
+
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "Um die Symbol-Reihenfolge in einem Folder Portal zu ändern, klicken Sie mit rechts auf die Ansicht und wählen \"Sortieren nach\" aus dem Menü aus.."
 
@@ -2899,6 +2929,9 @@ msgstr "Sortieren abschalten?"
 msgid "Type-based rules"
 msgstr "Typen-basierte Regeln"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "Ordner konnte nicht zur Windows-Suche hinzugefügt werden. Versuchen Sie, ihn manuell hinzuzufügen, um automatisch aktualisierte Suchergebnisse zu ermöglichen."
+
 msgid "Unable to create folder. Please try again."
 msgstr "Ordner konnte nicht erstellt werden. Bitte versuchen Sie es erneut."
 
@@ -2958,6 +2991,9 @@ msgstr "Die Verwendung dieser Einstellung sollte ausschließlich auf Einzelmonit
 
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "Verwenden Sie den gleichen Abstand innerhalb und außerhalb von Fence Gruppen"
+
+msgid "Use search term as title"
+msgstr "Suchbegriff als Titel verwenden"
 
 msgid "Use system accent color"
 msgstr "Verwenden Sie die Systemakzentfarbe"

@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Fences 5\n"
-"POT-Creation-Date: 2025-07-06 19:20-07:00\n"
+"POT-Creation-Date: 2025-12-06 14:49-08:00\n"
 "Last-Translator: Stardock Community\n"
 "Language-Team: Stardock Community\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Revision-Date: 2025-07-06 19:20-07:00\n"
+"POT-Revision-Date: 2025-12-06 14:49-08:00\n"
 "X-Generator: Stardock POMaker 3.0.2.0\n"
 
 msgid "a file"
@@ -257,7 +257,7 @@ msgid ""
 msgstr "すべてのルールを今すぐ実行してもよろしいですか？ ルールを実行すると、Fencesの間でアイコンが移動してしまう可能性があります。実行前にスナップショットを取ることをお勧めします。 続けますか？"
 
 msgid "Are you sure you'd like to reset your per-Fence customized settings?"
-msgstr "'Fenceのカスタマイズ設定をリセットしてもよろしいですか？'"
+msgstr "Fenceのカスタマイズ設定をリセットしてもよろしいですか？"
 
 msgid "at least"
 msgstr "最低でも"
@@ -280,6 +280,9 @@ msgstr "アイコンを自動的に整列する"
 msgid "Auto organizing"
 msgstr "オートオーガナイズ"
 
+msgid "Auto refresh search results"
+msgstr "検索結果を自動更新"
+
 msgid "Automatically hide icons when desktop is not in use"
 msgstr "デスクトップを使用していないときにアイコンを自動的に隠す"
 
@@ -299,10 +302,10 @@ msgid "Available rules:"
 msgstr "利用可能なルール:"
 
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
-msgstr "0]でコンフィグファイルのパスが指定されるか、{1}でコンフィグが適用されるのを待つ。"
+msgstr "{0}でコンフィグファイルのパスが指定されるか、{1}でコンフィグが適用されるのを待つ。"
 
 msgid "Awaiting license file in {0}"
-msgstr "0]でライセンスファイルを待機中"
+msgstr "{0}でライセンスファイルを待機中"
 
 msgid "Background Color"
 msgstr "背景色"
@@ -425,6 +428,9 @@ msgstr "バイト"
 msgid "Cancel"
 msgstr "キャンセル"
 
+msgid "Cancel search"
+msgstr "検索をキャンセル"
+
 msgid "Cannot make a backup while Fences is not enabled."
 msgstr "Fencesが有効でない間はバックアップを作成できません。"
 
@@ -444,7 +450,7 @@ msgid "Change color"
 msgstr "色を変える"
 
 msgid "Change Fence Order"
-msgstr "'Fenceの順番を変更'"
+msgstr "Fenceの順番を変更"
 
 msgid "Change folder..."
 msgstr "フォルダを変更..."
@@ -491,7 +497,7 @@ msgid "Choose a different folder..."
 msgstr "別のフォルダを選択してください。"
 
 msgid "choose a Fence..."
-msgstr "'Fenceを選択してください...'"
+msgstr "Fenceを選択してください..."
 
 msgid "Choose a folder"
 msgstr "フォルダを選択してください"
@@ -613,7 +619,7 @@ msgid "Copyright © {0}-{1} {2}. All Rights Reserved."
 msgstr "コピーライト© {0}-{1} {2} のすべての権利は保護されています。"
 
 msgid "Create a Fence™"
-msgstr "'Fenceを作成してください。'"
+msgstr "フェンス™を作成"
 
 msgid "Create an empty Fence and then return here to select it."
 msgstr "空のFenceを作成し、その後ここに戻って選択してください。"
@@ -913,6 +919,9 @@ msgstr "Fencesスタイルの編集"
 msgid "Edit Icon Tint"
 msgstr "アイコンの色合いを編集する"
 
+msgid "Edit search"
+msgstr "検索を編集"
+
 msgid "Edit title font"
 msgstr "タイトルフォントの編集"
 
@@ -941,7 +950,7 @@ msgid "Enable creating new tabs"
 msgstr "新しいタブの作成を有効にする"
 
 msgid "Enable Fences"
-msgstr "'Fencesを有効にする'"
+msgstr "Fencesを有効にする"
 
 msgid "Enable pages"
 msgstr "ページを有効にする"
@@ -954,6 +963,9 @@ msgstr "有効化された"
 
 msgid "ends with"
 msgstr "終わり"
+
+msgid "Enter search term"
+msgstr "検索語句を入力"
 
 msgid "Enter title"
 msgstr "タイトルを入力してください。"
@@ -1016,10 +1028,10 @@ msgid "Fence groups"
 msgstr "Fence グループ"
 
 msgid "Fence Name"
-msgstr "'Fence 名前'"
+msgstr "Fence 名前"
 
 msgid "Fences Color"
-msgstr "'Fences色'"
+msgstr "Fences色"
 
 msgid ""
 "Fences deactivated this session.\n"
@@ -1033,10 +1045,10 @@ msgid ""
 "\n"
 "Would you like to re-enable Fences now?"
 msgstr ""
-"'Fencesは、エクスプローラーが正しく終了されていないことを検出しました。\n"
+"Fencesは、エクスプローラーが正しく終了されていないことを検出しました。\n"
 "予防措置として、Fencesは一時的に無効化されました。\n"
 "\n"
-"今すぐFencesを有効にしますか？'"
+"今すぐFencesを有効にしますか？"
 
 msgid ""
 "Fences does not appear to be loaded.\n"
@@ -1063,8 +1075,8 @@ msgid ""
 "Fences Folder Portals™ are unavailable in classic mode.\n"
 "Please enable Aero to use this feature."
 msgstr ""
-"'Fences'フォルダのポータル機能はクラシックモードでは利用できません。\n"
-"Aeroを有効にしてください。"
+"Fences Folder Portals™はクラシックモードでは利用できません。\n"
+"この機能を使用するにはAeroを有効にしてください。"
 
 msgid "Fences for Business"
 msgstr "ビジネス用Fences"
@@ -1150,7 +1162,7 @@ msgid "Fences noticed that you moved an icon within a sorted Fence. Would you li
 msgstr "Fencesは、あるFence内のアイコンを移動したのに気付きました。そのFence内でアイコンを自由に移動できるように、ソートを無効にしたいですか？"
 
 msgid "Fences OEM Layout Builder"
-msgstr "'Fences オーム レイアウト ビルダー'"
+msgstr "Fences オーム レイアウト ビルダー"
 
 msgid "Fences' Preferences experienced an error, please try again."
 msgstr "'Fences' の偏好設定にエラーが発生しました。再試行してください。"
@@ -1171,13 +1183,13 @@ msgid "Fences will remember which desktop page you were on the last time you wer
 msgstr "Fencesは、最後に仮想デスクトップを使用した際にどのデスクトップページにいたかを記憶し、その仮想デスクトップに戻ったときにそれを復元します。"
 
 msgid "Fences: \"Times Opened\" sorting information"
-msgstr "'Fences: \"回数開封\" 並び替え情報'"
+msgstr "Fences: \"回数開封\" 並び替え情報"
 
 msgid "Fences: Compatibility issue found..."
-msgstr "'Fences: 互換性の問題が見つかりました...'"
+msgstr "Fences: 互換性の問題が見つかりました..."
 
 msgid "Fences: Turn off sorting?"
-msgstr "'Fences: ソートをオフにしますか?'"
+msgstr "Fences: ソートをオフにしますか?"
 
 msgid "Fence™ is a Trademark of {0}."
 msgstr "Fence™は{0}の商標です。"
@@ -1221,6 +1233,9 @@ msgstr "フリック感度"
 msgid "Folder to create"
 msgstr "フォルダを作成する"
 
+msgid "Folder was successfully added to Windows Search. It may take a few moments for updated result to appear (a few seconds to a few minutes), and results might be blank until indexing is complete. You can change index settings at any time from the Windows Search control panel."
+msgstr "フォルダーがWindows検索に正常に追加されました。更新された結果が表示されるまでに数秒から数分かかる場合があります。インデックスが完了するまで結果が空白になることがあります。Windows検索コントロールパネルからいつでもインデックス設定を変更できます。"
+
 msgid "Folders"
 msgstr "フォルダー"
 
@@ -1241,6 +1256,9 @@ msgstr "ライセンス配布ファイルを生成する"
 
 msgid "Generate license file"
 msgstr "ライセンスファイルを生成する"
+
+msgid "Get help"
+msgstr "ヘルプを取得"
 
 msgid "Getting started"
 msgstr "はじめる"
@@ -1468,11 +1486,14 @@ msgstr "アイコンの名前には...は含まれていません"
 msgid "Icon's name ends with..."
 msgstr "アイコンの名前は...で終わります"
 
+msgid "Icon's name is exactly..."
+msgstr "アイコンの名前は正確に..."
+
 msgid "Icon's name starts with..."
 msgstr "アイコンの名前は...から始まります"
 
 msgid "Icons used"
-msgstr "'アイコン使用'"
+msgstr "アイコン使用"
 
 msgid "Icons whose file size"
 msgstr "ファイルサイズのアイコン"
@@ -1522,6 +1543,9 @@ msgstr "ファイルからのインポート"
 msgid "Import layout & settings from file"
 msgstr "ファイルからレイアウト＆設定をインポートする"
 
+msgid "Include subfolders in search"
+msgstr "サブフォルダーを検索に含める"
+
 msgid "Inherit view mode from parent"
 msgstr "親からビューモードを継承します"
 
@@ -1537,6 +1561,9 @@ msgstr "指示"
 msgid "is"
 msgstr "は"
 
+msgid "is exactly"
+msgstr "は正確に"
+
 msgid "is now available"
 msgstr "現在利用可能です"
 
@@ -1550,7 +1577,7 @@ msgid "Just create a couple Fence groups"
 msgstr "ちょうど２つ作ればいいんだ。"
 
 msgid "Just perform auto-layout"
-msgstr "'Auto-layoutを実行してください。'"
+msgstr "Auto-layoutを実行してください。"
 
 msgid "Just restore backup"
 msgstr "バックアップをただ復元してください"
@@ -1562,7 +1589,7 @@ msgid "Keep groups sized to even multiples of icons (1x1, 2x2, 3x2, etc) when re
 msgstr "アイコンのサイズを均等にしてリサイズする(1x1, 2x2, 3x2 など)"
 
 msgid "Keep groups spaced"
-msgstr "'Fencesを空間に置いておく'"
+msgstr "Fencesを空間に置いておく"
 
 msgid "Keep rules applied at all times"
 msgstr "常に規則を守る"
@@ -1953,7 +1980,7 @@ msgid "Opacity"
 msgstr "不透明"
 
 msgid "Open Fences Settings"
-msgstr "'Fencesの設定を開く'"
+msgstr "Fencesの設定を開く"
 
 msgid "Open folder"
 msgstr "フォルダを開く"
@@ -1986,10 +2013,10 @@ msgid "Organize icons based on time"
 msgstr "アイコンを時間順に整理する"
 
 msgid "Other (enter the executable's filename)"
-msgstr "'その他（実行ファイル名を入力してください）'"
+msgstr "その他（実行ファイル名を入力してください）"
 
 msgid "Other (enter your own list)"
-msgstr "'他（あなた自身のリストを入力してください）'"
+msgstr "他（あなた自身のリストを入力してください）"
 
 msgid "other types"
 msgstr "他の種類"
@@ -2080,7 +2107,7 @@ msgstr "変更の効果を見るために、ログオフしてログオンして
 
 msgid "Please note:"
 msgstr ""
-"'Please note:'\n"
+"Please note:\n"
 "\n"
 "ご注意ください。"
 
@@ -2153,7 +2180,7 @@ msgid "Purchase"
 msgstr "購入"
 
 msgid "Purchase ({0})"
-msgstr "購入(Fences)"
+msgstr "購入({0})"
 
 msgid "Purchase additional licenses"
 msgstr "追加のライセンスを購入する"
@@ -2266,6 +2293,12 @@ msgstr "リセット規則をデフォルトに戻す..."
 msgid "Reset rule?"
 msgstr "リセットルール？"
 
+msgid "Reset search"
+msgstr "検索をリセット"
+
+msgid "Reset search & filters"
+msgstr "検索とフィルターをリセット"
+
 msgid "Reset this group's customization"
 msgstr "このグループのカスタマイズをリセットする"
 
@@ -2362,6 +2395,9 @@ msgstr "紹介の電話をスケジュールする"
 msgid "Screens"
 msgstr "スクリーン"
 
+msgid "Search"
+msgstr "検索"
+
 msgid "Search & filter"
 msgstr "検索 & フィルター"
 
@@ -2396,22 +2432,13 @@ msgid "Set a fixed number of pages, and wrap around upon reaching the end"
 msgstr "ページ数を決め打ちして、最後に達したら折り返してください。"
 
 msgid ""
-"Setting updated.\n"
+"Setting updated. Titlebars will no longer move to the bottom when near the top of the screen.\n"
 "\n"
-"To move a group's titlebar back to the top, move the group away from the top edge and then back again."
+"Fences groups already docked to the top of the screen will need to be moved manually for this setting to apply. To undock these groups from the top of the screen, pull the group away from the edge. After you do this, the group will no longer have its titlebar on the bottom."
 msgstr ""
-"設定が更新されました。\n"
+"設定が更新されました。タイトルバーは画面の上部付近にあるときに下に移動しなくなります。\n"
 "\n"
-"グループのタイトルバーを上部に戻すには、グループを上端から離れてから再度戻します。"
-
-msgid ""
-"Setting updated.\n"
-"\n"
-"To move this group's titlebar back to the top, move this group away from the top edge and then back again."
-msgstr ""
-"設定が更新されました。\n"
-"\n"
-"このグループのタイトルバーを上部に戻すには、このグループを上端から離してから再度戻します。"
+"画面の上部に既にドッキングされているFencesグループは、この設定を適用するために手動で移動する必要があります。これらのグループを画面の上部からドッキング解除するには、グループを端から引き離します。これを行うと、グループのタイトルバーは下に表示されなくなります。"
 
 msgid "Settings"
 msgstr "設定"
@@ -2765,7 +2792,7 @@ msgid "This will create a package of your current Fences settings, Fences error 
 msgstr "これにより、現在のFencesの設定、Fencesエラーログ、Fencesのレイアウトバックアップ、そしてFencesクラッシュキャプチャのパッケージが作成され、それをテクニカルサポートにアップロードすることができます。"
 
 msgid "This will reset {0} to its default factory settings. Continue?"
-msgstr "これはFencesをデフォルトの工場設定にリセットします。続けますか？"
+msgstr "これは{0}をデフォルトの工場設定にリセットします。続けますか？"
 
 msgid "Tilde"
 msgstr "時間"
@@ -2799,6 +2826,9 @@ msgstr "特定のFencesの外観を調整するには、上の「すべてのグ
 
 msgid "To adjust the appearance of a particular Fence, visit the \"Customize\" area of Fences' settings. Once there, choose a Fence from the dropdown and edit its color settings using the usual controls."
 msgstr "Fenceの見た目を調節するには、Fencesの設定の「カスタマイズ」エリアへアクセスします。そこで、ドロップダウンからFenceを選択し、通常のコントロールを使用して色の設定を編集してください。"
+
+msgid "To auto-refresh search results, this folder must be indexed by Windows Search. Would you like to add %s to the Windows Search index now?"
+msgstr "検索結果を自動更新するには、このフォルダーをWindows検索にインデックスする必要があります。%sをWindows検索インデックスに追加しますか？"
 
 msgid "To change the order of icons in a Folder Portal, right click the view and choose from the \"Sort by\" menu."
 msgstr "Folder Portalのアイコンの順序を変更するには、ビューを右クリックして「並べ替え」メニューから選択します。"
@@ -2881,6 +2911,9 @@ msgstr "ソートをオフにしますか？"
 msgid "Type-based rules"
 msgstr "タイプベースのルール"
 
+msgid "Unable to add folder to Windows Search. Try adding manually to enable auto-refreshed results in search."
+msgstr "フォルダーをWindows検索に追加できませんでした。手動で追加して、検索結果の自動更新を有効にしてください。"
+
 msgid "Unable to create folder. Please try again."
 msgstr "フォルダを作成できません。もう一度お試しください。"
 
@@ -2941,6 +2974,9 @@ msgstr "この設定の使用は、一つのモニターシステムに限定す
 msgid "Use same spacing inside and outside of Fence groups"
 msgstr "フェンスグループの内部と外部で同じスペーシングを使用します"
 
+msgid "Use search term as title"
+msgstr "検索語句をタイトルとして使用"
+
 msgid "Use system accent color"
 msgstr "システムアクセント色を使用する"
 
@@ -2990,7 +3026,7 @@ msgid "Version "
 msgstr "バージョン"
 
 msgid "Version {0}"
-msgstr "バージョン [0］"
+msgstr "バージョン {0}"
 
 msgid "Vertical"
 msgstr "縦"
@@ -3033,7 +3069,7 @@ msgstr ""
 "続けますか？"
 
 msgid "WARNING: Fences was recently uninstalled. It is HIGHLY RECOMMENDED that you reboot before re-installing Fences, or Fences may not load properly."
-msgstr "'警告: Fences は最近アンインストールされました。 Fences を再インストールする前にリブートすることを強くお勧めします。そうしないと、Fences が正常に読み込まない可能性があります。'"
+msgstr "警告: Fences は最近アンインストールされました。 Fences を再インストールする前にリブートすることを強くお勧めします。そうしないと、Fences が正常に読み込まない可能性があります。"
 
 msgid ""
 "Warning: you have selected to condense your desktop to less screens than you are currently using. Icons will be moved to your current desktop as needed.\n"
@@ -3168,7 +3204,7 @@ msgstr ""
 "このルールを無効にしますか？"
 
 msgid "%s is unavailable in classic mode and may display improperly."
-msgstr "'%sはクラシックモードでは使用できず、正しく表示されない可能性があります。'"
+msgstr "%sはクラシックモードでは使用できず、正しく表示されない可能性があります。"
 
 msgid "&View"
 msgstr "&ビュー"
@@ -3183,16 +3219,16 @@ msgid "(Or link to your forum post with problem details.)"
 msgstr "（または問題の詳細が書かれたフォーラムの投稿へのリンクを示してください。）"
 
 msgid "(Recommended for advanced users)"
-msgstr "'推奨される上級ユーザー'"
+msgstr "(推奨される上級ユーザー)"
 
 msgid "(recommended)"
 msgstr "(推奨)"
 
 msgid "(Select a criteria type)"
-msgstr "'(選択してください)'"
+msgstr "(選択してください)"
 
 msgid "(Untitled Fence with %i icons)"
-msgstr "'(タイトルなしFence %i個のアイコンと共に)'"
+msgstr "(タイトルなしFence %i個のアイコンと共に)"
 
 msgid "* Header bar will still show for Folder Portals and tab groups upon mouseover"
 msgstr "* マウスオーバー時に、Folder Portalsおよびタブグループのヘッダーバーは依然として表示されます"
@@ -3243,10 +3279,10 @@ msgid "{0} are Trademarks of {1}."
 msgstr "{0}は{1}の商標です。"
 
 msgid "{0} days left in your free trial"
-msgstr "あなたの試用期間残りFences日"
+msgstr "あなたの試用期間残り{0}日"
 
 msgid "{0} days remain before deactivation"
-msgstr "Fences日後に無効化"
+msgstr "{0}日後に無効化"
 
 msgid "{0} is a Registered Trademark of {1}."
 msgstr "{0}は{1}の登録商標です。"
