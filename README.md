@@ -61,7 +61,7 @@ As you did for the individual files, you can write more details about any change
 When complete, we are automatically notified. Once reviewed, we will communicate with you (via GitHub and its email notification system) if we have any questions and either accept or deny the pull. If accepted, you will be credited in the changelog for any application release. 
 
 ### Adding a new language file
-The en (English) file can be used as a template for all new language files.  
+The en (British English) file can be used as a template for all new language files. All submitted languages need to match the line count in the English file (no extra comments, etc).  If something is missing in the en.lng file, PLEASE let us know via a submission. 
 
 On your local PC, in the directory where the lang file is stored, copy the en.lng file and immediately paste it in the same directory - creating a 'copy' of it.  Rename it to the [ISO 639-1 Cod](https://www.loc.gov/standards/iso639-2/php/code_list.php) formatted lng file (example de.lng for German).  You can then test that your edits fit in the App UI.
 
