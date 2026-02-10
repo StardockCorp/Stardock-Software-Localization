@@ -933,3 +933,19 @@ Exist=1
 "See installed printers and add new ones."="Просмотрите установленные принтеры и добавьте новые."
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Выберите программы по умолчанию для просмотра веб-страниц, электронной почты, воспроизведения музыки и других действий."
 "Opens a program, folder, document or web site."="Открывает программу, папку, документ или веб-сайт."
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
+"Flow Large"="ÐŸÐ¾Ñ‚Ð¾Ðº Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
+"Reflow Large"="ÐŸÐµÑ€ÐµÐºÐ¾Ð¼Ð¿Ð¾Ð½Ð¾Ð²ÐºÐ° Ð±Ð¾Ð»ÑŒÑˆÐ°Ñ"
+"Sonar Large"="Ð¡Ð¾Ð½Ð°Ñ€ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
+"Music folder"="ÐŸÐ°Ð¿ÐºÐ° ÐœÑƒÐ·Ñ‹ÐºÐ°"
+"Pictures folder"="ÐŸÐ°Ð¿ÐºÐ° Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ"
+"Videos folder"="ÐŸÐ°Ð¿ÐºÐ° Ð’Ð¸Ð´ÐµÐ¾"
+"Documents folder"="ÐŸÐ°Ð¿ÐºÐ° Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹"
+"Windows-Tools"="Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Windows"
+"Pin to Start menu"="Ð—Ð°ÐºÑ€ÐµÐ¿Ð¸Ñ‚ÑŒ Ð² Ð¼ÐµÐ½ÑŽ ÐŸÑƒÑÐº"
+"Open &Task Manager"="ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ &Ð”Ð¸ÑÐ¿ÐµÑ‚Ñ‡ÐµÑ€ Ð·Ð°Ð´Ð°Ñ‡"
+"All Fences"="Ð’ÑÐµ Fences"

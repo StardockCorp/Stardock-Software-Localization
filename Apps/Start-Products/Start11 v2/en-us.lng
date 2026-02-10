@@ -933,3 +933,19 @@ Exist=1
 "See installed printers and add new ones."="See installed printers and add new ones."
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="Element Large"
+"Flow Large"="Flow Large"
+"Reflow Large"="Reflow Large"
+"Sonar Large"="Sonar Large"
+"Music folder"="Music folder"
+"Pictures folder"="Pictures folder"
+"Videos folder"="Videos folder"
+"Documents folder"="Documents folder"
+"Windows-Tools"="Windows-Tools"
+"Pin to Start menu"="Pin to Start menu"
+"Open &Task Manager"="Open &Task Manager"
+"All Fences"="All Fences"

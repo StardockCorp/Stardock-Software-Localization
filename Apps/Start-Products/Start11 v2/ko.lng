@@ -933,3 +933,19 @@ Exist=1
 "See installed printers and add new ones."="설치된 프린터를 보고 새 프린터를 추가합니다."
 "Choose default programs for web browsing, e-mail, playing music and other activities."="웹 브라우징, 이메일, 음악 재생 및 기타 활동을 위한 기본 프로그램을 선택합니다."
 "Opens a program, folder, document or web site."="프로그램, 폴더, 문서 또는 웹사이트를 엽니다."
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="ì—˜ë¦¬ë¨¼íŠ¸ ëŒ€í˜•"
+"Flow Large"="í”Œë¡œìš° ëŒ€í˜•"
+"Reflow Large"="ë¦¬í”Œë¡œìš° ëŒ€í˜•"
+"Sonar Large"="ì†Œë‚˜ ëŒ€í˜•"
+"Music folder"="ìŒì•… í´ë”"
+"Pictures folder"="ì‚¬ì§„ í´ë”"
+"Videos folder"="ë¹„ë””ì˜¤ í´ë”"
+"Documents folder"="ë¬¸ì„œ í´ë”"
+"Windows-Tools"="Windows ë„êµ¬"
+"Pin to Start menu"="ì‹œìž‘ ë©”ë‰´ì— ê³ ì •"
+"Open &Task Manager"="ìž‘ì—… ê´€ë¦¬ìž ì—´ê¸°(&T)"
+"All Fences"="ëª¨ë“  Fences"

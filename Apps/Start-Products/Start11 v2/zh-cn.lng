@@ -933,3 +933,19 @@ Exist=1
 "See installed printers and add new ones."="查看已安装的打印机并添加新打印机。"
 "Choose default programs for web browsing, e-mail, playing music and other activities."="选择用于网页浏览、电子邮件、播放音乐和其他活动的默认程序。"
 "Opens a program, folder, document or web site."="打开程序、文件夹、文档或网站。"
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="å…ƒç´  å¤§"
+"Flow Large"="æµåŠ¨ å¤§"
+"Reflow Large"="å›žæµ å¤§"
+"Sonar Large"="å£°çº³ å¤§"
+"Music folder"="éŸ³ä¹æ–‡ä»¶å¤¹"
+"Pictures folder"="å›¾ç‰‡æ–‡ä»¶å¤¹"
+"Videos folder"="è§†é¢‘æ–‡ä»¶å¤¹"
+"Documents folder"="æ–‡æ¡£æ–‡ä»¶å¤¹"
+"Windows-Tools"="Windows å·¥å…·"
+"Pin to Start menu"="å›ºå®šåˆ°å¼€å§‹èœå•"
+"Open &Task Manager"="æ‰“å¼€ä»»åŠ¡ç®¡ç†å™¨(&T)"
+"All Fences"="æ‰€æœ‰ Fences"

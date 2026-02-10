@@ -933,3 +933,19 @@ Exist=1
 "See installed printers and add new ones."="インストールされているプリンターを表示して、新しいプリンターを追加します。"
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Webブラウズ、電子メール、音楽の再生、その他のアクティビティの既定のプログラムを選択します。"
 "Opens a program, folder, document or web site."="プログラム、フォルダー、ドキュメント、またはWebサイトを開きます。"
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="ã‚¨ãƒ¬ãƒ¡ãƒ³ãƒˆ å¤§"
+"Flow Large"="ãƒ•ãƒ­ãƒ¼ å¤§"
+"Reflow Large"="ãƒªãƒ•ãƒ­ãƒ¼ å¤§"
+"Sonar Large"="ã‚½ãƒŠãƒ¼ å¤§"
+"Music folder"="ãƒŸãƒ¥ãƒ¼ã‚¸ãƒƒã‚¯ ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
+"Pictures folder"="ãƒ”ã‚¯ãƒãƒ£ ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
+"Videos folder"="ãƒ“ãƒ‡ã‚ª ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
+"Documents folder"="ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
+"Windows-Tools"="Windows ãƒ„ãƒ¼ãƒ«"
+"Pin to Start menu"="ã‚¹ã‚¿ãƒ¼ãƒˆ ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ãƒ”ãƒ³ç•™ã‚"
+"Open &Task Manager"="ã‚¿ã‚¹ã‚¯ ãƒžãƒãƒ¼ã‚¸ãƒ£ãƒ¼ã‚’é–‹ã(&T)"
+"All Fences"="ã™ã¹ã¦ã® Fences"

@@ -946,3 +946,19 @@ Exist=1
 
 ; Testing changes 01-09-26
 "&Show on Desktop"="&Desktopverknüpfung erstellen"
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="Element groÃŸ"
+"Flow Large"="Flow groÃŸ"
+"Reflow Large"="Reflow groÃŸ"
+"Sonar Large"="Sonar groÃŸ"
+"Music folder"="Musikordner"
+"Pictures folder"="Bilderordner"
+"Videos folder"="Videosordner"
+"Documents folder"="Dokumenteordner"
+"Windows-Tools"="Windows-Tools"
+"Pin to Start menu"="An StartmenÃ¼ anheften"
+"Open &Task Manager"="&Task-Manager Ã¶ffnen"
+"All Fences"="Alle Fences"

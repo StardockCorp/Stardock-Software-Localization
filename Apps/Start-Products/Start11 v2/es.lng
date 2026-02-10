@@ -933,3 +933,19 @@ Exist=1
 "See installed printers and add new ones."="Ver impresoras instaladas y agregar nuevas."
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Elegir programas predeterminados para navegación web, correo electrónico, reproducción de música y otras actividades."
 "Opens a program, folder, document or web site."="Abre un programa, carpeta, documento o sitio web."
+
+; ===========================================
+; System Commands (Missing Keys from thomas-k)
+; ===========================================
+"Element Large"="Elemento grande"
+"Flow Large"="Flujo grande"
+"Reflow Large"="Reflujo grande"
+"Sonar Large"="Sonar grande"
+"Music folder"="Carpeta de mÃºsica"
+"Pictures folder"="Carpeta de imÃ¡genes"
+"Videos folder"="Carpeta de vÃ­deos"
+"Documents folder"="Carpeta de documentos"
+"Windows-Tools"="Herramientas de Windows"
+"Pin to Start menu"="Anclar al menÃº Inicio"
+"Open &Task Manager"="Abrir &Administrador de tareas"
+"All Fences"="Todos los Fences"
