@@ -896,7 +896,7 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="- エクスプローラー"
-"Icon size :"="アイコンサイズ："
+"Icon size : "="アイコンサイズ : "
 "Button width :"="ボタン幅："
 "Button height :"="ボタン高さ："
 "Colour"="色"
@@ -934,18 +934,31 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Webブラウズ、電子メール、音楽の再生、その他のアクティビティの既定のプログラムを選択します。"
 "Opens a program, folder, document or web site."="プログラム、フォルダー、ドキュメント、またはWebサイトを開きます。"
 
+; Testing changes for German test 1-7-2026
+"Change account settings"="アカウント設定を変更"
+"Pick custom tile image..."="カスタムタイル画像を選択..."
+
+;Added for 2.6.0.2
+"Your administrator has locked down the Start11 settings."="管理者が Start11 設定をロックしました。"
+"Please contact them for assistance in making changes."="変更のサポートについては、管理者にお問い合わせください。"
+"Settings locked"="設定がロックされています"
+"WARNING : It seems to contain additional entries which may not be safe."="警告：安全でない可能性のある追加エントリが含まれているようです。"
+
+; Testing changes 01-09-26
+"&Show on Desktop"="&デスクトップショートカットを作成"
+
 ; ===========================================
 ; System Commands (Missing Keys from thomas-k)
 ; ===========================================
-"Element Large"="ã‚¨ãƒ¬ãƒ¡ãƒ³ãƒˆ å¤§"
-"Flow Large"="ãƒ•ãƒ­ãƒ¼ å¤§"
-"Reflow Large"="ãƒªãƒ•ãƒ­ãƒ¼ å¤§"
-"Sonar Large"="ã‚½ãƒŠãƒ¼ å¤§"
-"Music folder"="ãƒŸãƒ¥ãƒ¼ã‚¸ãƒƒã‚¯ ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
-"Pictures folder"="ãƒ”ã‚¯ãƒãƒ£ ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
-"Videos folder"="ãƒ“ãƒ‡ã‚ª ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
-"Documents folder"="ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼"
-"Windows-Tools"="Windows ãƒ„ãƒ¼ãƒ«"
-"Pin to Start menu"="ã‚¹ã‚¿ãƒ¼ãƒˆ ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ãƒ”ãƒ³ç•™ã‚"
-"Open &Task Manager"="ã‚¿ã‚¹ã‚¯ ãƒžãƒãƒ¼ã‚¸ãƒ£ãƒ¼ã‚’é–‹ã(&T)"
-"All Fences"="ã™ã¹ã¦ã® Fences"
+"Element Large"="エレメント 大"
+"Flow Large"="フロー 大"
+"Reflow Large"="リフロー 大"
+"Sonar Large"="ソナー 大"
+"Music folder"="ミュージック フォルダー"
+"Pictures folder"="ピクチャ フォルダー"
+"Videos folder"="ビデオ フォルダー"
+"Documents folder"="ドキュメント フォルダー"
+"Windows-Tools"="Windows ツール"
+"Pin to Start menu"="スタート メニューにピン留め"
+"Open &Task Manager"="タスク マネージャーを開く(&T)"
+"All Fences"="すべての Fences"

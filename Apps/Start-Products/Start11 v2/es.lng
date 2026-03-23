@@ -896,7 +896,7 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="- Explorador de archivos"
-"Icon size :"="Tamaño de icono :"
+"Icon size : "="Tamaño del icono : "
 "Button width :"="Ancho de botón :"
 "Button height :"="Alto de botón :"
 "Colour"="Color"
@@ -934,6 +934,19 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Elegir programas predeterminados para navegación web, correo electrónico, reproducción de música y otras actividades."
 "Opens a program, folder, document or web site."="Abre un programa, carpeta, documento o sitio web."
 
+; Testing changes for German test 1-7-2026
+"Change account settings"="Cambiar configuración de cuenta"
+"Pick custom tile image..."="Elegir imagen de mosaico personalizada..."
+
+;Added for 2.6.0.2
+"Your administrator has locked down the Start11 settings."="Su administrador ha bloqueado la configuración de Start11."
+"Please contact them for assistance in making changes."="Póngase en contacto con ellos para obtener ayuda para realizar cambios."
+"Settings locked"="Configuración bloqueada"
+"WARNING : It seems to contain additional entries which may not be safe."="ADVERTENCIA: Parece contener entradas adicionales que pueden no ser seguras."
+
+; Testing changes 01-09-26
+"&Show on Desktop"="&Crear acceso directo en escritorio"
+
 ; ===========================================
 ; System Commands (Missing Keys from thomas-k)
 ; ===========================================
@@ -941,11 +954,11 @@ Exist=1
 "Flow Large"="Flujo grande"
 "Reflow Large"="Reflujo grande"
 "Sonar Large"="Sonar grande"
-"Music folder"="Carpeta de mÃºsica"
-"Pictures folder"="Carpeta de imÃ¡genes"
-"Videos folder"="Carpeta de vÃ­deos"
+"Music folder"="Carpeta de música"
+"Pictures folder"="Carpeta de imágenes"
+"Videos folder"="Carpeta de vídeos"
 "Documents folder"="Carpeta de documentos"
 "Windows-Tools"="Herramientas de Windows"
-"Pin to Start menu"="Anclar al menÃº Inicio"
+"Pin to Start menu"="Anclar al menú Inicio"
 "Open &Task Manager"="Abrir &Administrador de tareas"
 "All Fences"="Todos los Fences"

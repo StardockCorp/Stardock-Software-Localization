@@ -896,7 +896,7 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="- File Explorer"
-"Icon size :"="Icon size :"
+"Icon size : "="Icon size :"
 "Button width :"="Button width :"
 "Button height :"="Button height :"
 "Colour"="Color"
@@ -933,6 +933,19 @@ Exist=1
 "See installed printers and add new ones."="See installed printers and add new ones."
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
+
+; Testing changes for German test 1-7-2026
+"Change account settings"="Change account settings"
+"Pick custom tile image..."="Pick custom tile image..."
+
+;Added for 2.6.0.2
+"Your administrator has locked down the Start11 settings."="Your administrator has locked down the Start11 settings."
+"Please contact them for assistance in making changes."="Please contact them for assistance in making changes."
+"Settings locked"="Settings locked"
+"WARNING : It seems to contain additional entries which may not be safe."="WARNING : It seems to contain additional entries which may not be safe."
+
+; Testing changes 01-09-26
+"&Show on Desktop"="&Show on Desktop"
 
 ; ===========================================
 ; System Commands (Missing Keys from thomas-k)

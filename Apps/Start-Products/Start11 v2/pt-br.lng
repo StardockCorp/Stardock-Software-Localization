@@ -896,7 +896,7 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="– Explorador de Arquivos"
-"Icon size :"="Tamanho do ícone:"
+"Icon size : "="Tamanho do ícone : "
 "Button width :"="Largura do botão:"
 "Button height :"="Altura do botão:"
 "Colour"="Cor"
@@ -934,6 +934,19 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Escolha programas padrão para navegação na web, e-mail, reprodução de música e outras atividades."
 "Opens a program, folder, document or web site."="Abre um programa, pasta, documento ou site."
 
+; Testing changes for German test 1-7-2026
+"Change account settings"="Alterar configurações da conta"
+"Pick custom tile image..."="Escolher imagem de bloco personalizada..."
+
+;Added for 2.6.0.2
+"Your administrator has locked down the Start11 settings."="Seu administrador bloqueou as configurações do Start11."
+"Please contact them for assistance in making changes."="Entre em contato com eles para obter ajuda para fazer alterações."
+"Settings locked"="Configurações bloqueadas"
+"WARNING : It seems to contain additional entries which may not be safe."="AVISO: Parece conter entradas adicionais que podem não ser seguras."
+
+; Testing changes 01-09-26
+"&Show on Desktop"="&Criar atalho na área de trabalho"
+
 ; ===========================================
 ; System Commands (Missing Keys from thomas-k)
 ; ===========================================
@@ -941,9 +954,9 @@ Exist=1
 "Flow Large"="Fluxo grande"
 "Reflow Large"="Refluxo grande"
 "Sonar Large"="Sonar grande"
-"Music folder"="Pasta de mÃºsicas"
+"Music folder"="Pasta de músicas"
 "Pictures folder"="Pasta de imagens"
-"Videos folder"="Pasta de vÃ­deos"
+"Videos folder"="Pasta de vídeos"
 "Documents folder"="Pasta de documentos"
 "Windows-Tools"="Ferramentas do Windows"
 "Pin to Start menu"="Fixar no menu Iniciar"

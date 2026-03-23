@@ -896,7 +896,7 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="- File Explorer"
-"Icon size :"="Размер значка:"
+"Icon size : "="Размер значка : "
 "Button width :"="Ширина кнопки:"
 "Button height :"="Высота кнопки:"
 "Colour"="Цвет"
@@ -934,18 +934,31 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Выберите программы по умолчанию для просмотра веб-страниц, электронной почты, воспроизведения музыки и других действий."
 "Opens a program, folder, document or web site."="Открывает программу, папку, документ или веб-сайт."
 
+; Testing changes for German test 1-7-2026
+"Change account settings"="Изменить параметры учетной записи"
+"Pick custom tile image..."="Выбрать пользовательское изображение плитки..."
+
+;Added for 2.6.0.2
+"Your administrator has locked down the Start11 settings."="Ваш администратор заблокировал настройки Start11."
+"Please contact them for assistance in making changes."="Пожалуйста, свяжитесь с ними для получения помощи в внесении изменений."
+"Settings locked"="Настройки заблокированы"
+"WARNING : It seems to contain additional entries which may not be safe."="ПРЕДУПРЕЖДЕНИЕ: Похоже, что он содержит дополнительные записи, которые могут быть небезопасными."
+
+; Testing changes 01-09-26
+"&Show on Desktop"="&Создать ярлык на рабочем столе"
+
 ; ===========================================
 ; System Commands (Missing Keys from thomas-k)
 ; ===========================================
-"Element Large"="Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
-"Flow Large"="ÐŸÐ¾Ñ‚Ð¾Ðº Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
-"Reflow Large"="ÐŸÐµÑ€ÐµÐºÐ¾Ð¼Ð¿Ð¾Ð½Ð¾Ð²ÐºÐ° Ð±Ð¾Ð»ÑŒÑˆÐ°Ñ"
-"Sonar Large"="Ð¡Ð¾Ð½Ð°Ñ€ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
-"Music folder"="ÐŸÐ°Ð¿ÐºÐ° ÐœÑƒÐ·Ñ‹ÐºÐ°"
-"Pictures folder"="ÐŸÐ°Ð¿ÐºÐ° Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ"
-"Videos folder"="ÐŸÐ°Ð¿ÐºÐ° Ð’Ð¸Ð´ÐµÐ¾"
-"Documents folder"="ÐŸÐ°Ð¿ÐºÐ° Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹"
-"Windows-Tools"="Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Windows"
-"Pin to Start menu"="Ð—Ð°ÐºÑ€ÐµÐ¿Ð¸Ñ‚ÑŒ Ð² Ð¼ÐµÐ½ÑŽ ÐŸÑƒÑÐº"
-"Open &Task Manager"="ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ &Ð”Ð¸ÑÐ¿ÐµÑ‚Ñ‡ÐµÑ€ Ð·Ð°Ð´Ð°Ñ‡"
-"All Fences"="Ð’ÑÐµ Fences"
+"Element Large"="Элемент большой"
+"Flow Large"="Поток большой"
+"Reflow Large"="Перекомпоновка большая"
+"Sonar Large"="Сонар большой"
+"Music folder"="Папка Музыка"
+"Pictures folder"="Папка Изображения"
+"Videos folder"="Папка Видео"
+"Documents folder"="Папка Документы"
+"Windows-Tools"="Инструменты Windows"
+"Pin to Start menu"="Закрепить в меню Пуск"
+"Open &Task Manager"="Открыть &Диспетчер задач"
+"All Fences"="Все Fences"

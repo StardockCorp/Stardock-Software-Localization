@@ -896,7 +896,7 @@ Exist=1
 
 ; Added to 2.49
 "- File Explorer"="- 파일 탐색기"
-"Icon size :"="아이콘 크기:"
+"Icon size : "="아이콘 크기 : "
 "Button width :"="버튼 너비:"
 "Button height :"="버튼 높이:"
 "Colour"="색상"
@@ -934,18 +934,31 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="웹 브라우징, 이메일, 음악 재생 및 기타 활동을 위한 기본 프로그램을 선택합니다."
 "Opens a program, folder, document or web site."="프로그램, 폴더, 문서 또는 웹사이트를 엽니다."
 
+; Testing changes for German test 1-7-2026
+"Change account settings"="계정 설정 변경"
+"Pick custom tile image..."="사용자 지정 타일 이미지 선택..."
+
+;Added for 2.6.0.2
+"Your administrator has locked down the Start11 settings."="관리자가 Start11 설정을 잠갔습니다."
+"Please contact them for assistance in making changes."="변경에 대한 도움을 받으려면 관리자에게 문의하십시오."
+"Settings locked"="설정 잠김"
+"WARNING : It seems to contain additional entries which may not be safe."="경고: 안전하지 않을 수 있는 추가 항목이 포함되어 있는 것 같습니다."
+
+; Testing changes 01-09-26
+"&Show on Desktop"="&바탕 화면 바로 가기 만들기"
+
 ; ===========================================
 ; System Commands (Missing Keys from thomas-k)
 ; ===========================================
-"Element Large"="ì—˜ë¦¬ë¨¼íŠ¸ ëŒ€í˜•"
-"Flow Large"="í”Œë¡œìš° ëŒ€í˜•"
-"Reflow Large"="ë¦¬í”Œë¡œìš° ëŒ€í˜•"
-"Sonar Large"="ì†Œë‚˜ ëŒ€í˜•"
-"Music folder"="ìŒì•… í´ë”"
-"Pictures folder"="ì‚¬ì§„ í´ë”"
-"Videos folder"="ë¹„ë””ì˜¤ í´ë”"
-"Documents folder"="ë¬¸ì„œ í´ë”"
-"Windows-Tools"="Windows ë„êµ¬"
-"Pin to Start menu"="ì‹œìž‘ ë©”ë‰´ì— ê³ ì •"
-"Open &Task Manager"="ìž‘ì—… ê´€ë¦¬ìž ì—´ê¸°(&T)"
-"All Fences"="ëª¨ë“  Fences"
+"Element Large"="엘리먼트 대형"
+"Flow Large"="플로우 대형"
+"Reflow Large"="리플로우 대형"
+"Sonar Large"="소나 대형"
+"Music folder"="음악 폴더"
+"Pictures folder"="사진 폴더"
+"Videos folder"="비디오 폴더"
+"Documents folder"="문서 폴더"
+"Windows-Tools"="Windows 도구"
+"Pin to Start menu"="시작 메뉴에 고정"
+"Open &Task Manager"="작업 관리자 열기(&T)"
+"All Fences"="모든 Fences"
