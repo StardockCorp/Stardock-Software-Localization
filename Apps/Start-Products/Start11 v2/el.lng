@@ -1,3 +1,6 @@
+[UI]
+Name="Greek"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 Configuration"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="Ανοίγει πατώντας το πλήκτρο Windows"
 "Pin Windows menu shortcut on Start11 menu"="Καρφιτσώστε τη συντόμευση μενού των Windows στο μενού Start11"
 "Off"="Ανενεργό"
-"OK"="Εντάξει"
+"OK"="Ok"
 "Centre aligned"="Στοίχιση στο κέντρο"
 "Left aligned"="Στοίχιση αριστερά"
 "How would you like your taskbar configured?"="Πως θα θέλατε να ρυθμιστεί η γραμμή εργασιών σας;"
@@ -423,7 +426,7 @@ Exist=1
 "Reset to default"="Επαναφορά στην προεπιλογή"
 "Run as administrator"="Εκτέλεση ως διαχειριστής"
 "Create shortcut on desktop"="Δημιουργία συντόμευσης στην επιφάνεια εργασίας"
-"Open file location"="Άνοιγμα θέσης αρχείου"
+"Open file location"="Open File Location"
 "Hide icon text"="Απόκρυψη κειμένου εικονιδίου"
 "Hide caption"="Απόκρυψη λεζάντας"
 "New page"="Νέα σελίδα"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Δείξε παράθυρα σε αλληλουχία"
 "Show windows stacked"="Δείξε παράθυρα στοιβαγμένα"
 
-;Start11v2
 "Display as a link"="Display as a link"
 "Display as a menu"="Display as a menu"
 "Taskbar pins"="Taskbar pins"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="or drag from the right hand side"
 "to move a group."="to move a group."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Προηγμένες επιλογές της γραμμής εργασιών"
 "Control advanced options."="Ελέγξτε τις προηγμένες επιλογές."
 "Start button visibility"="Ορατότητα κουμπιού έναρξης"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="Όλες οι εφαρμογές"
 "Autohide taskbar"="Autohide taskbar"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Reset to automatic"
 "Use old Start10® style search"="Use old Start10® style search"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Στοίχιση αριστερά (Πειραματικό - θα ενεργοποιήσει τη βελτιωμένη γραμμή εργασιών)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Στοίχιση δεξιά (Πειραματικό - θα ενεργοποιήσει τη βελτιωμένη γραμμή εργασιών)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Change account settings"
 "Pick custom tile image..."="Pick custom tile image..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Settings locked"
 "WARNING : It seems to contain additional entries which may not be safe."="WARNING : It seems to contain additional entries which may not be safe."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Show on Desktop"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Element Large"
 "Flow Large"="Flow Large"
 "Reflow Large"="Reflow Large"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="Pin to Start menu"
 "Open &Task Manager"="Open &Task Manager"
 "All Fences"="All Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Disable all taskbar features for compatibility with other taskbar mods"
+"This disables everything on this page as well as custom start button images."="This disables everything on this page as well as custom start button images."
+"Features disabled"="Features disabled"
+"Features enabled"="Features enabled"

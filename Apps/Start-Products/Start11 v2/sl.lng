@@ -1,3 +1,6 @@
+[UI]
+Name="Slovenian"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Nastavitve za Stardock Start11"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="Pritisk na tipko Windows odpre"
 "Pin Windows menu shortcut on Start11 menu"="Pripni bližnjice menija Windows v Start11 meni"
 "Off"="Izklopljeno"
-"OK"="V redu"
+"OK"="Ok"
 "Centre aligned"="Poravnava na sredino"
 "Left aligned"="Poravnava na levo"
 "How would you like your taskbar configured?"="Kakšne naj bodo nastavitve opravilne vrstice?"
@@ -423,7 +426,7 @@ Exist=1
 "Reset to default"="Ponastavi na privzeto"
 "Run as administrator"="Zaženi kot skrbnik"
 "Create shortcut on desktop"="Ustvari bližnjico na namizju"
-"Open file location"="Open file location"
+"Open file location"="Odpri mesto datoteke"
 "Hide icon text"="Skrij besedilo ikone"
 "Hide caption"="Skrij napis"
 "New page"="Nova stran"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Okna v kaskado"
 "Show windows stacked"="Pokaži okna drugo nad drugim"
 
-;Start11v2
 "Display as a link"="Display as a link"
 "Display as a menu"="Display as a menu"
 "Taskbar pins"="Taskbar pins"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="or drag from the right hand side"
 "to move a group."="to move a group."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Napredne možnosti opravilne vrstice"
 "Control advanced options."="Nastavitve naprednih možnosti."
 "Start button visibility"="Vidnost gumba Start"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="Vsi programi"
 "Autohide taskbar"="Autohide taskbar"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Reset to automatic"
 "Use old Start10® style search"="Use old Start10® style search"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Poravnaj levo (Eksperimentalno - omogoči izboljšano opravilno vrstico)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Poravnaj desno (Eksperimentalno - omogoči izboljšano opravilno vrstico)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Change account settings"
 "Pick custom tile image..."="Pick custom tile image..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Settings locked"
 "WARNING : It seems to contain additional entries which may not be safe."="WARNING : It seems to contain additional entries which may not be safe."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Show on Desktop"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Element Large"
 "Flow Large"="Flow Large"
 "Reflow Large"="Reflow Large"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="Pin to Start menu"
 "Open &Task Manager"="Open &Task Manager"
 "All Fences"="All Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Disable all taskbar features for compatibility with other taskbar mods"
+"This disables everything on this page as well as custom start button images."="This disables everything on this page as well as custom start button images."
+"Features disabled"="Features disabled"
+"Features enabled"="Features enabled"

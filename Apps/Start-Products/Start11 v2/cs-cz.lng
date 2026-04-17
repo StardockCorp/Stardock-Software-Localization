@@ -1,3 +1,6 @@
+[UI]
+Name="Czech"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Nastavení Stardock Start11®"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="Stisknutím klávesy Windows se otevře"
 "Pin Windows menu shortcut on Start11 menu"="Připnout zástupce nabídky Windows do nabídky Start11"
 "Off"="Vypnuto"
-"OK"="OK"
+"OK"="Ok"
 "Centre aligned"="Zarovnat na střed"
 "Left aligned"="Zarovnat doleva"
 "How would you like your taskbar configured?"="Jak byste chtěli, aby byl hlavní panel nastaven?"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Kaskádová windows"
 "Show windows stacked"="Zobrazit okna naskládaná na sobě"
 
-;Start11v2
 "Display as a link"="Zobrazit jako odkaz"
 "Display as a menu"="Zobrazit jako menu"
 "Taskbar pins"="Připnout na hlavní panel"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="nebo přetáhnout z pravé strany"
 "to move a group."="přesunout skupinu."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Rozšířené možnosti hlavního panelu"
 "Control advanced options."="Pokročilé možnosti ovládání."
 "Start button visibility"="Viditelnost tlačítka Start"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="All applications"
 "Autohide taskbar"="Autohide taskbar"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Reset to automatic"
 "Use old Start10® style search"="Use old Start10® style search"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Zarovnat vlevo (Experimentální - aktivuje rozšířený hlavní panel)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Zarovnat vpravo (Experimentální - aktivuje rozšířený hlavní panel)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Change account settings"
 "Pick custom tile image..."="Pick custom tile image..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Settings locked"
 "WARNING : It seems to contain additional entries which may not be safe."="WARNING : It seems to contain additional entries which may not be safe."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Show on Desktop"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Element Large"
 "Flow Large"="Flow Large"
 "Reflow Large"="Reflow Large"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="Pin to Start menu"
 "Open &Task Manager"="Open &Task Manager"
 "All Fences"="All Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Disable all taskbar features for compatibility with other taskbar mods"
+"This disables everything on this page as well as custom start button images."="This disables everything on this page as well as custom start button images."
+"Features disabled"="Features disabled"
+"Features enabled"="Features enabled"

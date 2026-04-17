@@ -1,3 +1,6 @@
+[UI]
+Name="German"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11: Konfiguration"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="Drücken der Windows-Taste öffnet:"
 "Pin Windows menu shortcut on Start11 menu"="Verknüpfung zum Windows-Menü im Start11-Menü anheften"
 "Off"="Aus"
-"OK"="OK"
+"OK"="Ok"
 "Centre aligned"="Zentriert"
 "Left aligned"="Linksbündig"
 "How would you like your taskbar configured?"="Wie möchten Sie Ihre Taskleiste konfigurieren?"
@@ -235,7 +238,7 @@ Exist=1
 "Windows Terminal"="Windows-Terminal"
 "Command Prompt"="Eingabeaufforderung"
 "Windows Update"="Windows-Update"
-"Windows Explorer"="Windows Explorer"
+"Windows Explorer"="Datei-Explorer"
 "Standard locations"="Standardspeicherorte"
 "Separator"="Trennzeichen"
 "Add custom location..."="Benutzerdefinierten Speicherort hinzufügen..."
@@ -436,7 +439,7 @@ Exist=1
 "Pinned"="Angeheftet"
 "Recent"="Zuletzt verwendet"
 "Frequent"="Häufig"
-"Tasks"="Tasks"
+"Tasks"="Aufgaben"
 "Files"="Dateien"
 "Best match"="Beste Übereinstimmung"
 "Tabs"="Tabs"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Überlappende Fenster"
 "Show windows stacked"="Fenster gestapelt anzeigen"
 
-;Start11v2
 "Display as a link"="Als Link anzeigen"
 "Display as a menu"="Als Menü anzeigen"
 "Taskbar pins"="Taskleistenelemente"
@@ -506,7 +508,7 @@ Exist=1
 "Clear all Start11 information for suggested apps and search history."="Löschen Sie alle Start11-Informationen für meistverwendete Apps und den Suchverlauf."
 "Are you sure?"="Sind Sie sicher?"
 "Are you sure you want to reset all your settings back to default?"="Sind Sie sicher, dass Sie alle Ihre Einstellungen auf die Standardeinstellungen zurücksetzen möchten?"
-"  "="As an AI, I need a specific text to translate from English to German. Please provide the text you want to be translated."
+"  "="  "
 "Open all apps list as a menu"=""Alle Programme" als Menü öffnen"
 "Show Desktop and Stardock Fences® folders"="Desktop und Stardock Fences®-Ordner anzeigen"
 "Show Desktop and Stardock Fences® folders in the all programs list"="Desktop und Stardock Fences®-Ordner in der Programmliste anzeigen"
@@ -623,7 +625,7 @@ Exist=1
 "Start6"="Start6"
 "Start7"="Start7"
 "Start8 Logo Large"="Start8 Logo – groß"
-"Start8 Logo"="Start8 Logo"
+"Start8 Logo"="Start8-Logo"
 "Start8"="Start8"
 "Triangle One"="Dreieck 1"
 "Triangle Two"="Dreieck 2"
@@ -854,13 +856,11 @@ Exist=1
 "Insert here"="Hier einfügen"
 "Drag to move this tab, or drag from"="Ziehen Sie diesen Tab, um ihn zu verschieben, oder ziehen Sie am"
 "Drag to another group or tabs to combine"="Ziehen Sie die Gruppe auf eine andere Gruppe oder einen anderen Tab,"
-"or drag from the right hand side\nto move a group."="or drag from the right hand side\nto move a group."
+"or drag from the right hand side\nto move a group."="oder ziehen Sie am rechten Bereich,\num eine Gruppe zu verschieben."
 "the non tabbed area to move all the tabs."="freien Bereich der Tableiste, um alle Tabs zu verschieben."
 "or drag from the right hand side"="um sie zu kombinieren, oder ziehen Sie am rechten Bereich,"
 "to move a group."="um die Gruppe zu verschieben."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Erweiterte Taskleistenoptionen"
 "Control advanced options."="Erweiterte Optionen festlegen."
 "Start button visibility"="Sichtbarkeit der Startschaltfläche"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="Alle Anwendungen"
 "Autohide taskbar"="Taskleiste automatisch ausblenden"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Auf automatisch zurücksetzen"
 "Use old Start10® style search"="Alte Start10®-Suchfunktion verwenden"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Links ausrichten (Experimentell - aktiviert erweiterte Taskleiste)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Rechts ausrichten (Experimentell - aktiviert erweiterte Taskleiste)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Standardprogramme für Webbrowsing, E-Mail, Musikwiedergabe und andere Aktivitäten auswählen."
 "Opens a program, folder, document or web site."="Öffnet ein Programm, einen Ordner, ein Dokument oder eine Website."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Kontoeinstellungen ändern"
 "Pick custom tile image..."="Benutzerdefiniertes Kachelbild auswählen..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Einstellungen gesperrt"
 "WARNING : It seems to contain additional entries which may not be safe."="WARNUNG: Es scheint zusätzliche Einträge zu enthalten, die möglicherweise nicht sicher sind."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Desktopverknüpfung erstellen"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Element groß"
 "Flow Large"="Flow groß"
 "Reflow Large"="Reflow groß"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="An Startmenü anheften"
 "Open &Task Manager"="&Task-Manager öffnen"
 "All Fences"="Alle Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Für die Kompatibilität mit anderen Taskleisten-Mods alle Taskleistenfunktionen deaktivieren"
+"This disables everything on this page as well as custom start button images."="Dadurch wird alles auf dieser Seite sowie benutzerdefinierte Startschaltflächenbilder deaktiviert."
+"Features disabled"="Funktionen deaktiviert"
+"Features enabled"="Funktionen aktiviert"

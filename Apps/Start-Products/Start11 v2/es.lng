@@ -1,3 +1,6 @@
+[UI]
+Name="Spanish"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Configuración de Stardock Start11"
@@ -423,7 +426,7 @@ Exist=1
 "Reset to default"="Restablecer por defecto"
 "Run as administrator"="Ejecutar como administrador"
 "Create shortcut on desktop"="Crear acceso directo en el escritorio"
-"Open file location"="Abrir ubicación del archivo"
+"Open file location"="Abrir Ubicación de Archivo"
 "Hide icon text"="Ocultar texto del icono"
 "Hide caption"="Ocultar nombre"
 "New page"="Nueva página"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Mostrar ventanas en cascada"
 "Show windows stacked"="Mostrar ventanas apiladas"
 
-;Start11v2
 "Display as a link"="Mostrar como un enlace"
 "Display as a menu"="Mostrar como un menú"
 "Taskbar pins"="Anclajes de la barra de tareas"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="o arrastra desde el lado derecho"
 "to move a group."="mover a un grupo."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Opciones avanzadas de la barra de tareas"
 "Control advanced options."="Controla las opciones avanzadas."
 "Start button visibility"="Visibilidad del botón de inicio"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="Todas las aplicaciones"
 "Autohide taskbar"="Ocultar barra automática"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Restablecer a automático"
 "Use old Start10® style search"="Usar búsqueda de estilo Start10® antiguo"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Alinear a la izquierda (Experimental - activará la barra de tareas mejorada)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Alinear a la derecha (Experimental - activará la barra de tareas mejorada)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Elegir programas predeterminados para navegación web, correo electrónico, reproducción de música y otras actividades."
 "Opens a program, folder, document or web site."="Abre un programa, carpeta, documento o sitio web."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Cambiar configuración de cuenta"
 "Pick custom tile image..."="Elegir imagen de mosaico personalizada..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Configuración bloqueada"
 "WARNING : It seems to contain additional entries which may not be safe."="ADVERTENCIA: Parece contener entradas adicionales que pueden no ser seguras."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Crear acceso directo en escritorio"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Elemento grande"
 "Flow Large"="Flujo grande"
 "Reflow Large"="Reflujo grande"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="Anclar al menú Inicio"
 "Open &Task Manager"="Abrir &Administrador de tareas"
 "All Fences"="Todos los Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Desactivar todas las funciones de la barra de tareas para compatibilidad con otras modificaciones de la barra de tareas"
+"This disables everything on this page as well as custom start button images."="Esto desactiva todo en esta página, así como las imágenes personalizadas del botón Inicio."
+"Features disabled"="Funciones desactivadas"
+"Features enabled"="Funciones activadas"

@@ -1,3 +1,6 @@
+[UI]
+Name="Portuguese"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Configurações do Stardock Start11"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="Pressionar a tecla do Windows abre"
 "Pin Windows menu shortcut on Start11 menu"="Fixar o atalho do menu do Windows no menu Start11"
 "Off"="Desligado"
-"OK"="OK"
+"OK"="Ok"
 "Centre aligned"="Alinhado ao centro"
 "Left aligned"="Alinhado à esquerda"
 "How would you like your taskbar configured?"="Como gostaria de configurar a sua barra de tarefas?"
@@ -423,7 +426,7 @@ Exist=1
 "Reset to default"="Restaurar po defeito"
 "Run as administrator"="Executar como administrador"
 "Create shortcut on desktop"="Criar atalho na área de trabalho"
-"Open file location"="Abrir a localização do ficheiro"
+"Open file location"="Abrir a Localização do Ficheiro"
 "Hide icon text"="Ocultar ícone de texto"
 "Hide caption"="Ocultar legenda"
 "New page"="Nova página"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Janelas em cascata"
 "Show windows stacked"="Mostrar janelas sobrepostas"
 
-;Start11v2
 "Display as a link"="Mostrar como uma hiperligação"
 "Display as a menu"="Mostrar como um menu"
 "Taskbar pins"="Barra Fixadores"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="ou arrastar a partir do lado direito"
 "to move a group."="para mover um grupo."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Opções avançadas da barra de tarefas"
 "Control advanced options."="Controlar opções avançadas."
 "Start button visibility"="Visibilidade do botão Iniciar"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="All applications"
 "Autohide taskbar"="Autohide taskbar"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Reset to automatic"
 "Use old Start10® style search"="Use old Start10® style search"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Alinhar à esquerda (Experimental - ativará a barra de tarefas avançada)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Alinhar à direita (Experimental - ativará a barra de tarefas avançada)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Change account settings"
 "Pick custom tile image..."="Pick custom tile image..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Settings locked"
 "WARNING : It seems to contain additional entries which may not be safe."="WARNING : It seems to contain additional entries which may not be safe."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Show on Desktop"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Element Large"
 "Flow Large"="Flow Large"
 "Reflow Large"="Reflow Large"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="Pin to Start menu"
 "Open &Task Manager"="Open &Task Manager"
 "All Fences"="All Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Disable all taskbar features for compatibility with other taskbar mods"
+"This disables everything on this page as well as custom start button images."="This disables everything on this page as well as custom start button images."
+"Features disabled"="Features disabled"
+"Features enabled"="Features enabled"

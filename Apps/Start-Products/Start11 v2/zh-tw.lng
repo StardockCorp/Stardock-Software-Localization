@@ -1,3 +1,6 @@
+[UI]
+Name="Chinese (Traditional)"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 配置"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="按下 Windows 鍵開啟"
 "Pin Windows menu shortcut on Start11 menu"="釘選 Windows 功能表捷徑到 Start11 功能表上"
 "Off"="離開"
-"OK"="OK"
+"OK"="確定"
 "Centre aligned"="置中對齊"
 "Left aligned"="向左對齊"
 "How would you like your taskbar configured?"="您希望如何配置工作列？"
@@ -423,7 +426,7 @@ Exist=1
 "Reset to default"="重設為預設值"
 "Run as administrator"="以管理員身份執行"
 "Create shortcut on desktop"="在桌面上建立捷徑"
-"Open file location"="開啟檔案所在位置"
+"Open file location"="打開檔案位置"
 "Hide icon text"="隱藏圖示文字"
 "Hide caption"="隱藏標題"
 "New page"="新頁面"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="重疊顯示視窗"
 "Show windows stacked"="堆疊顯示視窗"
 
-;Start11v2
 "Display as a link"="顯示為連結"
 "Display as a menu"="顯示為菜單"
 "Taskbar pins"="工作列釘選項"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="或從右手邊拖曳"
 "to move a group."="移動一個群體。"
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="進階任務欄選項"
 "Control advanced options."="控制進階選項。"
 "Start button visibility"="開始按鈕可見性"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="所有應用程式"
 "Autohide taskbar"="自動隱藏工作列"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="重設為自動"
 "Use old Start10® style search"="使用舊的 Start10® 樣式搜尋"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="靠左對齊（實驗性 - 將啟用增強工作列）"
 "Align Right (Experimental - will enable enhanced taskbar)"="靠右對齊（實驗性 - 將啟用增強工作列）"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="選擇用於網頁瀏覽、電子郵件、播放音樂和其他活動的預設程式。"
 "Opens a program, folder, document or web site."="開啟程式、資料夾、文件或網站。"
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="變更帳戶設定"
 "Pick custom tile image..."="選擇自訂磚圖像..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="設定已鎖定"
 "WARNING : It seems to contain additional entries which may not be safe."="警告：它似乎包含可能不安全的其他項目。"
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&建立桌面捷徑"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="元素 大"
 "Flow Large"="流動 大"
 "Reflow Large"="回流 大"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="釘選到開始功能表"
 "Open &Task Manager"="開啟工作管理員(&T)"
 "All Fences"="所有 Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="為了與其他工作列模組相容，停用所有工作列功能"
+"This disables everything on this page as well as custom start button images."="這會停用此頁面上的所有功能，以及自訂開始按鈕影像。"
+"Features disabled"="功能已停用"
+"Features enabled"="功能已啟用"

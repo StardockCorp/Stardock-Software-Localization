@@ -1,3 +1,6 @@
+[UI]
+Name="Polish"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Konfiguracja Stardock Start11"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="Naciśnięcie klawisza Windows otwiera"
 "Pin Windows menu shortcut on Start11 menu"="Przypnij skrót menu Windows do menu Start11"
 "Off"="Wyłączone"
-"OK"="OK"
+"OK"="Ok"
 "Centre aligned"="Wyśrodkowane"
 "Left aligned"="Wyrównane do lewej"
 "How would you like your taskbar configured?"="Jak chcesz skonfigurować pasek zadań?"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="Okna kaskadowo"
 "Show windows stacked"="Pokaż okna ułożone jedno na drugim"
 
-;Start11v2
 "Display as a link"="Wyświetl jako łącze"
 "Display as a menu"="Wyświetl jako menu"
 "Taskbar pins"="Przypięcia na pasku zadań"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="lub przeciągnij z prawej strony"
 "to move a group."="aby przenieść grupę."
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="Zaawansowane opcje paska zadań"
 "Control advanced options."="Kontroluj zaawansowane opcje."
 "Start button visibility"="Widoczność przycisku Start"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="Wszystkie aplikacje"
 "Autohide taskbar"="Automatyczne chowanie paska zadań"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="Resetuj do automatycznego"
 "Use old Start10® style search"="Użyj starego wyszukiwania w stylu Start10®"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="Wyrównaj do lewej (Eksperymentalne - włączy rozszerzone paski zadań)"
 "Align Right (Experimental - will enable enhanced taskbar)"="Wyrównaj do prawej (Eksperymentalne - włączy rozszerzone paski zadań)"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="Choose default programs for web browsing, e-mail, playing music and other activities."
 "Opens a program, folder, document or web site."="Opens a program, folder, document or web site."
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="Change account settings"
 "Pick custom tile image..."="Pick custom tile image..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="Settings locked"
 "WARNING : It seems to contain additional entries which may not be safe."="WARNING : It seems to contain additional entries which may not be safe."
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&Show on Desktop"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="Element Large"
 "Flow Large"="Flow Large"
 "Reflow Large"="Reflow Large"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="Pin to Start menu"
 "Open &Task Manager"="Open &Task Manager"
 "All Fences"="All Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="Disable all taskbar features for compatibility with other taskbar mods"
+"This disables everything on this page as well as custom start button images."="This disables everything on this page as well as custom start button images."
+"Features disabled"="Features disabled"
+"Features enabled"="Features enabled"

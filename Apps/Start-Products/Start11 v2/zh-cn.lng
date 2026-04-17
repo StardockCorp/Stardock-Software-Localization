@@ -1,3 +1,6 @@
+[UI]
+Name="Chinese (Simplified)"
+
 [Strings]
 Exist=1
 "Stardock Start11 Configuration"="Stardock Start11 配置"
@@ -80,7 +83,7 @@ Exist=1
 "Pressing the Windows key opens"="按下 Windows 键将打开"
 "Pin Windows menu shortcut on Start11 menu"="将 Windows 菜单的快捷方式固定至 Start11 菜单上"
 "Off"="关"
-"OK"="好的"
+"OK"="确定"
 "Centre aligned"="居中对齐"
 "Left aligned"="左对齐"
 "How would you like your taskbar configured?"="你希望如何配置你的任务栏？"
@@ -474,7 +477,6 @@ Exist=1
 "Cascade windows"="层叠窗口"
 "Show windows stacked"="以堆叠方式显示窗口"
 
-;Start11v2
 "Display as a link"="显示为链接"
 "Display as a menu"="作为菜单显示"
 "Taskbar pins"="任务栏固定项"
@@ -859,8 +861,6 @@ Exist=1
 "or drag from the right hand side"="或者从右手边拖动"
 "to move a group."="移动一个群组。"
 
-;Not included in UI dump
-;11/09/2023 Sean Drohan
 "Advanced taskbar options"="高级任务栏选项"
 "Control advanced options."="控制高级选项。"
 "Start button visibility"="开始按钮可见性"
@@ -909,11 +909,9 @@ Exist=1
 "All applications"="所有应用程序"
 "Autohide taskbar"="自动隐藏任务栏"
 
-;Missing items found 10/06/2025
 "Reset to automatic"="重置为自动"
 "Use old Start10® style search"="使用旧的 Start10® 样式搜索"
 
-;Missing 10/09/2025
 "Align Left (Experimental - will enable enhanced taskbar)"="靠左对齐（实验性 - 将启用增强任务栏）"
 "Align Right (Experimental - will enable enhanced taskbar)"="靠右对齐（实验性 - 将启用增强任务栏）"
 
@@ -934,7 +932,6 @@ Exist=1
 "Choose default programs for web browsing, e-mail, playing music and other activities."="选择用于网页浏览、电子邮件、播放音乐和其他活动的默认程序。"
 "Opens a program, folder, document or web site."="打开程序、文件夹、文档或网站。"
 
-; Testing changes for German test 1-7-2026
 "Change account settings"="更改帐户设置"
 "Pick custom tile image..."="选择自定义磁贴图像..."
 
@@ -944,12 +941,8 @@ Exist=1
 "Settings locked"="设置已锁定"
 "WARNING : It seems to contain additional entries which may not be safe."="警告：它似乎包含可能不安全的其他条目。"
 
-; Testing changes 01-09-26
 "&Show on Desktop"="&创建桌面快捷方式"
 
-; ===========================================
-; System Commands (Missing Keys from thomas-k)
-; ===========================================
 "Element Large"="元素 大"
 "Flow Large"="流动 大"
 "Reflow Large"="回流 大"
@@ -962,3 +955,9 @@ Exist=1
 "Pin to Start menu"="固定到开始菜单"
 "Open &Task Manager"="打开任务管理器(&T)"
 "All Fences"="所有 Fences"
+
+; New in 2.7.0.2
+"Disable all taskbar features for compatibility with other taskbar mods"="为兼容其他任务栏修改工具，禁用所有任务栏功能"
+"This disables everything on this page as well as custom start button images."="这将禁用此页面上的所有功能以及自定义开始按钮图像。"
+"Features disabled"="功能已禁用"
+"Features enabled"="功能已启用"
