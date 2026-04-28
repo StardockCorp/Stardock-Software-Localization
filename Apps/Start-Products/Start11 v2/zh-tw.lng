@@ -961,3 +961,12 @@ Exist=1
 "This disables everything on this page as well as custom start button images."="這會停用此頁面上的所有功能，以及自訂開始按鈕影像。"
 "Features disabled"="功能已停用"
 "Features enabled"="功能已啟用"
+
+; New in 2.7.1.0
+"Automatic dark mode detection"="自動深色模式偵測"
+"Force dark mode menu"="強制深色模式選單"
+"Force light mode menu"="強制淺色模式選單"
+
+
+
+

@@ -961,3 +961,12 @@ Exist=1
 "This disables everything on this page as well as custom start button images."="Esto desactiva todo en esta página, así como las imágenes personalizadas del botón Inicio."
 "Features disabled"="Funciones desactivadas"
 "Features enabled"="Funciones activadas"
+
+; New in 2.7.1.0
+"Automatic dark mode detection"="Detección automática del modo oscuro"
+"Force dark mode menu"="Forzar menú en modo oscuro"
+"Force light mode menu"="Forzar menú en modo claro"
+
+
+
+

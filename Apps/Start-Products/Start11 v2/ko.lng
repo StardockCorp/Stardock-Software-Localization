@@ -961,3 +961,12 @@ Exist=1
 "This disables everything on this page as well as custom start button images."="이렇게 하면 사용자 지정 시작 버튼 이미지를 포함하여 이 페이지의 모든 기능이 비활성화됩니다."
 "Features disabled"="기능 비활성화됨"
 "Features enabled"="기능 활성화됨"
+
+; New in 2.7.1.0
+"Automatic dark mode detection"="자동 다크 모드 감지"
+"Force dark mode menu"="다크 모드 메뉴 강제 적용"
+"Force light mode menu"="라이트 모드 메뉴 강제 적용"
+
+
+
+

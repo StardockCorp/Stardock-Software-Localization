@@ -961,3 +961,12 @@ Exist=1
 "This disables everything on this page as well as custom start button images."="Это отключает всё на этой странице, а также пользовательские изображения кнопки «Пуск»."
 "Features disabled"="Функции отключены"
 "Features enabled"="Функции включены"
+
+; New in 2.7.1.0
+"Automatic dark mode detection"="Автоматическое определение тёмного режима"
+"Force dark mode menu"="Принудительное тёмное меню"
+"Force light mode menu"="Принудительное светлое меню"
+
+
+
+

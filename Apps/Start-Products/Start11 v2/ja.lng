@@ -961,3 +961,12 @@ Exist=1
 "This disables everything on this page as well as custom start button images."="これにより、このページのすべての機能とカスタムのスタートボタン画像が無効になります。"
 "Features disabled"="機能が無効"
 "Features enabled"="機能が有効"
+
+; New in 2.7.1.0
+"Automatic dark mode detection"="ダークモードの自動検出"
+"Force dark mode menu"="ダークモードメニューを強制"
+"Force light mode menu"="ライトモードメニューを強制"
+
+
+
+

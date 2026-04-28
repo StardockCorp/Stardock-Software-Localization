@@ -961,3 +961,12 @@ Exist=1
 "This disables everything on this page as well as custom start button images."="这将禁用此页面上的所有功能以及自定义开始按钮图像。"
 "Features disabled"="功能已禁用"
 "Features enabled"="功能已启用"
+
+; New in 2.7.1.0
+"Automatic dark mode detection"="自动深色模式检测"
+"Force dark mode menu"="强制深色模式菜单"
+"Force light mode menu"="强制浅色模式菜单"
+
+
+
+
