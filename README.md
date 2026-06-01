@@ -17,6 +17,7 @@ Stardock Software officially supports and maintains the following languages:
 -   Spanish
 -   French
 -   Korean
+-   Japanese
 -   Russian
 -   Portuguese - Brazil
 -   Chinese (Simplified)
